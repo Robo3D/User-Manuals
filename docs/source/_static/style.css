@@ -1,24 +1,54 @@
-.wy-side-nav-search {
-    background-color: #69B3E7;
+/* override table width restrictions */
+.wy-table-responsive table td, .wy-table-responsive table th {
+    /* !important prevents the common CSS stylesheets from
+       overriding this as on RTD they are loaded after this stylesheet */
+    white-space: normal !important;
 }
 
-.wy-nav-content {
-    padding: 1.618em 3.236em;
-    height: 100%;
-    max-width: 1050px;
-    margin: auto;
+.wy-table-responsive {
+    overflow: visible !important;
 }
 
-.wy-menu-vertical header, .wy-menu-vertical p.caption {
-    height: 32px;
+/* style headlink for code block captions like other headlinks */
+.code-block-caption .headerlink {
+    display: none;
+    visibility: hidden;
+    font-size: 14px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.code-block-caption:hover .headerlink {
     display: inline-block;
-    line-height: 32px;
-    padding: 0 1.618em;
-    margin-bottom: 0;
-    display: block;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 80%;
-    color: #7c878e;
-    white-space: nowrap;
+}
+
+.code-block-caption .headerlink:after {
+    visibility: visible;
+    content: "\f0c1";
+    font-family: FontAwesome;
+    display: inline-block;
+}
+
+/* make whitespace visualization in code listings not appear on same vertical position as dashes */
+.highlight .w {
+    vertical-align: 10%;
+}
+
+/* make code tags non-red again */
+code,
+.rst-content tt {
+    color: #000 !important;
+}
+
+a code,
+.rst-content a tt {
+    color: #2980B9 !important;
+}
+
+a:visited code,
+.rst-content a:visited tt {
+    color: #9B59B6 !important;
 }
