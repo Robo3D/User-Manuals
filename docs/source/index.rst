@@ -10,7 +10,10 @@ Demo Docs
 :Page Status: Incomplete
 :Last Reviewed: 2013-10-29
 
-###This page can be edited here: https://github.com/Robo3D/support.robo3d.com/edit/master/docs/source/index.rst
+
+This page can be edited here: 
+=========
+https://github.com/Robo3D/support.robo3d.com/edit/master/docs/source/index.rst
 
 
 Contents:
