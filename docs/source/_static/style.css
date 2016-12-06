@@ -21,6 +21,27 @@
     -webkit-font-smoothing: antialiased;
 }
 
+.wy-nav-content {
+    padding: 1.618em 3.236em;
+    height: 100%;
+    max-width: 1050px;
+    margin: auto;
+}
+
+.wy-side-nav-search {
+    display: block;
+    width: 300px;
+    padding: 0.809em;
+    margin-bottom: 0.809em;
+    z-index: 200;
+    background-color: #69B3E7;
+    text-align: center;
+    padding: 0.809em;
+    display: block;
+    color: #fcfcfc;
+    margin-bottom: 0.809em;
+}
+
 .code-block-caption:hover .headerlink {
     display: inline-block;
 }
