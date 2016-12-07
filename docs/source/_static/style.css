@@ -24,13 +24,13 @@
 .wy-nav-content {
     padding: 1.618em 3.236em;
     height: 100%;
-    max-width: 1050px;
+    max-width: 1600px;
     margin: auto;
 }
 
 .wy-side-nav-search {
     display: block;
-    width: 300px;
+    width: 400px;
     padding: 0.809em;
     margin-bottom: 0.809em;
     z-index: 200;
