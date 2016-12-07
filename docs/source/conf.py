@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Robo Support Site'
+project = u'Robo Support Documentation'
 copyright = u'2016, Robo'
 
 # The version info for the project you're documenting, acts as replacement for
