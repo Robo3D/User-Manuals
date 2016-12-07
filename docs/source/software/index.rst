@@ -9,11 +9,8 @@ Software
 
 RoboOS
 
-
 Cura
 
-
 Robo C2 touch screen
-
 
 Robo iOS app
