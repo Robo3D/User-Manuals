@@ -19,7 +19,6 @@ https://github.com/Robo3D/support.robo3d.com/edit/master/docs/source/index.rst
 Contents:
 
 .. toctree::
-   :maxdepth: 2
 
    getting-started/index.rst
    operation/index.rst
