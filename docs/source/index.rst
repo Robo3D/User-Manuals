@@ -21,14 +21,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   features/index.rst
-   configuration/index.rst
-   api/index.rst
-   events/index.rst
-   plugins/index.rst
-   modules/index.rst
-
-    long
-    api
+   getting-started/index.rst
+   operation/index.rst
+   software/index.rst
+   maintenance/index.rst
+   safety-compliance/index.rst
 
 
