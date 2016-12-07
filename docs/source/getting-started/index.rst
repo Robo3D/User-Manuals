@@ -22,12 +22,10 @@ Initial set-up
 Loading filament
 
 
-Calibration
-	Setting Z offset
+Calibration   Setting Z offset
 
 
 Connecting to Wi-Fi
 
 
 Test print
-
