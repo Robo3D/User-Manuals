@@ -7,4 +7,11 @@
 Operation
 =================================================
 
+NEED OPERATION TABLE OF CONTENTS
+
+
+Using print bed adhesion
+
+
+Removing prints
 
