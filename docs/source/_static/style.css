@@ -117,7 +117,7 @@ a:visited code,
     background-color: transparent;
 }
 
-.wy-menu-vertical li.current > a {
+.wy-menu-vertical li.current a {
     border: 0px;
     background-color: transparent;
     color: #69B3E7;
