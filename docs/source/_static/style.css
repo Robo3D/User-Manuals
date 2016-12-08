@@ -87,3 +87,27 @@ a:visited code,
 .rst-content a:visited tt {
     color: #9B59B6 !important;
 }
+
+/* change to centered layout rather than left justified */
+.wy-body-for-nav {
+    background-color: #f2f2f2;
+    background-image: none;
+}
+
+.wy-grid-for-nav {
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+}
+
+.wy-nav-side {
+    position: fixed;
+    background-color: transparent;
+    left: inherit;
+}
+
+.wy-nav-content-wrap {
+    -webkit-box-shadow: 0px 0px 4px 1px rgba(212,212,212,1);
+    -moz-box-shadow: 0px 0px 4px 1px rgba(212,212,212,1);
+    box-shadow: 0px 0px 4px 1px rgba(212,212,212,1);     
+}
