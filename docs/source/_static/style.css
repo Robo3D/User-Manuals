@@ -135,11 +135,12 @@ a:visited code,
 .wy-side-nav-search > a {
     color: #69B3E7;
 }
-
+/*
 .wy-side-nav-search > a:before {
     content: url('https://robo3d.com/wp-content/uploads/2016/09/robo-logo-1.png');
     display: block;
 }
+*/
 .wy-side-nav-search > div.version {
     color: #999;
 }
@@ -172,6 +173,7 @@ a:visited code,
     background-color: #ffb81c;
     box-shadow: 0 1.5px 3px rgba(0,0,0,.24),0 3px 8px rgba(0,0,0,.05);
 }
+
 .wy-nav-content hr {
     display: none; 
 }
@@ -182,11 +184,18 @@ a:visited code,
     bottom: 0px;
     z-index: 1000;
 }
+
 .btn-neutral {
     background-color: #ffb81c !important;
     box-shadow: none;
     border: 0px;
+    color: #ffffff;
 }
+
 .rst-versions {
     bottom: 62px;
+}
+
+.fa-arrow-circle-right {
+    color: #ffffff;
 }
