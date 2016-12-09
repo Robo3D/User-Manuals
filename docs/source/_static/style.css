@@ -25,7 +25,7 @@
     padding: 1.618em 3.236em;
     height: 100%;
     max-width: 1600px;
-    margin: auto;
+    margin: 62px auto 0;
 }
 
 .wy-side-nav-search {
@@ -146,6 +146,20 @@ a:visited code,
 
 /* top nav bar  */
 .wy-breadcrumbs {
-    margin-left: -300px;
+    max-width: 1200px;
+    margin: auto;
+    padding: 16px 3.236em 16px 1.618em;
+    color: #fff;    
+}
+
+.wy-nav-content div[role=navigation] {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
     background-color: #ffb81c;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,.24),0 3px 8px rgba(0,0,0,.05);
+}
+.wy-nav-content hr {
+    display: none; 
 }
