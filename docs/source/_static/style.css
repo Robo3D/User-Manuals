@@ -156,10 +156,14 @@ a:visited code,
 }
 
 .wy-menu-vertical ul {
-    padding-top: 20px;
+    padding-top: 20px 0;
 }
 
 .wy-menu:before {
+    content: url('https://robo3d.com/wp-content/uploads/2016/12/rule.jpg');
+}
+
+.wy-menu:after {
     content: url('https://robo3d.com/wp-content/uploads/2016/12/rule.jpg');
 }
 
