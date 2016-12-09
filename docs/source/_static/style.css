@@ -34,7 +34,7 @@
     padding: 0.809em;
     margin-bottom: 0.809em;
     z-index: 200;
-    background-color: #69B3E7;
+    background-color: transparent;
     text-align: center;
     padding: 0.809em;
     display: block;
@@ -44,7 +44,7 @@
 
 .wy-nav-side {
     position: fixed;
-    top: 0;
+    top: 80px;
     bottom: 0;
     left: 0;
     padding-bottom: 2em;
@@ -112,9 +112,13 @@ a:visited code,
     box-shadow: 0px 0px 4px 1px rgba(181,181,181,1);     
 }
 
-/* left hand menu colors  */
+/* left hand menu  */
 .wy-menu-vertical li.current {
     background-color: transparent;
+}
+
+.wy-menu-vertical a {
+    color: #404040;
 }
 
 .wy-menu-vertical li.current a {
@@ -122,6 +126,17 @@ a:visited code,
     background-color: transparent;
     color: #69B3E7;
 }
-.toctree-l1:hover, .toctree-l1 a:hover {
+
+.toctree-l1:hover, .toctree-l1 a:hover, current:hover, current a:hover {
     background-color: transparent;
+    color: #69B3E7;
+}
+
+.wy-side-nav-search > a {
+    color: #69B3E7;
+}
+
+.wy-side-nav-search > a:before {
+    content: https://robo3d.com/wp-content/uploads/2016/09/robo-logo-1.png;
+    display: block;
 }
