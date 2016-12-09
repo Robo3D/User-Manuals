@@ -172,6 +172,10 @@ a:visited code,
     content: url('https://robo3d.com/wp-content/uploads/2016/12/rule.jpg');
 }
 
+.wy-menu ul {
+    padding-top: 13px;
+}
+
 /* top/bottom nav bar  */
 .wy-breadcrumbs {
     max-width: 1200px;
