@@ -152,6 +152,18 @@ a:visited code,
     color: #fff;    
 }
 
+.wy-breadcrumbs a {
+    color: #ffffff !important;
+}
+
+.wy-breadcrumbs a:visited {
+    color: #ffffff !important;
+}
+
+.wy-breadcrumbs a:hover {
+    color: #404040 !important;
+}
+
 .wy-nav-content div[role=navigation] {
     position: fixed;
     top: 0px;
@@ -172,7 +184,7 @@ a:visited code,
 }
 .btn-neutral {
     background-color: #ffb81c !important;
-    box-shadow: 0px;
+    box-shadow: none;
     border: 0px;
 }
 .rst-versions {
