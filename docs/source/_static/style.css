@@ -127,7 +127,12 @@ a:visited code,
     color: #69B3E7;
 }
 
-.toctree-l1:hover, .toctree-l1 a:hover, current:hover, current a:hover {
+.toctree-l1:hover, .toctree-l1 a:hover {
+    background-color: transparent;
+    color: #69B3E7;
+}
+
+.wy-menu-vertical li.on a:hover {
     background-color: transparent;
     color: #69B3E7;
 }
@@ -192,10 +197,14 @@ a:visited code,
     color: #ffffff;
 }
 
+.btn-neutral:hover {
+    background-color: transparent;
+}
+
 .rst-versions {
     bottom: 62px;
 }
 
-.fa-arrow-circle-right {
+.fa-arrow-circle-right, .fa-arrow-circle-left {
     color: #ffffff;
 }
