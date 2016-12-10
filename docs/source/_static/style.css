@@ -133,7 +133,7 @@ a:visited code,
 .wy-menu-vertical li.current a {
     border: 0px;
     background-color: transparent !important;
-    color: #ffb81c;
+    color: #009cde;
 }
 
 .toctree-l1:hover, .toctree-l1 a:hover {
@@ -147,7 +147,7 @@ a:visited code,
 }
 
 .wy-side-nav-search > a {
-    color: #ffb81c;
+    color: #009cde;
 }
 
 .wy-side-nav-search > a:before {
