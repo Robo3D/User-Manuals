@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
    
-# Make more with Robo C2
+*Make more with Robo C2*
 
 The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
 
