@@ -9,10 +9,19 @@ Robo C2 Manual
 
 :Explore our online manual to learn everything about your Robo C2.
 
-+------------+----------+----------+
-| Header 2   | Header 3 | Header 4 |
-|            |          |          |
-+------------+----------+----------+
++------------------+------------------+------------------+
+| Header 2         | Header 3         | Header 4         |
+|                  |                  |                  |
++------------------+------------------+------------------+ 
+
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
 
 
 Contents:
