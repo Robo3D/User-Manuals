@@ -2,6 +2,18 @@
    sphinx-quickstart on Sun Nov  3 11:56:36 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+   
+#Make more with Robo C2
+
+The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
+
+*Engineered to fit anywhere in your home or workplace
+*Efficient 5 x 5 x 6 in print size
+*3.5” built-in color touch screen
+*Class-leading print speed
+*Automatic self-leveling
+*Prints 20+ materials types that don’t require a heat bed
+
 
 =================================================
 Get Ready to Receive Your Printer!
@@ -26,9 +38,6 @@ Layer 3
    9. 500g Robo light blue filament
    10. Spatula
 
-
-
-Contents:
 
 .. toctree::
 
