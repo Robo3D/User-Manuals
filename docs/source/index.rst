@@ -15,6 +15,7 @@ The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make wh
    * Prints 20+ materials types that don’t require a heat bed
 
 
+
 =================================================
 Get Ready to Receive Your Printer!
 =================================================
