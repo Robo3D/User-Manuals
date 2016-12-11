@@ -4,11 +4,11 @@
    contain the root `toctree` directive.
 
 =================================================
-Robo Docs
+Robo C2 Manual
 =================================================
 
-:Page Status: Incomplete
-:Last Reviewed: 2016-12-7
+:Explore our online manual to learn everything about your Robo C2.
+
 
 
 This page can be edited here: 
