@@ -46,6 +46,8 @@ Register your Robo C2
 Initial set-up
 ---------------
 
+
+
 Loading filament
 ---------------
 
@@ -54,6 +56,30 @@ Calibration   Setting Z offset
 
 Connecting to Wi-Fi
 ---------------
+
+We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3d printing experience.
+
+
+.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
+
+
+*Using Hotspot Mode*
+
+
+If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
+
+
+   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
+   2. Select “Network” from the list
+   3. Select “Start Hotspot Mode” from the list
+   4. Select 
+
+
+
+
+
+
+
 
 Test print
 ---------------
