@@ -7,12 +7,12 @@
 
 The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
 
-* Engineered to fit anywhere in your home or workplace
-* Efficient 5 x 5 x 6 in print size
-* 3.5” built-in color touch screen
-* Class-leading print speed
-* Automatic self-leveling
-* Prints 20+ materials types that don’t require a heat bed
+   * Engineered to fit anywhere in your home or workplace
+   * Efficient 5 x 5 x 6 in print size
+   * 3.5” built-in color touch screen
+   * Class-leading print speed
+   * Automatic self-leveling
+   * Prints 20+ materials types that don’t require a heat bed
 
 
 =================================================
