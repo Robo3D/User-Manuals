@@ -9,10 +9,10 @@ Robo C2 Manual
 
 :Explore our online manual to learn everything about your Robo C2.
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+------------------------+------------+----------+----------+
++------------+----------+----------+
+| Header 2   | Header 3 | Header 4 |
+|            |          |          |
++------------+----------+----------+
 
 
 Contents:
