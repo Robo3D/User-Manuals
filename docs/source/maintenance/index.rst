@@ -9,31 +9,19 @@ Maintenance
 
 
 
-Robo C2 Maintenance
+#Robo C2 Maintenance
 
 
 Remember, a well-maintained Robo C2 is a happy one! 
 
 
 Be sure to check for the following before you print:
-
-
-1. Make sure the print bed is free of any/all objects
-
-
-2. Make sure nothing is blocking the extruder head from moving freely around the build area.
-
-
-3. Make sure no objects are below the print bed that could prevent it from freely moving up and down.
-
-
-4. Make sure there are no broken pieces of filament within the extruder.
-
-
-5. Make sure all cords are neatly tucked away to avoid unnecessary accidents while the printer’s in operation. 
-
-
-6. Make sure all of your software is up to date (on screen prompts will let you know when updates are available, but only if you are connected to a Wi-Fi network). 
+   1. Make sure the print bed is free of any/all objects
+   2. Make sure nothing is blocking the extruder head from moving freely around the build area.
+   3. Make sure no objects are below the print bed that could prevent it from freely moving up and down.
+   4. Make sure there are no broken pieces of filament within the extruder.
+   5. Make sure all cords are neatly tucked away to avoid unnecessary accidents while the printer’s in operation. 
+   6. Make sure all of your software is up to date (on screen prompts will let you know when updates are available, but only if you are connected to a Wi-Fi network). 
 
 
 And to ensure the best 3D printing experience now and in the future, use the following Robo C2 maintenance tips regularly (every 6-12 months, depending on use):
