@@ -273,5 +273,10 @@ footer {
         top: 0;
         width: 100%;
     }
-
+    .wy-nav-side {
+        display: none;
+    }
+    .shift {
+        display: inherit;
+    }
 }
