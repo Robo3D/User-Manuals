@@ -267,6 +267,8 @@ footer {
 @media screen and (max-width: 768px) {
     .wy-nav-content div[role="navigation"] {
         top: 63px;
+        background-color: #ffebc0;
+        color: #ffb81c; 
     }
     .wy-nav-top {
         position: fixed;
@@ -281,5 +283,11 @@ footer {
     }
     .shift div[role="navigation"] {
         left: 85%;
+    }
+    .rst-versions {
+        bottom: 0px;
+    }
+    .wy-nav-top {
+        background-color: #ffb81c;
     }
 }
