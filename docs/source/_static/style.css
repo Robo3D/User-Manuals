@@ -294,6 +294,6 @@ footer {
         color: #ffb81c; 
     }
     .wy-breadcrumbs a {
-        color: #ffb81c; 
+        color: #ffb81c !important; 
     }
 }
