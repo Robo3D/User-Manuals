@@ -124,6 +124,7 @@ a:visited code,
 .wy-menu-vertical a {
     color: #404040;
     padding: 14.5px 1.618em;
+    font-weight: bold;
 }
 
 .wy-menu-vertical li.toctree-l1.current a {
@@ -178,13 +179,16 @@ a:visited code,
 
 .wy-menu-vertical li.current ul {
     border-left: 2px solid #009cde;
-    margin : 10px 0 10px 27px;
+    margin: 0px 0 10px 27px;
     padding-top: 0px;
 }
 
+.wy-menu-vertical li.current ul a {
+    color: rgb(64, 64, 64);
+}
+    
 .wy-menu-vertical li.toctree-l1 li.toctree-l2 a {
     padding: 10px 24px 10px 12px;
-    color: rgb(64, 64, 64);
 }
 
 .wy-menu-vertical li.toctree-l2.current > a {
