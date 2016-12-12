@@ -291,9 +291,12 @@ footer {
         background-color: #ffb81c;
     }
     .wy-breadcrumbs {
-        color: #ffb81c; 
+        color: #404040; 
     }
     .wy-breadcrumbs a {
-        color: #ffb81c !important; 
+        color: #404040 !important; 
+    }
+    .wy-breadcrumbs li a:first-child {
+        color: #404040 !important; 
     }
 }
