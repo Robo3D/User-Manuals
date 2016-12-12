@@ -4,6 +4,8 @@
    contain the root `toctree` directive.
 
 .. image:: images/Cover.jpg
+   :alt: Quick Start Guide cover
+   :align: center
 
 Make more with Robo C2
 =================================================
