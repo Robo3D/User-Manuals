@@ -277,6 +277,7 @@ footer {
     }
     .wy-nav-side {
         display: none;
+        top: 0px;
     }
     .wy-nav-side.shift {
         display: inherit;
@@ -298,5 +299,8 @@ footer {
     }
     .wy-breadcrumbs li a:first-child {
         color: #404040 !important; 
+    }
+    .rst-footer-buttons {
+        background-color: #ffb81c !important;
     }
 }
