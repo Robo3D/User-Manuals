@@ -182,7 +182,7 @@ a:visited code,
     padding-top: 0px;
 }
 
-.wy-menu-vertical li.current ul a {
+.wy-menu-vertical li.toctree-l1 li.toctree-l2 a {
     padding: 10px 24px 10px 12px;
     color: rgb(64, 64, 64);
 }
