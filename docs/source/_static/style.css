@@ -126,6 +126,10 @@ a:visited code,
     padding: 14.5px 1.618em;
 }
 
+.wy-menu-vertical li.toctree-l1.current a {
+    padding: 14.5px 1.618em;
+}
+
 .wy-menu-vertical li.on a {
     padding: 14.5px 1.618em;
 }
