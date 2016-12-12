@@ -175,16 +175,24 @@ a:visited code,
 .wy-menu ul {
     padding-top: 13px;
 }
+
 .wy-menu-vertical li.current ul {
     border-left: 2px solid #009cde;
-    margin-left: 27px;
+    margin : 10px 0 10px 27px;
     padding-top: 0px;
 }
+
 .wy-menu-vertical li.current ul a {
-    padding-left: 8px;
+    padding: 10px 24px 10px 12px;
     color: rgb(64, 64, 64);
 }
+
 .wy-menu-vertical li.toctree-l2.current > a {
+    color: #009cde;
+    padding: 10px 24px 10px 12px;
+}
+
+.wy-menu-vertical li.current ul a:hover {
     color: #009cde;
 }
 
