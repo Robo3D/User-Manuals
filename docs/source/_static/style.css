@@ -290,4 +290,10 @@ footer {
     .wy-nav-top {
         background-color: #ffb81c;
     }
+    .wy-breadcrumbs {
+        color: #ffb81c; 
+    }
+    .wy-breadcrumbs a {
+        color: #ffb81c; 
+    }
 }
