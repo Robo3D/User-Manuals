@@ -130,10 +130,6 @@ a:visited code,
     padding: 14.5px 1.618em;
 }
 
-.wy-menu-vertical li.on a {
-    padding: 14.5px 1.618em;
-}
-
 .wy-menu-vertical li.current a {
     border: 0px;
     background-color: transparent !important;
