@@ -276,7 +276,10 @@ footer {
     .wy-nav-side {
         display: none;
     }
-    .shift {
+    .wy-nav-side.shift {
         display: inherit;
+    }
+    .shift.wy-nav-content div[role="navigation"] {
+        left: 85%;
     }
 }
