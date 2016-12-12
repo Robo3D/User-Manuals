@@ -303,4 +303,7 @@ footer {
     .rst-footer-buttons {
         background-color: #ffb81c !important;
     }
+    .fa-bars:before {
+        line-height: 1.8;
+    }
 }
