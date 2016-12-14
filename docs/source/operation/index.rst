@@ -115,3 +115,36 @@ Hotspot Mode
    - Select “Network” from the list
    - Select “Start Hotspot Mode” from the list
    - Your Robo C2 is now casting it's own wireless network
+   
+Downloading the Robo App
+-----------
+From your iOS Device
+   - Open the App Store app
+   - On the bottom dock, tap on search
+   - Enter “Robo App”
+   - Tap on the Robo App with this Icon (show icon here)
+   - Tap download on the right of the icon, and rate us 5 stars if you like it
+
+Connecting you iOS device to your Robo C2
+-----------
+Connecting via a local wifi network
+   - Make sure your smart device is connected to the same wifi network as your Robo C2
+   - In the ‘dashboard’ screen of the Robo App, tap ‘+Add a Printer’ in the middle of the 	screen
+   - Select ‘Scan for Printer Name/IP’
+   - A pop up will appear with all of the printers on the same network as your smart 	device, go ahead and select which printer you would like to add (your printer has a 	unique name, example - Curious Tesla, or Brilliant Einstein). (You may look on the back of your printer and find out which name your printer has been givin).
+   - Now you will need to scan the QR code on your screen to fully connect the 3d printer to your smart device.
+
+		+ On the screen of your machine, select  ‘Utilities’
+		+ Select ‘network’
+		+ Select ‘QR Code’ 
+   - Tap on ‘Scan Printer Barcode for Key’
+   - Point your camera at the barcode and wait for the app to recognize the 3d printer
+   - Tap ‘add printer’ at the bottom of the screen
+   - Congratulations, you have now added your Robo C2 to your app
+   - note that you can add multiple machines to the same app, and control each one 	independently)
+
+Connecting via Hotspot Mode
+   - Make sure that you are connected to the wifi signal that the machine is emitting
+   - Follow steps in the previous section (D1.1.2) to successfully connect your printer to 	the app
+
+
