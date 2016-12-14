@@ -60,8 +60,9 @@ This will indicate the name of the file printing, what percentage done your prin
 Web app
 If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
 To see the IP address of your printer, select 'Utilities' from the home screen
-Next
-The status of your print is reflected in the web app under state.
+Next select 'Network'
+Then select 'IP Address' and note the IP address of your Robo C2
+Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
 Print Complete
 -----------
