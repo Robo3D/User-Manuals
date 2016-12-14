@@ -55,6 +55,7 @@ Starting a print from your internal storage
    - Select a file you would like to print
    - Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
    - Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
+   - Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperture
 
 Starting a print from a USB flash drive
    - Insert the USB flash drive into the usb slot on the front of the printer
