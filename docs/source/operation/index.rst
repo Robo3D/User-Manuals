@@ -42,7 +42,7 @@ Loading Filament
 Unloading Filament
    - From the home screen select 'Utilities'
    - Next, select 'Wizards'
-   - Select 'Filament Unloading Wizard'
+   - Select 'Filament Change Wizard'
    - After you printer heats up, the feeder gear will start to retract the filament from the nozzle
    - Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
    
@@ -150,3 +150,17 @@ Connecting via Hotspot Mode
 
 Navigating the LCD Control Panel
 -----------
+- Files --> File List --> File Info --> Printer
+- Printer --> Pause
+- Printer --> Cancel
+- Printer --> Set extruder temp
+- Utilities --> Robo Controls
+- Utilities --> Robo Controls
+- Utilities --> Wizards --> Z Offset Wizard
+- Utilities --> Wizards --> Filament Loading Wizard
+- Utilities --> Wizards --> Filament Change Wizard
+- Utilities --> Network --> Configure Wifi
+- Utilities --> Network --> Start Wifi hotspot
+- Utilities --> Network --> Network Status
+- Utilities --> Network --> QE Code
+- Utilities --> Update
