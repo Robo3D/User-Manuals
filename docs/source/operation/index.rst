@@ -61,10 +61,6 @@ Web app
    - Then select 'IP Address' and note the IP address of your Robo C2
    - Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
-Print Complete
------------
-You should receive a notification in an email or on the app when you print has completed.
-
 Using print bed adhesion
 -----------
 The Robo C2 has a print bed adhesion tape already installed with your printer. These will usually last about 10-30 prints depending on the model you print on it.
@@ -79,7 +75,20 @@ Removing the print
 - Carefully remove the print from the print plate with your hand.
 - Note: if the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
-Hotend Removal
--------------
-If you need to remove the hotend due to a clog or changing the nozzle.  You can do so by loosening the hex head screw on the extruder mount above.  Once you loosen it, the cowl ( or clamp ) inside the extruder will release and the hotend should drop down.  The wires for the heating element and thermistor are plugged into the extruder as well, you can take those out and make note of where you unplugged them from.
+Setting Up Wifi
+-----------
+There are two ways to connect your Robo C2 to wifi
 
+Connecting to your local wireless network
+   - Select “Utilities” on the home screen of the Robo C2 touch screen 
+   - Select “network” from the list 
+   - Select “configure wifi” from the list 
+   - Select your wifi network you wish to connect to 
+   - Use the on-screen keyboard to enter your password and press “connect” 
+   - Congratulations, you are now connected to your local wifi network
+
+Hotspot Mode
+   - Select “Utilities” on the home screen of the Robo C2 touch screen 
+   - Select “Network” from the list
+   - Select “Start Hotspot Mode” from the list
+   - Your Robo C2 is now casting it's own wireless network
