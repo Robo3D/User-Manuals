@@ -13,7 +13,10 @@ Operation
 
 Navigate to the Web Controller
 
+-----------
 Setting the Z offset
+-----------
+
 Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly
 
 From the home screen select "Utilities"
