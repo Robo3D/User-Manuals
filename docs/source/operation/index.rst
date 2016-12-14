@@ -28,6 +28,24 @@ Here we will calibrate Robo C2 by setting the Z-Offset and making sure your firs
    - Select 'Finished" 
    - Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset
 
+Loading and Unloading Filament
+-----------
+Loading Filament
+   - From the home screen select 'Utilities'
+   - Next, select 'Wizards'
+   - Select 'Filament Loading Wizard'
+   - After you printer heats up, ensure you've cut the tip of the filament
+   - Place the filament inside the feed hole, and press 'Next'
+   - The feeder gear will push your filament down, through the extruder, and out of the nozzle
+   - Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
+   
+Unloading Filament
+   - From the home screen select 'Utilities'
+   - Next, select 'Wizards'
+   - Select 'Filament Unloading Wizard'
+   - After you printer heats up, the feeder gear will start to retract the filament from the nozzle
+   - Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
+   
 -----------
 Start a print
 -----------
