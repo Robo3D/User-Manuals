@@ -32,11 +32,35 @@ Your printer will calculate your Z-Offset and then press 'Finished' to complete 
 -----------
 Start a print
 -----------
-   Slice with Slicer
-   Upload Gcode, STL
+The Robo C2 come with preconfigured prints upon unboxing. To create your first test print, follow these directions;
+Select 'Files' from the home screen
+Select a file you would like to print
+Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
+Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
+
+Starting a print from a USB flash drive
+
+Insert the USB flash drive into the usb slot on the front of the printer
+Select 'Files' from the home screen
+Select which file you would like to print
+Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
+Finally, select 'Start' to start the print
    
 Print Status
 -----------
+There are three ways to check on the status of your print while your Robo C2 is at work printing away
+
+Screen
+While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+
+Robo App
+If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab
+This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+
+Web app
+If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
+To see the IP address of your printer, select 'Utilities' from the home screen
+Next
 The status of your print is reflected in the web app under state.
 
 Print Complete
@@ -45,7 +69,9 @@ You should receive a notification in an email or on the app when you print has c
 
 Using print bed adhesion
 -----------
-The C2 does not require any additional adhesion.  If for some reason your print is not sticking to the bed, you may need to adjust your Z offset from the touch screen.
+The Robo C2 has a print bed adhesion tape already installed with your printer. These will usually last about 10-30 prints depending on the model you print on it.
+In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with isopropyl alcohol before every print.
+If your prints have a hard time sticking to the bed, you can replace the print bed adhesion with the extras that came in your inclusions box or buy directly from www.robo3d.com store
 
 Removing the print
 ------------
