@@ -50,5 +50,22 @@ Uploading to cloud storage
 
 
 Robo C2 touch screen
+-----------
+Navigating the LCD Control Panel
+ - Files --> File List --> File Info --> Printer
+ - Printer --> Pause
+ - Printer --> Cancel
+ - Printer --> Set extruder temp
+ - Utilities --> Robo Controls
+ - Utilities --> Robo Controls
+ - Utilities --> Wizards --> Z Offset Wizard
+ - Utilities --> Wizards --> Filament Loading Wizard
+ - Utilities --> Wizards --> Filament Change Wizard
+ - Utilities --> Network --> Configure Wifi
+ - Utilities --> Network --> Start Wifi hotspot
+ - Utilities --> Network --> Network Status
+ - Utilities --> Network --> QE Code
+ - Utilities --> Update
+
 
 Robo iOS app
