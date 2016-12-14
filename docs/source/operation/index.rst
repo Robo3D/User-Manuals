@@ -49,17 +49,17 @@ Print Status
 There are three ways to check on the status of your print while your Robo C2 is at work printing away
 
 Screen
-   -While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+   - While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
 
 Robo App
-   -If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+   - If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
 
 Web app
-   -If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
-   -To see the IP address of your printer, select 'Utilities' from the home screen
-   -Next select 'Network'
-   -Then select 'IP Address' and note the IP address of your Robo C2
-   -Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
+   - If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
+   - To see the IP address of your printer, select 'Utilities' from the home screen
+   - Next select 'Network'
+   - Then select 'IP Address' and note the IP address of your Robo C2
+   - Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
 Print Complete
 -----------
