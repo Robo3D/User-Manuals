@@ -31,6 +31,7 @@ Here we will calibrate Robo C2 by setting the Z-Offset and making sure your firs
 -----------
 Start a print
 -----------
+
 Starting a print from your internal storage
    - Select 'Files' from the home screen
    - Select a file you would like to print
@@ -43,9 +44,10 @@ Starting a print from a USB flash drive
    - Select which file you would like to print
    - Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
    - Finally, select 'Start' to start the print
-   
+
 Print Status
 -----------
+
 There are three ways to check on the status of your print while your Robo C2 is at work printing away
 
 Screen
@@ -63,12 +65,14 @@ Web app
 
 Using print bed adhesion
 -----------
+
 The Robo C2 has a print bed adhesion tape already installed with your printer. These will usually last about 10-30 prints depending on the model you print on it.
    - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with isopropyl alcohol before every print.
    - If your prints have a hard time sticking to the bed, you can replace the print bed adhesion with the extras that came in your inclusions box or buy directly from www.robo3d.com store
 
 Removing the print
 ------------
+
 - When the Print is completed, remove the print plate with the finished print on it from the C2 by lifting the bed up and away from the magnets. 
 - Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
 - Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
@@ -77,6 +81,7 @@ Removing the print
 
 Setting Up Wifi
 -----------
+
 There are two ways to connect your Robo C2 to wifi
 
 Connecting to your local wireless network
