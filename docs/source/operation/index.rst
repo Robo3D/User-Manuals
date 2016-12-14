@@ -148,19 +148,3 @@ Connecting via Hotspot Mode
    - Make sure that you are connected to the wifi signal that the machine is emitting
    - Follow steps in the previous section (D1.1.2) to successfully connect your printer to the app
 
-Navigating the LCD Control Panel
------------
-- Files --> File List --> File Info --> Printer
-- Printer --> Pause
-- Printer --> Cancel
-- Printer --> Set extruder temp
-- Utilities --> Robo Controls
-- Utilities --> Robo Controls
-- Utilities --> Wizards --> Z Offset Wizard
-- Utilities --> Wizards --> Filament Loading Wizard
-- Utilities --> Wizards --> Filament Change Wizard
-- Utilities --> Network --> Configure Wifi
-- Utilities --> Network --> Start Wifi hotspot
-- Utilities --> Network --> Network Status
-- Utilities --> Network --> QE Code
-- Utilities --> Update
