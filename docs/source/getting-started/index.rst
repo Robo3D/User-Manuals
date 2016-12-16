@@ -14,18 +14,18 @@ Getting Started
 What’s in the box
 ---------------
 
-Your Robo C2 will come with everything you need to get started printing right out of the box. The inclusions box we ship inside the printer has everything needed to perform basic maintenance, free professional-grade Autodesk design software, as well as a multilingual Quick start guide.
+Your Robo C2 comes with everything you need to start printing right out of the box. And the inclusions box inside the printer has everything you need to perform basic maintenance, plus free professional-grade Autodesk design software, and a multi-language Quick Start Guide.
 
 Top of box
-   1. Quick start guide 
+   1. Quick Start Guide 
    2. Autodesk Fusion 360 design software free 1-year voucher
-   3. 9 build plate tape covers (with 1 already applied to your build plate).
+   3. 9 print bed tape covers (with 1 already applied to your print bed).
    4. Robo stickers to place EVERYWHERE.
 Layer 1
    5. 19V power supply
-   6. 2 Filament spool arms
+   6. 2 filament spool arms
 Layer 2
-   7. Toolbox that includes 2 allen wrenches, lubricant, and screwdriver.
+   7. Toolbox with 2 allen wrenches, lubricant, and screwdriver.
    8. Robo USB drive
 Layer 3
    9. 500g Robo light blue filament
@@ -36,7 +36,6 @@ Unboxing Robo C2
 ---------------
 
 Now that you've received your Robo C2, it's time to unbox it and get familiar with your printer and accessories.
-
 
 Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simply lift the printer from the box using the strap and set it down. Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
 
@@ -82,6 +81,50 @@ Now go ahead and turn on the printer.
 
 Loading filament
 ---------------
+
+To begin loading filament, hang your filament spool on the spool holder.
+
+.. image:: source/images/2.1.png
+   :alt: Hang Filament Spool on Spool Holder
+   :align: center
+
+Be sure to unroll at least 11”— or 30 centimeters — of filament and thread it through the base of the filament sensor block and into the filament feed tube.
+
+.. image:: source/images/2.2.png
+   :alt: Thread Filament into Filament Sensor Tube
+   :align: center
+
+Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder button and feed the filament into the printer’s gears.
+
+.. image:: source/images/2.3.png
+   :alt: Feed Filament Until it Reaches the Extruder
+   :align: center
+   
+Now select UTILITIES on the touch screen.
+
+.. image:: source/images/2.4.png
+   :alt: Select Utilities on Touch Screen
+   :align: center
+   
+Then select WIZARDS from the list.
+
+.. image:: source/images/2.5.png
+   :alt: Select Wizards from List
+   :align: center
+   
+Finally, select FILAMENT LOADING WIZARD.
+
+.. image:: source/images/2.5.png
+   :alt: Select Filament Loading Wizard
+   :align: center
+
+And then follow the on-screen prompts, which will include:
+
+Heating up the printer
+Ensuring you’ve cut off the tip of the filament
+Having the filament feed through until you see it coming from the nozzle
+Pressing NEXT, and
+Pressing FINISHED
 
 Calibration   Setting Z offset
 ---------------
