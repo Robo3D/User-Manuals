@@ -153,6 +153,33 @@ Pressing FINISHED
 
 Note that you will see the offset progress and completion on the touchscreen.
 
+The test print
+---------------
+
+To create your first test print Select FILES on the home screen. Then select a file to print from the list.
+
+.. image:: source/images/4.1.png
+   :alt: Select Files on Home Screen
+   :align: center
+   
+Now, select START to print—and be sure to wait several seconds while Robo C2 prepares to print the file.
+
+.. image:: source/images/4.2.png
+   :alt: Select Start
+   :align: center
+   
+The file will start printing.
+
+.. image:: source/images/4.3.png
+   :alt: File Printing
+   :align: center
+
+Just note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
+
+.. image:: source/images/4.4.png
+   :alt: Pause and Cancel Options
+   :align: center
+
 Connecting to Wi-Fi
 ---------------
 
@@ -180,5 +207,4 @@ If no Wi-Fi signals are available for connection, you can use Hotspot Mode to em
 
 
 
-Test print
----------------
+
