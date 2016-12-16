@@ -53,7 +53,8 @@ Initial set-up
 Now let’s move forward with your initial set-up of Robo C2.
 
 First, insert the spool holder into the rear slot of the printer.
- image:: source/images/1.1.png
+
+.. image:: source/images/1.1.png
    :alt: Insert Spool Holder
    :align: center
    
