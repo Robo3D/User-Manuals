@@ -61,14 +61,24 @@ First, insert the spool holder into the rear slot of the printer.
 Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
 
 .. image:: source/images/1.2.png
-   :alt: Insert Filament Feed Tube
+   :alt: Insert Filament Feed Tube into Filament Sensor Block
+   :align: center
+
+.. image:: source/images/1.3.png
+   :alt: Insert Filament Feed Tube into Extruder
    :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
+.. image:: source/images/1.4.png
+   :alt: Connect Power Cord
+   :align: center
+
 Now go ahead and turn on the printer.
 
-
+.. image:: source/images/1.5.png
+   :alt: Turn on Printer
+   :align: center
 
 Loading filament
 ---------------
