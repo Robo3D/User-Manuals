@@ -7,6 +7,8 @@
 Getting Started
 =================================================
 
+David was here
+
 What’s in the box
 ---------------
 
