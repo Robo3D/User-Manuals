@@ -46,9 +46,22 @@ The printer's accessories are stored in the inclusions box inside the printer.  
 
 Register your Robo C2
 ---------------
+Before you start, please register your Robo C2 for any servicing or warranty needs if they’re ever required. You can register your product by visiting robo3d.com/register.
 
 Initial set-up
 ---------------
+Now let’s move forward with your initial set-up of Robo C2.
+
+First, insert the spool holder into the rear slot of the printer.
+ image:: source/images/1.1.png
+   :alt: Insert Spool Holder
+   :align: center
+   
+Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
+
+From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
+
+Now go ahead and turn on the printer.
 
 
 
