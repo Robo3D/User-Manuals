@@ -16,12 +16,12 @@ Remember, a well-maintained Robo C2 is a happy one!
 
 
 Be sure to check for the following before you print:
-   1. Make sure the print bed is free of any/all objects
-   2. Make sure nothing is blocking the extruder head from moving freely around the build area.
-   3. Make sure no objects are below the print bed that could prevent it from freely moving up and down.
-   4. Make sure there are no broken pieces of filament within the extruder.
-   5. Make sure all cords are neatly tucked away to avoid unnecessary accidents while the printer’s in operation. 
-   6. Make sure all of your software is up to date (on screen prompts will let you know when updates are available, but only if you are connected to a Wi-Fi network). 
+   - Make sure the print bed is free of any/all objects
+   - Make sure nothing is blocking the extruder head from moving freely around the build area.
+   - Make sure no objects are below the print bed that could prevent it from freely moving up and down.
+   - Make sure there are no broken pieces of filament within the extruder.
+   - Make sure all cords are neatly tucked away to avoid unnecessary accidents while the printer’s in operation. 
+   - Make sure all of your software is up to date (on screen prompts will let you know when updates are available, but only if you are connected to a Wi-Fi network). 
 
 
 And to ensure the best 3D printing experience now and in the future, use the following Robo C2 maintenance tips regularly (every 6-12 months, depending on use):
@@ -34,11 +34,11 @@ Cleaning the feeder gear (gif of taking off cover and cleaning with toothbrush)
 -----
 
 Steps to take to clean your feeder gear
-   - Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
-   - Remove the extruder cap on the top of your extruder assembly (gif for this)
-   - Take a waire brush, toothbrush, or something similar, and brush the feed gear to remove debris
-   - Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned
-   - Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2
+   1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
+   2. Remove the extruder cap on the top of your extruder assembly (gif for this)
+   3. Take a waire brush, toothbrush, or something similar, and brush the feed gear to remove debris
+   4. Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned
+   5. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2
 
 Lubricating the axis (gif of lubing rods)
 -----
@@ -71,10 +71,10 @@ Cleaning the print bed surface
 Removing your Hotend Nozzle
 -----
 Follow these steps to remove your hotend nozzle
-   - Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
-   - Remove the magnetic extruder plate to expose your entire hotend and wires
-   - Take the 3mm Allen Key that came in your tool kit and loosen the hex screw that is on the aluminum plate just above your hotend
-   - When the hex screw is loose enough, your hotend should be able to fall out of its housing
-   - Carefully pull the wires by hand to remove them from their housings
-   - Place new hotend in by reversing these steps
-   - Plug your Robo C2 back in and you are all set
+   1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
+   2. Remove the magnetic extruder plate to expose your entire hotend and wires
+   3. Take the 3mm Allen Key that came in your tool kit and loosen the hex screw that is on the aluminum plate just above your hotend
+   4. When the hex screw is loose enough, your hotend should be able to fall out of its housing
+   5. Carefully pull the wires by hand to remove them from their housings
+   6. Place new hotend in by reversing these steps
+   7. Plug your Robo C2 back in and you are all set
