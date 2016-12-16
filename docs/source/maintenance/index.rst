@@ -31,7 +31,14 @@ And to ensure the best 3D printing experience now and in the future, use the fol
 
 
 Cleaning the feeder gear (gif of taking off cover and cleaning with toothbrush)
+-----
 
+Steps to take to clean your feeder gear
+   - Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
+   - Remove the extruder cap on the top of your extruder assembly (gif for this)
+   - Take a waire brush, toothbrush, or something similar, and brush the feed gear to remove debris
+   - Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned
+   - Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2
 
 Lubricating the axis (gif of lubing rods)
 -----
