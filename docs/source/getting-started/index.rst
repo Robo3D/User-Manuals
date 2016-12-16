@@ -120,11 +120,13 @@ Finally, select FILAMENT LOADING WIZARD.
 
 And then follow the on-screen prompts, which will include:
 
-Heating up the printer
-Ensuring you’ve cut off the tip of the filament
-Having the filament feed through until you see it coming from the nozzle
-Pressing NEXT, and
-Pressing FINISHED
+<ul>
+<li>Heating up the printer</li>
+<li>Ensuring you’ve cut off the tip of the filament</li>
+<li>Having the filament feed through until you see it coming from the nozzle</li>
+<li>Pressing NEXT, and</li>
+<li>Pressing FINISHED</li>
+</ul>
 
 Calibration   Setting Z offset
 ---------------
