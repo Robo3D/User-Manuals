@@ -180,6 +180,21 @@ Just note that you can select PAUSE to pause your print, or you can select CANCE
    :alt: Pause and Cancel Options
    :align: center
 
+Removing the test print
+---------------
+
+When the test print is complete and cooled down, remove the print bed with the finished print still in place by lifting the bed up and away from the magnets.
+
+Slowly slide the print bed out of the machine with both hands.
+
+Now, carefully flex the print bed from several positions to help loosen the print from the print bed.
+
+Repeat this process until the most of the print is loose from the bed.
+
+Carefully remove the print from the print bed with your hand.
+
+Note that if the print is not coming loose after flexing the print bed, put the bed back in Robo C2 and use the provided spatula to carefully remove the print at its borders. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
+
 Connecting to Wi-Fi
 ---------------
 
