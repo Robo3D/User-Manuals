@@ -114,7 +114,7 @@ Then select WIZARDS from the list.
    
 Finally, select FILAMENT LOADING WIZARD.
 
-.. image:: source/images/2.5.png
+.. image:: source/images/2.6.png
    :alt: Select Filament Loading Wizard
    :align: center
 
@@ -126,8 +126,32 @@ Having the filament feed through until you see it coming from the nozzle
 Pressing NEXT, and
 Pressing FINISHED
 
-Calibration   Setting Z offset
+Calibration and setting Z offset
 ---------------
+
+Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
+
+.. image:: source/images/3.1.png
+   :alt: Select Utilities on Touch Screen
+   :align: center
+   
+.. image:: source/images/3.2.png
+   :alt: Select Wizards from List
+   :align: center
+   
+From here you’ll select Z OFFSET WIZARD.
+
+.. image:: source/images/3.3.png
+   :alt: Select Z Offset Wizard
+   :align: center
+
+And then follow the on-screen prompts, which include:
+ 
+Waiting for the printer to calibrate its home position
+Pressing up and down on the [insert descriptor] buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
+Pressing FINISHED
+
+Note that you will see the offset progress and completion on the touchscreen.
 
 Connecting to Wi-Fi
 ---------------
