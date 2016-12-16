@@ -66,3 +66,15 @@ Cleaning the print bed surface
 - After 15 or 20 prints, you may need to replace this sheet if you see that your prints are not sticking to it. Ensure that the print sheet is laid completely flat on the build platform, and that it is flush and level across the surface. (gif of applyling new build tape)
 - When you run out of print surfaces, you can order more at www.robo3d.com or use your own.
 - When removing and replacing the entire print bed, double check that its magnets align with the magnets on the platform to ensure it is seated correctly. Build platforms that aren’t seated correctly will result in failed prints. (gif of removing print bed and aligning magnets)
+
+
+Removing your Hotend Nozzle
+-----
+Follow these steps to remove your hotend nozzle
+   - Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
+   - Remove the magnetic extruder plate to expose your entire hotend and wires
+   - Take the 3mm Allen Key that came in your tool kit and loosen the hex screw that is on the aluminum plate just above your hotend
+   - When the hex screw is loose enough, your hotend should be able to fall out of its housing
+   - Carefully pull the wires by hand to remove them from their housings
+   - Place new hotend in by reversing these steps
+   - Plug your Robo C2 back in and you are all set
