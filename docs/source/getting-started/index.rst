@@ -7,7 +7,9 @@
 Getting Started
 =================================================
 
-David was here
+.. image:: images/Cover.jpg
+   :alt: Quick Start Guide cover
+   :align: center
 
 What’s in the box
 ---------------
