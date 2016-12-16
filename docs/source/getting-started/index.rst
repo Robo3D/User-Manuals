@@ -198,12 +198,41 @@ Note that if the print is not coming loose after flexing the print bed, put the 
 Connecting to Wi-Fi
 ---------------
 
-We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3d printing experience.
+We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
 
 
 .. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
 
+To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
+.. image:: source/images/5.1.png
+   :alt: Select Utilities on Home Screen
+   :align: center
+   
+Select NETWORK.
+
+.. image:: source/images/5.2.png
+   :alt: Select Network on Home Screen
+   :align: center
+
+Select CONFIGURE WIFI.
+
+.. image:: source/images/5.3.png
+   :alt: Select Configure Wi-Fi on Home Screen
+   :align: center
+
+Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
+
+.. image:: source/images/5.4.png
+   :alt: Select Wi-Fi Network
+   :align: center
+
+Once you’re done, select CONNECT.
+
+.. image:: source/images/5.5.png
+   :alt: Select Connect
+   :align: center
+   
 *Using Hotspot Mode*
 
 
