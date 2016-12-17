@@ -94,7 +94,8 @@ Removing the print
    2. Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
    3. Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
    4. Carefully remove the print from the print plate with your hand.
-   - Note: if the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
+   
+.. note:: If the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
 -----------
 Setting Up Wifi
