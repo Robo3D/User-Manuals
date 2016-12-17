@@ -16,6 +16,8 @@ Remember, a well-maintained Robo C2 is a happy one!
 
 
 Be sure to check for the following before you print:
+-----
+
    - Make sure the print bed is free of any/all objects
    - Make sure nothing is blocking the extruder head from moving freely around the build area.
    - Make sure no objects are below the print bed that could prevent it from freely moving up and down.
