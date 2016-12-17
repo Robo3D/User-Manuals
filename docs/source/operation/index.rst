@@ -7,12 +7,6 @@
 Operation
 =================================================
 
-.. contents:: Table of Contents
-
-
-
-Navigate to the Web Controller
-
 -----------
 Setting the Z offset
 -----------
