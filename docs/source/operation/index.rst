@@ -18,51 +18,51 @@ Setting the Z offset
 -----------
 
 Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly
-   - From the home screen select "Utilities"
-   - Then select "Wizards"
-   - Next select "Z-Offset Wizard"
-   - Your printer will now home itself and get in position to set your offset
-   - Follow the directions on the screen by taking a piece of paper or something similar that is the same thickness as a piece of paper
-   - Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer
-   - Slide the piece of paper in between the nozzle and bed and continue pressing the 'Up" button until you feel resistance on the paper  between the Nozzle and the print bed. Note: You still want to be able to slide the piece of paper back and forth but with enough resistance that it is touching both the bed and the nozzle
-   - Select 'Finished" 
-   - Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset
+   1. From the home screen select "Utilities"
+   2. Then select "Wizards"
+   3. Next select "Z-Offset Wizard"
+   4. Your printer will now home itself and get in position to set your offset
+   5. Follow the directions on the screen by taking a piece of paper or something similar that is the same thickness as a piece of paper
+   6. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer
+   7. Slide the piece of paper in between the nozzle and bed and continue pressing the 'Up" button until you feel resistance on the paper  between the Nozzle and the print bed. Note: You still want to be able to slide the piece of paper back and forth but with enough resistance that it is touching both the bed and the nozzle
+   8. Select 'Finished" 
+   9. Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset
 
 Loading and Unloading Filament
 -----------
 Loading Filament
-   - From the home screen select 'Utilities'
-   - Next, select 'Wizards'
-   - Select 'Filament Loading Wizard'
-   - After you printer heats up, ensure you've cut the tip of the filament
-   - Place the filament inside the feed hole, and press 'Next'
-   - The feeder gear will push your filament down, through the extruder, and out of the nozzle
-   - Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
+   1. From the home screen select 'Utilities'
+   2. Next, select 'Wizards'
+   3. Select 'Filament Loading Wizard'
+   4. After you printer heats up, ensure you've cut the tip of the filament
+   5. Place the filament inside the feed hole, and press 'Next'
+   6. The feeder gear will push your filament down, through the extruder, and out of the nozzle
+   7. Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
    
 Unloading Filament
-   - From the home screen select 'Utilities'
-   - Next, select 'Wizards'
-   - Select 'Filament Change Wizard'
-   - After you printer heats up, the feeder gear will start to retract the filament from the nozzle
-   - Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
+   1. From the home screen select 'Utilities'
+   2. Next, select 'Wizards'
+   3. Select 'Filament Change Wizard'
+   4. After you printer heats up, the feeder gear will start to retract the filament from the nozzle
+   5. Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
    
 -----------
 Start a print
 -----------
 
 Starting a print from your internal storage
-   - Select 'Files' from the home screen
-   - Select a file you would like to print
-   - Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
-   - Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
-   - Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperture
+   1. Select 'Files' from the home screen
+   2. Select a file you would like to print
+   3. Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
+   4. Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
+   5. Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperture
 
 Starting a print from a USB flash drive
-   - Insert the USB flash drive into the usb slot on the front of the printer
-   - Select 'Files' from the home screen
-   - Select which file you would like to print
-   - Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
-   - Finally, select 'Start' to start the print
+   1. Insert the USB flash drive into the usb slot on the front of the printer
+   2. Select 'Files' from the home screen
+   3. Select which file you would like to print
+   4. Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
+   5. Finally, select 'Start' to start the print
 
 Print Status
 -----------
@@ -92,10 +92,10 @@ The Robo C2 has a print bed adhesion tape already installed with your printer. T
 Removing the print
 ------------
 
-   - When the Print is completed, remove the print plate with the finished print on it from the C2 by lifting the bed up and away from the magnets. 
-   - Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
-   - Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
-   - Carefully remove the print from the print plate with your hand.
+   1. When the Print is completed, remove the print plate with the finished print on it from the C2 by lifting the bed up and away from the magnets. 
+   2. Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
+   3. Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
+   4. Carefully remove the print from the print plate with your hand.
    - Note: if the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
 Setting Up Wifi
@@ -104,47 +104,47 @@ Setting Up Wifi
 There are two ways to connect your Robo C2 to wifi
 
 Connecting to your local wireless network
-   - Select “Utilities” on the home screen of the Robo C2 touch screen 
-   - Select “network” from the list 
-   - Select “configure wifi” from the list 
-   - Select your wifi network you wish to connect to 
-   - Use the on-screen keyboard to enter your password and press “connect” 
-   - Congratulations, you are now connected to your local wifi network
+   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
+   2. Select “network” from the list 
+   3. Select “configure wifi” from the list 
+   4. Select your wifi network you wish to connect to 
+   5. Use the on-screen keyboard to enter your password and press “connect” 
+   6. Congratulations, you are now connected to your local wifi network
 
 Hotspot Mode
-   - Select “Utilities” on the home screen of the Robo C2 touch screen 
-   - Select “Network” from the list
-   - Select “Start Hotspot Mode” from the list
-   - Your Robo C2 is now casting it's own wireless network
+   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
+   2. Select “Network” from the list
+   3. Select “Start Hotspot Mode” from the list
+   4. Your Robo C2 is now casting it's own wireless network
    
 Downloading the Robo App
 -----------
 From your iOS Device
-   - Open the App Store app
-   - On the bottom dock, tap on search
-   - Enter “Robo App”
-   - Tap on the Robo App with this Icon (show icon here)
-   - Tap download on the right of the icon, and rate us 5 stars if you like it
+   1. Open the App Store app
+   2. On the bottom dock, tap on search
+   3. Enter “Robo App”
+   4. Tap on the Robo App with this Icon (show icon here)
+   5. Tap download on the right of the icon, and rate us 5 stars if you like it
 
 Connecting your iOS device to your Robo C2
 -----------
 Connecting via a local wifi network
-   - Make sure your smart device is connected to the same wifi network as your Robo C2
-   - In the ‘dashboard’ screen of the Robo App, tap ‘+Add a Printer’ in the middle of the screen
-   - Select ‘Scan for Printer Name/IP’
-   - A pop up will appear with all of the printers on the same network as your smart device, go ahead and select which printer you would like to add (your printer has a unique name, example - Curious Tesla, or Brilliant Einstein). (You may look on the back of your printer and find out which name your printer has been givin).
-   - Now you will need to scan the QR code on your screen to fully connect the 3d printer to your smart device.
+   1. Make sure your smart device is connected to the same wifi network as your Robo C2
+   2. In the ‘dashboard’ screen of the Robo App, tap ‘+Add a Printer’ in the middle of the screen
+   3. Select ‘Scan for Printer Name/IP’
+   4. A pop up will appear with all of the printers on the same network as your smart device, go ahead and select which printer you would like to add (your printer has a unique name, example - Curious Tesla, or Brilliant Einstein). (You may look on the back of your printer and find out which name your printer has been givin).
+   5. Now you will need to scan the QR code on your screen to fully connect the 3d printer to your smart device.
 
 		+ On the screen of your machine, select  ‘Utilities’
 		+ Select ‘network’
 		+ Select ‘QR Code’ 
-   - Tap on ‘Scan Printer Barcode for Key’
-   - Point your camera at the barcode and wait for the app to recognize the 3d printer
-   - Tap ‘add printer’ at the bottom of the screen
-   - Congratulations, you have now added your Robo C2 to your app
-   - note that you can add multiple machines to the same app, and control each one independently)
+   6. Tap on ‘Scan Printer Barcode for Key’
+   7. Point your camera at the barcode and wait for the app to recognize the 3d printer
+   8. Tap ‘add printer’ at the bottom of the screen
+   9. Congratulations, you have now added your Robo C2 to your app
+   10. note that you can add multiple machines to the same app, and control each one independently)
 
 Connecting via Hotspot Mode
-   - Make sure that you are connected to the wifi signal that the machine is emitting
-   - Follow steps in the previous section (D1.1.2) to successfully connect your printer to the app
+   1. Make sure that you are connected to the wifi signal that the machine is emitting
+   2. Follow steps in the previous section (D1.1.2) to successfully connect your printer to the app
 
