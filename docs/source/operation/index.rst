@@ -22,6 +22,7 @@ Here we will calibrate Robo C2 by setting the Z-Offset and making sure your firs
    8. Select 'Finished" 
    9. Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset
 
+-----------
 Loading and Unloading Filament
 -----------
 Loading Filament
@@ -58,6 +59,7 @@ Starting a print from a USB flash drive
    4. Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
    5. Finally, select 'Start' to start the print
 
+-----------
 Print Status
 -----------
 
@@ -76,6 +78,7 @@ Web app
    - Then select 'IP Address' and note the IP address of your Robo C2
    - Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
+-----------
 Using print bed adhesion
 -----------
 
@@ -83,6 +86,7 @@ The Robo C2 has a print bed adhesion tape already installed with your printer. T
    - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with isopropyl alcohol before every print.
    - If your prints have a hard time sticking to the bed, you can replace the print bed adhesion with the extras that came in your inclusions box or buy directly from www.robo3d.com store
 
+------------
 Removing the print
 ------------
 
@@ -92,6 +96,7 @@ Removing the print
    4. Carefully remove the print from the print plate with your hand.
    - Note: if the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
+-----------
 Setting Up Wifi
 -----------
 
@@ -110,7 +115,8 @@ Hotspot Mode
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
    4. Your Robo C2 is now casting it's own wireless network
-   
+
+-----------
 Downloading the Robo App
 -----------
 From your iOS Device
@@ -120,6 +126,7 @@ From your iOS Device
    4. Tap on the Robo App with this Icon (show icon here)
    5. Tap download on the right of the icon, and rate us 5 stars if you like it
 
+-----------
 Connecting your iOS device to your Robo C2
 -----------
 Connecting via a local wifi network
