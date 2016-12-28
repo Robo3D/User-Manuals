@@ -120,11 +120,11 @@ Finally, select FILAMENT LOADING WIZARD.
 
 And then follow the on-screen prompts, which will include:
 
-Heating up the printer
-Ensuring you’ve cut off the tip of the filament
-Having the filament feed through until you see it coming from the nozzle
-Pressing NEXT, and
-Pressing FINISHED
+- Heating up the printer
+- Ensuring you’ve cut off the tip of the filament
+- Having the filament feed through until you see it coming from the nozzle
+- Pressing NEXT, and
+- Pressing FINISHED
 
 Calibration and setting Z offset
 ---------------
@@ -147,9 +147,9 @@ From here you’ll select Z OFFSET WIZARD.
 
 And then follow the on-screen prompts, which include:
  
-Waiting for the printer to calibrate its home position
-Pressing up and down on the [insert descriptor] buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
-Pressing FINISHED
+- Waiting for the printer to calibrate its home position
+- Pressing up and down on the [insert descriptor] buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
+- Pressing FINISHED
 
 Note that you will see the offset progress and completion on the touchscreen.
 
@@ -233,10 +233,10 @@ Once you’re done, select CONNECT.
    :alt: Select Connect
    :align: center
    
-*Using Hotspot Mode*
+Using Hotspot Mode
+---------------
 
-
-If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
+Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
 
 
    1. Select “Utilities” on the home screen of the Robo C2 touch screen 
