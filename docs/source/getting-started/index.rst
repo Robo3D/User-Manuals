@@ -7,7 +7,7 @@
 Getting Started
 =================================================
 
-.. image:: https://github.com/Robo3D/support.robo3d.com/blob/master/docs/source/images/Cover.jpg
+.. image:: images/Cover.jpg
    :alt: Quick Start Guide cover
    :align: center
 
@@ -17,7 +17,7 @@ What’s in the box
 Your Robo C2 comes with everything you need to start printing right out of the box. And the inclusions box inside the printer has everything you need to perform basic maintenance, plus free professional-grade Autodesk design software, and a multi-language Quick Start Guide.
 
 Top of box
-   1. Quick Start Guide 
+   1. Quick Start Guide
    2. Autodesk Fusion 360 design software free 1-year voucher
    3. 9 print bed tape covers (with 1 already applied to your print bed).
    4. Robo stickers to place EVERYWHERE.
@@ -41,7 +41,7 @@ Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simp
 
 .. tip:: Save your printer box, nylon strap, foam inserts, and inclusions box. You will need the original packaging to exercise your warranty or ship your printer in the future.
 
-The printer's accessories are stored in the inclusions box inside the printer. Simply slide the inclusion box out and be sure to remove the foam.  
+The printer's accessories are stored in the inclusions box inside the printer. Simply slide the inclusion box out and be sure to remove the foam.
 
 Register your Robo C2
 ---------------
@@ -53,29 +53,29 @@ Now let’s move forward with your initial set-up of Robo C2.
 
 First, insert the spool holder into the rear slot of the printer.
 
-.. image:: /docs/source/images/1.1.png
+.. image:: images/1.1.png
    :alt: Insert Spool Holder
    :align: center
-   
+
 Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
 
-.. image:: source/images/1.2.png
+.. image:: images/1.2.png
    :alt: Insert Filament Feed Tube into Filament Sensor Block
    :align: center
 
-.. image:: /docs/source/images/1.3.png
+.. image:: images/1.3.png
    :alt: Insert Filament Feed Tube into Extruder
    :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
-.. image:: /docs/source/images/1.4.png
+.. image:: images/1.4.png
    :alt: Connect Power Cord
    :align: center
 
 Now go ahead and turn on the printer.
 
-.. image:: /docs/source/images/1.5.png
+.. image:: images/1.5.png
    :alt: Turn on Printer
    :align: center
 
@@ -84,37 +84,37 @@ Loading filament
 
 To begin loading filament, hang your filament spool on the spool holder.
 
-.. image:: /docs/source/images/2.1.png
+.. image:: images/2.1.png
    :alt: Hang Filament Spool on Spool Holder
    :align: center
 
 Be sure to unroll at least 11”— or 30 centimeters — of filament and thread it through the base of the filament sensor block and into the filament feed tube.
 
-.. image:: /docs/source/images/2.2.png
+.. image:: images/2.2.png
    :alt: Thread Filament into Filament Sensor Tube
    :align: center
 
 Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder button and feed the filament into the printer’s gears.
 
-.. image:: /docs/source/images/2.3.png
+.. image:: images/2.3.png
    :alt: Feed Filament Until it Reaches the Extruder
    :align: center
-   
+
 Now select UTILITIES on the touch screen.
 
-.. image:: /docs/source/images/2.4.png
+.. image:: images/2.4.png
    :alt: Select Utilities on Touch Screen
    :align: center
-   
+
 Then select WIZARDS from the list.
 
-.. image:: /docs/source/images/2.5.png
+.. image:: images/2.5.png
    :alt: Select Wizards from List
    :align: center
-   
+
 Finally, select FILAMENT LOADING WIZARD.
 
-.. image:: /docs/source/images/2.6.png
+.. image:: images/2.6.png
    :alt: Select Filament Loading Wizard
    :align: center
 
@@ -131,22 +131,22 @@ Calibration and setting Z offset
 
 Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
 
-.. image:: /docs/source/images/3.1.png
+.. image:: images/3.1.png
    :alt: Select Utilities on Touch Screen
    :align: center
-   
-.. image:: /docs/source/images/3.2.png
+
+.. image:: images/3.2.png
    :alt: Select Wizards from List
    :align: center
-   
+
 From here you’ll select Z OFFSET WIZARD.
 
-.. image:: /docs/source/images/3.3.png
+.. image:: images/3.3.png
    :alt: Select Z Offset Wizard
    :align: center
 
 And then follow the on-screen prompts, which include:
- 
+
 - Waiting for the printer to calibrate its home position
 - Pressing up and down on the [insert descriptor] buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
 - Pressing FINISHED
@@ -158,25 +158,25 @@ The test print
 
 To create your first test print Select FILES on the home screen. Then select a file to print from the list.
 
-.. image:: /docs/source/images/4.1.png
+.. image:: images/4.1.png
    :alt: Select Files on Home Screen
    :align: center
-   
+
 Now, select START to print—and be sure to wait several seconds while Robo C2 prepares to print the file.
 
-.. image:: /docs/source/images/4.2.png
+.. image:: images/4.2.png
    :alt: Select Start
    :align: center
-   
+
 The file will start printing.
 
-.. image:: /docs/source/images/4.3.png
+.. image:: images/4.3.png
    :alt: File Printing
    :align: center
 
 Just note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
 
-.. image:: /docs/source/images/4.4.png
+.. image:: images/4.4.png
    :alt: Pause and Cancel Options
    :align: center
 
@@ -205,50 +205,41 @@ We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides 
 
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
-.. image:: /docs/source/images/5.1.png
+.. image:: images/5.1.png
    :alt: Select Utilities on Home Screen
    :align: center
-   
+
 Select NETWORK.
 
-.. image:: /docs/source/images/5.2.png
+.. image:: images/5.2.png
    :alt: Select Network on Home Screen
    :align: center
 
 Select CONFIGURE WIFI.
 
-.. image:: /docs/source/images/5.3.png
+.. image:: images/5.3.png
    :alt: Select Configure Wi-Fi on Home Screen
    :align: center
 
 Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
 
-.. image:: /docs/source/images/5.4.png
+.. image:: images/5.4.png
    :alt: Select Wi-Fi Network
    :align: center
 
 Once you’re done, select CONNECT.
 
-.. image:: /docs/source/images/5.5.png
+.. image:: images/5.5.png
    :alt: Select Connect
    :align: center
-   
+
 Using Hotspot Mode
 ---------------
 
 Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
 
 
-   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
+   1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
-   4. Select 
-
-
-
-
-
-
-
-
-
+   4. Select
