@@ -7,7 +7,7 @@
 Getting Started
 =================================================
 
-.. image:: /docs/source/images/Cover.jpg
+.. image:: .../docs/source/images/Cover.jpg
    :alt: Quick Start Guide cover
    :align: center
 
