@@ -7,7 +7,7 @@
 Getting Started
 =================================================
 
-.. image:: .../docs/source/images/Cover.jpg
+.. image:: https://github.com/Robo3D/support.robo3d.com/blob/master/docs/source/images/Cover.jpg
    :alt: Quick Start Guide cover
    :align: center
 
