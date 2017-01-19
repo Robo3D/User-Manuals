@@ -29,20 +29,18 @@ Be sure to check for the following before you print:
 And to ensure the best 3D printing experience now and in the future, use the following Robo C2 maintenance tips regularly (every 6-12 months, depending on use):
 
 
-[Let’s create animated gifs for the steps]
 
-
-Cleaning the feeder gear (gif of taking off cover and cleaning with toothbrush)
+Cleaning the feeder gear
 -----
 
 Steps to take to clean your feeder gear
    1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
-   2. Remove the extruder cap on the top of your extruder assembly (gif for this)
+   2. Remove the extruder cap on the top of your extruder assembly 
    3. Take a waire brush, toothbrush, or something similar, and brush the feed gear to remove debris
    4. Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned
    5. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2
 
-Lubricating the axis (gif of lubing rods)
+Lubricating the axis
 -----
 
 There are two types of linear rods, and two types of bearings in Robo C2, and they must be lubricated differently to ensure best prints.
@@ -55,19 +53,18 @@ White Lithium Grease
    - The x and y brackets have a smooth bushing inside of them, and need to be lubricated once every 2-4 months. Wipe down the build up that these bearing produce on the rods over time with a cleaning agent. The bearings can be greased with a few drops of 3-in-1 oil, or sewing machine oil to lubricate sufficiently.
 
 
-Tightening the pulleys (pics, maybe gif?)
+Tightening the pulleys
 
 
-Cleaning the nozzle (cold pulls) (Gif of screen temp and pulling filament)
-
+Cleaning the nozzle (cold pulls) 
 
 Cleaning the print bed surface
 -----
 
-- The Robo C2 print bed surface is a sheet of black painters tape. Make sure to clean it with rubbing alcohol to ensure your print sticks to its surface. (gif of cleaning)
-- After 15 or 20 prints, you may need to replace this sheet if you see that your prints are not sticking to it. Ensure that the print sheet is laid completely flat on the build platform, and that it is flush and level across the surface. (gif of applyling new build tape)
+- The Robo C2 print bed surface is a sheet of black painters tape. Make sure to clean it with rubbing alcohol to ensure your print sticks to its surface. 
+- After 15 or 20 prints, you may need to replace this sheet if you see that your prints are not sticking to it. Ensure that the print sheet is laid completely flat on the build platform, and that it is flush and level across the surface. 
 - When you run out of print surfaces, you can order more at www.robo3d.com or use your own.
-- When removing and replacing the entire print bed, double check that its magnets align with the magnets on the platform to ensure it is seated correctly. Build platforms that aren’t seated correctly will result in failed prints. (gif of removing print bed and aligning magnets)
+- When removing and replacing the entire print bed, double check that its magnets align with the magnets on the platform to ensure it is seated correctly. Build platforms that aren’t seated correctly will result in failed prints. 
 
 
 Removing your Hotend Nozzle
