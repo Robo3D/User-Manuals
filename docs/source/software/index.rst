@@ -64,7 +64,7 @@ Navigating the LCD Control Panel
  - Utilities --> Network --> Configure Wifi
  - Utilities --> Network --> Start Wifi hotspot
  - Utilities --> Network --> Network Status
- - Utilities --> Network --> QE Code
+ - Utilities --> Network --> QR Code
  - Utilities --> Update
 
 
