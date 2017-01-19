@@ -52,12 +52,6 @@ White Lithium Grease
 3-in-1 Oil
    - The x and y brackets have a smooth bushing inside of them, and need to be lubricated once every 2-4 months. Wipe down the build up that these bearing produce on the rods over time with a cleaning agent. The bearings can be greased with a few drops of 3-in-1 oil, or sewing machine oil to lubricate sufficiently.
 
-
-Tightening the pulleys
-
-
-Cleaning the nozzle (cold pulls) 
-
 Cleaning the print bed surface
 -----
 
