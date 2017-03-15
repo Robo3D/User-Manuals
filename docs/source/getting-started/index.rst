@@ -28,7 +28,9 @@ During your unboxing experience, you will find the following in the box of your 
    10. 500g Robo light blue filament
    11. Spatula
    
-   (picture of everything laid out)
+.. image:: images/Whats-Inside-the-Box.png
+   :alt: Whats Inside the Box
+   :align: center
 
 
 Unboxing Robo C2
