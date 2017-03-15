@@ -58,7 +58,9 @@ Unclip the black nylon strap and remove the two halves of the top styrofoam shel
 
 The printer's accessories are stored in the inclusions box inside the printer. Simply slide the inclusion box out and be sure to remove the foam.
 
-(insert gif of taking out the insides)
+.. image:: images/Pulling-out-inclusions-box.gif
+   :alt: Inclusions Box
+   :align: center
 
 Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
 
