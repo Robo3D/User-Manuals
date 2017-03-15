@@ -44,12 +44,14 @@ Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simp
    :alt: Taking it out
    :align: center
 
-Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
+Unclip the black nylon strap and remove the two halves of the top styrofoam shell. 
 
 .. image:: images/Unstrapping-foam.gif
    :alt: Unstrapping Foam
    :align: center
    
+Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
+
 .. image:: images/Lifting-from-bottom-foam.gif
    :alt: Lifting from Foam
    :align: center
