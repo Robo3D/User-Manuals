@@ -98,11 +98,7 @@ Inside the toolbox you will find the hotend cover. Go ahead and take that out an
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
-(gif of power cord inserting)
-
 Now go ahead and turn on the printer.
-
-(gif of flipping power switch)
 
 Loading filament
 ---------------
