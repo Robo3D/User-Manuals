@@ -7,29 +7,26 @@
 Getting Started
 =================================================
 
-.. image:: images/Cover.jpg
-   :alt: Quick Start Guide cover
-   :align: center
+(put image of C2 that has a correct title [getting started])
 
 What’s in the box
 ---------------
 
-Your Robo C2 comes with everything you need to start printing right out of the box. And the inclusions box inside the printer has everything you need to perform basic maintenance, plus free professional-grade Autodesk design software, and a multi-language Quick Start Guide.
+During your unboxing experience, you will find the following in the box of your Robo C2:
 
-Top of box
    1. Quick Start Guide
    2. Autodesk Fusion 360 design software free 1-year voucher
    3. 9 print bed tape covers (with 1 already applied to your print bed).
    4. Robo stickers to place EVERYWHERE.
-Layer 1
    5. 19V power supply
-   6. 2 filament spool arms
-Layer 2
-   7. Toolbox with 2 allen wrenches, lubricant, and screwdriver.
-   8. Robo USB drive
-Layer 3
-   9. 500g Robo light blue filament
-   10. Spatula
+   6. Filament Guide Tube
+   7. 2 filament spool arms
+   8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
+   9. Robo USB drive
+   10. 500g Robo light blue filament
+   11. Spatula
+   
+   (picture of everything laid out)
 
 
 Unboxing Robo C2
@@ -37,11 +34,27 @@ Unboxing Robo C2
 
 Now that you've received your Robo C2, it's time to unbox it and get familiar with your printer and accessories.
 
-Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simply lift the printer from the box using the strap and set it down. Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
+Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simply lift the printer from the box using the strap and set it down.
 
-.. tip:: Save your printer box, nylon strap, foam inserts, and inclusions box. You will need the original packaging to exercise your warranty or ship your printer in the future.
+(insert gif of taking out of box)
+
+Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
+
+(insert gif of unstrapping, taking off foam and removing printer from foam)
+
+.. tip:: Save your printer box, nylon strap, foam inserts, and inclusions box for transportation. Also, you might need the original packaging to exercise your warranty or ship your printer in the future.
 
 The printer's accessories are stored in the inclusions box inside the printer. Simply slide the inclusion box out and be sure to remove the foam.
+
+(insert gif of taking out the insides)
+
+Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
+
+(gif of this)
+
+Next, remove the zipties securing the rods to their plastic brackets
+
+(picture of this)
 
 Register your Robo C2
 ---------------
@@ -53,31 +66,23 @@ Now let’s move forward with your initial set-up of Robo C2.
 
 First, insert the spool holder into the rear slot of the printer.
 
-.. image:: images/1.1.png
-   :alt: Insert Spool Holder
-   :align: center
+(insert gif of inserting filament spool)
 
 Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
 
-.. image:: images/1.2.png
-   :alt: Insert Filament Feed Tube into Filament Sensor Block
-   :align: center
+(gif of filament tube being inerted)
 
-.. image:: images/1.3.png
-   :alt: Insert Filament Feed Tube into Extruder
-   :align: center
+Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
+
+(gif of doing this)
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
-.. image:: images/1.4.png
-   :alt: Connect Power Cord
-   :align: center
+(gif of power cord inserting)
 
 Now go ahead and turn on the printer.
 
-.. image:: images/1.5.png
-   :alt: Turn on Printer
-   :align: center
+(gif of flipping power switch)
 
 Loading filament
 ---------------
