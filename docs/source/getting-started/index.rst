@@ -82,11 +82,15 @@ Now let’s move forward with your initial set-up of Robo C2.
 
 First, insert the spool holder into the rear slot of the printer.
 
-(insert gif of inserting filament spool)
+.. image:: images/Inserting-Spool-Holder.gif
+   :alt: Inserting Spool Holder
+   :align: center
 
 Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
 
-(gif of filament tube being inerted)
+.. image:: images/Inserting-filament-tube.gif
+   :alt: Filament Tube
+   :align: center
 
 Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
 
