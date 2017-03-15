@@ -14,7 +14,7 @@ Getting Started
 What’s in the box
 ---------------
 
-During your unboxing experience, you will find the following in the box of your Robo C2:
+Besides your new Robo C2, you will find the following in the box:
 
    1. Quick Start Guide
    2. Autodesk Fusion 360 design software free 1-year voucher
@@ -40,7 +40,9 @@ Now that you've received your Robo C2, it's time to unbox it and get familiar wi
 
 Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simply lift the printer from the box using the strap and set it down.
 
-(insert gif of taking out of box)
+.. image:: images/Taking-out-of-box.gif
+   :alt: Taking it out
+   :align: center
 
 Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
 
