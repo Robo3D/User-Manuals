@@ -7,7 +7,9 @@
 Getting Started
 =================================================
 
-(put image of C2 that has a correct title [getting started])
+.. image:: images/C2-Getting-Started.png
+   :alt: Getting Started with Robo C2
+   :align: center
 
 What’s in the box
 ---------------
