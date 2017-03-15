@@ -103,15 +103,9 @@ Now go ahead and turn on the printer.
 Loading filament
 ---------------
 
-To begin loading filament, hang your filament spool on the spool holder.
+To begin loading filament, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and thread it through the base of the filament sensor block and into the filament feed tube.
 
-.. image:: images/2.1.png
-   :alt: Hang Filament Spool on Spool Holder
-   :align: center
-
-Be sure to unroll at least 11”— or 30 centimeters — of filament and thread it through the base of the filament sensor block and into the filament feed tube.
-
-.. image:: images/2.2.png
+.. image:: images/Spool-On.gif
    :alt: Thread Filament into Filament Sensor Tube
    :align: center
 
