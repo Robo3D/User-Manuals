@@ -111,7 +111,7 @@ To begin loading filament, hang your filament spool on the spool holder. Be sure
 
 Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder button and feed the filament into the printer’s gears.
 
-.. image:: images/2.3.png
+.. image:: images/Filament-into-extruder.gif
    :alt: Feed Filament Until it Reaches the Extruder
    :align: center
 
