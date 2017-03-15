@@ -39,12 +39,12 @@ Make smarter with the Robo app
 
 Simply download the free Robo app to experience the next level in 3D printing and get more out of everything you make.
 
-   *Connect and print right from your mobile device
-   *Monitor the progress of every print
-   *Manage multiple prints and printers at once
-   *Manual control panel lets you handle every detail with precision
-   *Connect to cloud libraries and access thousands of 3D models
-   *Make in-app purchases (filaments, accessories, print kits and more)
+   * Connect and print right from your mobile device
+   * Monitor the progress of every print
+   * Manage multiple prints and printers at once
+   * Manual control panel lets you handle every detail with precision
+   * Connect to cloud libraries and access thousands of 3D models
+   * Make in-app purchases (filaments, accessories, print kits and more)
 
 Use the following steps to download the Robo app from the App Store:
 
