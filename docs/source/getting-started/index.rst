@@ -46,7 +46,13 @@ Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simp
 
 Unclip the black nylon strap and remove the two halves of the top styrofoam shell. Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
 
-(insert gif of unstrapping, taking off foam and removing printer from foam)
+.. image:: images/Unstrapping-foam.gif
+   :alt: Unstrapping Foam
+   :align: center
+   
+.. image:: images/Lifting-from-bottom-foam.gif
+   :alt: Lifting from Foam
+   :align: center
 
 .. tip:: Save your printer box, nylon strap, foam inserts, and inclusions box for transportation. Also, you might need the original packaging to exercise your warranty or ship your printer in the future.
 
