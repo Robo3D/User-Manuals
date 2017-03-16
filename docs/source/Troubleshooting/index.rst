@@ -29,17 +29,34 @@ Material Not Extruding
 ---------------
 
 1. Nozzle isnt heating up
-   *  Make sure all of your wiring is plugged in and firmly mounted in its correct brackets. 
-   *  Hotend Wiring
+  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets. 
+  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
+  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder
 2. Drive Gear is not cleaned
+  * Turn Off the Printer
+  * Take off the extruder cover
+  * Use a toothbrush to scrub the drive gear
+  * Turn it with your hand, and continue scrubbing until it is cleaned of debris
 3. Material is stuck around the spool
+  * Every so often, the material can get stuck on the spool holder or in the spool itself
+  * If the material is tangled on the spool holder, unwind about 12 inches or 25 cm of filament to loosen it, then reel it back around the spool neatly, trying not to cross over plastic as it spools onto itself
+  * If the material is tangled within the spool, you will need to unwind some the spool and see where it is crossing over itself. Cut the plastic where you find it is crossing over itself, and feed it back into the machine.
 4. Drive Gear is not tightened down
-
+  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear. 
+  * To do this, turn off your machine and remove the extruder cover.
+  * Next, unscrew the extruder tensioner cover with a screwdriver.
+  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+  * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
+  * Now reverse these steps to put it all back together
+  
 Shifting Layers/bad print quality
 ---------------
 
 1. Loose Pulleys
+  * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place. 
+  * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
 2. Loose Bearings
+   * 
 3. Unaligned Axis
 
 Hotend Clogged
