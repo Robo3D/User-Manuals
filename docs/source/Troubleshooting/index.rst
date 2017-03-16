@@ -4,36 +4,46 @@
    contain the root `toctree` directive.
 
 =================================================
-Getting Started
+Troubleshooting
 =================================================
 
-.. image:: images/C2-Getting-Started.png
-   :alt: Getting Started with Robo C2
+.. image:: images/Questionsorneedhelp.png
+   :alt: Questions or Help
    :align: center
 
-What’s in the box
+Print Not Sticking to Bed
 ---------------
 
-Besides your new Robo C2, you will find the following in the box:
+If you are experiencing problems with the plastic not adhering to your print bed, there are a few things that can be done;
 
-1. Quick Start Guide
-2. Autodesk Fusion 360 design software free 1-year voucher
-3. 9 print bed tape covers (with 1 already applied to your print bed).
-4. Robo stickers to place EVERYWHERE.
-5. 19V power supply
-6. Filament Guide Tube
-7. 2 filament spool arms
-8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
-9. Robo USB drive
-10. 500g Robo light blue filament
-11. Spatula
+1. Update
+  * Make sure to update your printer to the latest version of the software. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+2. Re-run the z-offset wizard
+  * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard. 
+3. Replace the build plate adhesion
+  * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
    
 .. image:: images/Whats-Inside-the-Box.png
    :alt: Whats Inside the Box
    :align: center
 
 
-Unboxing Robo C2
+Material Not Extruding
+---------------
+
+Loose Pulleys and Belts
+---------------
+
+Hotend Clogged
+---------------
+
+Hotend falling out
+---------------
+
+Screens Goes White or Doesn't Work
+---------------
+
+Bearing on the Z-Bracket coming loose
 ---------------
 
 Now that you've received your Robo C2, it's time to unbox it and get familiar with your printer and accessories.
