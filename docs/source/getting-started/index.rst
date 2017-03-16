@@ -140,7 +140,7 @@ Follow the on-screen prompts:
 - Now, look for filament to exit the nozzle
 
 .. image:: images/Filament-coming-from-nozzle.gif
-   :alt: Select Filament Loading Wizard
+   :alt: Filament coming from nozzle
    :align: center
    
 - Press NEXT, and
@@ -165,11 +165,19 @@ From here you’ll select Z OFFSET WIZARD.
    :alt: Select Z Offset Wizard
    :align: center
 
-And then follow the on-screen prompts, which include:
+Now, the printer will wait to calibrate its home position
 
-- Waiting for the printer to calibrate its home position
-- Pressing up and down on the [insert descriptor] buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
-- Pressing FINISHED
+.. image:: images/Homing-z-offset.gif
+   :alt: Homing Z Offset
+   :align: center
+   
+Press up and down on the arrow buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
+
+.. image:: images/z-offset-move.gif
+   :alt: Homing Z Offset
+   :align: center
+
+Press FINISHED
 
 Note that you will see the offset progress and completion on the touchscreen.
 
