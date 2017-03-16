@@ -117,19 +117,19 @@ Continue feeding the filament through the filament feed tube until it reaches th
 
 Now select UTILITIES on the touch screen.
 
-.. image:: images/2.4.png
+.. image:: images/SelectUtilities.png
    :alt: Select Utilities on Touch Screen
    :align: center
 
 Then select WIZARDS from the list.
 
-.. image:: images/2.5.png
+.. image:: images/SelectWizards.png
    :alt: Select Wizards from List
    :align: center
 
 Finally, select FILAMENT LOADING WIZARD.
 
-.. image:: images/2.6.png
+.. image:: images/SelectFilamentLoading.png
    :alt: Select Filament Loading Wizard
    :align: center
 
@@ -151,17 +151,17 @@ Calibration and setting Z offset
 
 Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
 
-.. image:: images/3.1.png
+.. image:: images/SelectUtilities.png
    :alt: Select Utilities on Touch Screen
    :align: center
 
-.. image:: images/3.2.png
+.. image:: images/SelectWizards.png
    :alt: Select Wizards from List
    :align: center
 
 From here you’ll select Z OFFSET WIZARD.
 
-.. image:: images/3.3.png
+.. image:: images/SelectZOffset.png
    :alt: Select Z Offset Wizard
    :align: center
 
