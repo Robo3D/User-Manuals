@@ -133,13 +133,18 @@ Finally, select FILAMENT LOADING WIZARD.
    :alt: Select Filament Loading Wizard
    :align: center
 
-And then follow the on-screen prompts, which will include:
+Follow the on-screen prompts:
 
 - Heating up the printer
 - Ensuring you’ve cut off the tip of the filament
-- Having the filament feed through until you see it coming from the nozzle
-- Pressing NEXT, and
-- Pressing FINISHED
+- Now, look for filament to exit the nozzle
+
+.. image:: images/Filament-coming-from-nozzle.gif
+   :alt: Select Filament Loading Wizard
+   :align: center
+   
+- Press NEXT, and
+- Press FINISHED
 
 Calibration and setting Z offset
 ---------------
