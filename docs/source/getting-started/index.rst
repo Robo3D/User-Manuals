@@ -16,17 +16,17 @@ What’s in the box
 
 Besides your new Robo C2, you will find the following in the box:
 
-   1. Quick Start Guide
-   2. Autodesk Fusion 360 design software free 1-year voucher
-   3. 9 print bed tape covers (with 1 already applied to your print bed).
-   4. Robo stickers to place EVERYWHERE.
-   5. 19V power supply
-   6. Filament Guide Tube
-   7. 2 filament spool arms
-   8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
-   9. Robo USB drive
-   10. 500g Robo light blue filament
-   11. Spatula
+1. Quick Start Guide
+2. Autodesk Fusion 360 design software free 1-year voucher
+3. 9 print bed tape covers (with 1 already applied to your print bed).
+4. Robo stickers to place EVERYWHERE.
+5. 19V power supply
+6. Filament Guide Tube
+7. 2 filament spool arms
+8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
+9. Robo USB drive
+10. 500g Robo light blue filament
+11. Spatula
    
 .. image:: images/Whats-Inside-the-Box.png
    :alt: Whats Inside the Box
