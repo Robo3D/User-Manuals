@@ -8,6 +8,21 @@ Operation
 =================================================
 
 -----------
+Display Screen
+-----------
+
+The color touch screen display on the front of your Robo C2 is the main access point for setting up, controlling, and reviewing all components of your 3d printer. You can navigate through the menus by touch or a stylus.
+
+Files
+   -Here you are able to navigate through your files, whether they are on a usb thumb drive or on the local hard drive internally. 
+
+Printer
+   -The print screen is the default screen when printing. This will show you file printing, extruder tempersture, a progress indicator, and pause and cancel buttons while in use.
+   
+Utilities
+   -The Utilities menu offers a variety of options including: motor control, temperature control, z-offset wizard, network settings, and a way to update your printer
+   
+-----------
 Setting the Z offset
 -----------
 
@@ -76,7 +91,7 @@ Web app
    - To see the IP address of your printer, select 'Utilities' from the home screen
    - Next select 'Network'
    - Then select 'IP Address' and note the IP address of your Robo C2
-   - Copy that number into your navigation bar, and it will bring you to a web app to see all things with your Robo C2
+   - Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
 -----------
 Using print bed adhesion
@@ -124,7 +139,7 @@ From your iOS Device
    1. Open the App Store app
    2. On the bottom dock, tap on search
    3. Enter “Robo App”
-   4. Tap on the Robo App with this Icon (show icon here)
+   4. Tap on the Robo App
    5. Tap download on the right of the icon, and rate us 5 stars if you like it
 
 -----------
@@ -144,9 +159,13 @@ Connecting via a local wifi network
    7. Point your camera at the barcode and wait for the app to recognize the 3d printer
    8. Tap ‘add printer’ at the bottom of the screen
    9. Congratulations, you have now added your Robo C2 to your app
-   10. note that you can add multiple machines to the same app, and control each one independently)
+   10. note that you can add multiple machines to the same app, and control each one independently
 
 Connecting via Hotspot Mode
    1. Make sure that you are connected to the wifi signal that the machine is emitting
-   2. Follow steps in the previous section (D1.1.2) to successfully connect your printer to the app
+   2. Follow steps in the previous section to successfully connect your printer to the app
 
+-----------
+Updating Your Printer
+-----------
+Make sure to update your printer to grab the benefits of all the latest Robo has to offer, as well as making sure your Robo C2 performs to the best of its ability.
