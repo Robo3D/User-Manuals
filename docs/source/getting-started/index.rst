@@ -66,7 +66,7 @@ The printer's accessories are stored in the inclusions box inside the printer. S
 
 Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
 
-.. image:: images/Rodclipremoval.gif
+.. image:: images/Rod-clip-removal.gif
    :alt: Clip Removal
    :align: center
 
