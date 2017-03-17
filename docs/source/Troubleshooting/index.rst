@@ -55,22 +55,39 @@ Shifting Layers/bad print quality
 1. Loose Pulleys
   * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place. 
   * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
-2. Loose Bearings
-   * 
-3. Unaligned Axis
+2. Unaligned Axis
+  * Re-align your axis to be perpendicular to each other. To do this, use the orange clips that came with your printer.
+  * Unplug your machine, and move your extruder to the front right corner.
+  * Using the orange rod stabilizers, attach one at each corner of the gantry, completing a square. This should re-align your brackets and revive your print quality.
 
 Hotend Clogged
 ---------------
 
 1. Not Heating up enough
+  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets. 
+  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
+  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder
 2. Material stuck below the Drive Gear
+  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear. 
+  * To do this, turn off your machine and remove the extruder cover.
+  * Next, unscrew the extruder tensioner cover with a screwdriver.
+  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose. 
+  * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
 3. Hotend fan is not on
-
+  * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
+  * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder. 
+  
 Hotend falling out
 ---------------
-
-1. Screw is not tight enough
-
+If you are experiencing your hotend falling out from the extruder, there is a simple fix that will lock your extruder in place 
+1. The tension screw is not tight enough
+  * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
+  * Make sure to turn off your printer.
+  * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+  * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
+  * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
+  
 Screens Goes White or Doesn't Work
 ---------------
 
