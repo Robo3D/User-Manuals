@@ -7,7 +7,7 @@
 Troubleshooting
 =================================================
 
-.. image:: images/1.1.png
+.. image:: images/Questionsorneedhelp.png
    :alt: Getting Started
    :align: center
 
