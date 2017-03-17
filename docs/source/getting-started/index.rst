@@ -66,11 +66,15 @@ The printer's accessories are stored in the inclusions box inside the printer. S
 
 Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
 
-(gif of this)
+.. image:: images/Rodclipremoval.gif
+   :alt: Clip Removal
+   :align: center
 
 Next, remove the zipties securing the rods to their plastic brackets
 
-(picture of this)
+.. image:: images/Cutting-zip-tie.jpg
+   :alt: Ziptie Removal
+   :align: center
 
 Register your Robo C2
 ---------------
@@ -94,7 +98,9 @@ Next, insert the filament feed tube into the filament sensor block, and then ins
 
 Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
 
-(gif of doing this)
+.. image:: images/Hotend-cover-on.gif
+   :alt: Hotend Cover On
+   :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
