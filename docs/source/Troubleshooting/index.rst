@@ -4,262 +4,99 @@
    contain the root `toctree` directive.
 
 =================================================
-Getting Started
+Troubleshooting
 =================================================
 
-.. image:: images/C2-Getting-Started.png
-   :alt: Getting Started with Robo C2
+.. image:: images/questionsorneedhelp.png
+   :alt: Questions or Help
    :align: center
 
-What’s in the box
+Print Not Sticking to Bed
 ---------------
 
-Besides your new Robo C2, you will find the following in the box:
+If you are experiencing problems with the plastic not adhering to your print bed, there are a few things that can be done;
 
-1. Quick Start Guide
-2. Autodesk Fusion 360 design software free 1-year voucher
-3. 9 print bed tape covers (with 1 already applied to your print bed).
-4. Robo stickers to place EVERYWHERE.
-5. 19V power supply
-6. Filament Guide Tube
-7. 2 filament spool arms
-8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
-9. Robo USB drive
-10. 500g Robo light blue filament
-11. Spatula
+1. Update
+  * Make sure to update your printer to the latest version of the software. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+2. Re-run the z-offset wizard
+  * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard. 
+3. Replace the build plate adhesion
+  * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
+4. Using a raft
+   * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
    
-.. image:: images/Whats-Inside-the-Box.png
-   :alt: Whats Inside the Box
-   :align: center
-
-
-Unboxing Robo C2
+Material Not Extruding
 ---------------
 
-Now that you've received your Robo C2, it's time to unbox it and get familiar with your printer and accessories.
-
-Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simply lift the printer from the box using the strap and set it down.
-
-.. image:: images/Taking-out-of-box.gif
-   :alt: Taking it out
-   :align: center
-
-Unclip the black nylon strap and remove the two halves of the top styrofoam shell. 
-
-.. image:: images/Unstrapping-foam.gif
-   :alt: Unstrapping Foam
-   :align: center
-   
-Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
-
-.. image:: images/Lifting-from-bottom-foam.gif
-   :alt: Lifting from Foam
-   :align: center
-
-.. tip:: Save your printer box, nylon strap, foam inserts, and inclusions box for transportation. Also, you might need the original packaging to exercise your warranty or ship your printer in the future.
-
-The printer's accessories are stored in the inclusions box inside the printer. Simply slide the inclusion box out and be sure to remove the foam.
-
-.. image:: images/Pulling-out-inclusions-box.gif
-   :alt: Inclusions Box
-   :align: center
-
-Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
-
-Next, remove the zipties securing the rods to their plastic brackets
-
-Register your Robo C2
----------------
-Before you start, please register your Robo C2 for any servicing or warranty needs if they’re ever required. You can register your product by visiting robo3d.com/register.
-
-Initial set-up
----------------
-Now let’s move forward with your initial set-up of Robo C2.
-
-First, insert the spool holder into the rear slot of the printer.
-
-.. image:: images/Inserting-Spool-Holder.gif
-   :alt: Inserting Spool Holder
-   :align: center
-
-Next, insert the filament feed tube into the filament sensor block, and then insert it into the extruder.
-
-.. image:: images/Inserting-filament-tube.gif
-   :alt: Filament Tube
-   :align: center
-
-Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
-
-(gif of doing this)
-
-From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
-
-Now go ahead and turn on the printer.
-
-Loading filament
+1. Nozzle isnt heating up
+  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets. 
+  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
+  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder
+2. Drive Gear is not cleaned
+  * Turn Off the Printer
+  * Take off the extruder cover
+  * Use a toothbrush to scrub the drive gear
+  * Turn it with your hand, and continue scrubbing until it is cleaned of debris
+3. Material is stuck around the spool
+  * Every so often, the material can get stuck on the spool holder or in the spool itself
+  * If the material is tangled on the spool holder, unwind about 12 inches or 25 cm of filament to loosen it, then reel it back around the spool neatly, trying not to cross over plastic as it spools onto itself
+  * If the material is tangled within the spool, you will need to unwind some the spool and see where it is crossing over itself. Cut the plastic where you find it is crossing over itself, and feed it back into the machine.
+4. Drive Gear is not tightened down
+  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear. 
+  * To do this, turn off your machine and remove the extruder cover.
+  * Next, unscrew the extruder tensioner cover with a screwdriver.
+  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+  * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
+  * Now reverse these steps to put it all back together
+  
+Shifting Layers/bad print quality
 ---------------
 
-To begin loading filament, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and thread it through the base of the filament sensor block and into the filament feed tube.
+1. Loose Pulleys
+  * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place. 
+  * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
+2. Unaligned Axis
+  * Re-align your axis to be perpendicular to each other. To do this, use the orange clips that came with your printer.
+  * Unplug your machine, and move your extruder to the front right corner.
+  * Using the orange rod stabilizers, attach one at each corner of the gantry, completing a square. This should re-align your brackets and revive your print quality.
 
-.. image:: images/Spool-On.gif
-   :alt: Thread Filament into Filament Sensor Tube
-   :align: center
-
-Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder button and feed the filament into the printer’s gears.
-
-.. image:: images/Filament-into-extruder.gif
-   :alt: Feed Filament Until it Reaches the Extruder
-   :align: center
-
-Now select UTILITIES on the touch screen.
-
-.. image:: images/SelectUtilities.png
-   :alt: Select Utilities on Touch Screen
-   :align: center
-
-Then select WIZARDS from the list.
-
-.. image:: images/SelectWizards.png
-   :alt: Select Wizards from List
-   :align: center
-
-Finally, select FILAMENT LOADING WIZARD.
-
-.. image:: images/SelectFilamentLoading.png
-   :alt: Select Filament Loading Wizard
-   :align: center
-
-Follow the on-screen prompts:
-
-- Heating up the printer
-- Ensuring you’ve cut off the tip of the filament
-- Now, look for filament to exit the nozzle
-
-.. image:: images/Filament-coming-from-nozzle.gif
-   :alt: Filament coming from nozzle
-   :align: center
-   
-- Press NEXT, and
-- Press FINISHED
-
-Calibration and setting Z offset
+Hotend Clogged
 ---------------
 
-Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
-
-.. image:: images/SelectUtilities.png
-   :alt: Select Utilities on Touch Screen
-   :align: center
-
-.. image:: images/SelectWizards.png
-   :alt: Select Wizards from List
-   :align: center
-
-From here you’ll select Z OFFSET WIZARD.
-
-.. image:: images/SelectZOffset.png
-   :alt: Select Z Offset Wizard
-   :align: center
-
-Now, the printer will wait to calibrate its home position
-
-.. image:: images/Homing-z-offset.gif
-   :alt: Homing Z Offset
-   :align: center
-   
-Press up and down on the arrow buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
-
-.. image:: images/z-offset-move.gif
-   :alt: Homing Z Offset
-   :align: center
-
-Press FINISHED
-
-Note that you will see the offset progress and completion on the touchscreen.
-
-The test print
+1. Not Heating up enough
+  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets. 
+  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
+  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder
+2. Material stuck below the Drive Gear
+  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear. 
+  * To do this, turn off your machine and remove the extruder cover.
+  * Next, unscrew the extruder tensioner cover with a screwdriver.
+  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose. 
+  * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
+3. Hotend fan is not on
+  * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
+  * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder. 
+  
+Hotend falling out
 ---------------
 
-To create your first test print Select FILES on the home screen. Then select a file to print from the list.
+If you are experiencing your hotend falling out from the extruder, there is a simple fix that will lock your extruder in place 
 
-.. image:: images/4.1.png
-   :alt: Select Files on Home Screen
-   :align: center
-
-Now, select START to print—and be sure to wait several seconds while Robo C2 prepares to print the file.
-
-.. image:: images/4.2.png
-   :alt: Select Start
-   :align: center
-
-The file will start printing.
-
-.. image:: images/4.3.png
-   :alt: File Printing
-   :align: center
-
-Just note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
-
-.. image:: images/4.4.png
-   :alt: Pause and Cancel Options
-   :align: center
-
-Removing the test print
+1. The tension screw is not tight enough
+  * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
+  * Make sure to turn off your printer.
+  * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+  * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
+  * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
+  
+Screens Goes White or Doesn't Work
 ---------------
 
-When the test print is complete and cooled down, remove the print bed with the finished print still in place by lifting the bed up and away from the magnets. Slowly slide the print bed out of the machine with both hands. Now, carefully flex the print bed from several positions to help loosen the print from the print bed. Repeat this process until the most of the print is loose from the bed. Carefully remove the print from the print bed with your hand.
+1. Loose Wiring
+2. Broken Screen
 
-.. image:: images/Removing-Print.gif
-   :alt: Removing Print From Bed
-   :align: center
-
-Note that if the print is not coming loose after flexing the print bed, put the bed back in Robo C2 and use the provided spatula to carefully remove the print at its borders. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
-
-Connecting to Wi-Fi
+Bed is loose
 ---------------
 
-We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
-
-
-.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
-
-To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
-
-.. image:: images/5.1.png
-   :alt: Select Utilities on Home Screen
-   :align: center
-
-Select NETWORK.
-
-.. image:: images/5.2.png
-   :alt: Select Network on Home Screen
-   :align: center
-
-Select CONFIGURE WIFI.
-
-.. image:: images/5.3.png
-   :alt: Select Configure Wi-Fi on Home Screen
-   :align: center
-
-Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
-
-.. image:: images/5.4.png
-   :alt: Select Wi-Fi Network
-   :align: center
-
-Once you’re done, select CONNECT.
-
-.. image:: images/5.5.png
-   :alt: Select Connect
-   :align: center
-
-Using Hotspot Mode
----------------
-
-Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
-
-
-   1. Select “Utilities” on the home screen of the Robo C2 touch screen
-   2. Select “Network” from the list
-   3. Select “Start Hotspot Mode” from the list
-   4. Select
+1. Bearing is coming loose
