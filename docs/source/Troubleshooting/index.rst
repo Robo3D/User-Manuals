@@ -93,10 +93,14 @@ If you are experiencing your hotend falling out from the extruder, there is a si
 Screens Goes White or Doesn't Work
 ---------------
 
+If the screen is not working there is a few steps that need to be taken to solve the issue.
+
 1. Loose Wiring
-2. Broken Screen
-
-Bed is loose
----------------
-
-1. Bearing is coming loose
+  * First, remove the black bezel (which is the black plastic holding the screen) by gently pulling inward from the inside edge of the plastic. From here you will be able to see the electronics of the printer.
+  * Next, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
+  * Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
+  * Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
+  * Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and replug this back in.
+  
+2. If your screen is still broken
+  * Contact customer support at www.robo3d.com/support
