@@ -7,17 +7,17 @@
 Troubleshooting
 =================================================
 
-.. image:: images/questionsorneedhelp.png
-   :alt: Questions or Help
+.. image:: images/Questionsorneedhelp.png
+   :alt: Getting Started
    :align: center
-
+   
 Print Not Sticking to Bed
 ---------------
 
 If you are experiencing problems with the plastic not adhering to your print bed, there are a few things that can be done;
 
 1. Update
-  * Make sure to update your printer to the latest version of the software. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+  * Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
 2. Re-run the z-offset wizard
   * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard. 
 3. Replace the build plate adhesion
