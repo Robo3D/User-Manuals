@@ -28,7 +28,7 @@ If you are experiencing problems with the plastic not adhering to your print bed
    :align: center
    
 4. Using a raft
-   * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
+  * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
 
 Material Not Extruding
 ---------------
