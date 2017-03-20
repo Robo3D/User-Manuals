@@ -7,7 +7,7 @@
 Troubleshooting
 =================================================
 
-.. image:: images/Questionsorneedhelp.png
+.. image:: Images/Questionsorneedhelp.png
    :alt: Getting Started
    :align: center
 
@@ -23,7 +23,7 @@ If you are experiencing problems with the plastic not adhering to your print bed
 3. Replace the build plate adhesion
   * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
   
-.. image:: images/Applying-bed-tape.gif
+.. image:: Images/Applying-bed-tape.gif
    :alt: Applying Bed Tape
    :align: center
    
@@ -37,17 +37,17 @@ Material Not Extruding
   * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
   * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
   
-.. image:: images/Fanelectronicsplugs.png
+.. image:: Images/Fanelectronicsplugs.png
    :alt: Fan Electronics Plugs
    :align: center  
    
   * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
   
-.. image:: images/Extruder-cover-off.gif
+.. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center    
 
-.. image:: images/Extruder-electronics.png
+.. image:: Images/Extruder-electronics.png
    :alt: Extruder Electronics
    :align: center  
   
@@ -55,13 +55,13 @@ Material Not Extruding
   * Turn Off the Printer
   * Take off the extruder cover
  
-.. image:: images/Extruder-cover-off.gif
+.. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center    
   
   * Use a toothbrush to clean this drive gear of debris shown in the picture
   
-  .. image:: images/Drive-gearscrub.png
+.. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
    :align: center  
    
@@ -74,25 +74,25 @@ Material Not Extruding
   * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
   * To do this, turn off your machine and remove the extruder cover.
 
-.. image:: images/Extruder-cover-off.gif
+.. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center  
 
   * Next, unscrew the extruder tensioner cover with a screwdriver.
   
-.. image:: images/Tensionercover.png
+.. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center  
   
   * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
   
-.. image:: images/Tensionerscrew.png
+.. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
    :align: center    
   
   * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
   
-.. image:: images/Drive-gear-tightening.png
+.. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center  
    
@@ -105,7 +105,7 @@ Shifting Layers/bad print quality
   * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place.
   * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
   
-.. image:: images/Pulley-tightening.png
+.. image:: Images/Pulley-tightening.png
    :alt: Exturder Cover Off
    :align: center
    
@@ -121,13 +121,13 @@ Hotend Clogged
   * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
   * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
   
-.. image:: images/Fanelectronicsplugs.png
+.. image:: Images/Fanelectronicsplugs.png
    :alt: Fan Electronics Plugs
    :align: center  
   
   * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
  
-.. image:: images/Extruder-electronics.png
+.. image:: Images/Extruder-electronics.png
    :alt: Extruder Electronics
    :align: center  
 
@@ -135,25 +135,25 @@ Hotend Clogged
   * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
   * To do this, turn off your machine and remove the extruder cover.
   
-.. image:: images/Extruder-cover-off.gif
+.. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center  
   
   * Next, unscrew the extruder tensioner cover with a screwdriver.
   
-.. image:: images/Tensionercover.png
+.. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center
   
   * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
   
-.. image:: images/Tensionerscrew.png
+.. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
    :align: center
   
   * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
   
-.. image:: images/Drive-gear-tightening.png
+.. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center 
   
@@ -162,7 +162,7 @@ Hotend Clogged
   * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
   * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder.
 
-.. image:: images/Fanelectronicsplugs.png
+.. image:: Images/Fanelectronicsplugs.png
    :alt: Fan Electronics Plugs
    :align: center 
 
@@ -176,14 +176,14 @@ If you are experiencing your hotend falling out from the extruder, there is a si
   * Make sure to turn off your printer.
   * Loosen your hotend by turning the tensioner screw counterclockwise a few turns
   
-.. image:: images/Hotend-tensioner-loosen.gif
+.. image:: Images/Hotend-tensioner-loosen.gif
    :alt: Loosening Hotend
    :align: center
   
   * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
   * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
   
-.. image:: images/Tightening-hotend-tensioner.gif
+.. image:: Images/Tightening-hotend-tensioner.gif
    :alt: Tightening Hotend
    :align: center  
   
@@ -197,39 +197,39 @@ If the screen is not working there is a few steps that need to be taken to solve
 1. Loose Wiring
   * First, remove the black bezel (which is the black plastic holding the screen) by gently pulling inward from the inside edge of the plastic. From here you will be able to see the electronics of the printer.
   
-.. image:: images/Bezel-removal.gif
+.. image:: Images/Bezel-removal.gif
    :alt: Bezel Removal
    :align: center
   
   * Next, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
   
-.. image:: images/Z-Screw-Raise.gif
+.. image:: Images/Z-Screw-Raise.gif
    :alt: Raising Z Screw
    :align: center
    
- .. image:: images/Inside-Cover-Removal.gif
+ .. image:: Images/Inside-Cover-Removal.gif
    :alt: Inside Cover Removal
    :align: center
   
   * Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
   
-.. image:: images/Screen-Plug.gif
+.. image:: Images/Screen-Plug.gif
    :alt: Screen Plug
    :align: center  
 
-.. image:: images/Pi-Ribbon-Cable.gif
+.. image:: Images/Pi-Ribbon-Cable.gif
    :alt: Pi Screen Plug
    :align: center
 
   * Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
   
-.. image:: images/Pi-Power-Cable.gif
+.. image:: Images/Pi-Power-Cable.gif
    :alt: Pi Power
    :align: center  
   
   * Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and replug this back in.
 
-.. image:: images/Pi-Power-Black.png
+.. image:: Images/Pi-Power-Black.png
    :alt: Pi Power black
    :align: center  
 
