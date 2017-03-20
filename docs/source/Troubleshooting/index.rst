@@ -17,30 +17,31 @@ Print Not Sticking to Bed
 If you are experiencing problems with the plastic not adhering to your print bed, there are a few things that can be done;
 
 1. Update
-  * Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+  a. Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
 2. Re-run the z-offset wizard
-  * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
+  a. Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
 3. Replace the build plate adhesion
-  * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
+  a. After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
   
 .. image:: Images/Applying-bed-tape.gif
    :alt: Applying Bed Tape
    :align: center
    
 4. Using a raft
-  * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
+  a. Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
 
 Material Not Extruding
 ---------------
 
 1. Nozzle isnt heating up
-  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
-  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
-  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
-  
+  a. Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
+  b. Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
+
 .. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electroncis
    :align: center
+
+  c. Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
@@ -51,14 +52,17 @@ Material Not Extruding
    :align: center  
   
 2. Drive Gear is not cleaned
-  * Turn Off the Printer
-  * Take off the extruder cover
-  * Use a toothbrush to clean this drive gear of debris shown in the picture
-  * Turn the shaft, and continue scrubbing until it is cleaned of debris    
-
+  a. Turn Off the Printer
+  b. Take off the extruder cover
+  
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center
+  
+  c. Use a toothbrush to clean this drive gear of debris shown in the picture
+  d. Turn the shaft, and continue scrubbing until it is cleaned of debris    
+
+
    
 .. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
