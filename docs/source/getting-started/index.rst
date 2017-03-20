@@ -235,25 +235,25 @@ We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides 
 
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
-.. image:: images/5.1.png
+.. image:: images/SelectUtilities.png
    :alt: Select Utilities on Home Screen
    :align: center
 
 Select NETWORK.
 
-.. image:: images/5.2.png
+.. image:: images/Selectnetwork.png
    :alt: Select Network on Home Screen
    :align: center
 
 Select CONFIGURE WIFI.
 
-.. image:: images/5.3.png
+.. image:: images/selectconfigurewifi.png
    :alt: Select Configure Wi-Fi on Home Screen
    :align: center
 
 Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
 
-.. image:: images/5.4.png
+.. image:: images/selectwifinetwork.png
    :alt: Select Wi-Fi Network
    :align: center
 
