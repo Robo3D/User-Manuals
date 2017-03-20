@@ -46,15 +46,6 @@ Simply download the free Robo app to experience the next level in 3D printing an
    * Connect to cloud libraries and access thousands of 3D models
    * Make in-app purchases (filaments, accessories, print kits and more)
 
-Use the following steps to download the Robo app from the App Store:
-
-From your iOS device
-	
-1. Open the App Store app
-2. Select “Search” on the bottom dock
-3. Enter “Robo App”
-4. Select the Robo App with this Icon (show icon here)
-5. Select download at the right of the icon (and rate us 5 stars if you like it!)
 
 Logging into your Robo account
 =================================================
