@@ -35,37 +35,36 @@ Material Not Extruding
 
 1. Nozzle isnt heating up
   * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
-  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder
-  
-.. image:: Images/Fanelectronicsplugs.png
-   :alt: Fan Electronics Plugs
-   :align: center  
-   
+  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
   * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
   
+.. image:: Images/Fanelectonicsplugs.png
+   :alt: Fan Electroncis
+   :align: center
+
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center    
 
-.. image:: Images/Extruder-electronics.png
+.. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
    :align: center  
   
 2. Drive Gear is not cleaned
   * Turn Off the Printer
   * Take off the extruder cover
- 
+  * Use a toothbrush to clean this drive gear of debris shown in the picture
+  * Turn the shaft, and continue scrubbing until it is cleaned of debris    
+
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center    
-  
-  * Use a toothbrush to clean this drive gear of debris shown in the picture
-  
+   :align: center
+   
 .. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
-   :align: center  
+   :align: center
    
-  * Turn it with your hand, and continue scrubbing until it is cleaned of debris
+
 3. Material is stuck around the spool
   * Every so often, the material can get stuck on the spool holder or in the spool itself
   * If the material is tangled on the spool holder, unwind about 12 inches or 25 cm of filament to loosen it, then reel it back around the spool neatly, trying not to cross over plastic as it spools onto itself
