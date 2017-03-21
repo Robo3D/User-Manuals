@@ -205,22 +205,47 @@ Removing the print
    2. Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
    3. Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
    4. Carefully remove the print from the print plate with your hand.
-   
+ 
+.. image:: images/Removing-Print.gif
+   :alt: Removing Print
+   :align: center
+ 
 .. note:: If the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
 -----------
 Setting Up Wifi
 -----------
+ * To begin connecting to your Wi-Fi network, Select 'Utilities' on home screen.
 
-There are two ways to connect your Robo C2 to wifi
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities on Home Screen
+   :align: center
 
-Connecting to your local wireless network
-   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
-   2. Select “network” from the list 
-   3. Select “configure wifi” from the list 
-   4. Select your wifi network you wish to connect to 
-   5. Use the on-screen keyboard to enter your password and press “connect” 
-   6. Congratulations, you are now connected to your local wifi network
+* Select 'Network'.
+
+.. image:: images/Selectnetwork.png
+   :alt: Select Network on Home Screen
+   :align: center
+
+* Select 'Configure WIFI'.
+
+.. image:: images/selectconfigurewifi.png
+   :alt: Select Configure Wi-Fi on Home Screen
+   :align: center
+
+* Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
+
+.. image:: images/selectwifinetwork.png
+   :alt: Select Wi-Fi Network
+   :align: center
+
+* Once you’re done, select CONNECT.
+
+.. image:: images/5.5.png
+   :alt: Select Connect
+   :align: center
+
+Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
 
 Hotspot Mode
    1. Select “Utilities” on the home screen of the Robo C2 touch screen 
@@ -236,7 +261,7 @@ From your iOS Device
    2. On the bottom dock, tap on search
    3. Enter “Robo App”
    4. Tap on the Robo App
-   5. Tap download on the right of the icon, and rate us 5 stars if you like it
+   5. Tap download on the right of the icon, and rate us 5 stars if you like it!
 
 -----------
 Connecting your iOS device to your Robo C2
