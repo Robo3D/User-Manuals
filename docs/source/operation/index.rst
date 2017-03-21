@@ -27,20 +27,38 @@ Setting the Z offset
 -----------
 
 Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly
-   1. From the home screen select "Utilities"
+
+From the home screen select "Utilities"
 
 .. image:: images/SelectUtilities.png
    :alt: Select Utilities
    :align: center
 
-   2. Then select "Wizards"
-   3. Next select "Z-Offset Wizard"
-   4. Your printer will now home itself and get in position to set your offset
-   5. Follow the directions on the screen by taking a piece of paper or something similar that is the same thickness as a piece of paper
-   6. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer
-   7. Slide the piece of paper in between the nozzle and bed and continue pressing the 'Up" button until you feel resistance on the paper  between the Nozzle and the print bed. Note: You still want to be able to slide the piece of paper back and forth but with enough resistance that it is touching both the bed and the nozzle
-   8. Select 'Finished" 
-   9. Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset
+Then select "Wizards"
+
+.. image:: images/SelectWizards.png
+   :alt: Select Wizards
+   :align: center
+
+Next select "Z-Offset Wizard"
+
+.. image:: images/SelectZOffset.png
+   :alt: Select Z Offset
+   :align: center
+
+Your printer will now home itself and get in position to set your offset
+
+.. image:: images/Homing-z-offset.gif
+   :alt: Homing Z offset
+   :align: center
+
+Follow the directions on the screen by taking a piece of paper or something similar that is the same thickness as a piece of paper. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer. Slide the piece of paper in between the nozzle and bed and continue pressing the 'Up" button until you feel resistance on the paper  between the Nozzle and the print bed. Note: You still want to be able to slide the piece of paper back and forth but with enough resistance that it is touching both the bed and the nozzle
+
+.. image:: images/z-offset-move.gif
+   :alt: Z offset move
+   :align: center
+
+Select 'Finished". Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset.
 
 -----------
 Loading and Unloading Filament
