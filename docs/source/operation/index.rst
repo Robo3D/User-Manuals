@@ -98,16 +98,11 @@ The feeder gear will push your filament down, through the extruder, and out of t
 Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
    
 Unloading Filament
-
- From the home screen select 'Utilities'
-
- Next, select 'Wizards'
-
- Select 'Filament Change Wizard'
-
- After you printer heats up, the feeder gear will start to retract the filament from the nozzle
-
- Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
+  1. From the home screen select 'Utilities'
+  2. Next, select 'Wizards'
+  3. Select 'Filament Change Wizard'
+  4. After you printer heats up, the feeder gear will start to retract the filament from the nozzle
+  5. Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
    
 -----------
 Start a print
