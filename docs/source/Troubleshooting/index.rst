@@ -209,11 +209,11 @@ If the screen is not working there is a few steps that need to be taken to solve
    :alt: Raising Z Screw
    :align: center
    
- .. image:: Images/Inside-Cover-Removal.gif
+.. image:: Images/Inside-Cover-Removal.gif
    :alt: Inside Cover Removal
    :align: center
   
-  * Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
+* Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
   
 .. image:: Images/Screen-Plug.gif
    :alt: Screen Plug
@@ -223,13 +223,13 @@ If the screen is not working there is a few steps that need to be taken to solve
    :alt: Pi Screen Plug
    :align: center
 
-  * Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
+* Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
   
 .. image:: Images/Pi-Power-Cable.gif
    :alt: Pi Power
    :align: center  
   
-  * Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and replug this back in.
+* Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and replug this back in.
 
 .. image:: Images/Pi-Power-Black.png
    :alt: Pi Power black
