@@ -290,3 +290,17 @@ Connecting via Hotspot Mode
 Updating Your Printer
 -----------
 Make sure to update your printer to grab the benefits of all the latest Robo has to offer, as well as making sure your Robo C2 performs to the best of its ability.
+
+ * Select "Utilities' from the main screen
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities on Home Screen
+   :align: center
+   
+* Select 'Update'
+
+.. image:: images/selectupdate.png
+   :alt: Select Update
+   :align: center
+   
+* Check to see if you have the most up-to-date software. If not, go ahead and update to get the best use from your Robo C2
