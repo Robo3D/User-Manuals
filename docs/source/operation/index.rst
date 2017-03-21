@@ -150,17 +150,40 @@ Print Status
 There are three ways to check on the status of your print while your Robo C2 is at work printing away
 
 Screen
-   - While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+   * While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+   
+.. image:: images/printingscreen.png
+   :alt: Printing Screen
+   :align: center
 
 Robo App
-   - If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+   * If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+
+.. image:: images/iosstatus.jpeg
+   :alt: iOS Screen
+   :align: center
 
 Web app
-   - If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
-   - To see the IP address of your printer, select 'Utilities' from the home screen
-   - Next select 'Network'
-   - Then select 'IP Address' and note the IP address of your Robo C2
-   - Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo C2
+ * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
+ * To see the IP address of your printer, select 'Utilities' from the home screen
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities
+   :align: center
+
+* Next select 'Network'
+
+.. image:: images/Selectnetwork.png
+   :alt: Select Network
+   :align: center
+
+* Then select 'Network Status' and note the IP address of your Robo C2
+
+.. image:: images/Selectnetworkstatus.png
+   :alt: Select Network Status
+   :align: center
+
+* Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo C2
 
 -----------
 Using print bed adhesion
@@ -169,6 +192,10 @@ Using print bed adhesion
 The Robo C2 has a print bed adhesion tape already installed with your printer. These will usually last about 10-30 prints depending on the model you print on it.
    - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with isopropyl alcohol before every print.
    - If your prints have a hard time sticking to the bed, you can replace the print bed adhesion with the extras that came in your inclusions box or buy directly from www.robo3d.com store
+ 
+.. image:: images/Applying-bed-tape.gif
+   :alt: Applying Bed Tape
+   :align: center   
 
 ------------
 Removing the print
