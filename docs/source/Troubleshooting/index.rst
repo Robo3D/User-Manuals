@@ -71,6 +71,7 @@ Material Not Extruding
   * Every so often, the material can get stuck on the spool holder or in the spool itself
   * If the material is tangled on the spool holder, unwind about 12 inches or 25 cm of filament to loosen it, then reel it back around the spool neatly, trying not to cross over plastic as it spools onto itself
   * If the material is tangled within the spool, you will need to unwind some the spool and see where it is crossing over itself. Cut the plastic where you find it is crossing over itself, and feed it back into the machine.
+
 4. Drive Gear is not tightened down
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
@@ -92,11 +93,12 @@ Material Not Extruding
    :align: center
 
 * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.  
-  * Now reverse these steps to put it all back together
-  
+
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center  
+
+* Now reverse these steps to put it all back together
 
 Shifting Layers/bad print quality
 ---------------
@@ -118,36 +120,39 @@ Hotend Clogged
 ---------------
 
 1. Not Heating up enough
-  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
-  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
-  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
+ * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
+ * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
+ * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
   
-.. image:: Images/Fanelectronicsplugs.png
-   :alt: Fan Electronics Plugs
-   :align: center
+.. image:: Images/Fanelectonicsplugs.png
+   :alt: Fan Electroncis
+   :align: center  
  
-.. image:: Images/Extruder-electronics.png
+.. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
    :align: center  
 
 2. Material stuck below the Drive Gear
-  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
-  * To do this, turn off your machine and remove the extruder cover.
-  * Next, unscrew the extruder tensioner cover with a screwdriver.
-  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
-  * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
+ * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
+ * To do this, turn off your machine and remove the extruder cover.
   
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center  
+ 
+* Next, unscrew the extruder tensioner cover with a screwdriver.
   
 .. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center
-  
+
+* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
+
 .. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
    :align: center
+
+* From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
   
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
