@@ -65,6 +65,7 @@ Use the following steps to log into your Robo account:
    operation/index.rst
    software/index.rst
    maintenance/index.rst
+   Troubleshooting/index.rst
    safety-compliance/index.rst
 
 
