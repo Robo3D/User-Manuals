@@ -66,7 +66,15 @@ The printer's accessories are stored in the inclusions box inside the printer. S
 
 Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
 
+.. image:: images/Rod-clip-removal.gif
+   :alt: Clip Removal
+   :align: center
+
 Next, remove the zipties securing the rods to their plastic brackets
+
+.. image:: images/Cutting-zip-tie.jpg
+   :alt: Ziptie Removal
+   :align: center
 
 Register your Robo C2
 ---------------
@@ -90,7 +98,9 @@ Next, insert the filament feed tube into the filament sensor block, and then ins
 
 Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
 
-(gif of doing this)
+.. image:: images/Hotend-cover-on.gif
+   :alt: Hotend Cover On
+   :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
@@ -225,25 +235,25 @@ We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides 
 
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
-.. image:: images/5.1.png
+.. image:: images/SelectUtilities.png
    :alt: Select Utilities on Home Screen
    :align: center
 
 Select NETWORK.
 
-.. image:: images/5.2.png
+.. image:: images/Selectnetwork.png
    :alt: Select Network on Home Screen
    :align: center
 
 Select CONFIGURE WIFI.
 
-.. image:: images/5.3.png
+.. image:: images/selectconfigurewifi.png
    :alt: Select Configure Wi-Fi on Home Screen
    :align: center
 
 Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
 
-.. image:: images/5.4.png
+.. image:: images/selectwifinetwork.png
    :alt: Select Wi-Fi Network
    :align: center
 
@@ -262,4 +272,3 @@ Your printer is capable of starting If no Wi-Fi signals are available for connec
    1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
-   4. Select
