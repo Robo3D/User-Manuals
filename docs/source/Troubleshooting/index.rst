@@ -17,31 +17,31 @@ Print Not Sticking to Bed
 If you are experiencing problems with the plastic not adhering to your print bed, there are a few things that can be done;
 
 1. Update
-  a. Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+  * Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
 2. Re-run the z-offset wizard
-  a. Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
+  * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
 3. Replace the build plate adhesion
-  a. After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
+  * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset qizard from the utilities menu.
   
 .. image:: Images/Applying-bed-tape.gif
    :alt: Applying Bed Tape
    :align: center
    
 4. Using a raft
-  a. Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
+  * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
 
 Material Not Extruding
 ---------------
 
 1. Nozzle isnt heating up
-  a. Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
-  b. Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
-
+ * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
+ * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
+  
 .. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electroncis
-   :align: center
-
-  c. Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
+   :align: center  
+  
+* Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
@@ -52,18 +52,16 @@ Material Not Extruding
    :align: center  
   
 2. Drive Gear is not cleaned
-  a. Turn Off the Printer
-  b. Take off the extruder cover
-  
+ * Turn Off the Printer
+ * Take off the extruder cover
+ 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center
-  
-  c. Use a toothbrush to clean this drive gear of debris shown in the picture
-  d. Turn the shaft, and continue scrubbing until it is cleaned of debris    
+   :align: cente 
+ 
+* Use a toothbrush to clean this drive gear of debris shown in the picture
+* Turn the shaft, and continue scrubbing until it is cleaned of debris    
 
-
-   
 .. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
    :align: center
@@ -74,32 +72,31 @@ Material Not Extruding
   * If the material is tangled on the spool holder, unwind about 12 inches or 25 cm of filament to loosen it, then reel it back around the spool neatly, trying not to cross over plastic as it spools onto itself
   * If the material is tangled within the spool, you will need to unwind some the spool and see where it is crossing over itself. Cut the plastic where you find it is crossing over itself, and feed it back into the machine.
 4. Drive Gear is not tightened down
-  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
-  * To do this, turn off your machine and remove the extruder cover.
-
+ * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
+ * To do this, turn off your machine and remove the extruder cover.
+ 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center  
+   :align: center   
+ 
+* Next, unscrew the extruder tensioner cover with a screwdriver.
 
-  * Next, unscrew the extruder tensioner cover with a screwdriver.
-  
 .. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center  
-  
-  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
-  
+
+* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+
 .. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
-   :align: center    
-  
-  * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
+   :align: center
+
+* Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.  
+  * Now reverse these steps to put it all back together
   
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center  
-   
-  * Now reverse these steps to put it all back together
 
 Shifting Layers/bad print quality
 ---------------
@@ -123,12 +120,11 @@ Hotend Clogged
 1. Not Heating up enough
   * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
   * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
+  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
   
 .. image:: Images/Fanelectronicsplugs.png
    :alt: Fan Electronics Plugs
-   :align: center  
-  
-  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
+   :align: center
  
 .. image:: Images/Extruder-electronics.png
    :alt: Extruder Electronics
@@ -137,30 +133,26 @@ Hotend Clogged
 2. Material stuck below the Drive Gear
   * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
   * To do this, turn off your machine and remove the extruder cover.
+  * Next, unscrew the extruder tensioner cover with a screwdriver.
+  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
+  * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
   
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
    :align: center  
   
-  * Next, unscrew the extruder tensioner cover with a screwdriver.
-  
 .. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center
-  
-  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
   
 .. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
    :align: center
   
-  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
-  
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center 
-  
-  * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
+
 3. Hotend fan is not on
   * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
   * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder.
@@ -178,33 +170,31 @@ If you are experiencing your hotend falling out from the extruder, there is a si
   * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
   * Make sure to turn off your printer.
   * Loosen your hotend by turning the tensioner screw counterclockwise a few turns
+  * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+  * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
+  * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
   
 .. image:: Images/Hotend-tensioner-loosen.gif
    :alt: Loosening Hotend
    :align: center
   
-  * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
-  * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
-  
 .. image:: Images/Tightening-hotend-tensioner.gif
    :alt: Tightening Hotend
    :align: center  
   
-  * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
-
 Screens Goes White or Doesn't Work
 ---------------
 
 If the screen is not working there is a few steps that need to be taken to solve the issue.
 
 1. Loose Wiring
-  * First, remove the black bezel (which is the black plastic holding the screen) by gently pulling inward from the inside edge of the plastic. From here you will be able to see the electronics of the printer.
+ * First, remove the black bezel (which is the black plastic holding the screen) by gently pulling inward from the inside edge of the plastic. From here you will be able to see the electronics of the printer.
   
 .. image:: Images/Bezel-removal.gif
    :alt: Bezel Removal
    :align: center
   
-  * Next, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
+* Next, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
   
 .. image:: Images/Z-Screw-Raise.gif
    :alt: Raising Z Screw
