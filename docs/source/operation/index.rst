@@ -64,31 +64,82 @@ Select 'Finished". Your printer will calculate your Z-Offset and then press 'Fin
 Loading and Unloading Filament
 -----------
 Loading Filament
-   1. From the home screen select 'Utilities'
-   2. Next, select 'Wizards'
-   3. Select 'Filament Loading Wizard'
-   4. After you printer heats up, ensure you've cut the tip of the filament
-   5. Place the filament inside the feed hole, and press 'Next'
-   6. The feeder gear will push your filament down, through the extruder, and out of the nozzle
-   7. Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
+
+From the home screen select 'Utilities'
+   
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities
+   :align: center
+   
+Next, select 'Wizards'
+   
+.. image:: images/SelectWizards.png
+   :alt: Select Wizards
+   :align: center 
+  
+Select 'Filament Loading Wizard'
+   
+.. image:: images/SelectFilamentLoading.png
+   :alt: Select Filament Loading
+   :align: center
+   
+After you printer heats up, ensure you've cut the tip of the filament. Place the filament inside the feed hole, and press 'Next'.
+
+.. image:: images/Filament-into-extruder.gif
+   :alt: Loading Filament
+   :align: center
+
+The feeder gear will push your filament down, through the extruder, and out of the nozzle
+ 
+.. image:: images/Filament-coming-from-nozzle.gif
+   :alt: Filament Extruding
+   :align: center 
+
+Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
    
 Unloading Filament
-   1. From the home screen select 'Utilities'
-   2. Next, select 'Wizards'
-   3. Select 'Filament Change Wizard'
-   4. After you printer heats up, the feeder gear will start to retract the filament from the nozzle
-   5. Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
+
+ From the home screen select 'Utilities'
+
+ Next, select 'Wizards'
+
+ Select 'Filament Change Wizard'
+
+ After you printer heats up, the feeder gear will start to retract the filament from the nozzle
+
+ Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
    
 -----------
 Start a print
 -----------
 
 Starting a print from your internal storage
-   1. Select 'Files' from the home screen
-   2. Select a file you would like to print
-   3. Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
-   4. Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
-   5. Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperture
+
+Select 'Files' from the home screen
+   
+.. image:: images/Selectfiles.png
+   :alt: Select Files
+   :align: center
+   
+Select a file you would like to print
+   
+.. image:: images/Selectafile.png
+   :alt: Select a file
+   :align: center
+   
+Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
+
+.. image:: images/Selectstart.png
+   :alt: Select Start
+   :align: center
+
+Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
+
+.. image:: images/printingscreen.png
+   :alt: Printing Screen
+   :align: center
+
+Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperture
 
 Starting a print from a USB flash drive
    1. Insert the USB flash drive into the usb slot on the front of the printer
