@@ -28,6 +28,11 @@ Setting the Z offset
 
 Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly
    1. From the home screen select "Utilities"
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities
+   :align: center
+
    2. Then select "Wizards"
    3. Next select "Z-Offset Wizard"
    4. Your printer will now home itself and get in position to set your offset
