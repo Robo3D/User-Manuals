@@ -104,8 +104,8 @@ Shifting Layers/bad print quality
 ---------------
 
 1. Loose Pulleys
-  * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place.
-  * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
+ * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place.
+ * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
   
 .. image:: Images/Pulley-tightening.png
    :alt: Exturder Cover Off
@@ -146,23 +146,25 @@ Hotend Clogged
    :alt: Remove Tensioner Cover
    :align: center
 
-* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
+* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder. 
 
 .. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
    :align: center
 
-* From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
-  
+* Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
+
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
    :align: center 
 
+* From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
+  
 3. Hotend fan is not on
   * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
   * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder.
 
-.. image:: Images/Fanelectronicsplugs.png
+.. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electronics Plugs
    :align: center 
 
@@ -172,20 +174,22 @@ Hotend falling out
 If you are experiencing your hotend falling out from the extruder, there is a simple fix that will lock your extruder in place
 
 1. The tension screw is not tight enough
-  * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
-  * Make sure to turn off your printer.
-  * Loosen your hotend by turning the tensioner screw counterclockwise a few turns
-  * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
-  * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
-  * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
-  
+ * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
+ * Make sure to turn off your printer.
+ * Loosen your hotend by turning the tensioner screw counterclockwise a few turns.
+ 
 .. image:: Images/Hotend-tensioner-loosen.gif
    :alt: Loosening Hotend
    :align: center
-  
+ 
+* Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+* While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand.
+
 .. image:: Images/Tightening-hotend-tensioner.gif
    :alt: Tightening Hotend
    :align: center  
+
+* Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
   
 Screens Goes White or Doesn't Work
 ---------------
