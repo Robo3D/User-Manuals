@@ -38,34 +38,12 @@ From Model to your printer
 Printing from USB Drive
    - If you have saved your file to a USB drive, simply put the USB drive into the slot on the 	front of your machine
 	- Tap on the upper left file icon
-	- The printer will automatically search through your USB drive and display all of the 3d 	printable files
+	- The printer will automatically search through your USB drive and display all of the 3d printable files
 	- Select the file you want to print, and press ‘print’
 
 Uploading to cloud storage
-   - Once you have your 3d printable file, upload it to your same cloud storage you set up 	in your Robo App earlier.
+   - Once you have your 3d printable file, upload it to your same cloud storage you set up in your Robo App earlier.
 	- In the Robo App, go to your dashboard
 	- Tap on the cloud storage icon you saved your file to
-	- Once in your cloud storage, find the file you just uploaded, and tap on it. This will 	bring you to a print page.
+	- Once in your cloud storage, find the file you just uploaded, and tap on it. This will bring you to a print page.
 	- Select which printer you want to print to and tap ‘print’. 
-
-
-Robo C2 touch screen
------------
-Navigating the LCD Control Panel
- - Files --> File List --> File Info --> Printer
- - Printer --> Pause
- - Printer --> Cancel
- - Printer --> Set extruder temp
- - Utilities --> Robo Controls
- - Utilities --> Robo Controls
- - Utilities --> Wizards --> Z Offset Wizard
- - Utilities --> Wizards --> Filament Loading Wizard
- - Utilities --> Wizards --> Filament Change Wizard
- - Utilities --> Network --> Configure Wifi
- - Utilities --> Network --> Start Wifi hotspot
- - Utilities --> Network --> Network Status
- - Utilities --> Network --> QR Code
- - Utilities --> Update
-
-
-Robo iOS app
