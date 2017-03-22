@@ -54,13 +54,8 @@ Material Not Extruding
 2. Drive Gear is not cleaned
  * Turn Off the Printer
  * Take off the extruder cover
- 
-.. image:: Images/Extruder-cover-off.gif
-   :alt: Exturder Cover Off
-   :align: cente 
- 
-* Use a toothbrush to clean this drive gear of debris shown in the picture
-* Turn the shaft, and continue scrubbing until it is cleaned of debris    
+ * Use a toothbrush to clean this drive gear of debris shown in the picture
+ * Turn the shaft, and continue scrubbing until it is cleaned of debris    
 
 .. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
