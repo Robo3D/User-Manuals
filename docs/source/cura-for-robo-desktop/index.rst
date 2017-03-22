@@ -4,15 +4,96 @@
    contain the root `toctree` directive.
 
 =================================================
-Software
+Cura for Robo
 =================================================
+To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object. 
 
-RoboOS
+For the Quick Start Guide on using Cura for Robo, click this link (https://www.robo3d.com)
 
-Cura
+Get Started
 -----------
 
-To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to product an object
+To Download Cura for Robo, click this [link](https://www.robo3d.com)
+
+Requirements
+
+ 1. Operating Systems
+  * Windows Vista or higher, 64 Bit
+  * For Mac instructions, follow this link (https://www.robo3d.com)
+  
+ 2. Hardware
+  * OpenGL 2 compatible graphics chip
+  * Intel Core 2 or AMD Athlon 64 or newer 
+
+Installing and Setup
+
+ 1. Starting Cura for Robo for the first time
+  * After installing Cura for Robo, go ahead and open the application from your applications folder (or where you have installed it)
+ 
+ 2. Selecting a printer
+
+Overview
+
+ 1. Loading a model
+  * Click on the 'Open File' icon at the top left of the screen. Find your .stl file you would like to load and open it. Once this is done, the model should appear on the build platform in the main viewer. 
+  
+  *Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
+  
+ 2. Selecting Material
+  *
+ 
+ 3. Selecting a Profile
+ 4. Saving a File
+
+Using Cura for Robo
+-----------
+
+Adjusting the Model
+ 1. Move
+ 2. Scale
+ 3. Rotate
+ 4. Mirror
+
+Viewing the Model
+ 1. Solid
+ 2. X-Ray
+ 3. Layers
+
+Settings
+-----------
+recommended vs custom
+
+Quality
+
+Shell
+
+Infill
+
+Material
+
+Speed
+
+Travel
+
+Cooling
+
+Support
+
+Platform Adhesion
+
+Connecting a Printer via Wifi
+-----------
+
+
+Printing a File
+-----------
+Once you have a file you are excited to start printing, there are a few ways to get your gcode file onto printer.
+
+From Cura for Robo
+
+USB
+
+Save and upload via web interface
 
 Downloading and Installing Desktop Software
    - The Cura for Robo Desktop Software is included in your USB drive that came with your printer, and is also available at www.robo3d.com/software
