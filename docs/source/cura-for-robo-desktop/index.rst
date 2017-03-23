@@ -82,9 +82,9 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
 Configure and View the Model
 -----------
 
-To further configure your model for printing after you have loaded it onto the build platform, click on the model so it becomes highlighted.
-
 **Configuring the Model**
+
+To further configure your model for printing after you have loaded it onto the build platform, click on the model so it becomes highlighted.
 
 1. Move
  * You can move your model around the build platform with the Move tool. Either by the 'click-and-drag' method, clicking the arrows projecting from the model, or entering values in the fields provided.
@@ -146,25 +146,101 @@ Once you have satisfied all of your configuration and profile settings, you can 
 
 Settings
 -----------
-recommended vs custom
+Settings profiles are provided to you as defaults, but depending on the specific model or personal preference, you can modify your settings by clicking on 'Custom' under Print Setup on the left hand side of the main window. Below are what the different settings change. 
 
 **Quality**
 
+Layer Height
+
+ 
+
+Initial Layer Height
+
+ 
+
+Line Width
+
+ 
+
 **Shell**
+
+Wall Thickness
+Wall Line Count
+Top/bottom thickness
+Top or Bottom thickness
+Number of Top/Bottom layers
+Top/bottom pattern
+Z seam alignment
+Ignore small Z gaps
 
 **Infill**
 
+Infill density
+Infill pattern
+Infill layer thickness
+Infill before walls
+
 **Material**
+
+Printing temperature
+Build plate temperature
+Enable Retraction
+Retraction distance
+Retraction speed
+Retraction minimum travel
+Minimum extrusion distance window
 
 **Speed**
 
+Print speed
+Infill speed
+Outer wall speed
+Inner wall speed
+Top/bottom speed
+Travel speed
+Initial layer speed
+Initial layer travel speed
+Number of slower layers
+
 **Travel**
+
+Combing mode
+Avoid printed parts when traveling
+Travel avoid distance
+Z-hop when retracted
+Z-hop height
 
 **Cooling**
 
+Enable print cooling
+Fan speed
+Regular/maximum fan speed threshold
+Regular fan speed at height
+Minimum layer time
+Minimum speed
+
 **Support**
 
+Enable support
+Placement
+Overhang angle
+Support pattern
+Connect zig zags
+Support density
+X/Y distance
+Z distance
+Stair step height
+Join distance
+Horizontal expansion
+Area smoothing
+Enable support roof
+Use towers
+
 **Platform Adhesion**
+
+Brim
+Raft
+Skirt
 
 Connecting a Printer via Wifi
 -----------
@@ -174,23 +250,7 @@ Printing a File
 -----------
 Once you have a file you are excited to start printing, there are a few ways to get your gcode file onto printer.
 
-From Cura for Robo
-
-USB
-
 Save and upload via web interface
-
-Downloading and importing a file into the software
-   - Open your web browser and go to a 3d file sharing site. We recommend either www.thingiverse.com or www.youmagine.com for getting free, online 3d models.
-   - Browse around and choose a model you like
-   - Download the .stl version of the 3d model and save it somewhere you can retrieve it easily on your computer
-   - In your Cura for Robo Desktop Software, click on the ‘Load’ button and choose your .stl file you just saved. This will insert your model onto the platform in the software.
-
-Preparing a 3D Model
-   - Once your 3d model is inserted into the software, go ahead and select the settings you want your 3d model to be prepared
-   - The 3d model will automatically generate with the setting you have selected
-   - Press ‘save to disk’ and the model will automatically save to your USB drive you have inserted, or, if there is no inserted USB drive, save it in a folder of your choice.
-   - Before taking out your USB drive, make sure to eject it safely
 
 From Model to your printer
    - There are two ways to get a file from your computer to you Robo C2 3D printer. Note that a 3d printable file is a .gcode file that you just created from the Cura for Robo desktop software
