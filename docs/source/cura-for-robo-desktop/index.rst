@@ -150,97 +150,241 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 **Quality**
 
-Layer Height
+1. Layer Height
+
+ fdasf
+
+2. Initial Layer Height
 
  
 
-Initial Layer Height
-
- 
-
-Line Width
+3. Line Width
 
  
 
 **Shell**
 
-Wall Thickness
-Wall Line Count
-Top/bottom thickness
-Top or Bottom thickness
-Number of Top/Bottom layers
-Top/bottom pattern
-Z seam alignment
-Ignore small Z gaps
+1. Wall Thickness
+
+
+
+2. Wall Line Count
+
+
+
+3. Top/bottom thickness
+
+
+
+4. Top or Bottom thickness
+
+
+
+5. Number of Top/Bottom layers
+
+
+
+6. Top/bottom pattern
+
+
+
+7. Z seam alignment
+
+
+
+8. Ignore small Z gaps
 
 **Infill**
 
-Infill density
-Infill pattern
-Infill layer thickness
-Infill before walls
+1. Infill density
+
+
+
+2. Infill pattern
+
+
+
+3. Infill layer thickness
+
+
+
+4. Infill before walls
 
 **Material**
 
-Printing temperature
-Build plate temperature
-Enable Retraction
-Retraction distance
-Retraction speed
-Retraction minimum travel
-Minimum extrusion distance window
+1. Printing temperature
+
+
+
+2. Build plate temperature
+
+
+
+3. Enable Retraction
+
+
+
+4. Retraction distance
+
+
+
+5. Retraction speed
+
+
+
+6. Retraction minimum travel
+
+
+
+7. Minimum extrusion distance window
 
 **Speed**
 
-Print speed
-Infill speed
-Outer wall speed
-Inner wall speed
-Top/bottom speed
-Travel speed
-Initial layer speed
-Initial layer travel speed
-Number of slower layers
+1. Print speed
+
+
+
+2. Infill speed
+
+
+
+3. Outer wall speed
+
+
+
+4. Inner wall speed
+
+
+
+5. Top/bottom speed
+
+
+
+6. Travel speed
+
+
+
+7. Initial layer speed
+
+
+
+8. Initial layer travel speed
+
+
+
+9. Number of slower layers
 
 **Travel**
 
-Combing mode
-Avoid printed parts when traveling
-Travel avoid distance
-Z-hop when retracted
-Z-hop height
+1. Combing mode
+
+
+
+2. Avoid printed parts when traveling
+
+
+
+3. Travel avoid distance
+
+
+
+4. Z-hop when retracted
+
+
+
+5. Z-hop height
 
 **Cooling**
 
-Enable print cooling
-Fan speed
-Regular/maximum fan speed threshold
-Regular fan speed at height
-Minimum layer time
-Minimum speed
+1. Enable print cooling
+
+
+
+2. Fan speed
+
+
+
+3. Regular/maximum fan speed threshold
+
+
+
+4. Regular fan speed at height
+
+
+
+5. Minimum layer time
+
+
+
+6. Minimum speed
 
 **Support**
 
-Enable support
-Placement
-Overhang angle
-Support pattern
-Connect zig zags
-Support density
-X/Y distance
-Z distance
-Stair step height
-Join distance
-Horizontal expansion
-Area smoothing
-Enable support roof
-Use towers
+1. Enable support
+
+
+
+2. Placement
+
+
+
+3. Overhang angle
+
+
+
+4. Support pattern
+
+
+
+5. Connect zig zags
+
+
+
+6. Support density
+
+
+
+7. X/Y distance
+
+
+
+8. Z distance
+
+
+
+9. Stair step height
+
+
+
+10. Join distance
+
+
+
+11. Horizontal expansion
+
+
+
+12. Area smoothing
+
+
+
+13. Enable support roof
+
+
+
+14. Use towers
 
 **Platform Adhesion**
 
-Brim
-Raft
-Skirt
+1. Brim
+
+
+
+2. Raft
+
+
+
+3. Skirt
 
 Connecting a Printer via Wifi
 -----------
