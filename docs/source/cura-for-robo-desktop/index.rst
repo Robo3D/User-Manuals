@@ -28,9 +28,14 @@ Requirements
 Installing and Setup
 
  1. Starting Cura for Robo for the first time
-  * After installing Cura for Robo, go ahead and open the application from your applications folder (or where you have installed it)
+  * After installing Cura for Robo, go ahead and open the application from your applications folder (or wherever you have installed it).
  
  2. Selecting a printer
+  * The first time you open Cura for Robo, you will see a Add Printer Wizard window. Here is where you will select which printer you have by selecting either the Robo C2 or the Robo R2. Once selected, click the 'Add Printer' Button and your profile will be saved with the correct settings for your printer for optimal printing.
+
+.. image:: images/Add-Printer.PNG
+   :alt: Add Printer Wizard
+   :align: center
 
 Overview
 
