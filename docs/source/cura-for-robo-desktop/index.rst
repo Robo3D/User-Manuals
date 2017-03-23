@@ -39,17 +39,46 @@ Installing and Setup
 
 Overview
 
- 1. Loading a model
-  * Click on the 'Open File' icon at the top left of the screen. Find your .stl file you would like to load and open it. Once this is done, the model should appear on the build platform in the main viewer. 
+This is the main view of Cura for Robo. You can reference back to it if you ever need a quick refresh of where things are located within the software.
+
+.. image:: images/Interface2.jpg
+   :alt: Interface
+   :align: center
+   
+1. Loading a model
+ * Click on the 'Open File' icon at the top left of the screen. Find your .stl file you would like to load and open it. Once this is done, the model should appear on the build platform in the main viewer. 
+ 
+.. image:: images/Load-File.png
+   :alt: Load File
+   :align: center 
   
-  *Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
+* Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
   
  2. Selecting Material
-  *
+  * Once your model is loaded, the next option you will need to select is your material. Make sure the material you select is the same one that is loaded into your printer. 
  
  3. Selecting a Profile
+  * Next, click on the dropdown menu marked 'Profile'
+  * Here, you will see different profile settings that will determine the quality of your print. 
+  * Select the profile desired - Low, Medium, High, Ultra High Quality. 
+  
+.. image:: images/Profile-Settings.png
+   :alt: Profile Settings
+   :align: center   
+ 
+* Below the Pofile settings, you will find the simple recommended print settings. Here you can change infill density, as well as using print build plate adhesion for better adherance on your first layer, and support structure for generating scaffolding to support overhangs and bridges. 
+ 
+.. image:: images/Recommend.JPG
+   :alt: Recommended Settings
+   :align: center  
+ 
  4. Saving a File
-
+  * In the bottom right corner of the main window, you will see a 'Save to File' button. Once your satisfied with your model and settings, go ahead and save your file. Note: if you have a USB flash drive inserted, you can save directly to the drive with the same button.
+  
+.. image:: images/Load-File.png
+   :alt: Load File
+   :align: center 
+  
 Using Cura for Robo
 -----------
 
@@ -100,12 +129,6 @@ USB
 
 Save and upload via web interface
 
-Downloading and Installing Desktop Software
-   - The Cura for Robo Desktop Software is included in your USB drive that came with your printer, and is also available at www.robo3d.com/software
-   - Download the latest version of Cura for Robo for your operating system. This software is easily supported by Windows Vista or higher, Mac OSX 10.7 or higher, and Ubuntu 14.04 or higher operating systems. (put logos of operating systems here)  
-   - Open the installer and follow the on screen installation instructions
-   - Once opened, select Robo C2 3d Printer to get the correct configuration for your machine
-
 Downloading and importing a file into the software
    - Open your web browser and go to a 3d file sharing site. We recommend either www.thingiverse.com or www.youmagine.com for getting free, online 3d models.
    - Browse around and choose a model you like
@@ -134,24 +157,3 @@ Uploading to cloud storage
 	- Once in your cloud storage, find the file you just uploaded, and tap on it. This will 	bring you to a print page.
 	- Select which printer you want to print to and tap ‘print’. 
 
-
-Robo C2 touch screen
------------
-Navigating the LCD Control Panel
- - Files --> File List --> File Info --> Printer
- - Printer --> Pause
- - Printer --> Cancel
- - Printer --> Set extruder temp
- - Utilities --> Robo Controls
- - Utilities --> Robo Controls
- - Utilities --> Wizards --> Z Offset Wizard
- - Utilities --> Wizards --> Filament Loading Wizard
- - Utilities --> Wizards --> Filament Change Wizard
- - Utilities --> Network --> Configure Wifi
- - Utilities --> Network --> Start Wifi hotspot
- - Utilities --> Network --> Network Status
- - Utilities --> Network --> QR Code
- - Utilities --> Update
-
-
-Robo iOS app
