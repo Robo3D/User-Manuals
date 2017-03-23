@@ -15,7 +15,7 @@ Get Started
 
 To Download Cura for Robo, click this [link](https://www.robo3d.com)
 
-Requirements
+**Requirements**
 
  1. Operating Systems
   * Windows Vista or higher, 64 Bit
@@ -25,7 +25,7 @@ Requirements
   * OpenGL 2 compatible graphics chip
   * Intel Core 2 or AMD Athlon 64 or newer 
 
-Installing and Setup
+**Installing and Setup**
 
  1. Starting Cura for Robo for the first time
   * After installing Cura for Robo, go ahead and open the application from your applications folder (or wherever you have installed it).
@@ -37,7 +37,7 @@ Installing and Setup
    :alt: Add Printer Wizard
    :align: center
 
-Overview
+**Overview**
 
 This is the main view of Cura for Robo. You can reference back to it if you ever need a quick refresh of where things are located within the software.
 
@@ -52,15 +52,15 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
    :alt: Load File
    :align: center 
   
-* Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
+ * Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
   
- 2. Selecting Material
-  * Once your model is loaded, the next option you will need to select is your material. Make sure the material you select is the same one that is loaded into your printer. 
+2. Selecting Material
+ * Once your model is loaded, the next option you will need to select is your material. Make sure the material you select is the same one that is loaded into your printer. 
  
- 3. Selecting a Profile
-  * Next, click on the dropdown menu marked 'Profile'
-  * Here, you will see different profile settings that will determine the quality of your print. 
-  * Select the profile desired - Low, Medium, High, Ultra High Quality. 
+3. Selecting a Profile
+ * Next, click on the dropdown menu marked 'Profile'
+ * Here, you will see different profile settings that will determine the quality of your print. 
+ * Select the profile desired - Low, Medium, High, Ultra High Quality. 
   
 .. image:: images/Profile-Settings.png
    :alt: Profile Settings
@@ -75,45 +75,96 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
  4. Saving a File
   * In the bottom right corner of the main window, you will see a 'Save to File' button. Once your satisfied with your model and settings, go ahead and save your file. Note: if you have a USB flash drive inserted, you can save directly to the drive with the same button.
   
-.. image:: images/Load-File.png
-   :alt: Load File
+.. image:: images/Print.JPG
+   :alt: Save File
    :align: center 
   
-Using Cura for Robo
+Configure and View the Model
 -----------
 
-Adjusting the Model
- 1. Move
- 2. Scale
- 3. Rotate
- 4. Mirror
+To further configure your model for printing after you have loaded it onto the build platform, click on the model so it becomes highlighted.
 
-Viewing the Model
- 1. Solid
- 2. X-Ray
- 3. Layers
+**Configuring the Model**
+
+1. Move
+ * You can move your model around the build platform with the Move tool. Either by the 'click-and-drag' method, clicking the arrows projecting from the model, or entering values in the fields provided.
+
+.. image:: images/Configure.JPG
+   :alt: Configure Model
+   :align: center  
+
+2. Scale
+ * Selecting the Scale tool will allow you to scale the model in 3 different ways
+ * Dragging the handles located on the model itself will scale the model in whichever way the handle is oriented
+ * Entering the size desired into the number field scales the model into an exact dimension desired
+ * Selecting a percentage to scale will allow you to scale the model by a certain percentage based on its original dimensions
+ * Note; if you want your model to come out uniform, select the 'Uniform Scaling' check box when scaling
+ 
+.. image:: images/scale.png
+   :alt: Scale Model
+   :align: center
+ 
+3. Rotate
+ * Selecting the rotate tool will bring up different ways to rotate your model
+ * You will notice colored rings around your model for different axis. Click and drag one of these rings to rotate in that direction
+ * Also shown is the 'Reset' and 'Lay Flat' buttons to orient you model in a way that best suites you
+ 
+.. image:: images/rotate.png
+   :alt: Rotate Model
+   :align: center
+
+4. Mirror
+ * The Mirror tool will allow you to mirror the model in the X, Y, and Z axis. 
+ * Simply click on one of the arrowheads that pop up on your model to mirror it in that direction.
+
+**Viewing the Model**
+
+Once you have satisfied all of your configuration and profile settings, you can view the model in layer mode. Layer mode allows you to inspect the way your model is sliced and will be printed. It is usually best to inspect your model this way to see if it will be printed the way you are intending.
+
+.. image:: images/View-mode.png
+   :alt: View Mode
+   :align: center
+
+1. Solid
+ * Solid view is the deafualt view when the program is started. You can view the digital model to see if it is created like it was intended, and also see where it might have imperfections when examining it. 
+ * The model will be colored yellow if it is selected and within the usable print area, and grey if it is either deselected or out of the printable build area.
+ 
+2. X-Ray
+ * With X-Ray view, your model will show gaps and intersections throughout your model. These will be shown in red. 
+ * If an error is located in your model, go ahead and adjust it in your 3d design software and reload the model to check if the error has been fixed.
+
+3. Layers
+ * Layers view is one of the more important views to check before you start printing your model. The Layers view is a virtual representation of the where your nozzle is going to move throughout the print process of the physical model.
+ * When the Layers view is selected, a slider will appear beneath the button.
+ * Use the slider to look through your layers one by one and see how your model will be built.
+ * You can also input a layer number to jump directly to the specified layer of your model.
+ * Note: Every time a setting is changed, the view has to be completely reloaded with the new settings in layer view.
+ 
+.. image:: images/layer-view.png
+   :alt: View Mode
+   :align: center
 
 Settings
 -----------
 recommended vs custom
 
-Quality
+**Quality**
 
-Shell
+**Shell**
 
-Infill
+**Infill**
 
-Material
+**Material**
 
-Speed
+**Speed**
 
-Travel
+**Travel**
 
-Cooling
+**Cooling**
 
-Support
+**Support**
 
-Platform Adhesion
+**Platform Adhesion**
 
 Connecting a Printer via Wifi
 -----------
