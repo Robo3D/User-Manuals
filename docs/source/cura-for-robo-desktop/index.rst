@@ -265,37 +265,39 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Print speed
 
-
+ Print Speed determines the speed of the print head while printing (in mm/sec). Printing faster will get your print done faster, but also risk the print job failing too to motors failing or material not being extruded properly or heated optimally. The profiles set for the C2 and R2 are best used to keep the machine lasting longer, at the same time as printing quickly.
 
 2. Infill speed
 
-
+ This setting changes the speed in which your infill is printed. Note that because the infill of a print is not seen, you can increase this speed if you would like. Be mindful that a faster infill speed can potentially affect the strength of your print.
 
 3. Outer wall speed
 
-
+ The speed of the outer wall, or outer perimeter. Printing the outer wall slower than the inner walls and infill will result in a better surface finish of your printed model
 
 4. Inner wall speed
 
-
+ The speed of the inner walls, or inner perimeters. Because this does not affect the surface quality of your printed model, this speed can be as fast as your infill or print speed setting.
 
 5. Top/bottom speed
 
-
+ Top/bottom speed determines how fast your solid top and bottom layers are printed. Note that the slower bottom layers give you more reliability of the model by giving it a dependable base, and slower top layers give you a more reliable roof on your print to give it a nice surface and close off all gaps.
 
 6. Travel speed
 
-
+ Travel speed determines how fast your print head will move when it is not extruding material and printing your model. This move can be higher than your print speed to make printing time lower, but be mindful of moving too fast and motors or belts failing.
 
 7. Initial layer speed
 
-
+ The speed for the first layer. A lower value is used here to improve adhesion to the build platform and get a reliable first layer down.
 
 8. Initial layer travel speed
 
-
+ The travel speed for the first layer. A lower value is used here to ensure that the print nozzle does not potentially touch existing plastic laid down on the build platform and pull it up, resulting in a failed print.
 
 9. Number of slower layers
+
+ The number of slower layers determines how many layers from the beginning of the print are going to be slower than the rest. The overall success rate of a print is relying on the first layers adhering to the bed correctly. The speed of your print is gradually increased over these layers.
 
 **Travel**
 
