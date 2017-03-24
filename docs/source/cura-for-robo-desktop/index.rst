@@ -198,7 +198,8 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 7. Z seam alignment
 
- On most prints, the is a visible seam that appears on a model from when your printers' nozzle pauses to change layers in the z direction. Z seam alignment allows you to place where each new layer in the z direction starts, producing where the seam will be. There are 3 options to choose from; shortest, back, random. 
+ On most prints, the is a visible seam that appears on a model from when your printers' nozzle pauses to change layers in the z direction. Z seam alignment allows you to place where each new layer in the z direction starts, producing where the seam will be. There are 3 options to choose from; shortest, back, random.
+ 
  * Shortest will use the z seam wherever the last layer left off and will start the new one right away, producing a shorter print time, but a visible seam. 
  * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you dont want the seam to show up. 
  * Random will choose a different spot to put the seam, which will eliminate visibility, but increase print time. 
@@ -207,17 +208,31 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Infill density
 
+ The infill density determines how dense your print will be by filling in your print with plastic by a certain percentage. 100% infill density means your print will be totally filled in with plastic, while 0% infill density means your print will only print the perimeters with no plastic filling in the middle. More infill produces a sturdier print, but takes more time, whereas less infill produces a weaker print, and takes less time to print. An average infill density is around 20% for visual models, whereas higher infil density parts are used more for structural or mechanical use models.
  
+ (insert picture of infill desnity comparison)
 
 2. Infill pattern
 
+ Infill pattern will vary depending on what you are looking for in your use of your model. There are 7 options;
 
+ * Grid: A grid shaped infill, with lines in both diagonal directions on each layer.
+ * Lines: Creates a grid shiped infill, printing in one diagonal direction per layer.
+ * Triangles: Creates a triangular shaped infill pattern.
+ * Cubic: A 3D infill of tilted cubes.
+ * Tetrahedral: A 3D infill of pyramid shapes.
+ * Concentric: The infill prints from the outside towards the center of the model. This way infill lines won’t be visible through the walls of the print.
+ * Zig Zag: A grid shaped infill, printing continuously in one diagonal direction.
+
+ (insert picture of different infills)
 
 3. Infill layer thickness
 
-
+ Infill layer thickness determines how thick your infil layers are. Because you do not see the infill of a print, you can choose to make these layers less detailed and drastically reduce print time. If this setting is used, make sure the thickness is a multiple of the layer height (i.e. .1 layer height, .2 infill layer thickness). This will allow your printer to print two layers and then go back in and fill in the inside of the print, essentially printing the equivalent of tow infill layers at a time.
 
 4. Infill before walls
+
+ If infill before walls is enabled, the layer being printed will fill in the infil before the perimeters. Printing the infill first leads to sturdier walls, but the infill pattern might sometimes show through the surface. Printing the walls first may lead to more accurate walls, but overhangs may print worse.
 
 **Material**
 
