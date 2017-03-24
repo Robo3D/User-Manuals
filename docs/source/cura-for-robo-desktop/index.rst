@@ -238,29 +238,28 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Printing temperature
 
-
+ Printing temperature determines the heat of the nozzle while printing. Most filaments print between 175°C and 250°C, although some can print lower or higher than this. For PLA, a temperature of 190°C is optimal for Robo branded filaments, while ABS has an optimal printing temperature of 230°C.
 
 2. Build plate temperature
 
-
+ Build plate temperature determines how hot your heated build platform will get in order to adhere the plastic down to it. The Robo C2 does not have a heated build platform, while the Robo R2 does. For the Robo R2, PLA is best printed with a 60°C build platform, and ABS plastic at 90°C for best stick on the first layer.
 
 3. Enable Retraction
 
-
+ Retraction is used when the printer is traveling from one point to another without laying down any plastic. During this time, there can be melted plastic in the nozzle, which could ooze out and cause unwanted plastic on your models. In order to elimiate this ooze, enable retraction to retract, or pull back the filament while on these travel moves. Different material require different settings for best results. Contact your material manufacturer for best retraction settings.
 
 4. Retraction distance
 
-
+ Retraction distance determines how far the material, in millimeters, will get pulled out of the nozzle when performing a retraction move. A short retraction distance will result in less potential damage to your material, such as snapping or clogging, but will cause more oozing. A long retraction distance will result in more potential damage to your material, but will have less oozing and a nicer print finish.
 
 5. Retraction speed
 
-
+ Retraction speed determines how fast or slow the motor pulling the material up will turn. A fast retraction speed will result in a larger potential damage to your material and drive gear, but will have less oozing. A slow retraction will have less potential damage, but result in potentially more oozing.
 
 6. Retraction minimum travel
 
+ This determines how far your nozzle must travel in order to execute a retraction move. If your model has a lot of small areas, this will cause the printer to retract a lot, and will be more prone to clogs and potential errors. To decrease the chance of errors on a lot of retraction moves in a small area, increase the retraction minimum travel. Be mindful that increasing this setting too much can result in stringing and unwanted artifact on your printed part due to oozing.
 
-
-7. Minimum extrusion distance window
 
 **Speed**
 
