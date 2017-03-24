@@ -152,53 +152,62 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Layer Height
 
- fdasf
+ The layer height of your model will ultimately determine how detailed your print will visibly look. Layer height refers to the thickness of a single printed layer. The smaller the layer height, the more detailed your model will look, but will take longer to print. The larger the layer height, the less detailed your model will look, but will take less time to complete compared to lower layer heights. 
+ 
+(insert image of layer heights here) 
 
 2. Initial Layer Height
 
- 
+ Initial layer height determines the first layer height of your print. More often than not, the initial layer height is thicker than the remaining layers to create a stronger bond to the build platform by laying down a bit more plastic onto it. This helps the print not come loose from the bed when printing the rest of the model. If you have a raft (build plat adhesion option) enabled, your initial layer height can be the same as your layer height. If you do not have a raft enabled, it is best to use a thicker initial layer height.
 
 3. Line Width
 
+ Line Width determines the width of a sinle printed line. Normally, the line width should equal the diameter of your nozzle for most prints. Cura for Robo will automatically calculate how much plastic should flow out of the nozzle based on line width. 
  
+ (insert image of line width examples here)
 
 **Shell**
 
 1. Wall Thickness
 
+ Wall thickness determines how many walls (or perimeters) you print will have. Set this value to be a multiple of line width from the section above. The larger your wall thickness, the sturdier your print will be, but the more time it will take to print. An average wall thickness is about 3 times your line width.
 
+ (insert picture of wall thickness here)
 
 2. Wall Line Count
 
-
+ You can also set a wall line count if you do not want to set your wall thickness. The wall thickness will be automatically calculated if you enter a wall line count number into this field based on your line width.
 
 3. Top/bottom thickness
 
-
+ The top/bottom thickness setting will determine how many solid layers of plastic you will print on the top and bottom of your print. The higher the thickness count is, the less gaps you will see in the top and bottom layers, but will increase print time and use a bit more filament. When setting this value, set it as a multiple of your layer height to ensure even distribution of plastic. For thicker layer heights (.2 mm), .6 or .8 mm thickness should be sufficient. For thinner layer heights (.1 mm), use .8 or 1 mm thickness to get a clean top and bottom layer.
 
 4. Top or Bottom thickness
 
-
+ Here you can set different thickness for both the top and bottom of your print independently. In general, bottom thickness does not need to be set as high as the top layers because you are printing onto a flat surface. For the top layers, it is better to have more layers to fill in all voids in the print sufficiently.
 
 5. Number of Top/Bottom layers
 
-
+ Instead of setting the thickness of your top and bottom layers, you can adjust the specific number of layers if you wish. When you do this, the top/bottom thickness will be automatically calculated to match the layers input.
 
 6. Top/bottom pattern
 
+ You are able to change the pattern of your top and bottom layers. There are 3 options; concentric, lines, and zig zag. Concentric fills in your layers with the same pattern from the outside in. Lines and zig zag both fill in your layers with a diagonal patern, either connecting to the shell or moving around the shell to infill the layers.
 
+ (insert picture here of top bottom pattern)
 
 7. Z seam alignment
 
-
-
-8. Ignore small Z gaps
+ On most prints, the is a visible seam that appears on a model from when your printers' nozzle pauses to change layers in the z direction. Z seam alignment allows you to place where each new layer in the z direction starts, producing where the seam will be. There are 3 options to choose from; shortest, back, random. 
+ * Shortest will use the z seam wherever the last layer left off and will start the new one right away, producing a shorter print time, but a visible seam. 
+ * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you dont want the seam to show up. 
+ * Random will choose a different spot to put the seam, which will eliminate visibility, but increase print time. 
 
 **Infill**
 
 1. Infill density
 
-
+ 
 
 2. Infill pattern
 
