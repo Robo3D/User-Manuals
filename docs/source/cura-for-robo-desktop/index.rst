@@ -303,21 +303,25 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Combing mode
 
+ Combing mode keeps the print nozzle within the interior of the model whil traveling from one point to another. This reduces the number of retraction moves because the extruder wont retract if enabled, but will increase print time. If combing mode is off, the print nozzle will travel the shortest distance from where it stopped to the next point it needs to go, not minding what is in its path underneath it.
 
+ (insert combing pic here)
 
 2. Avoid printed parts when traveling
 
-
+ Avoid printed parts when traveling will move the nozzle around printed parts to make potential oozing mot get hit by the printed part. Sometime this can lead to the nozzle hitting an existing printed part and knocking it over as well. Enabling this will increase the surface quality of your printed part.
 
 3. Travel avoid distance
 
-
+ Travel avoid distance determines how far a distance your print nozzle will will be from your existing printed parts when 'avoid printed parts when traveling' is enabled. The farther this distance is away, the less chance you have at running into a part with your nozzle, but will increase printing time of your model.
 
 4. Z-hop when retracted
 
-
+  When z-hop when retracted is enabled, the build platform of your printer will drop by a certain height. The reason for this is to prevent your nozzle from hitting already printed parts on your build platform, as well as eliminates unwanted extra plastic on your parts due to oozing or stringing. 
 
 5. Z-hop height
+
+ The z-hop height determines how far down your build platform will lower every time there is a retraction. The larger the height, the safer it is, but the longer your print will take.
 
 **Cooling**
 
