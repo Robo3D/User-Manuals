@@ -327,25 +327,28 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Enable print cooling
 
-
+ Cooling fans are essential when printing with certain materials. Print cooling will make sure that the previous layer of material that is extruded is cooled enough so that the next layer can be printed on top of it with a solid base beneath it. Cooling also is needed for overhangs and will dramatically increase the surface quality of prints. For some materials (like ABS plastics), 
 
 2. Fan speed
 
-
+ Different materials require different fan speeds to optimize print quality. Some materials can shrink more than others when cooled faster, while some dont need fans at all. 
 
 3. Regular/maximum fan speed threshold
 
-
+ * Regular fan speed is the speed when the printer is doing most of the work.
+ * Maximum fan speed is the speed when your printer is spending a minimal time on a layer and needs to cool down the plastic very quickly to make sure it is hardened before moving to the next layer up.
 
 4. Regular fan speed at height
 
-
+ The regular fan speed at height value determines at which layer the fans will turn on. Because the Robo C2 and Robo R2 are suggested to use rafts, we determined this value to be higher than obvious due to the fact that fans can cool the bottom layers too well, and cause warping of your print and ultimately delaminate the plastic from the bed.
 
 5. Minimum layer time
 
-
+ The minimum layer time determines how long the printer should take to at least print a single layer. If the actual print time of a single layer is below this value, the printer will slow down so the minimum layer time is reached, allowing the plastic to cool properly before the next layer is printed on top of it.
 
 6. Minimum speed
+
+ The minimum speed determines the lower threshold of how slow the printer will actually print regardless of minimum layer time. This will make sure that the printer is not too slow, causing extrusion and motor issues, and degrading the sureface finish of the printed model.
 
 **Support**
 
