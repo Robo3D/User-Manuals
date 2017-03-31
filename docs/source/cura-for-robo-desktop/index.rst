@@ -321,7 +321,10 @@ These are a few of the infill options
 
  Combing mode keeps the print nozzle within the interior of the model whil traveling from one point to another. This reduces the number of retraction moves because the extruder wont retract if enabled, but will increase print time. If combing mode is off, the print nozzle will travel the shortest distance from where it stopped to the next point it needs to go, not minding what is in its path underneath it.
 
- (insert combing pic here)
+.. image:: images/combing.png
+   :alt: Combing Paths
+   :align: center
+Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, avoid distance OFF
 
 2. Avoid printed parts when traveling
 
