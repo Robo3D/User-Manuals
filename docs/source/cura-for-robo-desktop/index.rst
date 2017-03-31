@@ -434,7 +434,32 @@ Settings profiles are provided to you as defaults, but depending on the specific
 Connecting a Printer via Wifi
 -----------
 
-
+ There is a way to connect Robo C2 directly to Cura for Robo enabling you to print right from within the software. Take these steps to connect your printer;
+ 
+ 1. Click on the Robo C2 icon in the top right of the interface.
+ 
+ 2. Under the 'Printer' dropdown menu, select 'Manage Printers'.
+ 
+ 3. A 'Printers' window will pop up. In the middle right of this pop up window, click on the button labeled 'Connect Octoprint'.
+ 
+ 4. A new window labeled 'Connect Octoprint' will pop up. In the top middle of this window, click on the button labeled 'Refresh'. This will bring up all of the printers that are connected to the same wifi network that your computer is connected to.
+ 
+ 5. Once you see your printer name populated in the list of printers, select it. Next, select the button labeled 'open webpage' located in the middle right of the window. This will then open your browser and direct you to the printers web interface. 
+ 
+ 6. Once you are in the web interface you will see a webpage that looks like this.
+ 
+ 7. Click on the 'settings' button in the top right corner of the window. 
+ 
+ 8. A settings window will pop up. On the left hand side, scroll down and select the item labaled 'API' under 'Features'.
+ 
+ 9. An API key will be present just above a QR code. It is usually a long string of numbers and letters. Go ahead and highlight this number and copy it by pressing ctl+C on windows or command+C on a mac.
+ 
+ 10. Next, go back into Cura for Robo desktop application. Paste this API key into the field provided by pressing ctl+V on windows or command+V on a mac. 
+ 
+ 11. Finally, click on the 'Connect' button then press 'close'.
+ 
+ 12. Congratulations! You can now not only monitor your printer from within Cura for Robo, but you can also send your print jobs directly to the printer with a single click!
+ 
 Printing a File
 -----------
 Once you have a file you are excited to start printing, there are a few ways to get your gcode file onto printer.
