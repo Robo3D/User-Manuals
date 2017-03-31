@@ -154,7 +154,9 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
  The layer height of your model will ultimately determine how detailed your print will visibly look. Layer height refers to the thickness of a single printed layer. The smaller the layer height, the more detailed your model will look, but will take longer to print. The larger the layer height, the less detailed your model will look, but will take less time to complete compared to lower layer heights. 
  
-(insert image of layer heights here) 
+.. image:: images/layer-height.png
+   :alt: Layer Height Comparison
+   :align: center
 
 2. Initial Layer Height
 
@@ -164,15 +166,21 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
  Line Width determines the width of a sinle printed line. Normally, the line width should equal the diameter of your nozzle for most prints. Cura for Robo will automatically calculate how much plastic should flow out of the nozzle based on line width. 
  
- (insert image of line width examples here)
+.. image:: images/line-width.png
+   :alt: Line Width Comparison
+   :align: center
+Left: smaller line width - Right: larger line width
 
 **Shell**
 
 1. Wall Thickness
 
- Wall thickness determines how many walls (or perimeters) you print will have. Set this value to be a multiple of line width from the section above. The larger your wall thickness, the sturdier your print will be, but the more time it will take to print. An average wall thickness is about 3 times your line width.
+ Wall thickness determines how many walls (or perimeters) your print will have. Set this value to be a multiple of line width from the section above. The larger your wall thickness, the sturdier your print will be, but the more time it will take to print. An average wall thickness is about 3 times your line width.
 
- (insert picture of wall thickness here)
+.. image:: images/wall-thickness.png
+   :alt: Wall Thickness Comparison
+   :align: center
+Left: 3 walls - Right: One wall
 
 2. Wall Line Count
 
@@ -194,7 +202,10 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
  You are able to change the pattern of your top and bottom layers. There are 3 options; concentric, lines, and zig zag. Concentric fills in your layers with the same pattern from the outside in. Lines and zig zag both fill in your layers with a diagonal patern, either connecting to the shell or moving around the shell to infill the layers.
 
- (insert picture here of top bottom pattern)
+.. image:: images/bottom-pattern.png
+   :alt: Pattern Comparison
+   :align: center
+Left: lines pattern - Right: concentric pattern
 
 7. Z seam alignment
 
@@ -210,7 +221,9 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
  The infill density determines how dense your print will be by filling in your print with plastic by a certain percentage. 100% infill density means your print will be totally filled in with plastic, while 0% infill density means your print will only print the perimeters with no plastic filling in the middle. More infill produces a sturdier print, but takes more time, whereas less infill produces a weaker print, and takes less time to print. An average infill density is around 20% for visual models, whereas higher infil density parts are used more for structural or mechanical use models.
  
- (insert picture of infill desnity comparison)
+.. image:: images/infill-density.png
+   :alt: Infill Density Comparison
+   :align: center
 
 2. Infill pattern
 
