@@ -237,7 +237,10 @@ Left: lines pattern - Right: concentric pattern
  * Concentric: The infill prints from the outside towards the center of the model. This way infill lines won’t be visible through the walls of the print.
  * Zig Zag: A grid shaped infill, printing continuously in one diagonal direction.
 
- (insert picture of different infills)
+.. image:: images/infill-pattern.png
+   :alt: Infill Comparison
+   :align: center
+These are a few of the infill options
 
 3. Infill layer thickness
 
