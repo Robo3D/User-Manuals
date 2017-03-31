@@ -354,39 +354,42 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Enable support
 
-
+ Enabling support will give your model a scaffolding underneath parts of the model that may need some support underneath their overhangs. Overhangs are part of your model where the plastic is being laid down in mid air. Instead of the model being printed onto air, the support structure will be able to assist the overhangs to be held up when being laid down.
 
 2. Placement
 
-
+ Placement determines where the support structure is placed. There are two options to choose from:
+ 
+ * Touching Buildplate: The support structure is only printed on overhangs that are directly over the build platform.
+ * Everywhere: The support structure is printed everywhere there is an overhang, even if it is somewhere inside or on the model itself.
+ 
+ (insert pic here)
 
 3. Overhang angle
 
+ The overhang angle determines the angle at which support material will be used. The larger the angle, the less support material is used. If set at 90°, there will be no support material, whereas a 0° angle will use supports everywhere on the model.
 
+(insert pic here)
 
 4. Support pattern
 
-
-
-5. Connect zig zags
-
-
-
+ Support pattern determines the ease of removal and sturdiness of the support structure. There are five patterns to choose from:
+ 
+ (insert pic of different support structures here)
+ 
 6. Support density
 
-
+ The density of your support will result in different strength of your support structure. A lower density will be easier to remove, but not as strong compared to a higher density, which will be harder to remove from the finished print, but give you a stronger support structure.
 
 7. X/Y distance
 
-
+  X/Y distance determines the distance between the support structure and the model itself in the x and y directions. A bigger value increases the distance, which will make the support structure less likely to touch the model and fuse the support to the model. Be aware that as the value increases, the more likely a small overhand in the x or y direction would not be supported because the distance is further away.
+  
+  (insert pic here)
 
 8. Z distance
 
-
-
-9. Stair step height
-
-
+ 
 
 10. Join distance
 
