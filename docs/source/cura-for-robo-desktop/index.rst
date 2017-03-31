@@ -377,37 +377,31 @@ Settings profiles are provided to you as defaults, but depending on the specific
  
  (insert pic of different support structures here)
  
-6. Support density
+5. Support density
 
  The density of your support will result in different strength of your support structure. A lower density will be easier to remove, but not as strong compared to a higher density, which will be harder to remove from the finished print, but give you a stronger support structure.
 
-7. X/Y distance
+6. X/Y distance
 
   X/Y distance determines the distance between the support structure and the model itself in the x and y directions. A bigger value increases the distance, which will make the support structure less likely to touch the model and fuse the support to the model. Be aware that as the value increases, the more likely a small overhand in the x or y direction would not be supported because the distance is further away.
   
   (insert pic here)
 
-8. Z distance
+7. Z distance
 
+ Z distance determines the space between the top and bottom of the model and the support structure. Top distance determines the distance between the top of the support structure and the bottom surface of the overhang. Likewise, the bottom distance determines the distance between the bottom of the support structure and the top area of the model. This value should always be small, but depending on the model, might need to be tweaked higher and lower. A smaller value will result in a cleaner surface finish of the model, but will be harder to remove from the model. A higher value will be easier to remove, but will result in a more rough surface finish on the model.
  
+ (insert pic here)
 
-10. Join distance
+8. Horizontal expansion
 
+ Horizontal expansion determines how much the support structure will be printed beyond the model in the x and y direction. A higher value will result in a stronger support structure, but small areas where there are support structure may be harder to remove. A lower value will result in less support structure, which may be hard to remove on areas where there is a lot of support needed to remove after the print is finished.
+ 
+ (insert pic here)
 
+9. Enable support roof
 
-11. Horizontal expansion
-
-
-
-12. Area smoothing
-
-
-
-13. Enable support roof
-
-
-
-14. Use towers
+ If a support roof is enabled, the support structure will create a solid layer of plastic at the top of the support structure. When using a support roof, the model will come out with a very clean surface finish, but may be very hard to remove compared to disabling the support roof. 
 
 **Platform Adhesion**
 
