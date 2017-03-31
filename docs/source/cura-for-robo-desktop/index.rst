@@ -407,13 +407,29 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 1. Brim
 
-
+ Using a brim adds a single layer around your object, fused to the outline of your model to improve adhesion to the bed and prevent warping. A brim is very useful for models that have very small surface area as the first layer as the brim prevents those small surfaces from curling up.
+ 
+ (insert pic here)
 
 2. Raft
 
+ A raft is the best method for using platform adhesion on a Robo C2. A raft is a couple layers of plastic that will adhere to both the bed platform and the print itself. If the model has very small surface area, a raft is also the best option for platform adhesion. A raft is comprised of three main parts: Base layer, middle layer, and top layers. 
+ 
+ * Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smushed, to help adherance to the bed.
+ * Middle layer: Layers that are between the base and top layers. The middle layer gives more surface area for the top layer of the raft to lay down upon. Normally, there is only one middle layer.
+ * Top layers: The top layers are the layers which adhere the model to be printed to the raft iself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
 
+ (insert pic here)
 
+ * Raft air gap: This creates a gap from the top layer of the raft to the actual print in order to remove the raft after printing is finished. A higher value will result in an easier removal of the raft from the print, but can make it harder for the first layer of the print to lay down correctly. Likewise, a smaller value will lay down the first layer well, but can result in a harder to remove raft from the model due to fusing of the plastics.
+ 
+ (insert pic here)
+ 
 3. Skirt
+
+ A skirt is a line printed around the model, but is not fused to the model directly. The skirt acts as a priming line to help make sure the material is flowing out of the nozzle properly before beginning to print the model. 
+ 
+ (insert pic here)
 
 Connecting a Printer via Wifi
 -----------
