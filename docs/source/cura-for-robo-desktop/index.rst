@@ -460,25 +460,3 @@ Connecting a Printer via Wifi
  
  12. Congratulations! You can now not only monitor your printer from within Cura for Robo, but you can also send your print jobs directly to the printer with a single click!
  
-Printing a File
------------
-Once you have a file you are excited to start printing, there are a few ways to get your gcode file onto printer.
-
-Save and upload via web interface
-
-From Model to your printer
-   - There are two ways to get a file from your computer to you Robo C2 3D printer. Note that a 3d printable file is a .gcode file that you just created from the Cura for Robo desktop software
-
-Printing from USB Drive
-   - If you have saved your file to a USB drive, simply put the USB drive into the slot on the 	front of your machine
-	- Tap on the upper left file icon
-	- The printer will automatically search through your USB drive and display all of the 3d 	printable files
-	- Select the file you want to print, and press ‘print’
-
-Uploading to cloud storage
-   - Once you have your 3d printable file, upload it to your same cloud storage you set up 	in your Robo App earlier.
-	- In the Robo App, go to your dashboard
-	- Tap on the cloud storage icon you saved your file to
-	- Once in your cloud storage, find the file you just uploaded, and tap on it. This will 	bring you to a print page.
-	- Select which printer you want to print to and tap ‘print’. 
-
