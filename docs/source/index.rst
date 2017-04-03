@@ -63,7 +63,7 @@ Use the following steps to log into your Robo account:
 
    getting-started/index.rst
    operation/index.rst
-   software/index.rst
+   cura-for-robo-desktop/index.rst
    maintenance/index.rst
    Troubleshooting/index.rst
    safety-compliance/index.rst
