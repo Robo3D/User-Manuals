@@ -382,19 +382,22 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
  * Touching Buildplate: The support structure is only printed on overhangs that are directly over the build platform.
  * Everywhere: The support structure is printed everywhere there is an overhang, even if it is somewhere inside or on the model itself.
  
- (insert pic here)
+.. image:: images/support-placement.png
+   :alt: Support
+   :align: center
+Left: Touching buildplate - Right: Everywhere
 
 3. Overhang angle
 
  The overhang angle determines the angle at which support material will be used. The larger the angle, the less support material is used. If set at 90°, there will be no support material, whereas a 0° angle will use supports everywhere on the model.
 
-(insert pic here)
-
 4. Support pattern
 
  Support pattern determines the ease of removal and sturdiness of the support structure. There are five patterns to choose from:
  
- (insert pic of different support structures here)
+.. image:: images/infill-pattern.png
+   :alt: Support Pattern Comparison
+   :align: center
  
 5. Support density
 
@@ -404,19 +407,25 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
   X/Y distance determines the distance between the support structure and the model itself in the x and y directions. A bigger value increases the distance, which will make the support structure less likely to touch the model and fuse the support to the model. Be aware that as the value increases, the more likely a small overhand in the x or y direction would not be supported because the distance is further away.
   
-  (insert pic here)
+.. image:: images/xy-distance.png
+   :alt: X Y Distance
+   :align: center
 
 7. Z distance
 
  Z distance determines the space between the top and bottom of the model and the support structure. Top distance determines the distance between the top of the support structure and the bottom surface of the overhang. Likewise, the bottom distance determines the distance between the bottom of the support structure and the top area of the model. This value should always be small, but depending on the model, might need to be tweaked higher and lower. A smaller value will result in a cleaner surface finish of the model, but will be harder to remove from the model. A higher value will be easier to remove, but will result in a more rough surface finish on the model.
  
- (insert pic here)
+.. image:: images/topbottom-distance.png
+   :alt: Top Bottom Distance
+   :align: center
 
 8. Horizontal expansion
 
  Horizontal expansion determines how much the support structure will be printed beyond the model in the x and y direction. A higher value will result in a stronger support structure, but small areas where there are support structure may be harder to remove. A lower value will result in less support structure, which may be hard to remove on areas where there is a lot of support needed to remove after the print is finished.
  
- (insert pic here)
+.. image:: images/expansion.png
+   :alt: Horizontal Expansion
+   :align: center
 
 9. Enable support roof
 
@@ -428,27 +437,32 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
  Using a brim adds a single layer around your object, fused to the outline of your model to improve adhesion to the bed and prevent warping. A brim is very useful for models that have very small surface area as the first layer as the brim prevents those small surfaces from curling up.
  
- (insert pic here)
+.. image:: images/Brim.png
+   :alt: Brim
+   :align: center
 
 2. Raft
 
  A raft is the best method for using platform adhesion on a Robo C2. A raft is a couple layers of plastic that will adhere to both the bed platform and the print itself. If the model has very small surface area, a raft is also the best option for platform adhesion. A raft is comprised of three main parts: Base layer, middle layer, and top layers. 
  
- * Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smushed, to help adherance to the bed.
- * Middle layer: Layers that are between the base and top layers. The middle layer gives more surface area for the top layer of the raft to lay down upon. Normally, there is only one middle layer.
- * Top layers: The top layers are the layers which adhere the model to be printed to the raft iself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
+* Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smushed, to help adherance to the bed.
+* Middle layer: Layers that are between the base and top layers. The middle layer gives more surface area for the top layer of the raft to lay down upon. Normally, there is only one middle layer.
+* Top layers: The top layers are the layers which adhere the model to be printed to the raft iself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
 
- (insert pic here)
+.. image:: images/raft.png
+   :alt: Raft
+   :align: center
 
- * Raft air gap: This creates a gap from the top layer of the raft to the actual print in order to remove the raft after printing is finished. A higher value will result in an easier removal of the raft from the print, but can make it harder for the first layer of the print to lay down correctly. Likewise, a smaller value will lay down the first layer well, but can result in a harder to remove raft from the model due to fusing of the plastics.
- 
- (insert pic here)
+* Raft air gap: This creates a gap from the top layer of the raft to the actual print in order to remove the raft after printing is finished. A higher value will result in an easier removal of the raft from the print, but can make it harder for the first layer of the print to lay down correctly. Likewise, a smaller value will lay down the first layer well, but can result in a harder to remove raft from the model due to fusing of the plastics.
+
  
 3. Skirt
 
  A skirt is a line printed around the model, but is not fused to the model directly. The skirt acts as a priming line to help make sure the material is flowing out of the nozzle properly before beginning to print the model. 
  
- (insert pic here)
+.. image:: images/skirt.png
+   :alt: Skirt
+   :align: center
 
 Connecting a Printer via Wifi
 -----------
