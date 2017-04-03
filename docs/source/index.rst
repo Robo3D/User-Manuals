@@ -54,7 +54,7 @@ To enjoy the best possible Robo app experience, be sure to log into your Robo ac
 
 Use the following steps to log into your Robo account:
 
-1. Open the Robo app open and select “Menu” (insert button here) in the upper right corner
+1. Open the Robo app open and select “Menu” in the upper left corner
 2. Select “Log In” on the right hand side of the screen
 3. Follow the prompt to successfully login to your account
 
