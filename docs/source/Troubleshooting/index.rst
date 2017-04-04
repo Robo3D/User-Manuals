@@ -30,6 +30,9 @@ If you are experiencing problems with the plastic not adhering to your print bed
 4. **Using a raft**
   * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
 
+5. **Lower fan speed**
+  * If your prints are still curling after the above soltuions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
+  
 Material Not Extruding
 ---------------
 
