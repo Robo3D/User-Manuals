@@ -93,6 +93,8 @@ Configure and View the Model
 To further configure your model for printing after you have loaded it onto the build platform, click on the model so it becomes highlighted.
 
 1. Move
+....
+
  * You can move your model around the build platform with the Move tool. Either by the click-and-drag method, clicking the arrows projecting from the model, or entering values in the fields provided.
 
 .. image:: images/Configure.JPG
