@@ -25,7 +25,7 @@ Besides your new Robo C2, you will find the following in the box:
 7. 2 filament spool arms
 8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
 9. Robo USB drive
-10. 500g Robo light blue filament
+10. 300g Robo light blue filament
 11. Spatula
    
 .. image:: images/Whats-Inside-the-Box.png
@@ -78,7 +78,9 @@ Next, remove the zipties securing the rods to their plastic brackets
 
 Register your Robo C2
 ---------------
-Before you start, please register your Robo C2 for any servicing or warranty needs if they’re ever required. You can register your product by visiting robo3d.com/register.
+Before you start, please register your Robo C2 for any servicing or warranty needs if they’re ever required. You can register your product by visiting our registration_site_.
+
+.. _registration_site: https://www.robo3d.com/register
 
 Initial set-up
 ---------------
