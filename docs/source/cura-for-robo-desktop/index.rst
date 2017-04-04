@@ -8,18 +8,24 @@ Cura for Robo
 =================================================
 To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object. 
 
-For the Quick Start Guide on using Cura for Robo, click this link (https://www.robo3d.com)
+For the Quick Start Guide on using Cura for Robo, click here: Cura_for_Robo_QSG_.
+
+.. _Cura_for_Robo_QSG: https://www.robo3d.com/curaqsg
 
 Get Started
 -----------
 
-To Download Cura for Robo, click this [link](https://www.robo3d.com)
+To Download Cura for Robo, click here: Cura_for_Robo_.
+
+.. _Cura_For_Robo: https://www.robo3d.com/software/
 
 **Requirements**
 
  1. Operating Systems
   * Windows Vista or higher, 64 Bit
-  * For Mac instructions, follow this link (https://www.robo3d.com)
+  * For Mac instructions, follow this link: Cura_for_mac_.
+  
+.. _Cura_for_mac: https://robo3d.com/cura-for-mac/
   
  2. Hardware
   * OpenGL 2 compatible graphics chip
