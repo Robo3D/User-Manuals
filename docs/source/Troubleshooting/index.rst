@@ -166,7 +166,7 @@ Hotend Clogged
    :alt: Fan Electronics Plugs
    :align: center 
 
-Hotend falling out
+Hotend Falling Out
 ---------------
 
 If you are experiencing your hotend falling out from the extruder, there is a simple fix that will lock your extruder in place
@@ -235,3 +235,26 @@ If the screen is not working there is a few steps that need to be taken to solve
 
 2. **If your screen is still broken**
   * Contact customer support at www.robo3d.com/support
+  
+Hotend Cover is falling off
+---------------
+
+If your hotend cover is fallin off when printing, or is teetering side to side and not flat against the extruder, more that likely your hotend is blocking it. To fix this, follow these steps:
+
+1. Remove your hotend cover.
+
+2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still indie its mount.
+
+.. image:: Images/Hotend-tensioner-loosen.gif
+   :alt: Loosening Hotend
+   :align: center
+
+3. Align the heater block to be parallel with the extruder carriage. Make sure the heater block is not turned in such a way that it is sticking out past the extruder carriage. 
+
+.. image:: Images/hotend-alignment.png
+   :alt: alignment
+   :align: center
+
+4. Tighten the hotend tensioner screw. Remember to not overtighten this scren, as it may be hard to perform maintenance later.
+
+5. Replace the hotend cover
