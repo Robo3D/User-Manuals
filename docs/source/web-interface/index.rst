@@ -7,9 +7,17 @@
 Robo Web Dashboard
 =================================================
 
-What’s in the box
+Here we will explain what dashboard is and what features it has.
+
+Overview
 ---------------
-What’s in the box
+Here is a picture of the interface with call outs to where stuff is.
+
+How to connect
+---------------
+Here we will explain how to connect (both via ip address and via bonjour)
+
+
 ---------------
 What’s in the box
 ---------------
