@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 =================================================
-Cura for Robo
+Cura for Robo Desktop
 =================================================
 To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object. 
 
