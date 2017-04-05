@@ -282,3 +282,46 @@ If your hotend cover is fallin off when printing, or is teetering side to side a
 4. Tighten the hotend tensioner screw. Remember to not overtighten this scren, as it may be hard to perform maintenance later.
 
 5. Replace the hotend cover
+
+Filament Runout Sensor Error
+---------------
+
+If you see an error while printing that 
+
+1. **Make sure you are not bypassing the filament block**
+
+* In order for the filament sensor to work correctly, the filament needs to be run through the filament block on the backside of your printer. The filament sensor is located in this black block and will give an error of no filament if the filament is being run on the outside. Make sure you run all filament through this block to ensure the filament sensor will detect your material.
+
+2. **Disable the filament runout sensor**
+
+* If the filament runout sensor is still reading that there is no filament inside your printer, even though it is going through the filament sensor block, you can disable this software setting via the web browser. Take these steps to disable the filament sensor:
+
+1. Connect your printer to wifi. Go to Utilities> Network> Configure wifi and connect your printer.
+
+2. Once you are successfully connected to the internet, lets find your IP address. Go to Utilities> Network> Network Status. Here you will find the IP address. 
+
+3. Next, open up your browser (such as Google Chrome, or Mozilla Firefox), and enter that same IP address into the address bar. You should see a dashboard come up that looks like this:
+
+.. image:: Images/6.png
+   :alt: Octoprint Dashboard
+   :align: center
+
+4. Click on the 'Settings' button in the top right of the interface.
+
+5. A settings window will pop up. On the left hand side, scroll down and select the item labaled 'Plugin Manager' under 'Octoprint' about half way down the list.
+
+6. You will now see a list of plugins that are installed onto your printer. From here click the next page over until you see the line item labeled 'Filament Sensor'. Click on the small black button to the right of the item (circled in green in the picture below).
+
+.. image:: Images/plugin-manager.PNG
+   :alt: Octoprint Plugin Manager
+   :align: center
+   
+7. Once you have de-selected this plugin, you will need to restart octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
+
+.. image:: Images/restart-now.PNG
+   :alt: Octoprint Restart Now
+   :align: center
+   
+
+
+
