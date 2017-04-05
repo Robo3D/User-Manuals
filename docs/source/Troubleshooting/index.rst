@@ -33,6 +33,30 @@ If you are experiencing problems with the plastic not adhering to your print bed
 5. **Lower fan speed**
   * If your prints are still curling after the above soltuions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
   
+Grinding Noise when Starting a Print or Homing
+---------------
+
+If you are experiencing a grinding noise when trying to start a print, or when your printer is homing, there are some things to take a look at to make sure your printer hardware is in the right place. Sometimes during shipping or traveling, some things can come loose, so lets check those.
+
+1. **Rods are out of place**
+ * Make sure your rods are in the correct position. While moving to the home position, these rods will hit switches to let the printer know it is in the 0 postition. If these rods have been moved out of the way, they will not hit the switch, and the printer will try and continue to travel past its 0 position, resulting in a grinding noise. The picture below will show you how they will look out of place, and also how they should look to work correctly.
+ 
+.. image:: Images/rod-out.png
+   :alt: Rod Out
+   :align: center   
+
+.. image:: Images/rod-in.png
+   :alt: Rod In
+   :align: center
+ 
+* To correct these, hold the plastic bracket the end of the rod is being held by with one hand. With your other hand, grab the rod that is furthest to the back left of the printer and slowly slide it into place (left on the x axis, away from you (back) on the y axis). 
+
+.. image:: Images/adjusting-rod.gif
+   :alt: Adjusting Rod
+   :align: center
+
+* Note: Make sure that the rod is not directly touching the side wall of the printer when placing back into its position. Once you have slid the rod over to the edge of the wall, back it off just slightly so it is not rubbing the side wall when moving back and forth.
+
 Material Not Extruding
 ---------------
 
