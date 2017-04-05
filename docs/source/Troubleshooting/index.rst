@@ -33,7 +33,7 @@ If you are experiencing problems with the plastic not adhering to your print bed
 5. **Lower fan speed**
   * If your prints are still curling after the above soltuions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
   
-Grinding Noise when Starting a Print or Homing
+Grinding Noise when Starting a Print
 ---------------
 
 If you are experiencing a grinding noise when trying to start a print, or when your printer is homing, there are some things to take a look at to make sure your printer hardware is in the right place. Sometimes during shipping or traveling, some things can come loose, so lets check those.
