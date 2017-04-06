@@ -51,6 +51,10 @@ Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or 
 
 2. Open up your web browser (such as Google Chrome or Mozilla Firefox), and enter this IP address into the address bar. If you entered it correctly, you will see a web dashboard come up.
 
+.. image:: images/ip-name.PNG
+   :alt: IP Name
+   :align: center
+
 **Printer name via Bonjour**
 
 1. Mac and iOS Users
