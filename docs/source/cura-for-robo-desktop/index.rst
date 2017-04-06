@@ -7,7 +7,7 @@
 Cura for Robo Desktop
 =================================================
 
-.. image:: images/cura-header.png
+.. image:: images/cura-header.jpg
    :alt: Cura for Robo Header
    :align: center
 
