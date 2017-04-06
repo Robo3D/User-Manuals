@@ -268,7 +268,10 @@ footer {
 
 /* *********************MAIN CONTENT*********************  */
 h2 {
-   padding-top: 82px; 
+   padding-top: 82px !impportant; 
+}
+.rst-content dl {
+    margin-bottom: -58px !impportant;
 }
 
 /* *********************RESPONSIVE STYLE*********************  */
