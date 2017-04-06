@@ -118,7 +118,7 @@ a:visited code,
 
 /* *********************LEFT HAND MENU*********************  */
 .wy-menu-vertical {
-     margin-bottom:62px;
+     margin-bottom:120px;
 }
 .wy-menu-vertical li.current {
     background-color: transparent;
