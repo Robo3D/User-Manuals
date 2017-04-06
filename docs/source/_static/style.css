@@ -266,6 +266,11 @@ footer {
     color: #ffffff;
 }
 
+/* *********************MAIN CONTENT*********************  */
+h2 {
+   padding-top: 82px; 
+}
+
 /* *********************RESPONSIVE STYLE*********************  */
 @media screen and (max-width: 768px) {
     .wy-nav-content div[role="navigation"] {
