@@ -56,7 +56,13 @@ Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or 
 1. Mac and iOS Users
  * First, locate the printer name. There are three places this is shown; On the back of the printer, on the screen under Utilities> Network> Network Status, and on the bar code sticker that came on original box
  * With this name known, go to your web browser and type the name into the web browser address bar followed by a .local/  (examples below).
- * Example - Printer Name: **plastic-gordon**, you would enter **plastic-gordon.local/** into your web browser address bar
+ * Example - Printer Name: **plastic-gordon**, you would enter **plastic-gordon.local/** into your web browser address bar.
+ * Example - Printer Name: **compassionate-shirley**, you would enter **compassionate-shirley.local/** into your web browser address bar.
+
+.. image:: images/bonjour-name.PNG
+   :alt: Bonjour Name
+   :align: center
+
 2. Windows and others
 
  * In order to use bonjour to connect to your printer on a browser via it's name, you will need to install the bonjour extension in order for your computer to recognize names as IP address'. Download here
