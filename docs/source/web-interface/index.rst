@@ -30,8 +30,6 @@ monitor
   print time left
   gcode commands
 
-
-
 Overview
 ---------------
 Here is a picture of the interface with call outs to where stuff is.
@@ -41,9 +39,9 @@ Here is a picture of the interface with call outs to where stuff is.
 How to connect
 ---------------
 
-There are two different ways to connect to the web dashboard from your browser:
+There are three different ways to connect to the web dashboard from your browser:
 
-Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or else you wont be able to connect to your printer in the web browser.
+Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or in hotspot mode or else you wont be able to connect to your printer in the web browser.
 
 **IP Address**
 
@@ -54,6 +52,8 @@ Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or 
 .. image:: images/ip-name.PNG
    :alt: IP Name
    :align: center
+
+Note: You can also connect via a web browser on a smartphone for on-the-go connectivity
 
 **Printer name via Bonjour**
 
@@ -72,21 +72,49 @@ Note: Make sure your Robo C2 or Robo R2 is connected to the wireless network or 
  * In order to use bonjour to connect to your printer on a browser via it's name, you will need to install the bonjour extension in order for your computer to recognize names as IP address'. Download here
  * Once installed follow the steps used for Mac and iOS users above.
 
-Here we will explain how to connect (both via ip address and via bonjour)
+**Hotspot Mode**
 
-Uploading Files
+1. To use hotspot mode, select hotspot mode on your printer via Utilities> Network> Start WiFi Hotspot
+2. Now look for your IP address under Utilities> Network> Network Status
+3. Next, go to your computer and make sure to connect to the printers wifi hotspot.
+4. Now, type the IP address into your web browsers web address bar and the dashboard should pop up.
+
+Uploading stl Files
 ---------------
+
 
 Explain here how to upload stl files (and what happens to slice)
 
-Explain here how to upload gcode files
+Uploading gcode Files
+---------------
+
+If you have already sliced your file via Cura for Robo, or another slicer program, there are two main ways to upload gcode files to your printer. By the 'Upload' button, as well as a 'drag-and-drop' approach.
+
+1. The 'Upload' Button is located where the file list is towards the bottom of the list.
+
+.. image:: images/upload-file-button.PNG
+   :alt: Upload File Button
+   :align: center
+
+2. You can also simply drag your gcode file from your computer into the dashboard. The dashboard will get dark, and you may then drop the file onto the left side of the dashboard where it says 'upload'
+
+.. image:: images/upload-file-drag.PNG
+   :alt: Upload File
+   :align: center
 
 Set temperature and move motors
 ---------------
+1. Under the 'Temperature' section of the web dashboard, you can set temperatures for your nozzle and your bed (Robo R2 only). This is a good place to toggle your temperatures if your material needs more or less heat.
 
-Explain here how to set temperatures
+.. image:: images/temp-control.PNG
+   :alt: Upload File
+   :align: center
 
-Explain here how to move motors (remember temp needs to be up to move extruder)
+2. Under the 'Control' section of the interface, you can move your motors and extrude filament. Use the arrows and the distance to move ijn the desired location. Remember to heat up your nozzle before using the 'extrude' and 'retract' buttons.
+
+.. image:: images/controls.PNG
+   :alt: Upload File
+   :align: center
 
 View on-board camera + timelapse (Robo R2 only)
 ---------------
@@ -94,7 +122,6 @@ View on-board camera + timelapse (Robo R2 only)
 1. Viewing your print with the camera
 
 2. Timelapse feature
-
 
 
 Manage plugins
@@ -110,7 +137,7 @@ How to update your software
 View history and statistics of printer
 ---------------
 
-Interface showing what is what
+(pic of Interface showing what is what)
 
 Set your z-offset
 ---------------
