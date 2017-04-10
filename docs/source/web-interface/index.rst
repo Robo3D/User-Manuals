@@ -189,17 +189,33 @@ How to update your software
 
 View history and statistics of printer
 ---------------
-History
-Prints per day and success rate
-Printer statistics
-Power Usage
 
-(pic of Interface showing what is what)
+There are a few modules on the web dashboard that allow you to view some statistics of your printer. Some of the things you can get info on are; history, prints per day and success rate, printer statistics, and power usage. This is a good way to track your printer and will be displayed as the following;
+
+.. image:: images/statistics.png
+   :alt: Statistics
+   :align: center
 
 Set your z-offset
 ---------------
 
-EEprom settings go here
+With the web dashboard, you can manually adjust your z-offset value. To do this, click the 'Settings' button in the upper right of the interface. When the settings window pops up, scroll to the bottom of the menu on the left hand side. Here you will find a menu option named 'EEPROM Marlin Editor Plugin' that you will need to select. This will bring up an almost empty page. There are two buttons labeled 'Load EEprom' and 'Save to EEprom'. Go ahead and click the 'Load EEprom' button.
+
+.. image:: images/load-eeprom.png
+   :alt: Load EEprom
+   :align: center
+
+This will load the values of some of the core settings that your printer runs on. From here, scroll down and find the 'z-offset' value. Here, you can manually adjust this value (note: a higher negative number will increase your z-offset, meaning the bed will be farther away from the nozzle).
+
+.. image:: images/eeprom-a-offset.PNG
+   :alt: EEprom z offset
+   :align: center
+
+From here, you will need to scroll back to the top of the page and select 'Save to EEprom' to correctly save the value to your printer. Once that is saved, you can then click save on the bottom right of your window. Remember: if you don't click the 'Save to EEprom' button, your new z-offset will NOT be saved and will use the old value entered previously.
+
+.. image:: images/save-eeprom.png
+   :alt: Save EEprom
+   :align: center
 
 Monitor your print
 ---------------
