@@ -220,6 +220,8 @@ From here, you will need to scroll back to the top of the page and select 'Save 
 Monitor your print
 ---------------
 
+From the web dashboard, you are able to monitor your print, as well as start, pause, and cancel a print. In the top left of the interface under 'state', you will find information such as: the file selected, total print time, elapsed print time, print time left, as well as the option to print, pause, and cancel your current file.
 
-
-Start, pause and cancel your print explanations
+.. image:: images/monitor.PNG
+   :alt: Monitor Printer
+   :align: center
