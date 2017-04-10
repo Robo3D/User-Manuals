@@ -79,12 +79,6 @@ Note: You can also connect via a web browser on a smartphone for on-the-go conne
 3. Next, go to your computer and make sure to connect to the printers wifi hotspot.
 4. Now, type the IP address into your web browsers web address bar and the dashboard should pop up.
 
-Uploading stl Files
----------------
-
-
-Explain here how to upload stl files (and what happens to slice)
-
 Uploading gcode Files
 ---------------
 
@@ -101,6 +95,21 @@ If you have already sliced your file via Cura for Robo, or another slicer progra
 .. image:: images/upload-file-drag.PNG
    :alt: Upload File
    :align: center
+
+Uploading stl Files
+---------------
+
+If you have an stl file that you want to print, you can slice it on your printer directly through the web dashboard. You can grab an stl model from places like www.thingiverse.com, www.myminifactory.com, or upload your own from your 3d modeling software.
+
+Once you have your stl file, go ahead and upload it to your printer by either of the two ways from the section above Uplading gcode Files (link)
+
+Once you upload your stl file to the printer via the web dashboard, a pop up window will show up asking you if you would like to slice the file, and with what settings.
+
+(insert picture here)
+
+Choose from your print profile settings of Low, Medium, High, or Ultra High - with or without a raft. Once your profile settings have been selected, you can choose to name your file and choose to start printing or do nothing after slicing.
+
+Explain here how to upload stl files (and what happens to slice)
 
 Set temperature and move motors
 ---------------
@@ -127,7 +136,51 @@ View on-board camera + timelapse (Robo R2 only)
 Manage plugins
 ---------------
 
-Which plugins do what
+Plug-ins are a great way to add functionality to your Robo C2 and Robo R2. There a several plugins that make the entire experience of using your 3d printer easy and accessible. You can manage all of your plug-ins from the web dashboard by going to the 'settings' button in the top right of the main interface. A 'settings' pop up window will show up, where you can locate the 'plugin manager' on the left hand menu about half way down. There are many plugins installed onyour printer, but here are explained a few essential ones that are made to make the experience better;
+
+EEPROM Marlin Editor Plugin
+
+(need matt pedler explain here)
+
+Filament Sensor
+
+ * The filament sensor plugin has been designed to take an input from a sensor located in the filament bracket, and output that signal to the on-board computer. If it realizes there is no filament loaded in the filament bracket, it will pause the print and show a pop-up on the screen to let you know to add more filament before poceeding.
+
+Kaa_printevent Plugin
+
+
+
+Lani
+
+
+
+Mainboard Connection Plugin
+
+ * This connection plugin is built to maintain a connection from the on-board computer to the main board that drives the hardware on the printer.
+
+Robo Theme
+
+This is a theme that has been created specifically for Robo 3d printers. It is a more unique experience, and has been built to layout the web dashboard so it is easier to access and view.
+
+RoboLCD
+
+ * RoboLCD is the plugin that lets the on-board computer run the front facing LCD screen on the Robo C2 and Robo R2.
+
+**How to Enable and Disable Plugins**
+
+Below is a way of disabling a plugin, but you can use this method for other plugins as well as enabling them.
+
+From the plugins section of the settings, click the next page over until you see the line item labeled 'Filament Sensor'. Click on the small black button to the right of the item (circled in green in the picture below). This will disable the plugin. (If you are trying to enable the plugin, it will be an unshaded circle. Click it to enable and it will fill in to be a solid black circle).
+
+.. image:: images/plugin-manager.PNG
+   :alt: Octoprint Plugin Manager
+   :align: center
+
+Once you have de-selected this plugin, you will need to restart Octoprint. A pop up will show on the top right of the interface - click 'restart now'. Your plugin will now be disabled and ready for printing.
+
+.. image:: images/restart-now.PNG
+   :alt: Octoprint Restart Now
+   :align: center
 
 Update software
 ---------------
@@ -136,6 +189,10 @@ How to update your software
 
 View history and statistics of printer
 ---------------
+History
+Prints per day and success rate
+Printer statistics
+Power Usage
 
 (pic of Interface showing what is what)
 
@@ -146,5 +203,7 @@ EEprom settings go here
 
 Monitor your print
 ---------------
+
+
 
 Start, pause and cancel your print explanations
