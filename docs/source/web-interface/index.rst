@@ -207,7 +207,7 @@ With the web dashboard, you can manually adjust your z-offset value. To do this,
 
 This will load the values of some of the core settings that your printer runs on. From here, scroll down and find the 'z-offset' value. Here, you can manually adjust this value (note: a higher negative number will increase your z-offset, meaning the bed will be farther away from the nozzle).
 
-.. image:: images/eeprom-a-offset.PNG
+.. image:: images/eeprom-z-offset.PNG
    :alt: EEprom z offset
    :align: center
 
