@@ -179,11 +179,11 @@ If you are having trouble connecting to a wireless network directly through the 
 
 3. Choose a wireless network that you wish to connect to, and press 'Connect'.
 
-.. image:: images/network-connect.PNG
+.. image:: images/network-connection.PNG
    :alt: Network connection
    :align: center
 
-4. A pop up will come up to enter a password. Enter it and press 'confirm'. If you connected correctly, the 'connection state' will show you if you are connected to the wireless network of your choice. 
+4. A pop up will come up to enter a password. Enter it and press 'confirm'. If you connected correctly, the 'connection state' will show you if you are connected to the wireless network of your choice.
 
 .. image:: images/wifi-password.PNG
    :alt: Wifi Password
