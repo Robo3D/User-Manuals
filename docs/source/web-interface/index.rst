@@ -130,19 +130,19 @@ Plug-ins are a great way to add functionality to your Robo C2 and Robo R2. There
 
 EEPROM Marlin Editor Plugin
 
-(need matt pedler explain here)
+ * The EEPROM Marlin Editor Plugin allows the user to pull the EEprom setting directly through the web dashboard. This plugin also directly talks to the Robo C2 and Robo R2 LCD screen and translates the information quickly and accurately.
 
 Filament Sensor
 
- * The filament sensor plugin has been designed to take an input from a sensor located in the filament bracket, and output that signal to the on-board computer. If it realizes there is no filament loaded in the filament bracket, it will pause the print and show a pop-up on the screen to let you know to add more filament before poceeding.
+ * The filament sensor plugin has been designed to take an input from a sensor located in the filament bracket, and output that signal to the on-board computer. If it realizes there is no filament loaded in the filament bracket, it will pause the print and show a pop-up on the screen to let you know to add more filament before proceeding.
 
 Kaa_printevent Plugin
 
-
+ * 
 
 Lani
 
-
+ * The Lani plugin enables Robo C2 and Robo R2 to be remote monitored with admin access through the Lani platform - www.lanilabs.com
 
 Mainboard Connection Plugin
 
