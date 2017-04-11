@@ -11,24 +11,11 @@ Here we will explain what dashboard is and what features it has. Also put a link
 
 There will be a graphic explaining what octoprint does and call out features:
 
-Upload files (both stl and gcode)
-Slice files with onboard slicing
-Start and stop a print
-View layers of the model from a selected gcode
-move motors
-preheat nozzle and build plate
 on board camera
 Set timelapse from the on board cameras
 manage plugins
 Update software
-z offset
 view terminal of commands
-View history of printer
-View statistics of printer
-monitor
-  temperature
-  print time left
-  gcode commands
 
 Overview
 ---------------
@@ -136,7 +123,7 @@ View on-board camera + timelapse (Robo R2 only)
 Manage plugins
 ---------------
 
-Plug-ins are a great way to add functionality to your Robo C2 and Robo R2. There a several plugins that make the entire experience of using your 3d printer easy and accessible. You can manage all of your plug-ins from the web dashboard by going to the 'settings' button in the top right of the main interface. A 'settings' pop up window will show up, where you can locate the 'plugin manager' on the left hand menu about half way down. There are many plugins installed onyour printer, but here are explained a few essential ones that are made to make the experience better;
+Plug-ins are a great way to add functionality to your Robo C2 and Robo R2. There a several plugins that make the entire experience of using your 3d printer easy and accessible. You can manage all of your plug-ins from the web dashboard by going to the 'settings' button in the top right of the main interface. A 'settings' pop up window will show up, where you can locate the 'plugin manager' on the left hand menu about half way down. There are many plugins installed on your printer, but here are explained a few essential ones that are made to make the experience better;
 
 EEPROM Marlin Editor Plugin
 
@@ -160,7 +147,7 @@ Mainboard Connection Plugin
 
 Robo Theme
 
-This is a theme that has been created specifically for Robo 3d printers. It is a more unique experience, and has been built to layout the web dashboard so it is easier to access and view.
+ * This is a theme that has been created specifically for Robo 3d printers. It is a more unique experience, and has been built to layout the web dashboard so it is easier to access and view.
 
 RoboLCD
 
@@ -180,6 +167,26 @@ Once you have de-selected this plugin, you will need to restart Octoprint. A pop
 
 .. image:: images/restart-now.PNG
    :alt: Octoprint Restart Now
+   :align: center
+
+**How to connect the printer to the wireless network through hotspot mode**
+
+If you are having trouble connecting to a wireless network directly through the Robo C2 or Robo R2 screen, you can use the web dashboard to get around this issue.
+
+1. FIrst, we must connect to the printer via hotspot mode. Once we have secured a connection through hotspot mode, click on your 'Settings' button in the upper right of the interface.
+
+2. Next, scroll down to 'Network connection' at the bottom of the left hand menu. Here you will see a list of available wireless networks that you can connect to.
+
+3. Choose a wireless network that you wish to connect to, and press 'Connect'.
+
+.. image:: images/network-connect.PNG
+   :alt: Network connection
+   :align: center
+
+4. A pop up will come up to enter a password. Enter it and press 'confirm'. If you connected correctly, the 'connection state' will show you if you are connected to the wireless network of your choice. 
+
+.. image:: images/wifi-password.PNG
+   :alt: Wifi Password
    :align: center
 
 Update software
