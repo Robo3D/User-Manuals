@@ -14,7 +14,6 @@ There will be a graphic explaining what octoprint does and call out features:
 on board camera
 Set timelapse from the on board cameras
 manage plugins
-Update software
 view terminal of commands
 
 Overview
@@ -92,11 +91,15 @@ Once you have your stl file, go ahead and upload it to your printer by either of
 
 Once you upload your stl file to the printer via the web dashboard, a pop up window will show up asking you if you would like to slice the file, and with what settings.
 
-(insert picture here)
+.. image:: images/stl-slicing.PNG
+   :alt: Upload File
+   :align: center
 
 Choose from your print profile settings of Low, Medium, High, or Ultra High - with or without a raft. Once your profile settings have been selected, you can choose to name your file and choose to start printing or do nothing after slicing.
 
-Explain here how to upload stl files (and what happens to slice)
+.. image:: images/slicing-dropdown.png
+   :alt: Upload File
+   :align: center
 
 Set temperature and move motors
 ---------------
@@ -173,7 +176,7 @@ Once you have de-selected this plugin, you will need to restart Octoprint. A pop
 
 If you are having trouble connecting to a wireless network directly through the Robo C2 or Robo R2 screen, you can use the web dashboard to get around this issue.
 
-1. FIrst, we must connect to the printer via hotspot mode. Once we have secured a connection through hotspot mode, click on your 'Settings' button in the upper right of the interface.
+1. First, we must connect to the printer via hotspot mode. Once we have secured a connection through hotspot mode, click on your 'Settings' button in the upper right of the interface.
 
 2. Next, scroll down to 'Network connection' at the bottom of the left hand menu. Here you will see a list of available wireless networks that you can connect to.
 
@@ -188,11 +191,6 @@ If you are having trouble connecting to a wireless network directly through the 
 .. image:: images/wifi-password.PNG
    :alt: Wifi Password
    :align: center
-
-Update software
----------------
-
-How to update your software
 
 View history and statistics of printer
 ---------------
