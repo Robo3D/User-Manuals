@@ -13,7 +13,6 @@ There will be a graphic explaining what octoprint does and call out features:
 
 on board camera
 Set timelapse from the on board cameras
-manage plugins
 view terminal of commands
 
 Overview
@@ -135,10 +134,6 @@ EEPROM Marlin Editor Plugin
 Filament Sensor
 
  * The filament sensor plugin has been designed to take an input from a sensor located in the filament bracket, and output that signal to the on-board computer. If it realizes there is no filament loaded in the filament bracket, it will pause the print and show a pop-up on the screen to let you know to add more filament before proceeding.
-
-Kaa_printevent Plugin
-
- * 
 
 Lani
 
