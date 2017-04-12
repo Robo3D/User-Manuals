@@ -270,8 +270,11 @@ footer {
 h2 {
    padding-top: 82px !important; 
 }
+#enter-the-robolution h1, #make-more-with-robo-c2 h1, #make-smarter-with-the-robo-app h1, #logging-into-your-robo-account h1 {
+   padding-top: 82px !important; 
+}
 .section {
-    margin-bottom: -58px !important;
+    margin-bottom: -58px !important; 
 }
 
 /* *********************RESPONSIVE STYLE*********************  */
