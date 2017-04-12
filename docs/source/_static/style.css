@@ -276,7 +276,9 @@ h2 {
 .section {
     margin-bottom: -58px !important; 
 }
-
+footer {
+    margin-top: 82px;
+}
 /* *********************RESPONSIVE STYLE*********************  */
 @media screen and (max-width: 768px) {
     .wy-nav-content div[role="navigation"] {
