@@ -11,9 +11,7 @@ Here we will explain what dashboard is and what features it has. Also put a link
 
 There will be a graphic explaining what octoprint does and call out features:
 
-on board camera
-Set timelapse from the on board cameras
-view terminal of commands
+link to QSG
 
 Overview
 ---------------
@@ -131,6 +129,15 @@ View on-board camera + timelapse (Robo R2 only)
    :alt: Timelapse Controls
    :align: center
 
+Terminal
+---------------
+
+The terminal is where you can see all of the commands being sent to your printer. You can also send specific commands in the terminal to troubleshoot and get feedback on your printer.
+
+.. image:: images/terminal.PNG
+   :alt: Terminal
+   :align: center
+
 Manage plugins
 ---------------
 
@@ -146,7 +153,7 @@ Filament Sensor
 
 Lani
 
- * The Lani plugin enables Robo C2 and Robo R2 to be remote monitored with admin access through the Lani platform - www.lanilabs.com
+ * The Lani plugin enables Robo C2 and Robo R2 to be remote monitored with admin access through the Lani platform www.lanilabs.com
 
 Mainboard Connection Plugin
 
