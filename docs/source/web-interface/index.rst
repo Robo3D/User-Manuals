@@ -118,9 +118,18 @@ View on-board camera + timelapse (Robo R2 only)
 ---------------
 
 1. Viewing your print with the camera
+ * Under the 'Webcam' section of the web dashboard you will see a live stream of the inside of your Robo R2. Here you can monitor not only your current print project, but also if the printer is clear of any print on the print platform, and if it is ready to start another print.
+
+.. image:: images/webcam2.PNG
+   :alt: Webcam
+   :align: center
 
 2. Timelapse feature
+ * Under 'Additional Controls' you will find 'Timelapse Configuration'. This will allow you to take intermittent snapshots of your print, which will automatically put together in a timelapse video. Here, you can control the settings such as: on/off, timelapse frame rate, and timelapse post roll. Right below this, you will find a list of all the Finished Timelapses on that particular Robo R2.
 
+.. image:: images/timelapse-control.PNG
+   :alt: Timelapse Controls
+   :align: center
 
 Manage plugins
 ---------------
