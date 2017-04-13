@@ -45,21 +45,72 @@ link facebook or continue as guest
 takes you to your dashboard
 
 
+General workflow
+---------------
+
+There is an easy workflow to get from file to printing and these are the steps to do it:
+
+1. Make sure you are logged into your Google Drive or Dropbox account.
+2. Go to your browser on your iOS device, and find a file on a file sharing site like www.thingiverse.com.
+3. While still in the browser, upload that file to your Google Drive or Dropbox account.
+4. Next, go into the Robo app.
+5. In the dashboard, click on the button labeled 'Select Storage'.
+6. Now select the storage where you had uploaded the file to.
+7. Once you are in here, find the file that you had uploaded and click on it. This will bring up a pop-up of which printer you would like to send the file to.
+8. Select the printer you want to print the file with, and it will go directly into either slicing mode, or a page that will allow you to start the print.
 
 Adding a Printer
 ---------------
 
+
+
 Linking Cloud Storage
 ---------------
 
-Overview
+google drive and dropbox
+
+Printer Controls
 ---------------
 
-Overview
+and terminal
+
+Slicing a model
 ---------------
 
-Overview
+slice from an stl file or cloud
+
+Video
 ---------------
 
-Overview
+view
+
+Library
+---------------
+
+viewing your files
+
+Connecting your printer to wifi
+---------------
+
+work flow
+
+Your Settings
+---------------
+
+changing settings or wifi
+
+Support and guides
+---------------
+
+
+
+Store
+---------------
+
+
+Multiple Printers
+---------------
+
+
+Printer Controls
 ---------------
