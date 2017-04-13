@@ -71,8 +71,8 @@ Follow these steps to remove your hotend nozzle
 1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
 2. Remove the magnetic extruder plate to expose your entire hotend and wires
 
-.. image:: images/Hotend-cover-on.gif
-     :alt: Hotend cover on
+.. image:: images/Hotend-cover-off.gif
+     :alt: Hotend cover off
      :align: center
 
 3. The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
