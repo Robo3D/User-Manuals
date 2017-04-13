@@ -30,15 +30,15 @@ Cleaning the feeder gear
 
 Steps to take to clean your feeder gear
 
-   1. First, turn off your machine and remove the extruder cover.
+ 1. First, turn off your machine and remove the extruder cover.
 
 .. image:: Images/Extruder-cover-off.gif
      :alt: Exturder Cover Off
      :align: center
 
-   2. Once that is off, go ahead and use toothbrush to brush the feed gear to remove debris.
-   3. Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned.
-   4. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2.
+2. Once that is off, go ahead and use toothbrush to brush the feed gear to remove debris.
+3. Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned.
+ 4. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2.
 
 Lubricating the axis
 -----
