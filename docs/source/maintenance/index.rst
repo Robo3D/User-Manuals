@@ -30,15 +30,15 @@ Cleaning the feeder gear
 
 Steps to take to clean your feeder gear
 
- 1. First, turn off your machine and remove the extruder cover.
+1. First, turn off your machine and remove the extruder cover.
 
-.. image:: Images/Extruder-cover-off.gif
+.. image:: images/Extruder-cover-off.gif
      :alt: Exturder Cover Off
      :align: center
 
 2. Once that is off, go ahead and use toothbrush to brush the feed gear to remove debris.
 3. Rotate the feeder gear by turning the motor shaft by hand and repeat steps until the entire feeder gear is cleaned.
- 4. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2.
+4. Place the extruder cap back onto the top of your extruder assembly and plug in Robo C2.
 
 Lubricating the axis
 -----
@@ -68,31 +68,28 @@ Cleaning the print bed surface
 Replacing your Hotend Nozzle
 -----
 Follow these steps to remove your hotend nozzle
-   1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
-   2. Remove the magnetic extruder plate to expose your entire hotend and wires
+1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
+2. Remove the magnetic extruder plate to expose your entire hotend and wires
 
-   .. image:: Images/Hotend-cover-on.gif
+.. image:: images/Hotend-cover-on.gif
      :alt: Hotend cover on
      :align: center
 
-   3. Place new hotend in by reversing these steps
-   4. Plug your Robo C2 back in and you are all set
+3. The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
+4. Loosen your hotend by turning the tensioner screw counterclockwise a few turns.
 
-   5. The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
-   6. Loosen your hotend by turning the tensioner screw counterclockwise a few turns.
-
-   .. image:: Images/Hotend-tensioner-loosen.gif
+.. image:: images/Hotend-tensioner-loosen.gif
      :alt: Loosening Hotend
      :align: center
 
-   7. When the hex screw is loose enough, your hotend should be able to fall out of its housing
-   8. Carefully pull the wires by hand to remove them from their housings
-   9. Place new hotend in by reversing these steps
-   10. Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
-   11. While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand. Make sure you align the heater block to be parallel with the fron of the extruder so the hotend cover will lay flat against the magnets when reinstalling.
+5. When the hex screw is loose enough, your hotend should be able to fall out of its housing
+6. Carefully pull the wires by hand to remove them from their housings
+7. Place new hotend in by reversing these steps
+8. Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+9. While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand. Make sure you align the heater block to be parallel with the fron of the extruder so the hotend cover will lay flat against the magnets when reinstalling.
 
-   .. image:: Images/Tightening-hotend-tensioner.gif
+.. image:: images/Tightening-hotend-tensioner.gif
      :alt: Tightening Hotend
      :align: center
 
-   12. Turn the printer back on and test.
+10. Turn the printer back on and test.
