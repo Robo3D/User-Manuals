@@ -44,6 +44,9 @@ Share app data
 link facebook or continue as guest
 takes you to your dashboard
 
+.. image:: images/dashboard-start.PNG
+   :alt: Dashboard Start
+   :align: center
 
 General workflow
 ---------------
@@ -62,7 +65,7 @@ There is an easy workflow to get from file to printing and these are the steps t
 Adding a Printer
 ---------------
 
-
+Once you are in 
 
 Linking Cloud Storage
 ---------------
