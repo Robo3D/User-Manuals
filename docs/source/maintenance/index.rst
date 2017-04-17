@@ -49,12 +49,8 @@ White Lithium Grease
    - The rods that carry the extruder head are ball bearings and should be lubricated with a white-lithium grease to ensure smooth travel.
    - The z-axis lead screw also needs a white lithium grease for lubrication. Dap a small amount onto the rod, and let the printer move up and down from the next print to lubricate itself.
 
-(insert lubricating different rods here)
-
 3-in-1 Oil
    - The x and y brackets have a smooth bushing inside of them, and need to be lubricated once every 2-4 months. Wipe down the build up that these bearing produce on the rods over time with a cleaning agent. The bearings can be greased with a few drops of 3-in-1 oil, or sewing machine oil to lubricate sufficiently.
-
-(insert pic of lubricating xy rods)
 
 Cleaning the print bed surface
 -----
