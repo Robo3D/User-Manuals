@@ -12,9 +12,9 @@ Enter the Robolution
 
 Greetings, Maker!
 
-Thank you for your purchase and welcome to the Robo family! We really love 3D printing and our aim is to get this amazing technology into the hands of as many people as possible to see what awesome creations spring from your imagination. 
+Thank you for your purchase and welcome to the Robo family! We really love 3D printing and our aim is to get this amazing technology into the hands of as many people as possible to see what awesome creations spring from your imagination.
 
-Here you’ll find all of the information you need for a seamless 3D printing experience with Robo C2. This next-generation 3D printer includes a wish-list set of innovative features required in a modern, connected smart device to make 3D printing fun, easy and accessible to everyone. 
+Here you’ll find all of the information you need for a seamless 3D printing experience with Robo C2. This next-generation 3D printer includes a wish-list set of innovative features required in a modern, connected smart device to make 3D printing fun, easy and accessible to everyone.
 
 To get the most from your Robo C2, please review the full manual.
 
@@ -65,8 +65,7 @@ Use the following steps to log into your Robo account:
    getting-started/index.rst
    operation/index.rst
    cura-for-robo-desktop/index.rst
+   web-interface/index.rst
    maintenance/index.rst
    Troubleshooting/index.rst
    safety-compliance/index.rst
-
-
