@@ -11,7 +11,9 @@ Here we will explain what dashboard is and what features it has. Also put a link
 
 There will be a graphic explaining what octoprint does and call out features:
 
-link to QSG
+For the Quick Start Guide on using the Robo Web Dashboard, click here: Robo_Web_Dashboard_QSG.
+
+.. _Robo_Web_Dashboard_QSG: https://www.robo3d.com/webdashboardqsg
 
 Overview
 ---------------
