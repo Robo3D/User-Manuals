@@ -7,17 +7,20 @@
 Robo Web Dashboard
 =================================================
 
-Here we will explain what dashboard is and what features it has. Also put a link to the dashboard quick start guide
+.. image:: images/web-dashboard-header.jpg
+   :alt: Dashboard Header
+   :align: center
 
-There will be a graphic explaining what octoprint does and call out features:
+For the Quick Start Guide on using the Robo Web Dashboard, click here: Robo_Web_Dashboard_QSG_.
 
-link to QSG
+.. _Robo_Web_Dashboard_QSG: https://www.robo3d.com/web-dashboard
 
 Overview
 ---------------
-Here is a picture of the interface with call outs to where stuff is.
 
-(insert picture of interface here)
+.. image:: images/dashboard-overview.PNG
+   :alt: Dashboard Overview
+   :align: center
 
 How to connect
 ---------------
