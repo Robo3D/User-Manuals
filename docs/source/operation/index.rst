@@ -7,6 +7,10 @@
 Operation
 =================================================
 
+.. image:: images/operation-header.jpg
+   :alt: Operation Header
+   :align: center
+
 -----------
 Display Screen
 -----------
@@ -14,14 +18,14 @@ Display Screen
 The color touch screen display on the front of your Robo C2 is the main access point for setting up, controlling, and reviewing all components of your 3d printer. You can navigate through the menus by touch or a stylus.
 
 Files
-   -Here you are able to navigate through your files, whether they are on a usb thumb drive or on the local hard drive internally. 
+   -Here you are able to navigate through your files, whether they are on a usb thumb drive or on the local hard drive internally.
 
 Printer
    -The print screen is the default screen when printing. This will show you file printing, extruder tempersture, a progress indicator, and pause and cancel buttons while in use.
-   
+
 Utilities
    -The Utilities menu offers a variety of options including: motor control, temperature control, z-offset wizard, network settings, and a way to update your printer
-   
+
 -----------
 Setting the Z offset
 -----------
@@ -66,23 +70,23 @@ Loading and Unloading Filament
 Loading Filament
 
 From the home screen select 'Utilities'
-   
+
 .. image:: images/SelectUtilities.png
    :alt: Select Utilities
    :align: center
-   
+
 Next, select 'Wizards'
-   
+
 .. image:: images/SelectWizards.png
    :alt: Select Wizards
-   :align: center 
-  
+   :align: center
+
 Select 'Filament Loading Wizard'
-   
+
 .. image:: images/SelectFilamentLoading.png
    :alt: Select Filament Loading
    :align: center
-   
+
 After you printer heats up, ensure you've cut the tip of the filament. Place the filament inside the feed hole, and press 'Next'.
 
 .. image:: images/Filament-into-extruder.gif
@@ -90,20 +94,20 @@ After you printer heats up, ensure you've cut the tip of the filament. Place the
    :align: center
 
 The feeder gear will push your filament down, through the extruder, and out of the nozzle
- 
+
 .. image:: images/Filament-coming-from-nozzle.gif
    :alt: Filament Extruding
-   :align: center 
+   :align: center
 
 Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
-   
+
 Unloading Filament
   1. From the home screen select 'Utilities'
   2. Next, select 'Wizards'
   3. Select 'Filament Change Wizard'
   4. After you printer heats up, the feeder gear will start to retract the filament from the nozzle
   5. Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
-   
+
 -----------
 Start a print
 -----------
@@ -111,17 +115,17 @@ Start a print
 Starting a print from your internal storage
 
 Select 'Files' from the home screen
-   
+
 .. image:: images/Selectfiles.png
    :alt: Select Files
    :align: center
-   
+
 Select a file you would like to print
-   
+
 .. image:: images/Selectafile.png
    :alt: Select a file
    :align: center
-   
+
 Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
 
 .. image:: images/Selectstart.png
@@ -151,7 +155,7 @@ There are three ways to check on the status of your print while your Robo C2 is 
 
 Screen
    * While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
-   
+
 .. image:: images/printingscreen.png
    :alt: Printing Screen
    :align: center
@@ -192,24 +196,24 @@ Using print bed adhesion
 The Robo C2 has a print bed adhesion tape already installed with your printer. These will usually last about 10-30 prints depending on the model you print on it.
    - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with isopropyl alcohol before every print.
    - If your prints have a hard time sticking to the bed, you can replace the print bed adhesion with the extras that came in your inclusions box or buy directly from www.robo3d.com store
- 
+
 .. image:: images/Applying-bed-tape.gif
    :alt: Applying Bed Tape
-   :align: center   
+   :align: center
 
 ------------
 Removing the print
 ------------
 
-   1. When the Print is completed, remove the print plate with the finished print on it from the C2 by lifting the bed up and away from the magnets. 
-   2. Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate. 
+   1. When the Print is completed, remove the print plate with the finished print on it from the C2 by lifting the bed up and away from the magnets.
+   2. Slowly slide the print bed out of the machine and hold with two hands on opposite ends of the print plate.
    3. Now, flex the print plate back and forth to create a gap in between the print and the print plate. Move to the opposite corners and repeat twisting until the majority of the print has come loose.
    4. Carefully remove the print from the print plate with your hand.
- 
+
 .. image:: images/Removing-Print.gif
    :alt: Removing Print
    :align: center
- 
+
 .. note:: If the print is not coming loose after flexing the bed, use the provided spatula scraper carefully to skim the border of your print. Slowly work your way underneath the print toward the middle until your print comes loose. Do not try and pull the print from the plate directly up from the middle, as it may cause your print to break.
 
 -----------
@@ -248,7 +252,7 @@ Setting Up Wifi
 Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo C2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
 
 Hotspot Mode
-   1. Select “Utilities” on the home screen of the Robo C2 touch screen 
+   1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
    4. Your Robo C2 is now casting it's own wireless network
@@ -275,7 +279,7 @@ Connecting via a local wifi network
 
 		+ On the screen of your machine, select  ‘Utilities’
 		+ Select ‘network’
-		+ Select ‘QR Code’ 
+		+ Select ‘QR Code’
    6. Tap on ‘Scan Printer Barcode for Key’
    7. Point your camera at the barcode and wait for the app to recognize the 3d printer
    8. Tap ‘add printer’ at the bottom of the screen
@@ -296,11 +300,11 @@ Make sure to update your printer to grab the benefits of all the latest Robo has
 .. image:: images/SelectUtilities.png
    :alt: Select Utilities on Home Screen
    :align: center
-   
+
 * Select 'Update'
 
 .. image:: images/selectupdate.png
    :alt: Select Update
    :align: center
-   
+
 * Check to see if you have the most up-to-date software. If not, go ahead and update to get the best use from your Robo C2
