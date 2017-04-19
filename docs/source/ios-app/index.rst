@@ -65,10 +65,32 @@ There is an easy workflow to get from file to printing and these are the steps t
 Adding a Printer
 ---------------
 
-Once you are in 
+Once you are in the Robo app, the first screen that will appear is the dashboard. From here you can add a printer that is on the local network.
+First, click the 'Add a Printer' button towards the middle of the screen. This will take you through a series of steps to set up the new printer on the Robo app.
+
+(insert pic of dashboard here)
+
+Next, follow the steps to add a printer. Scan for local printers that are the network by pressing the scan button. This will bring up a pop up that will show all of the available printers on the local network. Choose your printer and it will add it to the line automatically. You can name the printer as well in the provided text box.
+
+
+Then, you will want to add the API key that is located on your printer. Press the 'scan' button and it will bring up the camera. Now, you will need to scan the qr code that is located on your printer. Go to your printer and go to Utilities> Network> API Key. Here, an API key will show. Go ahead and scan this API key with your phone and it will get added automatically to that section of the app.
+
+The next section is the video section. If your have a Robo C2, you can skip this part. If you have a Robo R2, go aheas and scan for video. It should find it automatically and add it.
+
+Next, it will ask if you want to set up profiles automatically. If it is a new printer and you want to add profiles that are built for the Robo C2 or Robo R2, go ahead and click the add profiles button. If you would like to manually set up your profiles, you can do that too.
+
+Once these profiles are added, you will be taken to the dashboard screen and you should see your new printer ready to go on the dashboard.
+
+Congratulations, you have now added your printer to remotely monitor it from the Robo app..
 
 Linking Cloud Storage
 ---------------
+
+Within the Robo app, the ability to link cloud storage makes it easy to access your files from anywhere, without the need for a computer.
+
+From the dashboard view, click on the menu tab in the upper left hand side of the screen. This will open up a menu list. From here, click on 'Your Settings' menu item.
+
+Once in your settings, log into your Dropbox and Google Drive accounts by clicking 'Log In' next to their respective names.
 
 google drive and dropbox
 
