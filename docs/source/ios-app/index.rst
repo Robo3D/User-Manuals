@@ -46,7 +46,7 @@ Share app data
 link facebook or continue as guest
 takes you to your dashboard
 
-.. image:: images/dashboard-start.PNG
+.. image:: images/dashboard-start.png
    :alt: Dashboard Start
    :align: center
 
