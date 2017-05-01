@@ -15,7 +15,7 @@ Features
 ---------------
 
 Connect to your local Robo C2 or Robo R2 3d printer
-Slice models directly on Robo C2 or Robo R2 
+Slice models directly on Robo C2 or Robo R2
 Monitor progress via the dashboard
 View your creation via Robo R2's integrated camera
 Remotely control your Robo C2 and Robo R2 via your iPhone or iPad
@@ -23,18 +23,9 @@ Remotely control your Robo C2 and Robo R2 via your iPhone or iPad
 Overview
 ---------------
 
-Dashboard
-Storage
-Your settings
-Getting Started
-Report an Issue
-Store
-Display Mode
-Printer Control
-  Printer terminal
-Video
-Settings
-Library
+.. image:: images/screens-full.jpg
+   :alt: Four Screens
+   :align: center
 
 
 Getting Started
