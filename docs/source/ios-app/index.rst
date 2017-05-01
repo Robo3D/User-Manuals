@@ -14,11 +14,7 @@ Robo App for iOS
 Features
 ---------------
 
-Connect to your local Robo C2 or Robo R2 3d printer
-Slice models directly on Robo C2 or Robo R2
-Monitor progress via the dashboard
-View your creation via Robo R2's integrated camera
-Remotely control your Robo C2 and Robo R2 via your iPhone or iPad
+
 
 Overview
 ---------------
@@ -27,6 +23,11 @@ Overview
    :alt: Four Screens
    :align: center
 
+* Connect to your local Robo C2 or Robo R2 3d printer
+* Slice models directly on Robo C2 or Robo R2
+* Monitor progress via the dashboard
+* View your creation via Robo R2's integrated camera
+* Remotely control your Robo C2 and Robo R2 via your iPhone or iPad
 
 Getting Started
 ---------------
