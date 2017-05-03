@@ -231,17 +231,17 @@ If the screen is not working there is a few steps that need to be taken to solve
    :alt: Raising Z Screw
    :align: center
    
-.. image:: Images/Inside-Cover-Removal.gif
+.. image:: Images/Inside-Cover-Removal-2.gif
    :alt: Inside Cover Removal
    :align: center
   
 * Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
   
-.. image:: Images/Screen-Plug.gif
+.. image:: Images/Screen-Plug-2.gif
    :alt: Screen Plug
    :align: center  
 
-.. image:: Images/Pi-Ribbon-Cable.gif
+.. image:: Images/Pi-Ribbon-Cable-2.gif
    :alt: Pi Screen Plug
    :align: center
 
