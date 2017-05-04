@@ -149,11 +149,6 @@ If you have an STL file that is saved in your cloud storage or on the printer it
    :alt: Slice send
    :align: center
 
-Video
----------------
-
-view
-
 Library
 ---------------
 
