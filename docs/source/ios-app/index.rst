@@ -208,11 +208,25 @@ If you are logged into Google Drive and Dropbox, you will be able to access your
    :alt: Settings
    :align: center
 
-
 Store
 ---------------
 
+If you want to visit the Robo store for filament, accessories, or new 3d printers, you can access it right from the Robo app. First, click on the menu icon from the dashboard. Then, click on the 'store' menu item from the menu on the left. This will take you to our store in your browser on your iOS device.
 
+.. image:: images/dashboard-menu.png
+   :alt: Dashboard Menu
+   :align: center
+
+.. image:: images/menu-tree-store.png
+   :alt: Store
+   :align: center
 
 Multiple Printers
 ---------------
+
+If you have multiple printers on the same network, you can manage them all from within the Robo app.
+To add an additional printer to your dashboard, simply select the 'Add Printer' button below the last printer on your dashboard.
+
+.. image:: images/dashboard-add-second-printer.png
+   :alt: Add additional Printer
+   :align: center
