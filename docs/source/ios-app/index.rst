@@ -11,11 +11,6 @@ Robo App for iOS
    :alt: iOS Header
    :align: center
 
-Features
----------------
-
-
-
 Overview
 ---------------
 
@@ -42,6 +37,71 @@ takes you to your dashboard
    :alt: Dashboard Start
    :align: center
 
+Adding a Printer
+---------------
+
+Once you are in the Robo app, the first screen that will appear is the dashboard. From here you can add a printer that is on the local network.
+First, click the 'Add a Printer' button towards the middle of the screen. This will take you through a series of steps to set up the new printer on the Robo app.
+
+.. image:: images/dashboard-start-add-printer.png
+   :alt: Add Printer
+   :align: center
+
+Next, follow the steps to add a printer. Scan for local printers that are the network by pressing the scan button. This will bring up a pop up that will show all of the available printers on the local network. Choose your printer and it will add it to the line automatically. You can name the printer as well in the provided text box.
+
+.. image:: images/add-printer-1-detect.png
+   :alt: Detect Printers
+   :align: center
+
+Then, you will want to add the API key that is located on your printer. Press the 'scan' button and it will bring up the camera. Now, you will need to scan the QR code that is located on your printer. Go to your printer and go to Utilities> Network> API Key. Here, an API key will show. Go ahead and scan this API key with your phone and it will get added automatically to that section of the app.
+
+.. image:: images/add-printer-3-scan.png
+   :alt: API scan
+   :align: center
+
+The next section is the video section. If your have a Robo C2, you can skip this part. If you have a Robo R2, go ahead and scan for video. It should find it automatically and add it.
+
+Next, it will ask if you want to set up profiles automatically. If it is a new printer and you want to add profiles that are built for the Robo C2 or Robo R2, go ahead and click the add profiles button. If you would like to manually set up your profiles, you can do that too.
+
+.. image:: images/add-printer-6-profile.png
+   :alt: Get Profile
+   :align: center
+
+Once these profiles are added, you will be taken to the dashboard screen and you should see your new printer ready to go on the dashboard.
+
+.. image:: images/dashboard.png
+   :alt: Dashboard
+   :align: center
+
+Congratulations, you have now added your printer to remotely monitor it from the Robo app..
+
+Linking Cloud Storage
+---------------
+
+Within the Robo app, the ability to link cloud storage makes it easy to access your files from anywhere, without the need for a computer.
+
+From the dashboard view, click on the menu tab in the upper left hand side of the screen. This will open up a menu list. From here, click on 'Your Settings' menu item.
+
+.. image:: images/dashboard-menu.png
+   :alt: Dashboard menu
+   :align: center
+
+.. image:: images/menu-tree-settings.png
+   :alt: Menu Tree Settings
+   :align: center
+
+Once in your settings, log into your Dropbox and Google Drive accounts by clicking 'Log In' next to their respective names.
+
+.. image:: images/your-settings-login.png
+   :alt: Login
+   :align: center
+
+Now, since you are logged into your cloud storage accounts, you can click on 'select storage' from the dashboard and successfully see all the files that are in your cloud stage accounts.
+
+.. image:: images/dashboard-select-storage.png
+   :alt: Select Storage
+   :align: center
+
 General workflow
 ---------------
 
@@ -55,38 +115,6 @@ There is an easy workflow to get from file to printing and these are the steps t
 6. Now select the storage where you had uploaded the file to.
 7. Once you are in here, find the file that you had uploaded and click on it. This will bring up a pop-up of which printer you would like to send the file to.
 8. Select the printer you want to print the file with, and it will go directly into either slicing mode, or a page that will allow you to start the print.
-
-Adding a Printer
----------------
-
-Once you are in the Robo app, the first screen that will appear is the dashboard. From here you can add a printer that is on the local network.
-First, click the 'Add a Printer' button towards the middle of the screen. This will take you through a series of steps to set up the new printer on the Robo app.
-
-(insert pic of dashboard here)
-
-Next, follow the steps to add a printer. Scan for local printers that are the network by pressing the scan button. This will bring up a pop up that will show all of the available printers on the local network. Choose your printer and it will add it to the line automatically. You can name the printer as well in the provided text box.
-
-
-Then, you will want to add the API key that is located on your printer. Press the 'scan' button and it will bring up the camera. Now, you will need to scan the QR code that is located on your printer. Go to your printer and go to Utilities> Network> API Key. Here, an API key will show. Go ahead and scan this API key with your phone and it will get added automatically to that section of the app.
-
-The next section is the video section. If your have a Robo C2, you can skip this part. If you have a Robo R2, go ahead and scan for video. It should find it automatically and add it.
-
-Next, it will ask if you want to set up profiles automatically. If it is a new printer and you want to add profiles that are built for the Robo C2 or Robo R2, go ahead and click the add profiles button. If you would like to manually set up your profiles, you can do that too.
-
-Once these profiles are added, you will be taken to the dashboard screen and you should see your new printer ready to go on the dashboard.
-
-Congratulations, you have now added your printer to remotely monitor it from the Robo app..
-
-Linking Cloud Storage
----------------
-
-Within the Robo app, the ability to link cloud storage makes it easy to access your files from anywhere, without the need for a computer.
-
-From the dashboard view, click on the menu tab in the upper left hand side of the screen. This will open up a menu list. From here, click on 'Your Settings' menu item.
-
-Once in your settings, log into your Dropbox and Google Drive accounts by clicking 'Log In' next to their respective names.
-
-Now, since you are logged into your cloud storage accounts, you can click on 'select storage' from the dashboard and successfully see all the files that are in your cloud stage accounts.
 
 Printer Controls
 ---------------
