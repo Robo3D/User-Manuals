@@ -24,14 +24,12 @@ Overview
 * View your creation via Robo R2's integrated camera
 * Remotely control your Robo C2 and Robo R2 via your iPhone or iPad
 
-Getting Started
+Logging In
 ---------------
 
-The first time opening the Robo app
+The first time opening the Robo app you will be brought to a End User License Agreement. Once you accept, you will be brought to a login page.
 
-Share app data
-link facebook or continue as guest
-takes you to your dashboard
+To you the Robo app, you can either link your Facebook account or continue as a guest. Once this is done, you will be taken you to your dashboard.
 
 .. image:: images/dashboard-start.PNG
    :alt: Dashboard Start
@@ -40,8 +38,9 @@ takes you to your dashboard
 Adding a Printer
 ---------------
 
-Once you are in the Robo app, the first screen that will appear is the dashboard. From here you can add a printer that is on the local network.
-First, click the 'Add a Printer' button towards the middle of the screen. This will take you through a series of steps to set up the new printer on the Robo app.
+Once you are in the Robo app, the first screen that will appear is the dashboard. From here you can add a printer that is on the local network (make sure your printer is connected to a wifi network).
+
+First, click the 'Add Printer' button towards the middle of the screen. This will take you through a series of steps to set up the new printer on the Robo app.
 
 .. image:: images/dashboard-start-add-printer.png
    :alt: Add Printer
@@ -53,13 +52,13 @@ Next, follow the steps to add a printer. Scan for local printers that are the ne
    :alt: Detect Printers
    :align: center
 
-Then, you will want to add the API key that is located on your printer. Press the 'scan' button and it will bring up the camera. Now, you will need to scan the QR code that is located on your printer. Go to your printer and go to Utilities> Network> API Key. Here, an API key will show. Go ahead and scan this API key with your phone and it will get added automatically to that section of the app.
+Then, you will want to add the API key that is located on your printer. Press the 'scan' button and it will bring up the camera. Now, you will need to scan the QR code that is physically located on your printer. Go to your printer and from the main screen go to Utilities> Network> API Key. Here, an API key will show. Go ahead and scan this API key with your iOS device and it will get added automatically to that section of the app.
 
 .. image:: images/add-printer-3-scan.png
    :alt: API scan
    :align: center
 
-The next section is the video section. If your have a Robo C2, you can skip this part. If you have a Robo R2, go ahead and scan for video. It should find it automatically and add it.
+The next section is the video section. If you have a Robo C2, you can skip this part. If you have a Robo R2, go ahead and scan for video. It should find it automatically and add it.
 
 Next, it will ask if you want to set up profiles automatically. If it is a new printer and you want to add profiles that are built for the Robo C2 or Robo R2, go ahead and click the add profiles button. If you would like to manually set up your profiles, you can do that too.
 
@@ -67,7 +66,7 @@ Next, it will ask if you want to set up profiles automatically. If it is a new p
    :alt: Get Profile
    :align: center
 
-Once these profiles are added, you will be taken to the dashboard screen and you should see your new printer ready to go on the dashboard.
+Once these profiles are added, you will be taken to the dashboard screen and you should see your new printer ready to go.
 
 .. image:: images/dashboard.png
    :alt: Dashboard
@@ -106,13 +105,13 @@ Now, since you are logged into your cloud storage accounts, you can click on 'se
    :alt: Select storage
    :align: center
 
-General workflow
+Quick Workflow
 ---------------
 
 There is an easy workflow to get from file to printing and these are the steps to do it:
 
 1. Make sure you are logged into your Google Drive or Dropbox account.
-2. Go to your browser on your iOS device, and find a file on a file sharing site like www.thingiverse.com.
+2. Go to your browser on your iOS device, and find a file on a file sharing site. We suggest www.thingiverse.com or www.myminifactory.com
 3. While still in the browser, upload that file to your Google Drive or Dropbox account.
 4. Next, go into the Robo app.
 5. In the dashboard, click on the button labeled 'Select Storage'.
@@ -123,7 +122,7 @@ There is an easy workflow to get from file to printing and these are the steps t
 Printer Controls
 ---------------
 
-If your printer is not currently in a printing state, you can control different aspects by clicking directly on the name of the printer you want to control.
+If your printer is not currently in a printing state, you can control different aspects by clicking directly on the name of the printer you want to control from the dashboard.
 
 .. image:: images/controls.png
    :alt: Controls
@@ -197,7 +196,7 @@ Tap on the 'Menu' button in the top left corner of the dashboard screen. On the 
    :align: center
 
 You will see three accounts you can log into: Facebook, Google Drive, and Dropbox.
-If you are logged into Google Drive and Dropbox, you will be able to access your cloud libraries to print directly from the app by downloading these cloud files to your printer.
+If you are logged into Google Drive and Dropbox, you will be able to access your cloud libraries and print directly from the app by downloading these cloud files to your printer.
 
 .. image:: images/logged-in.png
    :alt: Settings
@@ -206,7 +205,7 @@ If you are logged into Google Drive and Dropbox, you will be able to access your
 Store
 ---------------
 
-If you want to visit the Robo store for filament, accessories, or new 3d printers, you can access it right from the Robo app. First, click on the menu icon from the dashboard. Then, click on the 'store' menu item from the menu on the left. This will take you to our store in your browser on your iOS device.
+If you want to visit the Robo store for filament, accessories, or new 3d printers, you can access it right from the Robo app. First, click on the menu icon from the dashboard. Then, click on the 'store' menu item from the menu on the left. This will take you to the Robo store in your browser on your iOS device.
 
 .. image:: images/dashboard-menu.png
    :alt: Dashboard Menu
@@ -220,7 +219,7 @@ Multiple Printers
 ---------------
 
 If you have multiple printers on the same network, you can manage them all from within the Robo app.
-To add an additional printer to your dashboard, simply select the 'Add Printer' button below the last printer on your dashboard.
+To add an additional printer to your dashboard, simply select the 'Add Printer' button below the last printer on your dashboard, and follow the instructions listed from the section 'Adding a Printer'.
 
 .. image:: images/dashboard-add-second-printer.png
    :alt: Add additional Printer
