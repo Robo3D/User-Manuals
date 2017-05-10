@@ -321,3 +321,51 @@ If you see an error while printing that detects your filament has run out, there
 .. image:: Images/restart-now.PNG
    :alt: Octoprint Restart Now
    :align: center
+
+Calibrate e-steps
+---------------
+
+If you find that your printer is under or over extruding, there is a way to calibrate your extruder steps (e-steps) to get a more accurate rotation of the motor and have your prints coming out cleaner. The basic principle we will look for is if the extruder motor is actually extruding 100mm of filament when we tell it to. Follow these steps in order to calibrate your extruder motor.
+
+1. First, lets measure 120mm of filament. Pull back the filament tube to reveal the bare filament. See where the filament enters your extruder, and measure 120mm from this point with calipers or a ruler, and mark that point with a marker; this will be our reference point.
+
+.. image:: Images/marking-filament.gif
+   :alt: Marking Filament
+   :align: center
+
+2. Next, heat up your nozzle by going to Utilities> Controls> Temperature> Preheat and heat your extruder up to 200 for PLA and 230 for ABS plastic.
+
+.. image:: Images/screen-preheat-pla.gif
+   :alt: Screen Preheat PLA
+   :align: center
+
+3. Now, go to Robo controls by pressing Utilities> Controls> Motor Controls. Click on the number button until it reaches 100. Now, press the extrude button.
+
+.. image:: Images/screen-extrude.gif
+   :alt: Screen Extrude
+   :align: center
+
+4. When the printer is done extruding plastic, we will measure again. From the same point where the filament enters the extruder, measure up to your reference point where you had marked from step 1 earlier. Write this number down. Now, repeat this process two more times to make sure you have done it right and we can get an average of extruder plastic.
+
+.. image:: Images/filament-remeasure.png
+   :alt: Re Measuring Filament
+   :align: center
+
+
+5. To get an average of the numbers you just recorded, add all 3 of them up and divide by 3. My example is (21.4+21+21.9)/3= 21.43. Now, take 120 and minus this value. 120-21.43=98.57. (This means my extruder was under extruding by 1.5%).
+
+6. In order to calculate your new steps/mm value, you need to know the existing steps/mm value. To get this value, from the screen, go to Utilities> Options> EEprom> Steps Per Unit. Find the value that contains the E steps and write this down. Our example was 148.
+
+.. image:: Images/screen-finding-e-steps.gif
+   :alt: Screen Finding E Steps
+   :align: center
+
+7. Now, lets figure out what your new steps/mm value is. Take your existing steps/mm value and multiply that by 100mm, which gives us our total steps take. 148 x 100 = 14800
+
+8. Next, take this value and divide it by the average value you got for the extrusion from earlier steps. Our example is 14800/98.57=150.15
+
+9. With is new value of 150.15 steps/mm, we can enter that into our printer to get the right steps/mm calibrated. Go to Utilities> Options> EEprom> Steps Per Unit and click on E:. Enter this new value and click apply. Now you have your new e-steps applied and you should be extruding the right amount of plastic while printing.
+
+.. image:: Images/screen-apply-e-value.gif
+   :alt: Screen Applying New E Steps
+   :align: center
