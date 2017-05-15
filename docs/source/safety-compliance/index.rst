@@ -28,7 +28,7 @@ The following indicate potential safety hazards that could harm you or others or
 +---------+----------------------------------------------------------------------------------------------------------------------------------+
 
 +---------+------------------------------------------------------------------------------------------------------------------------------------------+
-| |logo2| |**Warning - Moving parts: Robo C2 includes moving parts that can cause injury. Never reach inside the Robo C2 while it is in operation.** | 
+| |logo4| |**Warning - Moving parts: Robo C2 includes moving parts that can cause injury. Never reach inside the Robo C2 while it is in operation.** | 
 +---------+------------------------------------------------------------------------------------------------------------------------------------------+
 
 +---------+---------------------------------------------------------------------------------------------------------------------+
