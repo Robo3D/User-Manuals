@@ -39,8 +39,9 @@ The following indicate potential safety hazards that could harm you or others or
 | |logo|  | **Warning - Do not leaving the printer unattended: Do not leave the Robo C2 unattended during operation.** | 
 +---------+------------------------------------------------------------------------------------------------------------+
 
-
-Caution - Do not use incorrect / unapproved printing materials: Do not print using materials that have not been approved by Robo for use with the Robo C2. We highly recommend only using the following when you print:
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| |logo|  | **Caution - Do not use incorrect / unapproved printing materials: Do not print using materials that have not been approved by Robo for use with the Robo C2. We highly recommend only using the following when you print:** |
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 * PLA filament
 * Wood filament
