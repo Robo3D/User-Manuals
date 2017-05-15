@@ -60,22 +60,17 @@ Caution - Do not use incorrect / unapproved printing materials: Do not print usi
 
 
 .. |logo| image:: images/caution.png
-    :width: 20pt
-    :height: 20pt
+
     
 .. |logo2| image:: images/electric-shock.png
-    :width: 20pt
-    :height: 20pt
+
     
 .. |logo3| image:: images/heat-bed.png
-    :width: 20pt
-    :height: 20pt
+
     
 .. |logo4| image:: images/pinch-fingers.png
-    :width: 20pt
-    :height: 20pt
+
     
 .. |logo5| image:: images/pinch-hand.png
-    :width: 20pt
-    :height: 20pt  
+ 
     
