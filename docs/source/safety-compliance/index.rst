@@ -23,23 +23,59 @@ You may also find the following FCC booklet helpful: “How to Identify and Reso
 
 The following indicate potential safety hazards that could harm you or others or cause product or property damage.
 
-**Warning - High temperatures: Robo C2 generates high temperatures. Always allow Robo C2 to cool down before you reach inside.**
++---------+----------------------------------------------------------------------------------------------------------------------------------+
+| |logo3| | **Warning - High temperatures: Robo C2 generates high temperatures. Always allow Robo C2 to cool down before you reach inside.** | 
++---------+----------------------------------------------------------------------------------------------------------------------------------+
 
-**Warning - Moving parts: Robo C2 includes moving parts that can cause injury. Never reach inside the Robo C2 while it is in operation.**
++---------+------------------------------------------------------------------------------------------------------------------------------------------+
+| |logo2| |**Warning - Moving parts: Robo C2 includes moving parts that can cause injury. Never reach inside the Robo C2 while it is in operation.** | 
++---------+------------------------------------------------------------------------------------------------------------------------------------------+
 
-**Warning - Risk of electric shock - There is a risk of shock with Robo C2. This product is not user serviceable.**
++---------+---------------------------------------------------------------------------------------------------------------------+
+| |logo2| | **Warning - Risk of electric shock - There is a risk of shock with Robo C2. This product is not user serviceable.** | 
++---------+---------------------------------------------------------------------------------------------------------------------+
 
-**Warning - Do not leaving the printer unattended: Do not leave the Robo C2 unattended during operation.**
++---------+------------------------------------------------------------------------------------------------------------+
+| |logo|  | **Warning - Do not leaving the printer unattended: Do not leave the Robo C2 unattended during operation.** | 
++---------+------------------------------------------------------------------------------------------------------------+
 
 
 Caution - Do not use incorrect / unapproved printing materials: Do not print using materials that have not been approved by Robo for use with the Robo C2. We highly recommend only using the following when you print:
 
-*PLA filament
-*Wood filament
-*Carbon fiber filament
+* PLA filament
+* Wood filament
+* Carbon fiber filament
 
-Caution - Use a proper wall socket location: The wall socket outlet must be located near Robo C2 and must be easily accessible.
++---------+-------------------------------------------------------------------------------------------------------------------------------------+
+| |logo|  | **Caution - Use a proper wall socket location: The wall socket outlet must be located near Robo C2 and must be easily accessible.** | 
++---------+-------------------------------------------------------------------------------------------------------------------------------------+
 
-Caution - Disconnect from wall socket in case of emergency: In case of emergency disconnect the Robo C2 from the wall socket.
++---------+-----------------------------------------------------------------------------------------------------------------------------------+
+| |logo|  | **Caution - Disconnect from wall socket in case of emergency: In case of emergency disconnect the Robo C2 from the wall socket.** | 
++---------+-----------------------------------------------------------------------------------------------------------------------------------+
 
-Caution - Operate Robo C2 in a well-ventilated area: Robo C2 melts plastic during printing. Plastic odors are emitted during this operation. Make sure to set up Robo C2 in a well ventilated area.
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| |logo|  | **Caution - Operate Robo C2 in a well-ventilated area: Robo C2 melts plastic during printing. Plastic odors are emitted during this operation. Make sure to set up Robo C2 in a well ventilated area.** | 
++---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+.. |logo| image:: images/caution.png
+    :width: 20pt
+    :height: 20pt
+    
+.. |logo2| image:: images/electric-shock.png
+    :width: 20pt
+    :height: 20pt
+    
+.. |logo3| image:: images/heat-bed.png
+    :width: 20pt
+    :height: 20pt
+    
+.. |logo4| image:: images/pinch-fingers.png
+    :width: 20pt
+    :height: 20pt
+    
+.. |logo5| image:: images/pinch-hand.png
+    :width: 20pt
+    :height: 20pt  
+    
