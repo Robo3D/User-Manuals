@@ -259,10 +259,6 @@ footer {
     background-color: transparent !important;
 }
 
-.rst-versions {
-    bottom: 62px;
-}
-
 .fa-arrow-circle-right, .fa-arrow-circle-left {
     color: #ffffff;
 }
@@ -301,9 +297,6 @@ footer {
     }
     .shift div[role="navigation"] {
         left: 85%;
-    }
-    .rst-versions {
-        bottom: 0px;
     }
     .wy-nav-top {
         background-color: #ffb81c;
