@@ -285,7 +285,6 @@ footer {
         top: 63px;
         background-color: #ffebc0;
         color: #ffb81c; 
-        display: none;
     }
     .wy-nav-top {
         position: fixed;
@@ -319,6 +318,7 @@ footer {
     }
     .rst-footer-buttons {
         background-color: #ffb81c !important;
+        display: none;
     }
     .fa-bars:before {
         line-height: 1.8;
