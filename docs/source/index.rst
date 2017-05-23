@@ -62,4 +62,4 @@ Use the following steps to log into your Robo account:
 .. toctree::
    :maxdepth: 2
 
-   c2/index.rst
+   c2index.rst
