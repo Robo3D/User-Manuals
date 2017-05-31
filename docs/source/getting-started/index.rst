@@ -274,3 +274,8 @@ Your printer is capable of starting If no Wi-Fi signals are available for connec
    1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
+
+.. toctree::
+   :maxdepth: 2
+
+   test.rst
