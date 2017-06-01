@@ -63,6 +63,7 @@ Use the following steps to log into your Robo account:
    :maxdepth: 2
 
    C2/index.rst
+   R2/index.rst
    cura-for-robo-desktop/index.rst
    web-interface/index.rst
    ios-app/index.rst
