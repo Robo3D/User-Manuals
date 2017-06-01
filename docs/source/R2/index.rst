@@ -10,7 +10,7 @@ R2
    .. toctree::
       :maxdepth: 2
 
-      getting-started/index.rst
+      getting started/index.rst
       operation/index.rst
       maintenance/index.rst
       Troubleshooting/index.rst
