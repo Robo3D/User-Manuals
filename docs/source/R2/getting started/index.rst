@@ -81,7 +81,17 @@ Now we are ready to take off the additional shipping material and zip ties. Remo
    :alt: Top Box Out
    :align: center
 
- There are 4 orange rod holders that need to be taken off. There is one at each corner of the top gantry. Simply push on the clip and it will come off.
+.. image:: images/bottom-box-out.JPG
+   :alt: Bottom Box Out
+   :align: center
+
+Remove the blue tape holding moving parts stable
+
+.. image:: images/tape-out.JPG
+   :alt: Tape Out
+   :align: center
+
+There are 4 orange rod holders that need to be taken off. There is one at each corner of the top gantry. Simply push on the clip and it will come off.
 
 .. image:: images/rod-holders-r2.JPG
    :alt: Clip Removal
@@ -198,6 +208,12 @@ Loading filament
 Now, unhinge the spool holder by simply pushing on the top of the higher lever from the rear of the printer.
 
 .. image:: images/unhinge-spool.JPG
+   :alt: Unhinge Spool Holder
+   :align: center
+
+Next, insert the filament feed tube into the filament sensor block.
+
+.. image:: images/ptfe-in-block.JPG
    :alt: Unhinge Spool Holder
    :align: center
 
