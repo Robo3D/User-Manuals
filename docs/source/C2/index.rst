@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ======
-C2
+Robo C2
 ======
 
    .. toctree::
