@@ -62,10 +62,7 @@ Use the following steps to log into your Robo account:
 .. toctree::
    :maxdepth: 2
 
-   C2/getting-started/index.rst
-   C2/operation/index.rst
-   C2/maintenance/index.rst
-   C2/Troubleshooting/index.rst
+   C2/index.rst
    cura-for-robo-desktop/index.rst
    web-interface/index.rst
    ios-app/index.rst
