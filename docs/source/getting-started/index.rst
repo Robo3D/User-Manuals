@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+********
+C2
+********
+
 =================================================
 Getting Started
 =================================================
@@ -274,3 +278,4 @@ Your printer is capable of starting If no Wi-Fi signals are available for connec
    1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
+
