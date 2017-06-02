@@ -34,7 +34,7 @@ Here we will calibrate Robo R2 by setting the Z-Offset and making sure your firs
 
 From the home screen select "Utilities"
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities
    :align: center
 
@@ -52,15 +52,7 @@ Next select "Z-Offset Wizard"
 
 Your printer will now home itself and get in position to set your offset
 
-.. image:: images/Homing-z-offset.gif
-   :alt: Homing Z offset
-   :align: center
-
 Follow the directions on the screen by using the calibration card. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer. Slide the calibration card in between the nozzle and bed and continue pressing the 'Up" button until you feel little resistance on the card between the Nozzle and the print bed. Note: You still want to be able to slide the calibration card back and forth but with enough resistance that it is touching both the bed and the nozzle
-
-.. image:: images/z-offset-move.gif
-   :alt: Z offset move
-   :align: center
 
 Select 'Finished". Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset.
 
@@ -69,39 +61,63 @@ You can also fine-tune your z offset by going to Utilities> Wizards> Fine Tune W
 -----------
 Loading and Unloading Filament
 -----------
-Loading Filament
 
-From the home screen select 'Utilities'
+Loading filament
+---------------
 
-.. image:: images/SelectUtilities.png
-   :alt: Select Utilities
+Now, unhinge the spool holder by simply pushing on the top of the higher lever from the rear of the printer.
+
+.. image:: images/unhinge-spool.JPG
+   :alt: Unhinge Spool Holder
    :align: center
 
-Next, select 'Wizards'
+Next, insert the filament feed tube into the filament sensor block.
+
+.. image:: images/ptfe-in-block.JPG
+   :alt: Unhinge Spool Holder
+   :align: center
+
+To begin loading filament, hang your filament spool on the top spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the base of the filament sensor block and into the filament feed tube.
+
+.. image:: images/fil-on.JPG
+   :alt: Filament on
+   :align: center
+
+.. image:: images/fil-in-sensor-block.JPG
+   :alt: Filament In
+   :align: center
+
+Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder lever arm and feed the filament into the printer’s gears.
+
+.. image:: images/fil-into-extruder.JPG
+   :alt: Filament In Extruder
+   :align: center
+
+Now select UTILITIES on the touch screen.
+
+.. image:: images/select-utilities-r2.png
+   :alt: Select Utilities on Touch Screen
+   :align: center
+
+Then select WIZARDS from the list.
 
 .. image:: images/SelectWizards.png
-   :alt: Select Wizards
+   :alt: Select Wizards from List
    :align: center
 
-Select 'Filament Loading Wizard'
+Finally, select FILAMENT LOADING WIZARD.
 
 .. image:: images/SelectFilamentLoading.png
-   :alt: Select Filament Loading
+   :alt: Select Filament Loading Wizard
    :align: center
 
-After you printer heats up, ensure you've cut the tip of the filament. Place the filament inside the feed hole, and press 'Next'.
+Follow the on-screen prompts:
 
-.. image:: images/Filament-into-extruder.gif
-   :alt: Loading Filament
-   :align: center
-
-The feeder gear will push your filament down, through the extruder, and out of the nozzle
-
-.. image:: images/Filament-coming-from-nozzle.gif
-   :alt: Filament Extruding
-   :align: center
-
-Once you see filament coming out of the bottom of the nozzle, select 'Next' and 'Finished'
+- Heating up the printer
+- Ensuring you’ve cut off the tip of the filament
+- Now, look for filament to exit the nozzle
+- Press NEXT, and
+- Press FINISHED
 
 Unloading Filament
   1. From the home screen select 'Utilities'
@@ -114,40 +130,35 @@ Unloading Filament
 Start a print
 -----------
 
-Starting a print from your internal storage
+**Starting a print from your internal storage**
 
-Select 'Files' from the home screen
+Select 'Files' from the home screen, then select a file you would like to print.
 
-.. image:: images/Selectfiles.png
-   :alt: Select Files
-   :align: center
-
-Select a file you would like to print
-
-.. image:: images/Selectafile.png
+.. image:: images/select-a-file.png
    :alt: Select a file
    :align: center
 
 Now select 'Start' to print - and be sure to wait several second while the Robo C2 prepares to print the file
 
-.. image:: images/Selectstart.png
+.. image:: images/select-start.png
    :alt: Select Start
    :align: center
 
 Note; you can select 'Pause' to pause your print, or you can select 'Cancel' to cancel your print
 
-.. image:: images/printingscreen.png
+.. image:: images/printing-r2.png
    :alt: Printing Screen
    :align: center
 
 Note; you can change the nozzle temperature by pressing on the extruder and adding in your desired temperature
 
 Starting a print from a USB flash drive
-   1. Insert the USB flash drive into the usb slot on the front of the printer
+   1. Insert the USB flash drive into the USB slot on the front of the printer
    2. Select 'Files' from the home screen
-   3. Select which file you would like to print
-   4. Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
-   5. Finally, select 'Start' to start the print
+   3. Select the USB folder that will appear at the top of the list
+   4. Select which file you would like to print
+   5. Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the USB
+   6. Finally, select 'Start' to start the print
 
 -----------
 Print Status
@@ -158,7 +169,7 @@ There are three ways to check on the status of your print while your Robo R2 is 
 Screen
    * While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, a progress indicator, along with the nozzle temperature and any error messages you may have encountered.
 
-.. image:: images/printingscreen.png
+.. image:: images/printing-r2.png
    :alt: Printing Screen
    :align: center
 
@@ -173,7 +184,7 @@ Web app
  * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
  * To see the IP address of your printer, select 'Utilities' from the home screen
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities
    :align: center
 
@@ -199,10 +210,6 @@ The Robo R2 has a print bed adhesion PEI plate already installed with your print
    - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with a damp cloth before every print.
    - If your prints have a hard time sticking to the bed, you can use a method to roughen the surface by using a 2000 grit sand paper and lightly sanding the top surface then cleaning off with a damp cloth.
 
-.. image:: images/Applying-bed-tape.gif
-   :alt: Applying Bed Tape
-   :align: center
-
 ------------
 Removing the print
 ------------
@@ -212,38 +219,34 @@ Removing the print
    3. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
    4. Carefully remove the print from the print plate with your hand.
 
-.. image:: images/Removing-Print.gif
-   :alt: Removing Print
-   :align: center
-
 -----------
 Setting Up Wifi
 -----------
- * To begin connecting to your Wi-Fi network, Select 'Utilities' on home screen.
+To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Home Screen
    :align: center
 
-* Select 'Network'.
+Select NETWORK.
 
 .. image:: images/Selectnetwork.png
    :alt: Select Network on Home Screen
    :align: center
 
-* Select 'Configure WIFI'.
+Select CONFIGURE WIFI.
 
 .. image:: images/selectconfigurewifi.png
    :alt: Select Configure Wi-Fi on Home Screen
    :align: center
 
-* Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
+Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
 
 .. image:: images/selectwifinetwork.png
    :alt: Select Wi-Fi Network
    :align: center
 
-* Once you’re done, select CONNECT.
+Once you’re done, select CONNECT.
 
 .. image:: images/5.5.png
    :alt: Select Connect
@@ -295,16 +298,16 @@ Updating Your Printer
 -----------
 Make sure to update your printer to grab the benefits of all the latest Robo has to offer, as well as making sure your Robo R2 performs to the best of its ability.
 
- * Select "Utilities' from the main screen
+Select UTILITIES
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Home Screen
    :align: center
 
-* Select 'Update'
+Then select UPDATE
 
-.. image:: images/selectupdate.png
-   :alt: Select Update
+.. image:: images/update-c2.png
+   :alt: Update Screen
    :align: center
 
-* Check to see if you have the most up-to-date software. If not, go ahead and update to get the best use from your Robo R2.
+Update to the latest version and wait about a minute to get everything up-to-date. If your Robo R2 is already up to date, the button will be greyed out and say 'up to date'.
