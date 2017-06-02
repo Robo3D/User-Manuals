@@ -7,7 +7,7 @@
 Operation
 =================================================
 
-.. image:: images/operation-header.jpg
+.. image:: images/r2-operation.jpg
    :alt: Operation Header
    :align: center
 
@@ -35,7 +35,7 @@ Here we will calibrate Robo R2 by setting the Z-Offset and making sure your firs
 From the home screen select "Utilities"
 
 .. image:: images/select-utilities-r2.png
-   :alt: Select Utilities
+   :alt: Select Utilities on Touch Screen
    :align: center
 
 Then select "Wizards"
