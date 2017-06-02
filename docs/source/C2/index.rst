@@ -12,7 +12,7 @@ Robo C2
    :align: center
 
 Enter the Robolution
-=================================================
+---------------------
 
 Greetings, Maker!
 
@@ -27,7 +27,7 @@ Happy Printing,
 Coby Kabili and Braydon Moreno, Robo Co-founders
 
 Make more with Robo C2
-=================================================
+-----------------------
 
 The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
 
