@@ -117,6 +117,9 @@ a:visited code,
 }
 
 /* *********************LEFT HAND MENU*********************  */
+.wy-menu-vertical {
+     margin-bottom:120px;
+}
 .wy-menu-vertical li.current {
     background-color: transparent;
 }
@@ -238,6 +241,7 @@ a:visited code,
     padding: 14px 0;
     bottom: 0px;
     z-index: 1000;
+    display: none !important;
 }
 
 footer {
@@ -255,14 +259,23 @@ footer {
     background-color: transparent !important;
 }
 
-.rst-versions {
-    bottom: 62px;
-}
-
 .fa-arrow-circle-right, .fa-arrow-circle-left {
     color: #ffffff;
 }
 
+/* *********************MAIN CONTENT*********************  */
+h2 {
+   padding-top: 82px !important; 
+}
+#enter-the-robolution h1, #make-more-with-robo-c2 h1, #make-smarter-with-the-robo-app h1, #logging-into-your-robo-account h1 {
+   padding-top: 82px !important; 
+}
+.section {
+    margin-bottom: -58px !important; 
+}
+footer {
+    margin-top: 82px;
+}
 /* *********************RESPONSIVE STYLE*********************  */
 @media screen and (max-width: 768px) {
     .wy-nav-content div[role="navigation"] {
@@ -285,9 +298,6 @@ footer {
     .shift div[role="navigation"] {
         left: 85%;
     }
-    .rst-versions {
-        bottom: 0px;
-    }
     .wy-nav-top {
         background-color: #ffb81c;
     }
@@ -302,6 +312,7 @@ footer {
     }
     .rst-footer-buttons {
         background-color: #ffb81c !important;
+        display: none;
     }
     .fa-bars:before {
         line-height: 1.8;

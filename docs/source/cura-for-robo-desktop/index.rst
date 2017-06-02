@@ -6,6 +6,11 @@
 =================================================
 Cura for Robo Desktop
 =================================================
+
+.. image:: images/cura-header.jpg
+   :alt: Cura for Robo Header
+   :align: center
+
 To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object. 
 
 For the Quick Start Guide on using Cura for Robo, click here: Cura_for_Robo_QSG_.
