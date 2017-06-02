@@ -141,7 +141,7 @@ Hotend Clogged
 * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
 
 3. **Hotend fan is not on**
-  * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
+  * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isn't being cooled enough and will jam your nozzle. The fan is most likely unplugged.
   * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder.
 
 .. image:: Images/Fanelectonicsplugs.png
@@ -208,7 +208,7 @@ If you see an error while printing that
 
 * If the filament runout sensor is still reading that there is no filament inside your printer, even though it is going through the filament sensor block, you can disable this software setting via the web browser. Take these steps to disable the filament sensor:
 
-1. Connect your printer to wifi. Go to Utilities> Network> Configure wifi and connect your printer.
+1. Connect your printer to Wi-Fi. Go to Utilities> Network> Configure Wi-Fi and connect your printer.
 
 2. Once you are successfully connected to the internet, lets find your IP address. Go to Utilities> Network> Network Status. Here you will find the IP address.
 
