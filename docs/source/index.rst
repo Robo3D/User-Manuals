@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: images/Cover3.jpg
+.. image:: images/c2-r2-header.jpg
    :alt: Quick Start Guide cover
    :align: center
 
