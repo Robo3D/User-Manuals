@@ -7,7 +7,7 @@
 Getting Started
 =================================================
 
-.. image:: images/C2-Getting-Started.png
+.. image:: images/r2-getting-started
    :alt: Getting Started with Robo C2
    :align: center
 
@@ -109,7 +109,7 @@ Initial set-up
 
 Now let’s move forward with your initial set-up of Robo R2.
 
-Inside the toolbox you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
+Inside the toolbox in the inclusions box, you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
 
 .. image:: images/hotend-cover-on-r2.JPG
    :alt: Hotend Cover On
@@ -125,7 +125,7 @@ It is necessary connecting Robo R2 to your Wi-Fi network. Doing so provides you 
 
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Home Screen
    :align: center
 
@@ -157,20 +157,24 @@ Now, you will need to update Robo R2.
 
 Select UTILITIES
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Home Screen
    :align: center
 
 Then select UPDATE
 
-Update to the latest version and wait about a minute to get everything up-to-date.
+.. image:: images/update-c2.png
+   :alt: Update Screen
+   :align: center
+
+Update to the latest version and wait about a minute to get everything up-to-date. If your Robo R2 is already up to date, the button will be greyed out and say 'up to date'.
 
 Calibration and setting Z offset
 ---------------
 
 Next you’ll want to calibrate Robo R2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities.png
    :alt: Select Utilities on Touch Screen
    :align: center
 
@@ -186,15 +190,7 @@ From here you’ll select Z OFFSET WIZARD.
 
 Now, the printer will wait to calibrate its home position.
 
-.. image:: images/Homing-z-offset.gif
-   :alt: Homing Z Offset
-   :align: center
-
 Press up and down on the arrow buttons while sliding the calibration card between the nozzle and the print bed until you feel some slight resistance against the paper.
-
-.. image:: images/z-offset-move.gif
-   :alt: Homing Z Offset
-   :align: center
 
 Press FINISHED
 
@@ -235,7 +231,7 @@ Continue feeding the filament through the filament feed tube until it reaches th
 
 Now select UTILITIES on the touch screen.
 
-.. image:: images/SelectUtilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Touch Screen
    :align: center
 
@@ -256,11 +252,6 @@ Follow the on-screen prompts:
 - Heating up the printer
 - Ensuring you’ve cut off the tip of the filament
 - Now, look for filament to exit the nozzle
-
-.. image:: images/Filament-coming-from-nozzle.gif
-   :alt: Filament coming from nozzle
-   :align: center
-
 - Press NEXT, and
 - Press FINISHED
 
@@ -270,36 +261,28 @@ The test print
 
 To create your first test print Select FILES on the home screen. Then select a file to print from the list.
 
-.. image:: images/4.1.png
+.. image:: images/select-a-file.png
    :alt: Select Files on Home Screen
    :align: center
 
 Now, select START to print—and be sure to wait several seconds while Robo C2 prepares to print the file.
 
-.. image:: images/4.2.png
+.. image:: images/select-start.png
    :alt: Select Start
    :align: center
 
 The file will start printing.
 
-.. image:: images/4.3.png
+.. image:: images/printing-r2.png
    :alt: File Printing
    :align: center
 
 Just note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
 
-.. image:: images/4.4.png
-   :alt: Pause and Cancel Options
-   :align: center
-
 Removing the test print
 ---------------
 
 When the test print is complete and cooled down, use the provided spatula to carefully remove the print at its borders. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
-
-.. image:: images/Removing-Print.gif
-   :alt: Removing Print From Bed
-   :align: center
 
 
 Using Hotspot Mode
