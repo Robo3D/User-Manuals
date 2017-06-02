@@ -7,7 +7,7 @@
 Troubleshooting
 =================================================
 
-.. image:: Images/troubleshooting.png
+.. image:: Images/r2-troubleshooting.jpg
    :alt: Getting Started
    :align: center
 
@@ -20,12 +20,8 @@ If you are experiencing problems with the plastic not adhering to your print bed
   * Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
 2. **Re-run the z-offset wizard**
   * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
-3. **Replace the build plate adhesion**
+3. **Clean and repurpose the build plate adhesion**
   * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Resurface this by grabbing some 2000 grit sand paper and lightly sanding the surface, afterwards cleaning it with a damp cloth. Remember to re-calibrate your offset by selecting the z-offset wizard from the utilities menu.
-
-.. image:: Images/Applying-bed-tape.gif
-   :alt: Applying Bed Tape
-   :align: center
 
 4. **Using a raft**
   * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
@@ -39,7 +35,7 @@ Grinding Noise when Starting a Print
 If you are experiencing a grinding noise when trying to start a print, or when your printer is homing, there are some things to take a look at to make sure your printer hardware is in the right place. Sometimes during shipping or traveling, some things can come loose, so lets check those.
 
 1. **Rods are out of place**
- * Make sure your rods are in the correct position. While moving to the home position, these rods will hit switches to let the printer know it is in the 0 position. If these rods have been moved out of the way, they will not hit the switch, and the printer will try and continue to travel past its 0 position, resulting in a grinding noise. The picture below will show you how they will look out of place, and also how they should look to work correctly.
+ * Make sure your rods are in the correct position. While moving to the home position, these rods will hit switches to let the printer know it is in the 0 position. If these rods have been moved out of the way, they will not hit the switch, and the printer will try and continue to travel past its 0 position, resulting in a grinding noise. The picture below will show you how they will look out of place, and also how they should look to work correctly. (note: images below are for the Robo C2 but will act the same way for the Robo R2)
 
 .. image:: Images/rod-out.png
    :alt: Rod Out
@@ -60,7 +56,7 @@ If you are experiencing a grinding noise when trying to start a print, or when y
 Material Not Extruding
 ---------------
 
-1. **Nozzle isnt heating up**
+1. **Nozzle isn't heating up**
  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
 
@@ -69,10 +65,6 @@ Material Not Extruding
    :align: center
 
 * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
-
-.. image:: Images/Extruder-cover-off.gif
-   :alt: Extruder Cover Off
-   :align: center
 
 .. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
@@ -97,24 +89,9 @@ Material Not Extruding
 4. **Drive Gear is not tightened down**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
-
-.. image:: Images/Extruder-cover-off.gif
-   :alt: Extruder Cover Off
-   :align: center
-
-* Next, unscrew the extruder tensioner cover with a screwdriver.
-
-.. image:: Images/Tensionercover.png
-   :alt: Remove Tensioner Cover
-   :align: center
-
-* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
-
-.. image:: Images/Tensionerscrew.png
-   :alt: Remove Tensioner Screw
-   :align: center
-
-* Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
+ * Next, unscrew the extruder tensioner cover with a screwdriver.
+ * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+ * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
 
 .. image:: Images/Drive-gear-tightening.png
    :alt: Extruder Cover Off
@@ -128,10 +105,6 @@ Shifting Layers/bad print quality
 1. **Loose Pulleys**
  * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place.
  * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
-
-.. image:: Images/Pulley-tightening.png
-   :alt: Extruder Cover Off
-   :align: center
 
 2. **Unaligned Axis**
   * Re-align your axis to be perpendicular to each other. To do this, use the orange clips that came with your printer.
@@ -157,24 +130,9 @@ Hotend Clogged
 2. **Material stuck below the Drive Gear**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
-
-.. image:: Images/Extruder-cover-off.gif
-   :alt: Extruder Cover Off
-   :align: center
-
-* Next, unscrew the extruder tensioner cover with a screwdriver.
-
-.. image:: Images/Tensionercover.png
-   :alt: Remove Tensioner Cover
-   :align: center
-
-* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
-
-.. image:: Images/Tensionerscrew.png
-   :alt: Remove Tensioner Screw
-   :align: center
-
-* Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
+ * Next, unscrew the extruder tensioner cover with a screwdriver.
+ * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+ * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
 
 .. image:: Images/Drive-gear-tightening.png
    :alt: Extruder Cover Off
@@ -199,19 +157,9 @@ If you are experiencing your hotend falling out from the extruder, there is a si
  * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
  * Make sure to turn off your printer.
  * Loosen your hotend by turning the tensioner screw counterclockwise a few turns.
-
-.. image:: Images/Hotend-tensioner-loosen.gif
-   :alt: Loosening Hotend
-   :align: center
-
-* Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
-* While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand. Make sure you align the heater block to be parallel with the front of the extruder so the hotend cover will lay flat against the magnets when reinstalling.
-
-.. image:: Images/Tightening-hotend-tensioner.gif
-   :alt: Tightening Hotend
-   :align: center
-
-* Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
+ * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
+ * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand. Make sure you align the heater block to be parallel with the front of the extruder so the hotend cover will lay flat against the magnets when reinstalling.
+ * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
 
 Screens Goes unresponsive or Doesn't Work
 ---------------
@@ -220,33 +168,9 @@ If the screen is not working there is a few steps that need to be taken to solve
 
 1. **Loose Wiring**
 * First, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
-
-.. image:: Images/Z-Screw-Raise.gif
-   :alt: Raising Z Screw
-   :align: center
-
-.. image:: Images/Inside-Cover-Removal.gif
-   :alt: Inside Cover Removal
-   :align: center
-
 * Here, you will see an HDMI cord that attaches the screen to a green electronics board. On the green electronics board side, detach the HDMI cable and re-attach.
-
-.. image:: Images/Screen-Plug.gif
-   :alt: Screen Plug
-   :align: center
-
 * Next, you will see a ribbon cable plugged into the green electronics board that will need to be unplugged, and re-plugged back in.
-
-.. image:: Images/Pi-Ribbon-Cable.gif
-   :alt: Pi Screen Plug
-   :align: center
-
 * Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
-
-.. image:: Images/Pi-Power-Cable.gif
-   :alt: Pi Power
-   :align: center
-
 * Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and re-plug this back in.
 
 .. image:: Images/Pi-Power-Black.png
@@ -265,15 +189,7 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 
 2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still indie its mount.
 
-.. image:: Images/Hotend-tensioner-loosen.gif
-   :alt: Loosening Hotend
-   :align: center
-
 3. Align the heater block to be parallel with the extruder carriage. Make sure the heater block is not turned in such a way that it is sticking out past the extruder carriage.
-
-.. image:: Images/hotend-alignment.png
-   :alt: alignment
-   :align: center
 
 4. Tighten the hotend tensioner screw. Remember to not overtighten this screw, as it may be hard to perform maintenance later.
 
