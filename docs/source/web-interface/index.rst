@@ -55,7 +55,7 @@ Note: You can also connect via a web browser on a smartphone for on-the-go conne
 
 2. Windows and others
 
- * In order to use bonjour to connect to your printer on a browser via it's name, you will need to install the bonjour extension in order for your computer to recognize names as IP address'. Download here https://support.apple.com/kb/DL999?viewlocale=en_US&locale=en_US
+ * In order to use bonjour to connect to your printer on a browser via it's name, you will need to install the bonjour extension in order for your computer to recognize names as IP address'. Download here
  * Once installed follow the steps used for Mac and iOS users above.
 
 **Hotspot Mode**

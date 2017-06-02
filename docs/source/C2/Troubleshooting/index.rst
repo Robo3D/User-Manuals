@@ -22,17 +22,17 @@ If you are experiencing problems with the plastic not adhering to your print bed
   * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
 3. **Replace the build plate adhesion**
   * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh peice. Remember to re-calibrate your offset by selecting the z-offset wizard from the utilities menu.
-
+  
 .. image:: Images/Applying-bed-tape.gif
    :alt: Applying Bed Tape
    :align: center
-
+   
 4. **Using a raft**
   * Make sure to use a raft on all of your parts when preparing your print. This will allow a bigger surface area of plastic to stick to the bed, and can compensate for a small amount of unlevel bed.
 
 5. **Lower fan speed**
   * If your prints are still curling after the above soltuions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
-
+  
 Grinding Noise when Starting a Print
 ---------------
 
@@ -40,16 +40,16 @@ If you are experiencing a grinding noise when trying to start a print, or when y
 
 1. **Rods are out of place**
  * Make sure your rods are in the correct position. While moving to the home position, these rods will hit switches to let the printer know it is in the 0 postition. If these rods have been moved out of the way, they will not hit the switch, and the printer will try and continue to travel past its 0 position, resulting in a grinding noise. The picture below will show you how they will look out of place, and also how they should look to work correctly.
-
+ 
 .. image:: Images/rod-out.png
    :alt: Rod Out
-   :align: center
+   :align: center   
 
 .. image:: Images/rod-in.png
    :alt: Rod In
    :align: center
-
-* To correct these, hold the plastic bracket the end of the rod is being held by with one hand. With your other hand, grab the rod that is furthest to the back left of the printer and slowly slide it into place (left on the x axis, away from you (back) on the y axis).
+ 
+* To correct these, hold the plastic bracket the end of the rod is being held by with one hand. With your other hand, grab the rod that is furthest to the back left of the printer and slowly slide it into place (left on the x axis, away from you (back) on the y axis). 
 
 .. image:: Images/adjusting-rod.gif
    :alt: Adjusting Rod
@@ -63,31 +63,31 @@ Material Not Extruding
 1. **Nozzle isnt heating up**
  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
-
+  
 .. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electroncis
-   :align: center
-
+   :align: center  
+  
 * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center
+   :align: center    
 
 .. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
-   :align: center
-
+   :align: center  
+  
 2. **Drive Gear is not cleaned**
  * Turn Off the Printer
  * Take off the extruder cover
  * Use a toothbrush to clean this drive gear of debris shown in the picture
- * Turn the shaft, and continue scrubbing until it is cleaned of debris
+ * Turn the shaft, and continue scrubbing until it is cleaned of debris    
 
 .. image:: Images/Drive-gearscrub.png
    :alt: Drive Gear Clean
    :align: center
-
+   
 
 3. **Material is stuck around the spool**
   * Every so often, the material can get stuck on the spool holder or in the spool itself
@@ -97,16 +97,16 @@ Material Not Extruding
 4. **Drive Gear is not tightened down**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
-
+ 
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center
-
+   :align: center   
+ 
 * Next, unscrew the extruder tensioner cover with a screwdriver.
 
 .. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
-   :align: center
+   :align: center  
 
 * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
 
@@ -114,11 +114,11 @@ Material Not Extruding
    :alt: Remove Tensioner Screw
    :align: center
 
-* Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
+* Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.  
 
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
-   :align: center
+   :align: center  
 
 * Now reverse these steps to put it all back together
 
@@ -128,11 +128,11 @@ Shifting Layers/bad print quality
 1. **Loose Pulleys**
  * If the pulleys on the X and Y axis come loose, you may need to tighten down the set screws to hold these in place.
  * Move the Extruder into the center of the printer, and find the set screws on the pulleys in the corners of the axis. There are a total of 10 pulleys that you must check (2-3 in each corner), and each has 2 set screws to make sure to tighten down.
-
+  
 .. image:: Images/Pulley-tightening.png
    :alt: Exturder Cover Off
    :align: center
-
+   
 2. **Unaligned Axis**
   * Re-align your axis to be perpendicular to each other. To do this, use the orange clips that came with your printer.
   * Unplug your machine, and move your extruder to the front right corner.
@@ -145,30 +145,30 @@ Hotend Clogged
  * Make sure all of your wiring is plugged in and firmly mounted in its correct brackets.
  * Nozzle Wires should be plugged into the correct terminals on the underside of the extruder.
  * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder.
-
+  
 .. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electroncis
-   :align: center
-
+   :align: center  
+ 
 .. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
-   :align: center
+   :align: center  
 
 2. **Material stuck below the Drive Gear**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
-
+  
 .. image:: Images/Extruder-cover-off.gif
    :alt: Exturder Cover Off
-   :align: center
-
+   :align: center  
+ 
 * Next, unscrew the extruder tensioner cover with a screwdriver.
-
+  
 .. image:: Images/Tensionercover.png
    :alt: Remove Tensioner Cover
    :align: center
 
-* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
+* Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder. 
 
 .. image:: Images/Tensionerscrew.png
    :alt: Remove Tensioner Screw
@@ -178,17 +178,17 @@ Hotend Clogged
 
 .. image:: Images/Drive-gear-tightening.png
    :alt: Exturder Cover Off
-   :align: center
+   :align: center 
 
 * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
-
+  
 3. **Hotend fan is not on**
   * If your hotend fan is not on (the third fan on the back of the extruder), then it is most likely your hotend isnt being cooled enough and will jam your nozzle. The fan is most likely unplugged.
   * Take the red and black fan wires, and look for the terminal plug that is empty on the back underside of the extruder.
 
 .. image:: Images/Fanelectonicsplugs.png
    :alt: Fan Electronics Plugs
-   :align: center
+   :align: center 
 
 Hotend Falling Out
 ---------------
@@ -199,20 +199,20 @@ If you are experiencing your hotend falling out from the extruder, there is a si
  * The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the the tool kit that came with your printer.
  * Make sure to turn off your printer.
  * Loosen your hotend by turning the tensioner screw counterclockwise a few turns.
-
+ 
 .. image:: Images/Hotend-tensioner-loosen.gif
    :alt: Loosening Hotend
    :align: center
-
+ 
 * Push the hotend as far as it can go up into the seated ring and make sure it is flat against it.
 * While you are holding it there, screw the allen screw clockwise until you feel a good amount of resistance and the hotend cannot be pulled out with your hand. Make sure you align the heater block to be parallel with the fron of the extruder so the hotend cover will lay flat against the magnets when reinstalling.
 
 .. image:: Images/Tightening-hotend-tensioner.gif
    :alt: Tightening Hotend
-   :align: center
+   :align: center  
 
 * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
-
+  
 Screens Goes White or Doesn't Work
 ---------------
 
@@ -220,46 +220,46 @@ If the screen is not working there is a few steps that need to be taken to solve
 
 1. **Loose Wiring**
  * First, remove the black bezel (which is the black plastic holding the screen) by gently pulling inward from the inside edge of the plastic. From here you will be able to see the electronics of the printer.
-
+  
 .. image:: Images/Bezel-removal.gif
    :alt: Bezel Removal
    :align: center
-
+  
 * Next, raise your bed by manually turning the long threaded z screw until the bed is mostly all the way up. Now remove the internal lid under the bed that says Robo on it for better access to the electronics.
-
+  
 .. image:: Images/Z-Screw-Raise.gif
    :alt: Raising Z Screw
    :align: center
-
+   
 .. image:: Images/Inside-Cover-Removal.gif
    :alt: Inside Cover Removal
    :align: center
-
+  
 * Here, you will see a rbbon cable attached that attaches the screen to a green electronics board. On the screen side, detach the screen cable and re-attach. Do the same thing for the green electronics board side.
-
+  
 .. image:: Images/Screen-Plug.gif
    :alt: Screen Plug
-   :align: center
+   :align: center  
 
 .. image:: Images/Pi-Ribbon-Cable.gif
    :alt: Pi Screen Plug
    :align: center
 
 * Next, find the micro usb cord that is plugged into the bottom right corner of the green electronics board. Unplug this and plug it back in.
-
+  
 .. image:: Images/Pi-Power-Cable.gif
    :alt: Pi Power
-   :align: center
-
+   :align: center  
+  
 * Finally, follow the micro usb cord you just unplugged and follow it to the other end on the black board. It should be plugged in on the black electronics board in a terminal labeled 5V right next to Fan2 plug in. Unplug and replug this back in.
 
 .. image:: Images/Pi-Power-Black.png
    :alt: Pi Power black
-   :align: center
+   :align: center  
 
 2. **If your screen is still broken**
   * Contact customer support at www.robo3d.com/support
-
+  
 Hotend Cover is falling off
 ---------------
 
@@ -273,7 +273,7 @@ If your hotend cover is fallin off when printing, or is teetering side to side a
    :alt: Loosening Hotend
    :align: center
 
-3. Align the heater block to be parallel with the extruder carriage. Make sure the heater block is not turned in such a way that it is sticking out past the extruder carriage.
+3. Align the heater block to be parallel with the extruder carriage. Make sure the heater block is not turned in such a way that it is sticking out past the extruder carriage. 
 
 .. image:: Images/hotend-alignment.png
    :alt: alignment
@@ -286,7 +286,7 @@ If your hotend cover is fallin off when printing, or is teetering side to side a
 Filament Runout Sensor Error
 ---------------
 
-If you see an error while printing that
+If you see an error while printing that 
 
 1. **Make sure you are not bypassing the filament block**
 
@@ -298,7 +298,7 @@ If you see an error while printing that
 
 1. Connect your printer to wifi. Go to Utilities> Network> Configure wifi and connect your printer.
 
-2. Once you are successfully connected to the internet, lets find your IP address. Go to Utilities> Network> Network Status. Here you will find the IP address.
+2. Once you are successfully connected to the internet, lets find your IP address. Go to Utilities> Network> Network Status. Here you will find the IP address. 
 
 3. Next, open up your browser (such as Google Chrome, or Mozilla Firefox), and enter that same IP address into the address bar. You should see a dashboard come up that looks like this:
 
@@ -308,16 +308,20 @@ If you see an error while printing that
 
 4. Click on the 'Settings' button in the top right of the interface.
 
-5. A settings window will pop up. On the left hand side, scroll down and select the item labeled 'Plugin Manager' under 'Octoprint' about half way down the list.
+5. A settings window will pop up. On the left hand side, scroll down and select the item labaled 'Plugin Manager' under 'Octoprint' about half way down the list.
 
 6. You will now see a list of plugins that are installed onto your printer. From here click the next page over until you see the line item labeled 'Filament Sensor'. Click on the small black button to the right of the item (circled in green in the picture below).
 
 .. image:: Images/plugin-manager.PNG
    :alt: Octoprint Plugin Manager
    :align: center
-
+   
 7. Once you have de-selected this plugin, you will need to restart octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
 
 .. image:: Images/restart-now.PNG
    :alt: Octoprint Restart Now
    :align: center
+   
+
+
+
