@@ -50,7 +50,6 @@ Simply download the free Robo app to experience the next level in 3D printing an
    * Connect to cloud libraries and access thousands of 3D models
    * Make in-app purchases (filaments, accessories, print kits and more)
 
-
 Logging into your Robo account
 =================================================
 
