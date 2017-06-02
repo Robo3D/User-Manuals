@@ -7,7 +7,7 @@
 Getting Started
 =================================================
 
-.. image:: images/r2-getting-started
+.. image:: images/r2-getting-started.jpg
    :alt: Getting Started with Robo C2
    :align: center
 
@@ -172,11 +172,13 @@ Update to the latest version and wait about a minute to get everything up-to-dat
 Calibration and setting Z offset
 ---------------
 
-Next you’ll want to calibrate Robo R2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
+Next you’ll want to calibrate Robo R2 by selecting UTILITIES on the touch screen.
 
-.. image:: images/select-utilities.png
+.. image:: images/select-utilities-r2.png
    :alt: Select Utilities on Touch Screen
    :align: center
+
+Then select WIZARDS from the list.
 
 .. image:: images/SelectWizards.png
    :alt: Select Wizards from List
@@ -277,7 +279,7 @@ The file will start printing.
    :alt: File Printing
    :align: center
 
-Just note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
+Note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
 
 Removing the test print
 ---------------

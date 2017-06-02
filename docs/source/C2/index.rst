@@ -11,8 +11,7 @@ Robo C2
    :alt: C2 Header
    :align: center
 
-Enter the Robolution
----------------------
+**Enter the Robolution**
 
 Greetings, Maker!
 
@@ -26,8 +25,7 @@ Happy Printing,
 
 Coby Kabili and Braydon Moreno, Robo Co-founders
 
-Make more with Robo C2
------------------------
+**Make more with Robo C2**
 
 The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
 
@@ -37,29 +35,6 @@ The Robo C2 compact smart 3D printer with Wi-Fi gives you the freedom to make wh
    * Class-leading print speed
    * Automatic self-leveling
    * Prints 20+ materials types that don’t require a heat bed
-
-Make smarter with the Robo app
-=================================================
-
-Simply download the free Robo app to experience the next level in 3D printing and get more out of everything you make.
-
-   * Connect and print right from your mobile device
-   * Monitor the progress of every print
-   * Manage multiple prints and printers at once
-   * Manual control panel lets you handle every detail with precision
-   * Connect to cloud libraries and access thousands of 3D models
-   * Make in-app purchases (filaments, accessories, print kits and more)
-
-Logging into your Robo account
-=================================================
-
-To enjoy the best possible Robo app experience, be sure to log into your Robo account. Logging into your account lets you do things like browse models from your cloud storage, and even post status updates via social media to show off all the cool stuff you’re making with Robo C2.
-
-Use the following steps to log into your Robo account:
-
-1. Open the Robo app open and select “Menu” in the upper left corner
-2. Select “Log In” on the right hand side of the screen
-3. Follow the prompt to successfully login to your account
 
 .. toctree::
    :maxdepth: 2
