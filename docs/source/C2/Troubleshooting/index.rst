@@ -267,7 +267,7 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 
 1. Remove your hotend cover.
 
-2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still indie its mount.
+2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still inside its mount.
 
 .. image:: Images/Hotend-tensioner-loosen.gif
    :alt: Loosening Hotend

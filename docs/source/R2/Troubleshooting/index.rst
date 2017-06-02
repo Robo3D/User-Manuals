@@ -187,7 +187,7 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 
 1. Remove your hotend cover.
 
-2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still indie its mount.
+2. Loosen the hotend tensioner screw slightly. You do not need to loosen it completely, only enough to be able to rotate the hotend while it is still inside its mount.
 
 3. Align the heater block to be parallel with the extruder carriage. Make sure the heater block is not turned in such a way that it is sticking out past the extruder carriage.
 
