@@ -34,7 +34,7 @@ Here we will calibrate Robo R2 by setting the Z-Offset and making sure your firs
 
 What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by adjusting the bed springs, not seating your print bed correctly, or even a shifting hotend.  
 
-###Z-Offset Wizard
+### Z-Offset Wizard
 
 From the home screen select "Utilities"
 
@@ -60,11 +60,11 @@ Follow the directions on the screen by using the calibration card or a standard 
 
 Select 'Finished". Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset.
 
-###Fine Tune Wizard
+### Fine Tune Wizard
 
 If you are experiencing nozzle dragging or your prints are not sticking, you can fine-tune your z offset by going to Utilities> Wizards> Fine Tune Wizard.  It's a little more work, but you will tune your offset by actually printing on the bed! Your Robo will print a series of vertical lines, one at a time.  Between each pass you can increase or decrease the Z-Offset value as needed. 
 
-###Manually setting Offset in EEPROM Manager
+### Manually setting Offset in EEPROM Manager
 
 If you are a printing veteran and are comfortable with manually setting your Offset, you can do so under Utilities>Options>EEPROM>Home Offset. In the "Z" screen you will see the value of your current Offset, as well as two arrows that will increase or decrease this value.  The arrows are arranged so that they correspond with raising or lowering the bed.  A smaller value brings the bed closer to the nozzle, while a larger value increases the distance away.  
 
