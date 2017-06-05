@@ -30,11 +30,12 @@ Utilities
 Setting the Z offset
 -----------
 
-Here we will calibrate Robo R2 by setting the Z-Offset and making sure your first layer is applied correctly.  We will be covering three ways of zeroing in on your Offset.  The first is the Z-Offset Wizard found in Utilies>Wizards; the second is the Fine Tune Wizard, also under Utilities>Wizards; the final is manually adjusting your Offset in the EEPROM manager.
+Here we will calibrate Robo R2 by setting the Z-Offset and making sure your first layer is applied correctly.  We will be covering three ways of zeroing in on your Offset.  The first is the Z-Offset Wizard found in Utilities> Wizards; the second is the Fine Tune Wizard, also under Utilities> Wizards; the final is manually adjusting your Offset in the EEPROM manager.
 
-What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by adjusting the bed springs, not seating your print bed correctly, or even a shifting hotend.  
+What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by adjusting the bed springs, not seating your print bed correctly, or even a shifting hotend.
 
-### Z-Offset Wizard
+Z-Offset Wizard
+----------------
 
 From the home screen select "Utilities"
 
@@ -60,22 +61,23 @@ Follow the directions on the screen by using the calibration card or a standard 
 
 Select 'Finished". Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset.
 
-### Fine Tune Wizard
+Fine Tune Wizard
+----------------
 
-If you are experiencing nozzle dragging or your prints are not sticking, you can fine-tune your z offset by going to Utilities> Wizards> Fine Tune Wizard.  It's a little more work, but you will tune your offset by actually printing on the bed! Your Robo will print a series of vertical lines, one at a time.  Between each pass you can increase or decrease the Z-Offset value as needed. 
+If you are experiencing the nozzle dragging (too low) or your prints are not sticking (too high), you can fine-tune your Z-Offset by going to Utilities> Wizards> Fine Tune Wizard.  It's a little more work, but you will tune your offset by actually printing on the bed! Your Robo R2 will print a series of vertical lines, one at a time.  Between each pass you can increase or decrease the Z-Offset value as needed.
 
-### Manually setting Offset in EEPROM Manager
+Manually setting Offset in EEPROM Manager
+----------------
 
-If you are a printing veteran and are comfortable with manually setting your Offset, you can do so under Utilities>Options>EEPROM>Home Offset. In the "Z" screen you will see the value of your current Offset, as well as two arrows that will increase or decrease this value.  The arrows are arranged so that they correspond with raising or lowering the bed.  A smaller value brings the bed closer to the nozzle, while a larger value increases the distance away.  
+If you are a printing veteran and are comfortable with manually setting your Offset, you can do so under Utilities> Options> EEPROM> Home Offset. In the "Z" screen you will see the value of your current Offset, as well as two arrows that will increase or decrease this value.  The arrows are arranged so that they correspond with raising or lowering the bed.  A smaller value brings the bed closer to the nozzle, while a larger value increases the distance away.
 
-If your Offset seems close but prints are still not sticking, you can decrease the value by 0.1mm - 0.2mm and try again.  Generally onyl small changes may be needed.
+If your Offset seems close but prints are still not sticking, you can decrease the value by 0.1mm - 0.2mm and try again.  Generally only small changes may be needed.
 
 -----------
 Loading and Unloading Filament
 -----------
 
-Loading filament
----------------
+**Loading filament**
 
 Now, unhinge the spool holder by simply pushing on the top of the higher lever from the rear of the printer.
 
@@ -131,7 +133,8 @@ Follow the on-screen prompts:
 - Press NEXT, and
 - Press FINISHED
 
-Unloading Filament
+**Unloading Filament**
+
   1. From the home screen select 'Utilities'
   2. Next, select 'Wizards'
   3. Select 'Filament Change Wizard'
@@ -271,12 +274,12 @@ Hotspot Mode
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
    4. Your Robo R2 is now casting it's own wireless network
- 
+
 -----------
 Your printer's WiFi password
------------ 
+-----------
 The password for your printer's hotspot (AP mode) is the same as your printer's serial name.  For example: careful-curie.
-You can change the password 
+You can change the password
 
 -----------
 Downloading the Robo App

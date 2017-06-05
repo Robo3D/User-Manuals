@@ -245,7 +245,7 @@ Follow the on-screen prompts:
 The test print
 ---------------
 
-To create your first test print Select FILES on the home screen. Then select a file to print from the list.
+To create your first test print, select FILES on the home screen. Then select a file to print from the list.
 
 .. image:: images/4.1.png
    :alt: Select Files on Home Screen

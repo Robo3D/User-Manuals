@@ -18,10 +18,10 @@ Display Screen
 The color touch screen display on the front of your Robo C2 is the main access point for setting up, controlling, and reviewing all components of your 3d printer. You can navigate through the menus by touch or a stylus.
 
 Files
-   -Here you are able to navigate through your files, whether they are on a usb thumb drive or on the local hard drive internally.
+   -Here you are able to navigate through your files, whether they are on a USB thumb drive or on the local hard drive internally.
 
 Printer
-   -The print screen is the default screen when printing. This will show you file printing, extruder tempersture, a progress indicator, and pause and cancel buttons while in use.
+   -The print screen is the default screen when printing. This will show you file printing, extruder temperature, a progress indicator, and pause and cancel buttons while in use.
 
 Utilities
    -The Utilities menu offers a variety of options including: motor control, temperature control, z-offset wizard, network settings, and a way to update your printer
@@ -30,7 +30,12 @@ Utilities
 Setting the Z offset
 -----------
 
-Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly
+Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly.  We will be covering three ways of zeroing in on your Offset.  The first is the Z-Offset Wizard found in Utilities> Wizards; the second is the Fine Tune Wizard - also under Utilities> Wizards; the final is manually adjusting your Offset in the EEPROM manager.
+
+What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by adjusting the bed springs, not seating your print bed correctly, or even a shifting hotend.
+
+Z-Offset Wizard
+----------------
 
 From the home screen select "Utilities"
 
@@ -56,7 +61,7 @@ Your printer will now home itself and get in position to set your offset
    :alt: Homing Z offset
    :align: center
 
-Follow the directions on the screen by taking a piece of paper or something similar that is the same thickness as a piece of paper. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer. Slide the piece of paper in between the nozzle and bed and continue pressing the 'Up" button until you feel resistance on the paper  between the Nozzle and the print bed. Note: You still want to be able to slide the piece of paper back and forth but with enough resistance that it is touching both the bed and the nozzle
+Follow the directions on the screen using your calibration card that came with your printer or a standard piece paper. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer. Slide the calibration card in between the nozzle and bed and continue pressing the 'Up" button until you feel slight resistance on the calibration card between the Nozzle and the print bed. Note: You still want to be able to slide the calibration card back and forth but with enough resistance that it is touching both the bed and the nozzle.
 
 .. image:: images/z-offset-move.gif
    :alt: Z offset move
@@ -64,9 +69,22 @@ Follow the directions on the screen by taking a piece of paper or something simi
 
 Select 'Finished". Your printer will calculate your Z-Offset and then press 'Finished' to complete setting your Z-Offset.
 
+Fine Tune Wizard
+----------------
+
+If you are experiencing the nozzle dragging (too low) or your prints are not sticking (too high), you can fine-tune your Z-Offset by going to Utilities> Wizards> Fine Tune Wizard.  It's a little more work, but you will tune your offset by actually printing on the bed! Your Robo C2 will print a series of vertical lines, one at a time.  Between each pass you can increase or decrease the Z-Offset value as needed.
+
+Manually setting Offset in EEPROM Manager
+----------------
+
+If you are a printing veteran and are comfortable with manually setting your Offset, you can do so under Utilities> Options> EEPROM> Home Offset. In the "Z" screen you will see the value of your current Offset, as well as two arrows that will increase or decrease this value.  The arrows are arranged so that they correspond with raising or lowering the bed.  A smaller value brings the bed closer to the nozzle, while a larger value increases the distance away.
+
+If your Offset seems close but prints are still not sticking, you can decrease the value by 0.1mm - 0.2mm and try again.  Generally only small changes may be needed.
+
 -----------
 Loading and Unloading Filament
 -----------
+
 Loading Filament
 
 From the home screen select 'Utilities'
