@@ -18,7 +18,7 @@ Besides your new Robo C2, you will find the following in the box:
 
 1. Quick Start Guide
 2. Autodesk Fusion 360 design software free 1-year voucher
-3. 9 print bed tape covers (with 1 already applied to your print bed).
+3. 9 print bed tape covers (with 1 BuildTak sheet already applied to your print bed).
 4. Robo stickers to place EVERYWHERE.
 5. 19V power supply
 6. Filament Guide Tube
@@ -29,9 +29,8 @@ Besides your new Robo C2, you will find the following in the box:
 11. Spatula
 
 .. image:: images/Whats-Inside-the-Box.png
-   :alt: Whats Inside the Box
+   :alt: What's Inside the Box
    :align: center
-
 
 Unboxing Robo C2
 ---------------
@@ -86,7 +85,7 @@ Initial set-up
 ---------------
 Now let’s move forward with your initial set-up of Robo C2.
 
-First, insert the spool holder into the rear slot of the printer.
+First, insert the spool holder into the rear slot of the printer. Make sure the taller tab is inserted first.
 
 .. image:: images/Inserting-Spool-Holder.gif
    :alt: Inserting Spool Holder
