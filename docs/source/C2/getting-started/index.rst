@@ -23,11 +23,11 @@ Besides your new Robo C2, you will find the following in the box:
 5. 19V power supply
 6. Filament Guide Tube
 7. 2 filament spool arms
-8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver.
+8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver, and stylus.
 9. Robo USB drive
 10. 300g Robo light blue filament
 11. Spatula
-   
+
 .. image:: images/Whats-Inside-the-Box.png
    :alt: Whats Inside the Box
    :align: center
@@ -44,12 +44,12 @@ Your C2 is housed in 3 styrofoam pieces, secured together by a nylon strap. Simp
    :alt: Taking it out
    :align: center
 
-Unclip the black nylon strap and remove the two halves of the top styrofoam shell. 
+Unclip the black nylon strap and remove the two halves of the top styrofoam shell.
 
 .. image:: images/Unstrapping-foam.gif
    :alt: Unstrapping Foam
    :align: center
-   
+
 Finally, using the handholds on the bottom of your C2, lift the printer out of the bottom styrofoam piece.
 
 .. image:: images/Lifting-from-bottom-foam.gif
@@ -64,7 +64,7 @@ The printer's accessories are stored in the inclusions box inside the printer. S
    :alt: Inclusions Box
    :align: center
 
-Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry
+Now we are ready to take off the additional shipping material and zip ties. There are 4 orange rod holders that need to be taken off. Simply push on the clip and it will come off. There is one at each corner of the top gantry.
 
 .. image:: images/Rod-clip-removal.gif
    :alt: Clip Removal
@@ -108,6 +108,95 @@ From here you’ll want to connect the power cord to the designated area on the 
 
 Now go ahead and turn on the printer.
 
+Connecting to Wi-Fi
+---------------
+
+We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
+
+.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
+
+To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities on Home Screen
+   :align: center
+
+Select NETWORK.
+
+.. image:: images/Selectnetwork.png
+   :alt: Select Network on Home Screen
+   :align: center
+
+Select CONFIGURE WIFI.
+
+.. image:: images/selectconfigurewifi.png
+   :alt: Select Configure Wi-Fi on Home Screen
+   :align: center
+
+Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
+
+.. image:: images/selectwifinetwork.png
+   :alt: Select Wi-Fi Network
+   :align: center
+
+Once you’re done, select CONNECT.
+
+.. image:: images/5.5.png
+   :alt: Select Connect
+   :align: center
+
+Updating Robo C2
+---------------
+
+Ensure your software is up-to-date - it's the best way to confirm that your machine is operating with the most recent functionalities available whenever we release them.
+
+Select UTILITIES on the home screen
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities on Home Screen
+   :align: center
+
+Select UPDATE
+
+Screen will say UP_TO_DATE if software is already updated. If not, select UPDATE and the update will begin.
+
+Note: Follow this process regularly to ensure software is always up to date.
+
+Calibration and setting Z offset
+---------------
+
+Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities on Touch Screen
+   :align: center
+
+.. image:: images/SelectWizards.png
+   :alt: Select Wizards from List
+   :align: center
+
+From here you’ll select Z OFFSET WIZARD.
+
+.. image:: images/SelectZOffset.png
+   :alt: Select Z Offset Wizard
+   :align: center
+
+Now, the printer will wait to calibrate its home position
+
+.. image:: images/Homing-z-offset.gif
+   :alt: Homing Z Offset
+   :align: center
+
+Press up and down on the arrow buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
+
+.. image:: images/z-offset-move.gif
+   :alt: Homing Z Offset
+   :align: center
+
+Press FINISHED
+
+Note that you will see the offset progress and completion on the touchscreen.
+
 Loading filament
 ---------------
 
@@ -117,7 +206,7 @@ To begin loading filament, hang your filament spool on the spool holder. Be sure
    :alt: Thread Filament into Filament Sensor Tube
    :align: center
 
-Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder button and feed the filament into the printer’s gears.
+Continue feeding the filament through the filament feed tube until it reaches the extruder. Then, press the extruder lever arm down and feed the filament into the printer’s gears.
 
 .. image:: images/Filament-into-extruder.gif
    :alt: Feed Filament Until it Reaches the Extruder
@@ -150,44 +239,9 @@ Follow the on-screen prompts:
 .. image:: images/Filament-coming-from-nozzle.gif
    :alt: Filament coming from nozzle
    :align: center
-   
+
 - Press NEXT, and
 - Press FINISHED
-
-Calibration and setting Z offset
----------------
-
-Next you’ll want to calibrate Robo C2 by selecting UTILITIES on the touch screen, and then select WIZARDS from the list.
-
-.. image:: images/SelectUtilities.png
-   :alt: Select Utilities on Touch Screen
-   :align: center
-
-.. image:: images/SelectWizards.png
-   :alt: Select Wizards from List
-   :align: center
-
-From here you’ll select Z OFFSET WIZARD.
-
-.. image:: images/SelectZOffset.png
-   :alt: Select Z Offset Wizard
-   :align: center
-
-Now, the printer will wait to calibrate its home position
-
-.. image:: images/Homing-z-offset.gif
-   :alt: Homing Z Offset
-   :align: center
-   
-Press up and down on the arrow buttons while sliding a piece of paper between the nozzle and the print bed until you feel some resistance against the paper
-
-.. image:: images/z-offset-move.gif
-   :alt: Homing Z Offset
-   :align: center
-
-Press FINISHED
-
-Note that you will see the offset progress and completion on the touchscreen.
 
 The test print
 ---------------
@@ -227,44 +281,6 @@ When the test print is complete and cooled down, remove the print bed with the f
 
 Note that if the print is not coming loose after flexing the print bed, put the bed back in Robo C2 and use the provided spatula to carefully remove the print at its borders. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
 
-Connecting to Wi-Fi
----------------
-
-We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
-
-
-.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
-
-To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
-
-.. image:: images/SelectUtilities.png
-   :alt: Select Utilities on Home Screen
-   :align: center
-
-Select NETWORK.
-
-.. image:: images/Selectnetwork.png
-   :alt: Select Network on Home Screen
-   :align: center
-
-Select CONFIGURE WIFI.
-
-.. image:: images/selectconfigurewifi.png
-   :alt: Select Configure Wi-Fi on Home Screen
-   :align: center
-
-Then select your Wi-Fi network and use the on-screen keyboard to enter your password.
-
-.. image:: images/selectwifinetwork.png
-   :alt: Select Wi-Fi Network
-   :align: center
-
-Once you’re done, select CONNECT.
-
-.. image:: images/5.5.png
-   :alt: Select Connect
-   :align: center
-
 Using Hotspot Mode
 ---------------
 
@@ -274,4 +290,3 @@ Your printer is capable of starting If no Wi-Fi signals are available for connec
    1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
    3. Select “Start Hotspot Mode” from the list
-
