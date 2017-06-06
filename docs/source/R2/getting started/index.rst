@@ -123,6 +123,9 @@ It is necessary connecting Robo R2 to your Wi-Fi network. Doing so provides you 
 
 .. note:: You can also use the provided Ethernet cable (LAN) to connect Robo R2 directly to your Wi-Fi network.
 
+Wi-Fi Configuration
+---------------
+
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
 .. image:: images/select-utilities-r2.png
@@ -152,6 +155,9 @@ Once you’re done, select CONNECT.
 .. image:: images/5.5.png
    :alt: Select Connect
    :align: center
+
+Updating
+---------------
 
 Now, you will need to update Robo R2.
 
@@ -192,11 +198,7 @@ From here you’ll select Z OFFSET WIZARD.
 
 Now, the printer will wait to calibrate its home position.
 
-Press up and down on the arrow buttons while sliding the calibration card between the nozzle and the print bed until you feel some slight resistance against the paper.
-
-Press FINISHED
-
-Note that you will see the offset progress and completion on the touchscreen.
+Follow the directions on the screen by using the calibration card or a standard sheet of paper. Press on the 'Up' arrow to raise the bed up toward the nozzle of the printer. Slide the calibration card in between the nozzle and bed and continue pressing the 'Up" button until you feel little resistance on the card between the Nozzle and the print bed. Note: You still want to be able to slide the calibration card back and forth but with enough resistance that it is touching both the bed and the nozzle.
 
 You can also fine-tune your offset by going to Utilities> Wizards> Fine Tune Offset
 
@@ -284,7 +286,7 @@ Note that you can select PAUSE to pause your print, or you can select CANCEL to 
 Removing the test print
 ---------------
 
-When the test print is complete and cooled down, use the provided spatula to carefully remove the print at its borders. Then slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
+When the test print is complete and cooled down, use the provided spatula to carefully remove the print at its borders. Then, slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
 
 
 Using Hotspot Mode
