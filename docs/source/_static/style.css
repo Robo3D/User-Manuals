@@ -209,7 +209,7 @@ a:visited code,
 }
 
 a span.toctree-expand {
-    display: none;
+    display: none !important;
 }
 
 /* *********************TOP/BOTTOM NAV BAR*********************  */
