@@ -234,6 +234,7 @@ a:visited code,
 }
 
 .rst-footer-buttons {
+    display: none;
     top: unset !important;
     padding: 14px 0;
     bottom: 0px;
@@ -256,7 +257,7 @@ footer {
 }
 
 .rst-versions {
-    bottom: 62px;
+    bottom: 0px;
 }
 
 .fa-arrow-circle-right, .fa-arrow-circle-left {
