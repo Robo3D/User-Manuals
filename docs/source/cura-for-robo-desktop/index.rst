@@ -32,7 +32,7 @@ To Download Cura for Robo, click here: Cura_for_Robo_.
   * Intel Core 2 or AMD Athlon 64 or newer
 
 Installing and Setup
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^
 
  1. Starting Cura for Robo for the first time
   * After installing Cura for Robo, go ahead and open the application from your applications folder (or wherever you have installed it).
@@ -44,7 +44,8 @@ Installing and Setup
    :alt: Add Printer Wizard
    :align: center
 
-**Overview**
+Overview
+^^^^^^^^^^
 
 This is the main view of Cura for Robo. You can reference back to it if you ever need a quick refresh of where things are located within the software.
 
@@ -73,7 +74,7 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
    :alt: Profile Settings
    :align: center
 
-* Below the Pofile settings, you will find the simple recommended print settings. Here you can change infill density, as well as using print build plate adhesion for better adherance on your first layer, and support structure for generating scaffolding to support overhangs and bridges.
+* Below the Profile settings, you will find the simple recommended print settings. Here you can change infill density, as well as using print build plate adhesion for better adherence on your first layer, and support structure for generating scaffolding to support overhangs and bridges.
 
 .. image:: images/Recommend.JPG
    :alt: Recommended Settings
@@ -89,7 +90,8 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
 Configure and View the Model
 -----------
 
-**Configuring the Model**
+Configuring the Model
+^^^^^^^^^^
 
 To further configure your model for printing after you have loaded it onto the build platform, click on the model so it becomes highlighted.
 
@@ -124,7 +126,8 @@ To further configure your model for printing after you have loaded it onto the b
  * The Mirror tool will allow you to mirror the model in the X, Y, and Z axis.
  * Simply click on one of the arrowheads that pop up on your model to mirror it in that direction.
 
-**Viewing the Model**
+Viewing the Model
+^^^^^^^^^^
 
 Once you have satisfied all of your configuration and profile settings, you can view the model in layer mode. Layer mode allows you to inspect the way your model is sliced and will be printed. It is usually best to inspect your model this way to see if it will be printed the way you are intending.
 
@@ -133,7 +136,7 @@ Once you have satisfied all of your configuration and profile settings, you can 
    :align: center
 
 1. Solid
- * Solid view is the defualt view when the program is started. You can view the digital model to see if it is created like it was intended, and also see where it might have imperfections when examining it.
+ * Solid view is the default view when the program is started. You can view the digital model to see if it is created like it was intended, and also see where it might have imperfections when examining it.
  * The model will be colored yellow if it is selected and within the usable print area, and grey if it is either deselected or out of the printable build area.
 
 2. X-Ray
@@ -155,7 +158,8 @@ Settings
 -----------
 Settings profiles are provided to you as defaults, but depending on the specific model or personal preference, you can modify your settings by clicking on 'Custom' under Print Setup on the left hand side of the main window. Below are what different settings that may be changed.
 
-**Quality**
+Quality
+^^^^^^^^^^
 
 1. Layer Height
 
@@ -178,7 +182,8 @@ Settings profiles are provided to you as defaults, but depending on the specific
    :align: center
 Left: smaller line width - Right: larger line width
 
-**Shell**
+Shell
+^^^^^^^^^^
 
 1. Wall Thickness
 
@@ -207,7 +212,7 @@ Left: 3 walls - Right: One wall
 
 6. Top/bottom pattern
 
- You are able to change the pattern of your top and bottom layers. There are 3 options; concentric, lines, and zig zag. Concentric fills in your layers with the same pattern from the outside in. Lines and zig zag both fill in your layers with a diagonal patern, either connecting to the shell or moving around the shell to infill the layers.
+ You are able to change the pattern of your top and bottom layers. There are 3 options; concentric, lines, and zig zag. Concentric fills in your layers with the same pattern from the outside in. Lines and zig zag both fill in your layers with a diagonal pattern, either connecting to the shell or moving around the shell to infill the layers.
 
 .. image:: images/bottom-pattern.png
    :alt: Pattern Comparison
@@ -219,14 +224,15 @@ Left: lines pattern - Right: concentric pattern
  On most prints, there is a visible seam that appears on a model from when your printers' nozzle pauses to change layers in the z direction. Z seam alignment allows you to place where each new layer in the z direction starts, effecting where the seam will be. There are 3 options to choose from; shortest, back, random.
 
  * Shortest will use the z seam wherever the last layer left off and will start the new one right away, producing a shorter print time, but a visible seam.
- * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you dont want the seam to show up.
+ * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you don't want the seam to show up.
  * Random will choose a different spot to put the seam, which will eliminate visibility, but increase print time.
 
-**Infill**
+Infill
+^^^^^^^^^^
 
 1. Infill density
 
- The infill density determines how dense your print will be by filling in your print with plastic by a certain percentage. 100% infill density means your print will be totally and completely filled in with plastic, while 0% infill density means your print will only print the perimeters with no plastic filling in the middle, making it hollow. More infill produces a sturdier print, but takes more time, whereas less infill produces a weaker print, and takes less time to print. An average infill density is around 20% for visual models, whereas higher infil density parts are used more for structural or mechanical use models.
+ The infill density determines how dense your print will be by filling in your print with plastic by a certain percentage. 100% infill density means your print will be totally and completely filled in with plastic, while 0% infill density means your print will only print the perimeters with no plastic filling in the middle, making it hollow. More infill produces a sturdier print, but takes more time, whereas less infill produces a weaker print, and takes less time to print. An average infill density is around 20% for visual models, whereas higher infill density parts are used more for structural or mechanical use models.
 
 .. image:: images/infill-density.png
    :alt: Infill Density Comparison
@@ -257,7 +263,8 @@ These are a few of the infill options
 
  If infill before walls is enabled, the layer being printed will fill in the infill before the perimeters. Printing the infill first leads to sturdier walls, but the infill pattern might sometimes show through the surface. Printing the walls first may lead to more accurate walls, but overhangs may print worse.
 
-**Material**
+Material
+^^^^^^^^^^
 
 1. Printing temperature
 
@@ -269,7 +276,7 @@ These are a few of the infill options
 
 3. Enable Retraction
 
- Retraction is used when the printer is traveling from one point to another without laying down any plastic. During this time, there can be melted plastic in the nozzle, which could ooze out and cause unwanted plastic on your model. In order to elimiate this ooze, enable retraction to retract, or pull back, the filament while on these travel moves. Different material require different settings for best results. Contact your material manufacturer for best retraction settings.
+ Retraction is used when the printer is traveling from one point to another without laying down any plastic. During this time, there can be melted plastic in the nozzle, which could ooze out and cause unwanted plastic on your model. In order to eliminate this ooze, enable retraction to retract, or pull back, the filament while on these travel moves. Different material require different settings for best results. Contact your material manufacturer for best retraction settings.
 
 4. Retraction distance
 
@@ -283,7 +290,8 @@ These are a few of the infill options
 
  This determines how far your nozzle must travel in order to execute a retraction move. If your model has a lot of small areas, this will cause the printer to retract a lot, and will be more prone to clogs and potential errors. To decrease the chance of errors on a lot of retraction moves in a small area, increase the retraction minimum travel. Be mindful that increasing this setting too much can result in stringing and unwanted artifact on your printed part due to oozing.
 
-**Speed**
+Speed
+^^^^^^^^^^
 
 1. Print speed
 
@@ -321,11 +329,12 @@ These are a few of the infill options
 
  The number of slower layers determines how many layers from the beginning of the print are going to be slower than the rest. The overall success rate of a print is relying on the first layers adhering to the bed correctly. The speed of your print is gradually increased over these layers.
 
-**Travel**
+Travel
+^^^^^^^^^^
 
 1. Combing mode
 
- Combing mode keeps the print nozzle within the interior of the model whil traveling from one point to another. This reduces the number of retraction moves because the extruder wont retract if enabled, but will increase print time. If combing mode is off, the print nozzle will travel the shortest distance from where it stopped to the next point it needs to go, not minding what is in its path underneath it.
+ Combing mode keeps the print nozzle within the interior of the model while traveling from one point to another. This reduces the number of retraction moves because the extruder wont retract if enabled, but will increase print time. If combing mode is off, the print nozzle will travel the shortest distance from where it stopped to the next point it needs to go, not minding what is in its path underneath it.
 
 .. image:: images/combing.png
    :alt: Combing Paths
@@ -338,7 +347,7 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
 3. Travel avoid distance
 
- Travel avoid distance determines how far a distance your print nozzle will will be from your existing printed parts when 'avoid printed parts when traveling' is enabled. The further this distance is away, the less chance you have at running into a part with your nozzle, but will increase printing time of your model.
+ Travel avoid distance determines how far a distance your print nozzle will be from your existing printed parts when 'avoid printed parts when traveling' is enabled. The further this distance is away, the less chance you have at running into a part with your nozzle, but will increase printing time of your model.
 
 4. Z-hop when retracted
 
@@ -348,7 +357,8 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
  The z-hop height determines how far down your build platform will lower every time there is a retraction. The larger the height, the safer it is, but the longer your print will take.
 
-**Cooling**
+Cooling
+^^^^^^^^^^
 
 1. Enable print cooling
 
@@ -356,7 +366,7 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
 2. Fan speed
 
- Different materials require different fan speeds to optimize print quality. Some materials can shrink more than others when cooled faster, while some dont need fans at all.
+ Different materials require different fan speeds to optimize print quality. Some materials can shrink more than others when cooled faster, while some don't need fans at all.
 
 3. Regular/maximum fan speed threshold
 
@@ -373,9 +383,10 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
 6. Minimum speed
 
- The minimum speed determines the lower threshold of how slow the printer will actually print regardless of minimum layer time. This will make sure that the printer is not printing too slow, causing extrusion and motor issues, and degrading the sureface finish of the printed model.
+ The minimum speed determines the lower threshold of how slow the printer will actually print regardless of minimum layer time. This will make sure that the printer is not printing too slow, causing extrusion and motor issues, and degrading the surface finish of the printed model.
 
-**Support**
+Support
+^^^^^^^^^^
 
 1. Enable support
 
@@ -437,7 +448,8 @@ Left: Touching buildplate - Right: Everywhere
 
  If a support roof is enabled, the support structure will create a solid layer of plastic at the top of the support structure. When using a support roof, the model will come out with a very clean surface finish, but may be very hard to remove compared to not using a support roof.
 
-**Platform Adhesion**
+Platform Adhesion
+^^^^^^^^^^
 
 1. Brim
 
@@ -451,9 +463,9 @@ Left: Touching buildplate - Right: Everywhere
 
  A raft is the best method for using platform adhesion on a Robo C2 and Robo R2. A raft is a couple layers of plastic that will adhere to both the bed platform and the print itself. If the model has very small surface area, a raft is also the best option for platform adhesion. A raft is comprised of three main parts: Base layer, middle layer, and top layers.
 
-* Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smushed, to help adherance to the bed.
+* Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smashed, to help adherence to the bed.
 * Middle layer: Layers that are between the base and top layers. The middle layer gives more surface area for the top layer of the raft to lay down upon. Normally, there is only one middle layer.
-* Top layers: The top layers are the layers which adhere the model to be printed to the raft iself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
+* Top layers: The top layers are the layers which adhere the model to be printed to the raft itself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
 
 .. image:: images/raft.png
    :alt: Raft
@@ -469,7 +481,7 @@ Left: Touching buildplate - Right: Everywhere
    :alt: Skirt
    :align: center
 
-Connecting a Printer via Wifi
+Connecting a Printer via Wi-Fi
 -----------
 
  There is a way to connect Robo C2 directly to Cura for Robo enabling you to print right from within the software. Take these steps to connect your printer;
@@ -492,7 +504,7 @@ Connecting a Printer via Wifi
    :alt: Printers
    :align: center
 
-4. A new window labeled 'Connect Octoprint' will pop up. In the top middle of this window, click on the button labeled 'Refresh'. This will bring up all of the printers that are connected to the same wifi network that your computer is connected to.
+4. A new window labeled 'Connect Octoprint' will pop up. In the top middle of this window, click on the button labeled 'Refresh'. This will bring up all of the printers that are connected to the same Wi-Fi network that your computer is connected to.
 
 .. image:: images/4.png
    :alt: Refresh
@@ -512,7 +524,7 @@ Connecting a Printer via Wifi
    :alt: Settings
    :align: center
 
-8. A settings window will pop up. On the left hand side, scroll down and select the item labaled 'API' under 'Features'.
+8. A settings window will pop up. On the left hand side, scroll down and select the item labeled 'API' under 'Features'.
 
 9. An API key will be present just above a QR code. It is usually a long string of numbers and letters. Go ahead and highlight this number and copy it by pressing ctl+C on windows or command+C on a mac.
 
@@ -531,3 +543,19 @@ Connecting a Printer via Wifi
 12. Congratulations! You can now not only monitor your printer from within Cura for Robo, but you can also send your print jobs directly to the printer with a single click!
 
 Note; You should see a green check mark on the printer icon in the top right of the main interface. If you see a question mark, try restarting the program. If you are still seeing a question mark, make sure both the printer and your computer are connected to the same network.
+
+Troubleshooting
+-----------
+
+Installation doesn't work correctly
+^^^^^^^^^^
+
+If you are experiencing problems with installing Cura for Robo, there is a few ways to make sure you will be able to get up at running in no time.
+
+**Install into the correct Program Files**
+
+When installing Cura for Robo, you must make sure it is getting installed into the correct program files folder. When your computer asks you where to choose the install location, you must choose C:\Program Files\Cura for Robo\ - Installing into C\Program Files (X86)\Cura for Robo\ will not work and will get installed into the wrong folder.
+
+.. image:: images/installation-folder.png
+   :alt: Installation Folder
+   :align: center
