@@ -127,7 +127,7 @@ Unloading Filament
   5. Once you see filament coming out of the top of the extuder, select 'Next' and 'Finished'
 
 -----------
-Start a print
+Starting a print
 -----------
 
 Starting a print from your internal storage
@@ -164,6 +164,227 @@ Starting a print from a USB flash drive
    3. Select which file you would like to print
    4. Next, you can choose whether or not you would like to download the file directly to the printer or print directly from the usb
    5. Finally, select 'Start' to start the print
+
+-----------
+Printing from USB
+-----------
+
+Using on-board slicing
+----------------
+
+1. Download a 3D model print file to your computer (stl) and copy the file onto USB drive.
+
+.. image:: images/comp-2.png
+   :alt: Computer 1
+   :align: center
+
+2. Eject USB drive from computer.
+
+.. image:: images/eject.png
+   :alt: eject usb
+   :align: center
+
+3. Insert USB drive into the USB port on the front of the printer.
+
+.. image:: images/usb-computer.png
+   :alt: USB Into Computer
+   :align: center
+
+4. Select UTILITIES from the touch screen.
+
+.. image:: images/idle.png
+   :alt: Select Utilities
+   :align: center
+
+5. Select WIZARDS.
+
+.. image:: images/SelectWizards.png
+   :alt: Select Wizards
+   :align: center
+
+6. Then, select SLICING WIZARD.
+
+.. image:: images/wizards.png
+   :alt: wizards
+   :align: center
+
+7. Follow steps on-screen: CONTINUE > USB FOLDER > select file
+
+.. image:: images/slicing-wizard-1.png
+   :alt: Slicing Wizard
+   :align: center
+
+8. Choose if you want to add supports or rafts (both show as automatically selected).
+
+.. image:: images/slicing-wizard-3.png
+   :alt: Slicing Wizard
+   :align: center
+
+9. Select print quality (standard is .15mm which is automatically selected).
+
+.. image:: images/slicing-wizard-4.png
+   :alt: Slicing Wizard
+   :align: center
+
+10. Select infill (10% is automatically selected).
+
+.. image:: images/slicing-wizard-5.png
+   :alt: Slicing Wizard
+   :align: center
+
+11. Select print material (PLA is automatically selected).
+
+.. image:: images/slicing-wizard-6.png
+   :alt: Slicing Wizard
+   :align: center
+
+12. Press the top right corner for NEXT.
+13. Print will then begin slicing.
+
+.. image:: images/slicing-wizard-7-1.png
+   :alt: Slicing Wizard
+   :align: center
+
+14. Once slicing is complete, you have the option to save the file onto your printer. Select where you want to save the file by pressing on the top right SAVE icon.
+
+.. image:: images/slicing-wizard-8.png
+   :alt: Slicing Wizard
+   :align: center
+
+15. Press DONE to save you file.
+
+.. image:: images/slicing-wizard-9.png
+   :alt: Slicing Wizard
+   :align: center
+
+16. Go to FILES
+17. Search for where you saved your file, then select that file.
+18. Press START and your print will begin.
+
+.. image:: images/select-start.png
+   :alt: Slicing Wizard
+   :align: center
+
+Using sliced gcode file
+----------------
+
+1. Download a 3D model print file to your computer (gcode) and copy file onto USB drive.
+
+.. image:: images/comp-2.png
+   :alt: Computer 1
+   :align: center
+
+2. Eject USB drive from computer.
+
+.. image:: images/eject.png
+   :alt: eject usb
+   :align: center
+
+3. Insert USB drive into the USB port on the front of the printer.
+
+.. image:: images/usb-computer.png
+   :alt: USB Into Computer
+   :align: center
+
+4. Select FILES from the touch screen.
+
+.. image:: images/idle.png
+   :alt: USB Into Computer
+   :align: center
+
+5. Then, select USB folder from the list.
+
+.. image:: images/usb-folder-c2.png
+   :alt: USB folder
+   :align: center
+
+6. Select the file you would like to print.
+
+.. image:: images/usb-folder-2-c2.png
+   :alt: USB folder 2
+   :align: center
+
+7. Next, choose whether you would like to upload the file directly to the printer or print directly from the USB.
+
+.. image:: images/print-or-save.png
+   :alt: print or save
+   :align: center
+
+8. Finally, select START to start the print.
+
+-----------
+Printing from a Chromebook
+-----------
+
+Easily print from and control Robo R2 with your Chromebook or any web browser
+
+**Connect Robo C2 to Wi-Fi**
+
+1. First step is to connect your Robo C2 to Wi-Fi, as well as your Chromebook to the same Wi-Fi network.
+2. Select UTILITIES > NETWORK > CONFIGURE WI-FI. Select your Wi-Fi network, and type in the password to connect.
+
+.. image:: images/SelectUtilities.png
+   :alt: Select Utilities
+   :align: center
+
+.. note:: Ensure your Chromebook is connected to the same Wi-Fi network as your Robo C2
+
+**Find a File to Print**
+
+1. Next, go to a 3D file marketplace on your computer and find a file you want to print.
+2. Download the file.
+
+.. image:: images/thingiverse.png
+   :alt: thingiverse
+   :align: center
+
+**Find Your IP Address**
+
+1. Next step is to find your IP address which you will use in the next step.
+2. Select UTILITIES > NETWORK > NETWORK STATUS > IP
+
+.. image:: images/ipaddress.png
+   :alt: IP Address
+   :align: center
+
+**Access Web Dashboard**
+
+1. Open another browser tab and type in the unique IP address of your Robo R2 from the previous step.
+2. You should be connected to your web dashboard immediately.
+
+**Upload a File**
+
+1. To upload a file, clock on the upload button on the left hand side of the dashboard.
+2. Select the file that you just downloaded.
+
+.. image:: images/upload-file-button.PNG
+   :alt: Upload File Button
+   :align: center
+
+**Choose Slicing Profile**
+
+1. Once you upload a file, the slicing settings will pop up.
+2. Choose a slicing profile (we recommend Low Quality)
+3. Change the after slicing section to 'begin printing'
+4. It will automatically send the file to your printer and begin printing.
+
+.. image:: images/stl-slicing.PNG
+   :alt: stl slicing
+   :align: center
+
+**Monitoring Your Print**
+
+1. You can monitor your print in the upper left hand corner of the dashboard.
+2. You can see thinks like which file is printing, and how much time is left until completion.
+
+**Removing Print**
+
+1. Once your print is complete on Robo C2, pop off the print on the print bed by twisting the bed back and forth to loosen up the print.
+2. Enjoy your new 3D print!
+
+.. image:: images/Removing-Print.gif
+   :alt: removing print
+   :align: center
 
 -----------
 Print Status
