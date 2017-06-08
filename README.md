@@ -1,4 +1,8 @@
-# support.robo3d.com
+**DO NOT EDIT MASTER** 
+
+Please do not edit the master branch. Please create your own branch and make edits there, then do a pull request. Editing the main branch will break links and other dev work, and we will have to unravel the chain to find the missing link. Thank you.
+
+**support.robo3d.com**
 
 Build Status</br>
 [![Documentation Status](https://readthedocs.org/projects/support-site/badge/?version=latest)](http://support-site.readthedocs.io/en/latest/?badge=latest)
@@ -11,7 +15,7 @@ https://readthedocs.org
 
 CSS can be found here: https://github.com/Robo3D/support.robo3d.com/tree/master/sphinx_rtd_theme/static/css
 
-###How to edit content
+**How to edit content**
 
 Each section is controlled by a index.rst file that is located under the section's directory.  For example: ```/docs/source/software/index.rst```  Content in these files can be edited using markdown language.  
 
