@@ -170,7 +170,7 @@ Printing from USB
 -----------
 
 Using on-board slicing
-^^^^^^^^^^
+----------------
 
 1. Download a 3D model print file to your computer (stl) and copy the file onto USB drive.
 
@@ -266,7 +266,7 @@ Using on-board slicing
    :align: center
 
 Using sliced gcode file
-^^^^^^^^^^
+----------------
 
 1. Download a 3D model print file to your computer (gcode) and copy file onto USB drive.
 
