@@ -6,7 +6,7 @@
 =================================================
 Cura for Robo Desktop
 =================================================
-To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object. 
+To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object.
 
 For the Quick Start Guide on using Cura for Robo, click here: Cura_for_Robo_QSG_.
 
@@ -24,18 +24,18 @@ To Download Cura for Robo, click here: Cura_for_Robo_.
  1. Operating Systems
   * Windows Vista or higher, 64 Bit
   * For Mac instructions, follow this link: Cura_for_mac_.
-  
+
 .. _Cura_for_mac: https://robo3d.com/cura-for-mac/
-  
+
  2. Hardware
   * OpenGL 2 compatible graphics chip
-  * Intel Core 2 or AMD Athlon 64 or newer 
+  * Intel Core 2 or AMD Athlon 64 or newer
 
 **Installing and Setup**
 
  1. Starting Cura for Robo for the first time
   * After installing Cura for Robo, go ahead and open the application from your applications folder (or wherever you have installed it).
- 
+
  2. Selecting a printer
   * The first time you open Cura for Robo, you will see a Add Printer Wizard window. Here is where you will select which printer you have by selecting either the Robo C2 or the Robo R2. Once selected, click the 'Add Printer' Button and your profile will be saved with the correct settings for your printer for optimal printing.
 
@@ -50,41 +50,41 @@ This is the main view of Cura for Robo. You can reference back to it if you ever
 .. image:: images/Interface2.jpg
    :alt: Interface
    :align: center
-   
+
 1. Loading a model
- * Click on the 'Open File' icon at the top left of the screen. Find your .stl file you would like to load and click 'open'. Once this is done, the model should appear on the build platform in the main viewer. 
- 
+ * Click on the 'Open File' icon at the top left of the screen. Find your .stl file you would like to load and click 'open'. Once this is done, the model should appear on the build platform in the main viewer.
+
 .. image:: images/Load-File.png
    :alt: Load File
-   :align: center 
-  
+   :align: center
+
  * Note; you can also simply drag and drop an .stl file directly on the main viewer to load it onto the build platform
-  
+
 2. Selecting Material
- * Once your model is loaded, the next option you will need to select is your material. Make sure the material you select is the same one that is loaded into your printer. 
- 
+ * Once your model is loaded, the next option you will need to select is your material. Make sure the material you select is the same one that is loaded into your printer.
+
 3. Selecting a Profile
  * Next, click on the dropdown menu marked 'Profile'.
- * Here, you will see different profile settings that will determine the quality of your print. 
- * Select the profile desired - Low, Medium, High, Ultra High Quality. 
-  
+ * Here, you will see different profile settings that will determine the quality of your print.
+ * Select the profile desired - Low, Medium, High, Ultra High Quality.
+
 .. image:: images/Profile-Settings.png
    :alt: Profile Settings
-   :align: center   
- 
-* Below the Pofile settings, you will find the simple recommended print settings. Here you can change infill density, as well as using print build plate adhesion for better adherance on your first layer, and support structure for generating scaffolding to support overhangs and bridges. 
- 
+   :align: center
+
+* Below the Pofile settings, you will find the simple recommended print settings. Here you can change infill density, as well as using print build plate adhesion for better adherance on your first layer, and support structure for generating scaffolding to support overhangs and bridges.
+
 .. image:: images/Recommend.JPG
    :alt: Recommended Settings
-   :align: center  
- 
+   :align: center
+
  4. Saving a File
   * In the bottom right corner of the main window, you will see a 'Save to File' button. Once your satisfied with your model and settings, go ahead and save your file. Note: if you have a USB flash drive inserted, you can save directly to the drive with the same button.
-  
+
 .. image:: images/Print.JPG
    :alt: Save File
-   :align: center 
-  
+   :align: center
+
 Configure and View the Model
 -----------
 
@@ -97,7 +97,7 @@ To further configure your model for printing after you have loaded it onto the b
 
 .. image:: images/Configure.JPG
    :alt: Configure Model
-   :align: center  
+   :align: center
 
 2. Scale
  * Selecting the Scale tool will allow you to scale the model in 3 different ways;
@@ -105,22 +105,22 @@ To further configure your model for printing after you have loaded it onto the b
  * Entering the size desired into the number field scales the model into an exact dimension desired
  * Selecting a percentage to scale will allow you to scale the model by a certain percentage based on its original dimensions
  * Note; if you want your model to come out uniform, select the 'Uniform Scaling' check box when scaling
- 
+
 .. image:: images/scale.png
    :alt: Scale Model
    :align: center
- 
+
 3. Rotate
  * Selecting the rotate tool will bring up different ways to rotate your model
  * You will notice colored rings around your model for different axis. Click and drag one of these rings to rotate in that direction
  * Also shown is the 'Reset' and 'Lay Flat' buttons to orient you model in a way that best suites you
- 
+
 .. image:: images/rotate.png
    :alt: Rotate Model
    :align: center
 
 4. Mirror
- * The Mirror tool will allow you to mirror the model in the X, Y, and Z axis. 
+ * The Mirror tool will allow you to mirror the model in the X, Y, and Z axis.
  * Simply click on one of the arrowheads that pop up on your model to mirror it in that direction.
 
 **Viewing the Model**
@@ -132,11 +132,11 @@ Once you have satisfied all of your configuration and profile settings, you can 
    :align: center
 
 1. Solid
- * Solid view is the defualt view when the program is started. You can view the digital model to see if it is created like it was intended, and also see where it might have imperfections when examining it. 
+ * Solid view is the defualt view when the program is started. You can view the digital model to see if it is created like it was intended, and also see where it might have imperfections when examining it.
  * The model will be colored yellow if it is selected and within the usable print area, and grey if it is either deselected or out of the printable build area.
- 
+
 2. X-Ray
- * With X-Ray view, your model will show gaps and intersections throughout your model. These will be shown in red. 
+ * With X-Ray view, your model will show gaps and intersections throughout your model. These will be shown in red.
  * If an error is located in your model, go ahead and adjust it in your 3d design software and reload the model to check if the error has been fixed.
 
 3. Layers
@@ -145,21 +145,21 @@ Once you have satisfied all of your configuration and profile settings, you can 
  * Use the slider to look through your layers one by one and see how your model will be built.
  * You can also input a layer number to jump directly to the specified layer of your model.
  * Note: Every time a setting is changed, the view has to be completely reloaded with the new settings in layer view.
- 
+
 .. image:: images/layer-view.png
    :alt: View Mode
    :align: center
 
 Settings
 -----------
-Settings profiles are provided to you as defaults, but depending on the specific model or personal preference, you can modify your settings by clicking on 'Custom' under Print Setup on the left hand side of the main window. Below are what different settings that may be changed. 
+Settings profiles are provided to you as defaults, but depending on the specific model or personal preference, you can modify your settings by clicking on 'Custom' under Print Setup on the left hand side of the main window. Below are what different settings that may be changed.
 
 **Quality**
 
 1. Layer Height
 
- The layer height of your model will ultimately determine how detailed your print will visibly look. Layer height refers to the thickness of a single printed layer. The smaller the layer height, the more detailed your model will look, but will take longer to print. The larger the layer height, the less detailed your model will look, but will take less time to complete compared to lower layer heights. 
- 
+ The layer height of your model will ultimately determine how detailed your print will visibly look. Layer height refers to the thickness of a single printed layer. The smaller the layer height, the more detailed your model will look, but will take longer to print. The larger the layer height, the less detailed your model will look, but will take less time to complete compared to lower layer heights.
+
 .. image:: images/layer-height.png
    :alt: Layer Height Comparison
    :align: center
@@ -170,8 +170,8 @@ Settings profiles are provided to you as defaults, but depending on the specific
 
 3. Line Width
 
- Line Width determines the width of a single printed line. Normally, the line width should equal the diameter of your nozzle for most prints. Cura for Robo will automatically calculate how much plastic should flow out of the nozzle based on line width. 
- 
+ Line Width determines the width of a single printed line. Normally, the line width should equal the diameter of your nozzle for most prints. Cura for Robo will automatically calculate how much plastic should flow out of the nozzle based on line width.
+
 .. image:: images/line-width.png
    :alt: Line Width Comparison
    :align: center
@@ -216,17 +216,17 @@ Left: lines pattern - Right: concentric pattern
 7. Z seam alignment
 
  On most prints, there is a visible seam that appears on a model from when your printers' nozzle pauses to change layers in the z direction. Z seam alignment allows you to place where each new layer in the z direction starts, effecting where the seam will be. There are 3 options to choose from; shortest, back, random.
- 
- * Shortest will use the z seam wherever the last layer left off and will start the new one right away, producing a shorter print time, but a visible seam. 
- * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you dont want the seam to show up. 
- * Random will choose a different spot to put the seam, which will eliminate visibility, but increase print time. 
+
+ * Shortest will use the z seam wherever the last layer left off and will start the new one right away, producing a shorter print time, but a visible seam.
+ * Back will simply put all layer changes at the back of the model, so make sure to rotate the model towards the back of the build plate where you dont want the seam to show up.
+ * Random will choose a different spot to put the seam, which will eliminate visibility, but increase print time.
 
 **Infill**
 
 1. Infill density
 
  The infill density determines how dense your print will be by filling in your print with plastic by a certain percentage. 100% infill density means your print will be totally and completely filled in with plastic, while 0% infill density means your print will only print the perimeters with no plastic filling in the middle, making it hollow. More infill produces a sturdier print, but takes more time, whereas less infill produces a weaker print, and takes less time to print. An average infill density is around 20% for visual models, whereas higher infil density parts are used more for structural or mechanical use models.
- 
+
 .. image:: images/infill-density.png
    :alt: Infill Density Comparison
    :align: center
@@ -341,7 +341,7 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
 4. Z-hop when retracted
 
-  When z-hop when retracted is enabled, the build platform of your printer will drop by a certain height. The reason for this is to prevent your nozzle from hitting already printed parts on your build platform, as well as eliminates unwanted extra plastic on your parts due to oozing or stringing. 
+  When z-hop when retracted is enabled, the build platform of your printer will drop by a certain height. The reason for this is to prevent your nozzle from hitting already printed parts on your build platform, as well as eliminates unwanted extra plastic on your parts due to oozing or stringing.
 
 5. Z-hop height
 
@@ -355,7 +355,7 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 
 2. Fan speed
 
- Different materials require different fan speeds to optimize print quality. Some materials can shrink more than others when cooled faster, while some dont need fans at all. 
+ Different materials require different fan speeds to optimize print quality. Some materials can shrink more than others when cooled faster, while some dont need fans at all.
 
 3. Regular/maximum fan speed threshold
 
@@ -383,10 +383,10 @@ Green: Combing ON, avoid distance ON - Yellow: Combing OFF - Blue: Combing ON, a
 2. Placement
 
  Placement determines where the support structure is placed. There are two options to choose from:
- 
+
  * Touching Buildplate: The support structure is only printed on overhangs that are directly over the build platform.
  * Everywhere: The support structure is printed everywhere there is an overhang, even if it is somewhere inside or on the model itself.
- 
+
 .. image:: images/support-placement.png
    :alt: Support
    :align: center
@@ -399,11 +399,11 @@ Left: Touching buildplate - Right: Everywhere
 4. Support pattern
 
  Support pattern determines the ease of removal and sturdiness of the support structure. There are five patterns to choose from:
- 
+
 .. image:: images/infill-pattern.png
    :alt: Support Pattern Comparison
    :align: center
- 
+
 5. Support density
 
  The density of your support will result in different strength of your support structure. A lower density will be easier to remove, but not as strong compared to a higher density, which will be harder to remove from the finished print, but give you a stronger support structure.
@@ -411,7 +411,7 @@ Left: Touching buildplate - Right: Everywhere
 6. X/Y distance
 
   X/Y distance determines the distance between the support structure and the model itself in the x and y directions. A bigger value increases the distance, which will make the support structure less likely to touch the model and fuse the support to the model. Be aware that as the value increases, the more likely a small overhang in the x or y direction would not be supported because the distance is further away.
-  
+
 .. image:: images/xy-distance.png
    :alt: X Y Distance
    :align: center
@@ -419,7 +419,7 @@ Left: Touching buildplate - Right: Everywhere
 7. Z distance
 
  Z distance determines the space between the top and bottom of the model and the support structure. Top distance determines the distance between the top of the support structure and the bottom surface of the overhang. Likewise, the bottom distance determines the distance between the bottom of the support structure and the top area of the model. This value should always be small, but depending on the model, might need to be tweaked higher and lower. A smaller value will result in a cleaner surface finish of the model, but will be harder to remove from the model. A higher value will be easier to remove, but will result in a more rough surface finish on the model.
- 
+
 .. image:: images/topbottom-distance.png
    :alt: Top Bottom Distance
    :align: center
@@ -427,29 +427,29 @@ Left: Touching buildplate - Right: Everywhere
 8. Horizontal expansion
 
  Horizontal expansion determines how much the support structure will be printed beyond the model in the x and y direction. A higher value will result in a stronger support structure, but small areas where there are support structure may be harder to remove. A lower value will result in less support structure, which may be hard to remove on areas where there is a lot of support needed to remove after the print is finished.
- 
+
 .. image:: images/expansion.png
    :alt: Horizontal Expansion
    :align: center
 
 9. Enable support roof
 
- If a support roof is enabled, the support structure will create a solid layer of plastic at the top of the support structure. When using a support roof, the model will come out with a very clean surface finish, but may be very hard to remove compared to not using a support roof. 
+ If a support roof is enabled, the support structure will create a solid layer of plastic at the top of the support structure. When using a support roof, the model will come out with a very clean surface finish, but may be very hard to remove compared to not using a support roof.
 
 **Platform Adhesion**
 
 1. Brim
 
  Using a brim adds a single layer around your object, fused to the outline of your model to improve adhesion to the bed and prevent warping. A brim is very useful for models that have very small surface area as the first layer as the brim prevents those small surfaces from curling up.
- 
+
 .. image:: images/brim.png
    :alt: Brim
    :align: center
 
 2. Raft
 
- A raft is the best method for using platform adhesion on a Robo C2 and Robo R2. A raft is a couple layers of plastic that will adhere to both the bed platform and the print itself. If the model has very small surface area, a raft is also the best option for platform adhesion. A raft is comprised of three main parts: Base layer, middle layer, and top layers. 
- 
+ A raft is the best method for using platform adhesion on a Robo C2 and Robo R2. A raft is a couple layers of plastic that will adhere to both the bed platform and the print itself. If the model has very small surface area, a raft is also the best option for platform adhesion. A raft is comprised of three main parts: Base layer, middle layer, and top layers.
+
 * Base layer: This is the first layer of plastic put down and should have a larger layer width, looking almost smushed, to help adherance to the bed.
 * Middle layer: Layers that are between the base and top layers. The middle layer gives more surface area for the top layer of the raft to lay down upon. Normally, there is only one middle layer.
 * Top layers: The top layers are the layers which adhere the model to be printed to the raft iself. Top layers work best when printed with 100% fill and two or more are printed to give it a nice clean surface area for the model to be printed onto.
@@ -462,8 +462,8 @@ Left: Touching buildplate - Right: Everywhere
 
 3. Skirt
 
- A skirt is a line printed around the model, but is not fused to the model directly. The skirt acts as a priming line to help make sure the material is flowing out of the nozzle properly before beginning to print the model. 
- 
+ A skirt is a line printed around the model, but is not fused to the model directly. The skirt acts as a priming line to help make sure the material is flowing out of the nozzle properly before beginning to print the model.
+
 .. image:: images/skirt.png
    :alt: Skirt
    :align: center
@@ -472,7 +472,7 @@ Connecting a Printer via Wifi
 -----------
 
  There is a way to connect Robo C2 directly to Cura for Robo enabling you to print right from within the software. Take these steps to connect your printer;
- 
+
 1. Click on the Robo C2 icon in the top right of the interface.
 
 .. image:: images/1.PNG
@@ -480,39 +480,39 @@ Connecting a Printer via Wifi
    :align: center
 
 2. Under the 'Printer' dropdown menu, select 'Manage Printers'.
- 
+
 .. image:: images/2.png
    :alt: Manage Printers
    :align: center
- 
+
 3. A 'Printers' window will pop up. In the middle right of this pop up window, click on the button labeled 'Connect Octoprint'.
- 
+
 .. image:: images/3.png
    :alt: Printers
    :align: center
- 
+
 4. A new window labeled 'Connect Octoprint' will pop up. In the top middle of this window, click on the button labeled 'Refresh'. This will bring up all of the printers that are connected to the same wifi network that your computer is connected to.
- 
+
 .. image:: images/4.png
    :alt: Refresh
    :align: center
- 
-5. Once you see your printer name populated in the list of printers, select it. Next, select the button labeled 'open webpage' located in the middle right of the window. This will then open your browser and direct you to the printers' web interface. 
- 
+
+5. Once you see your printer name populated in the list of printers, select it. Next, select the button labeled 'open webpage' located in the middle right of the window. This will then open your browser and direct you to the printers' web interface.
+
 6. Once you are in the web interface you will see a webpage that looks like this.
- 
+
 .. image:: images/6.png
    :alt: Web Interface
    :align: center
- 
-7. Click on the 'settings' button in the top right corner of the window. 
- 
+
+7. Click on the 'settings' button in the top right corner of the window.
+
 .. image:: images/7.png
    :alt: Settings
    :align: center
- 
+
 8. A settings window will pop up. On the left hand side, scroll down and select the item labaled 'API' under 'Features'.
- 
+
 9. An API key will be present just above a QR code. It is usually a long string of numbers and letters. Go ahead and highlight this number and copy it by pressing ctl+C on windows or command+C on a mac.
 
 .. image:: images/9.png
@@ -520,13 +520,33 @@ Connecting a Printer via Wifi
    :align: center
 
 10. Next, go back into Cura for Robo desktop application. Paste this API key into the field provided by pressing ctl+V on windows or command+V on a mac.
- 
+
 .. image:: images/10.png
    :alt: Paste
    :align: center
- 
+
 11. Finally, click on the 'Connect' button. Then press 'close'.
- 
+
 12. Congratulations! You can now not only monitor your printer from within Cura for Robo, but you can also send your print jobs directly to the printer with a single click!
- 
+
 Note; You should see a green check mark on the printer icon in the top right of the main interface. If you see a question mark, try restarting the program. If you are still seeing a question mark, make sure both the printer and your computer are connected to the same network.
+
+Troubleshooting
+-----------
+
+Connecting Octoprint plugin for Mac
+^^^^^^^^^^
+
+If you have downloaded the Mac version of Cura and are having problems seeing the 'Connect Octoprint' button in your machine settings, follow these steps:
+
+1. Find Cura 2.5 in your Applications folder.
+2. Right click on Cura 2.5 and select "Show Package Contents".
+3. Navigate to the folder shown in the picture below:
+
+.. image:: images/cura-mac-folder.png
+   :alt: Paste
+   :align: center
+
+4. Add the unzipped folder labeled OctoPrintPlugin to the "plugins" folder.
+ :download: 'OctoPtintPlugin <images/OctoPrintPlugin.zip>' .
+5. Restart cura 2.5
