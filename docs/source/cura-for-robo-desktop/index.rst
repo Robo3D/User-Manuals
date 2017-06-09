@@ -548,5 +548,5 @@ If you have downloaded the Mac version of Cura and are having problems seeing th
    :align: center
 
 4. Add the unzipped folder labeled OctoPrintPlugin to the "plugins" folder.
- :download: 'OctoPtintPlugin <images/OctoPrintPlugin.zip>' .
+ :download:'OctoPtintPlugin <images/OctoPrintPlugin.zip>' .
 5. Restart cura 2.5
