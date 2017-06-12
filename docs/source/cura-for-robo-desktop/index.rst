@@ -547,6 +547,8 @@ If you have downloaded the Mac version of Cura and are having problems seeing th
    :alt: Paste
    :align: center
 
-4. Add the unzipped folder labeled OctoPrintPlugin to the "plugins" folder.
- :download:'OctoPtintPlugin <images/OctoPrintPlugin.zip>' .
+4. Unzip, and add the folder labeled OctoPrintPlugin to the "plugins" folder. Download here: OctoPrintPlugin_.
+
+.. _OctoPrintPlugin: https://robo3d.com/wp-content/uploads/2017/06/OctoPrintPlugin.zip
+
 5. Restart cura 2.5
