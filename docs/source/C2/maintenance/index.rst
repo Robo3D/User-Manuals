@@ -64,6 +64,7 @@ Cleaning the print bed surface
 Replacing your Hotend Nozzle
 -----
 Follow these steps to remove your hotend nozzle
+
 1. Make sure to turn your Robo C2 off, and unplug the power cord from the back of the machine
 2. Remove the magnetic extruder plate to expose your entire hotend and wires
 

@@ -7,7 +7,7 @@
 Maintenance
 =================================================
 
-.. image:: images/maintenance-header.jpg
+.. image:: images/r2-maintenance.jpg
    :alt: Maintenance Header
    :align: center
 
@@ -59,6 +59,7 @@ Cleaning the print bed surface
 Replacing your Hotend Nozzle
 -----
 Follow these steps to remove your hotend nozzle
+
 1. Make sure to turn your Robo R2 off, and unplug the power cord from the back of the machine.
 2. Remove the magnetic extruder plate to expose your entire hotend and wires.
 3. The allen screw located on the front aluminum plate is the tensioner that holds your hotend in place. It is likely that this has come loose. Grab the allen wrench out of the tool kit that came with your printer.
