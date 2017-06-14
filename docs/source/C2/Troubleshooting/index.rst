@@ -342,7 +342,7 @@ Connection Interrupted
 
 This connection interrupted error is a result of the main electronics board not being detected. There are a few ways this can happen - more discussed below.
 
-1. First step in resolving this error is trying to reset the connection to the printer. A button is displayed within the error message labeled 'Reset'. Press that to initiate an electronics reset. If this doesnt work, look to the next step to try and resolve the problem.
+1. First step in resolving this error is trying to reset the connection to the printer. A button is displayed within the error message labeled 'Reset'. Press that to initiate an electronics reset. If this doesn't work, look to the next step to try and resolve the problem.
 
 2. Check your wiring on the top of your extruder. Make sure the two ribbon cables on the top of extruder are locked into place. Also, make sure the other white plugs are seated into their sockets all the way.
 
