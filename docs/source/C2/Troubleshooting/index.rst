@@ -34,6 +34,9 @@ If you are experiencing problems with the plastic not adhering to your print bed
 5. **Lower fan speed**
   * If your prints are still curling after the above solutions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
 
+6. **First Layer Height and Width**
+  * Set your first layer height to 0.3mm. This will allow more plastic to flow out of your nozzle, allowing a better adhesion to your print bed. You can also try making your first layer width of plastic higher. Usually a first layer width of 1mm is optimal - this will extrude more plastic at a lower layer height to allow more surface area of plastic bind to the print bed.
+
 ---------------
 Grinding Noise when Starting a Print
 ---------------
