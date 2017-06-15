@@ -240,11 +240,49 @@ If you see an error while printing that
    :alt: Octoprint Plugin Manager
    :align: center
 
-7. Once you have de-selected this plugin, you will need to restart octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
+7. Once you have de-selected this plugin, you will need to restart Octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
 
 .. image:: Images/restart-now.PNG
    :alt: Octoprint Restart Now
    :align: center
+
+---------------
+Firmware Update
+---------------
+
+This will walk you through the steps to update your firmware from the touchscreen and a USB drive.
+
+1. Make sure you have the latest firmware. Download here: R2_Firmware_.
+
+.. _R2_Firmware: https://robo3d.com/wp-content/uploads/2017/06/Marlin.R2.1.1.7.hex_.zip
+
+2. Unzip the file and place the file onto a USB drive.
+3. Place the USB drive into the USB slot on the front of your Robo R2.
+4. On the touchscreen, navigate to Utilities > Options > Firmware Update
+
+.. image:: Images/options-screen.png
+   :alt: Options Screen
+   :align: center
+
+5. The next screen will show the .hex firmware file from your USB drive that you put on in step 2.
+
+.. image:: Images/firmware-screen.png
+   :alt: Firmware Select
+   :align: center
+
+6. Click on the file name, and click 'Start' to start your firmware update.
+
+.. image:: Images/confirm-hex-file.png
+   :alt: Confirm Hex File
+   :align: center
+
+7. Wait a few minutes for the firmware to be loaded onto your Robo R2, and it will automatically reconnect.
+
+.. image:: Images/firmware-is-updating.png
+   :alt: Firmware is Updating
+   :align: center
+
+8. Your Robo R2 should now have the latest firmware updated.
 
 ---------------
 Error Messages
