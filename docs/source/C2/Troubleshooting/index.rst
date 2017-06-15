@@ -11,6 +11,7 @@ Troubleshooting
    :alt: Getting Started
    :align: center
 
+---------------
 Print Not Sticking to Bed
 ---------------
 
@@ -33,6 +34,10 @@ If you are experiencing problems with the plastic not adhering to your print bed
 5. **Lower fan speed**
   * If your prints are still curling after the above solutions are attempted, you can try lowering your fan speed to stop the plastic from cooling too fast and shrinking, causing warping. To do this go into your desktop software Cura for Robo. Under the settings> speed> fan speed and turn this setting down to 30%.
 
+6. **First Layer Height and Width**
+  * Set your first layer height to 0.3mm. This will allow more plastic to flow out of your nozzle, allowing a better adhesion to your print bed. You can also try making your first layer width of plastic higher. Usually a first layer width of 1mm is optimal - this will extrude more plastic at a lower layer height to allow more surface area of plastic bind to the print bed.
+
+---------------
 Grinding Noise when Starting a Print
 ---------------
 
@@ -57,6 +62,7 @@ If you are experiencing a grinding noise when trying to start a print, or when y
 
 * Note: Make sure that the rod is not directly touching the side wall of the printer when placing back into its position. Once you have slid the rod over to the edge of the wall, back it off just slightly so it is not rubbing the side wall when moving back and forth.
 
+---------------
 Material Not Extruding
 ---------------
 
@@ -122,6 +128,7 @@ Material Not Extruding
 
 * Now reverse these steps to put it all back together
 
+---------------
 Shifting Layers/bad print quality
 ---------------
 
@@ -138,6 +145,7 @@ Shifting Layers/bad print quality
   * Unplug your machine, and move your extruder to the front right corner.
   * Using the orange rod stabilizers, attach one at each corner of the gantry, completing a square. This should re-align your brackets and revive your print quality.
 
+---------------
 Hotend Clogged
 ---------------
 
@@ -190,6 +198,7 @@ Hotend Clogged
    :alt: Fan Electronics Plugs
    :align: center
 
+---------------
 Hotend Falling Out
 ---------------
 
@@ -213,6 +222,7 @@ If you are experiencing your hotend falling out from the extruder, there is a si
 
 * Turn the printer back on and test. If it still falls out, try tightening the allen screw even more.
 
+---------------
 Screens Goes White or Doesn't Work
 ---------------
 
@@ -260,6 +270,7 @@ If the screen is not working there is a few steps that need to be taken to solve
 2. **If your screen is still broken**
   * Contact customer support at www.robo3d.com/support
 
+---------------
 Hotend Cover is falling off
 ---------------
 
@@ -283,6 +294,7 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 
 5. Replace the hotend cover
 
+---------------
 Filament Runout Sensor Error
 ---------------
 
@@ -316,8 +328,77 @@ If you see an error while printing that
    :alt: Octoprint Plugin Manager
    :align: center
 
-7. Once you have de-selected this plugin, you will need to restart octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
+7. Once you have de-selected this plugin, you will need to restart Octoprint. A pop up will show on the top right of the interface - click 'restart now'. You should be good to print without filament runout detection interruption.
 
 .. image:: Images/restart-now.PNG
    :alt: Octoprint Restart Now
+   :align: center
+
+---------------
+Firmware Update
+---------------
+
+This will walk you through the steps to update your firmware from the touchscreen and a USB drive.
+
+1. Make sure you have the latest firmware. Download here: C2_Firmware_.
+
+.. _C2_Firmware: https://robo3d.com/wp-content/uploads/2017/06/Marlin.C2.1.1.7.hex_.zip
+
+2. Unzip the file and place the file onto a USB drive.
+3. Place the USB drive into the USB slot on the front of your Robo C2.
+4. On the touchscreen, navigate to Utilities > Options > Firmware Update
+
+.. image:: Images/options-screen.png
+   :alt: Options Screen
+   :align: center
+
+5. The next screen will show the .hex firmware file from your USB drive that you put on in step 2.
+
+.. image:: Images/firmware-screen.png
+   :alt: Firmware Select
+   :align: center
+
+6. Click on the file name, and click 'Start' to start your firmware update.
+
+.. image:: Images/confirm-hex-file.png
+   :alt: Confirm Hex File
+   :align: center
+
+7. Wait a few minutes for the firmware to be loaded onto your Robo C2, and it will automatically reconnect.
+
+.. image:: Images/firmware-is-updating.png
+   :alt: Firmware is Updating
+   :align: center
+
+8. Your Robo C2 should now have the latest firmware updated.
+
+---------------
+Error Messages
+---------------
+
+If you are receiving error messages on your Robo C2, the following instructions will give you information about them, and also show you how to fix them and get you back up and running in no time.
+
+Connection Interrupted
+---------------
+
+This connection interrupted error is a result of the main electronics board not being detected. There are a few ways this can happen - more discussed below.
+
+1. First step in resolving this error is trying to reset the connection to the printer. A button is displayed within the error message labeled 'Reset'. Press that to initiate an electronics reset. If this doesn't work, look to the next step to try and resolve the problem.
+
+2. Check your wiring on the top of your extruder. Make sure the two ribbon cables on the top of extruder are locked into place. Also, make sure the other white plugs are seated into their sockets all the way.
+
+.. image:: Images/Extruderelectronicstop.png
+   :alt: Extruder Electronics
+   :align: center
+
+3. Check the wiring on your hotend. Sometimes these can come loose and send an error to the electronics. There will be two sets of wires. One for the temperature reading, and one for the heating power. Make sure these plugs are seated all the way up into their sockets. The wires should be seated all the way to the left. The thinner wires are the ones that go toward the front of the extruder, and the thicker, all red wires should be plugged into the plug towards the back of the extruder.
+
+.. image:: Images/hotend-wires.jpg
+   :alt: Hotend Electronics
+   :align: center
+
+4. Check the wiring on your main electronics board. Every so often, the ribbon cable coming from the main electronics board can come loose. You will need to first take the inner panel out, located inside the printer below the bed, to get to the inside of the printer. Once that is out, you will see two electronics boards. We want to look at the one on the left, which is black. On the back right of the black electronics board, there is a ribbon cable plugged in. Make sure this ribbon cable is seated all the way down into its plug to ensure there is a proper connection.
+
+.. image:: Images/electronics-ribbon.jpg
+   :alt: Electronics ribbon
    :align: center
