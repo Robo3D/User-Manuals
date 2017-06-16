@@ -285,6 +285,86 @@ This will walk you through the steps to update your firmware from the touchscree
 8. Your Robo R2 should now have the latest firmware updated.
 
 ---------------
+Print Bed Pogo Pin Connection Replacing
+---------------
+
+If your Robo R2 gives you an error of your print bed not being recognized, even though it is on the printer, and seated properly, you may have to replace your pogo pin connection electronics. Remember to never take off your print bed when it is hot or heating - this can cause the print bed electronics to break. Also, remember to make sure your print bed is flat by adjusting the screws underneath the bed so it is not teetering back and forth when you press onto the corners - this too can cause the print bed electronics to break. To replace the electronics board, follow these steps.
+
+1. Make sure to turn off your printer, and then take your print bed out.
+
+.. image:: Images/bed-out.gif
+   :alt: Taking bed out
+   :align: center
+
+2. Look toward the back of the plate that the print bed seats into, you will see a small black electronics board with gold pins on it. This is the board we will be replacing. Go ahead and unscrew the 4 screws on the corners, then carefully unplug the wire from the socket. Keep your screws close for the next step.
+
+.. image:: Images/pogo-pin-out.gif
+   :alt: Pogo Pin out
+   :align: center
+
+3. Now that you have the board out, take the new board, and first, plug in the wire to the plug socket. Then, screw in the board to the print plate.
+
+.. image:: Images/pogo-pin-in.gif
+   :alt: Pogo Pin In
+   :align: center
+
+4. Now, place your print bed back into the printer. Make sure to tap on each corner to see if the bed is teetering. If it is, adjust the thumb screws under the print plate to get it nice and even. If the print bed is teetering, this can cause the pogo pins to not contact the heat bed correctly, and result in a failed electronics board.
+
+.. image:: Images/bed-in.gif
+   :alt: Bed In
+   :align: center
+
+5. You're all set to begin printing!
+
+---------------
+Z-Limit Switch Replacing
+---------------
+
+If your Robo R2 seems to be not homing correctly when the print bed moves all the way to the bottom of the printer, you may have a faulty z limit switch. In order to replace this switch, follow these steps:
+
+1. Turn your printer on, and navigate to the motors controls from the main screen. In the top right corner, select to move the print bed to the top of the printer so you can have easier access to the z limit switch.
+
+.. image:: Images/bed-up.gif
+   :alt: Bed Travel Up
+   :align: center
+
+2. Next, remove the internal hatch to gain access to the internal parts.
+
+.. image:: Images/hatch-out.gif
+   :alt: Internal Hatch out
+   :align: center
+
+3. Now, in the back of the area you just uncovered, on the middle left, you will see the z axis limit switch. Take a screwdriver and remove the two screws shown below. Be sure to keep the screws where you can easily find them.
+
+.. image:: Images/z-limit-screws.png
+   :alt: Z Limit Screws
+   :align: center
+
+4. Once you have removed the screws, the limit switch will only be connected by a plug. Carefully unplug the limit switch from its wires.
+
+.. image:: Images/z-limit-screws-out.png
+   :alt: Z Limit Screws Out
+   :align: center
+
+.. image:: Images/z-limit-plug.png
+   :alt: Z Limit Plug
+   :align: center
+
+5. Now, find your new z limit switch. It is easiest to start by inserting the screws into the switch before plugging in.
+
+.. image:: Images/z-limit-in-1.png
+   :alt: Z Limit Screws In
+   :align: center
+
+6. Plug the switch into the wires, and screw back in your limit switch to the proper placement. The screw holes are shown below, as they are a little hard to find.
+
+.. image:: Images/z-limit-holes.png
+   :alt: Z Limit Screws Holes
+   :align: center
+
+7. You're all set to begin printing!
+
+---------------
 Error Messages
 ---------------
 
@@ -310,6 +390,10 @@ This connection interrupted error is a result of the main electronics board not 
    :align: center
 
 4. Check the wiring on your main electronics board. Every so often, the ribbon cable coming from the main electronics board can come loose. You will need to first take the inner panel out, located inside the printer below the bed, to get to the inside of the printer. Once that is out, you will see two electronics boards. We want to look at the one on the left, which is black. On the back right of the black electronics board, there is a ribbon cable plugged in. Make sure this ribbon cable is seated all the way down into its plug to ensure there is a proper connection.
+
+.. image:: Images/hatch-out.gif
+   :alt: Internal Hatch out
+   :align: center
 
 .. image:: Images/electronics-ribbon.jpg
    :alt: Electronics ribbon
