@@ -237,6 +237,7 @@ Removing the print
 -----------
 Setting Up Wifi
 -----------
+
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 
 .. image:: images/select-utilities-r2.png
@@ -278,12 +279,13 @@ Hotspot Mode
 -----------
 Your printer's WiFi password
 -----------
+
 The password for your printer's hotspot (AP mode) is the same as your printer's serial name.  For example: careful-curie.
-You can change the password
 
 -----------
 Downloading the Robo App
 -----------
+
 From your iOS Device
    1. Open the App Store app
    2. On the bottom dock, tap on search
@@ -294,6 +296,7 @@ From your iOS Device
 -----------
 Connecting your iOS device to your Robo R2
 -----------
+
 Connecting via a local wifi network
    1. Make sure your smart device is connected to the same wifi network as your Robo R2
    2. In the ‘Dashboard’ screen of the Robo App, tap ‘+Add a Printer’ in the middle of the screen
@@ -311,12 +314,44 @@ Connecting via a local wifi network
    10. note that you can add multiple machines to the same app, and control each one independently
 
 Connecting via Hotspot Mode
-   1. Make sure that you are connected to the wifi signal that the machine is emitting
+   1. Make sure that you are connected to the Wi-Fi signal that the machine is emitting
    2. Follow steps in the previous section to successfully connect your printer to the app
+
+-----------
+Camera on/off
+-----------
+
+There are currently three ways to turn your camera on. By default this is off to prevent your internet bandwidth from slowing down. Make sure your Robo R2 is updated with the latest software before proceeding.
+
+LCD Touchscreen
+-----------
+
+1. Go to Utilities
+
+2. Click on Options
+
+3. Click on Webcam. Now you can select whether to turn on of off your
+
+Web Dashboard
+-----------
+
+1. Click on 'System' in the top right of your web dashboard.
+
+2. Next, click on 'Start Webcam' in from the drop down menu.
+
+3. Finally, refresh your web browser for the camera image to show up in your dashboard.
+
+Robo iOS App (beta only)
+-----------
+
+1. Navigate to your printer that you wish to see the camera.
+
+2. In the bottom right corner, tap on 'Video', then tap on the toggle button to turn it on or off.
 
 -----------
 Updating Your Printer
 -----------
+
 Make sure to update your printer to grab the benefits of all the latest Robo has to offer, as well as making sure your Robo R2 performs to the best of its ability.
 
 Select UTILITIES

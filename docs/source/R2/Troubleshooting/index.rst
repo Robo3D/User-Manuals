@@ -365,6 +365,58 @@ If your Robo R2 seems to be not homing correctly when the print bed moves all th
 7. You're all set to begin printing!
 
 ---------------
+Door Replacement
+---------------
+
+If you have received a replacement door for Robo R2, follow these quick few installation steps to have you back up and running in no time.
+
+1. Remove the door you wish to replace. It is easiest to open the door all the way in order to access the hardware. There are 2 screws holding the door to its hinges, one screw per hinge. Carefully unscrew the door from each hinge, starting with the bottom hinge. Remember to keep the screws and magnets that are inside this door.
+
+.. image:: Images/door-before.png
+   :alt: Door Before Removal
+   :align: center
+
+.. image:: Images/door-unscrew-top.png
+   :alt: Unscrewing top hinge
+   :align: center
+
+2. Take out the hardware - 2 magnets and a screw per hinge, and set it to the side.
+
+.. image:: Images/door-hardware.png
+   :alt: Door Hardware
+   :align: center
+
+3. Next, to make installation easiest, place the screw through the hole in the door, then place the square magnet on the other side. Now, place the rectangle magnet behind the square magnet.
+
+.. image:: Images/door-place-screw.png
+   :alt: Screw First
+   :align: center
+
+.. image:: Images/door-magnet-1-in.png
+   :alt: Magnet 1
+   :align: center
+
+.. image:: Images/door-magnet-2-in.png
+   :alt: Magnet 2
+   :align: center
+
+4. Next, place the new door onto the hinges, making sure the rectangle magnets seat all the way into the cavity, and the door sits flush. Then, start screwing the door into the hinges.
+
+.. image:: Images/door-top-in.png
+   :alt: start screwing door
+   :align: center
+
+5. Finally, push the door all the way into the hinges so they are seated all the way in and flush. Now, screw the two screws all the way into the hinges.
+
+.. image:: Images/door-top-push.png
+   :alt: Push door
+   :align: center
+
+.. image:: Images/door-top-in-2.png
+   :alt: All the way
+   :align: center
+
+---------------
 Error Messages
 ---------------
 
