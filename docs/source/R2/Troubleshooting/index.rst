@@ -214,7 +214,7 @@ If your drive gear has come loose and/or it is not aligned with the filament to 
 
 1. Remove your extruder cover.
 
-.. image:: Images/Extruder-cover-off.gif
+.. image:: Images/extruder-cover-off-r2.gif
    :alt: Extruder Cover Off
    :align: center
 
