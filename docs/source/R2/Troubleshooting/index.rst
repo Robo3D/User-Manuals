@@ -212,9 +212,11 @@ Drive Gear aligning and tightening
 
 If your drive gear has come loose and/or it is not aligned with the filament to hotend pathway, take these steps to realign and retighten:
 
+Note: Make sure there is no filament loaded into the extruder. If there is, heat up your extruder and remove any filament.
+
 1. Remove your extruder cover.
 
-.. image:: Images/Extruder-cover-off.gif
+.. image:: Images/extruder-cover-off-r2.gif
    :alt: Extruder Cover Off
    :align: center
 
