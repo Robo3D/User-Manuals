@@ -207,6 +207,50 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 5. Replace the hotend cover
 
 ---------------
+Drive Gear aligning and tightening
+---------------
+
+If your drive gear has come loose and/or it is not aligned with the filament to hotend pathway, take these steps to realign and retighten:
+
+1. Remove your extruder cover.
+
+.. image:: Images/Extruder-cover-off.gif
+   :alt: Extruder Cover Off
+   :align: center
+
+2. Turn the extruder motor shaft so that the flat surface of the shaft is pointing at 10 o'clock (see picture below).
+
+.. image:: Images/10oclock.png
+   :alt: 10 oclock
+   :align: center
+
+3. Use your allen wrench to loosen the set screw on the drive gear so that it is able to freely spin on the motor shaft.
+
+.. image:: Images/loosen-drive-gear.png
+   :alt: loosen drive gear
+   :align: center
+
+4. Now we are going to align and tighten your drive gear. Grab a small length of filament to help you through this.
+
+5. Apply pressure to the filament lever arm and insert the filament through the filament feed hole.
+
+6. Push and pull the filament, while making sure it is centered with the drive gears grooves, until the drive gear is in position (it will self align when the filament starts passing through it).
+
+.. image:: Images/drive-gear-alignment-r2.gif
+   :alt: Gear Alignment
+   :align: center
+
+7. Align the set screw with the flat surface of the motor shaft. Visually check to make sure the groove on the drive gear is aligned with the hole going down to the hotend.
+
+8. Tighten the set screw on the flat surface of the motor shaft.
+
+.. image:: Images/tighten-drive-gear.png
+   :alt: loosen drive gear
+   :align: center
+
+9. Replace your extruder cover and you are all set.
+
+---------------
 Filament Runout Sensor Error
 ---------------
 
