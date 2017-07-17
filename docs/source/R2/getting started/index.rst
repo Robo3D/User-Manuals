@@ -17,22 +17,14 @@ What’s in the box
 Besides your new Robo R2, you will find the following in the box:
 
 1. Quick Start Guide
-
 2. Autodesk Fusion 360 design software free 1-year voucher
-
-4. Robo stickers to place EVERYWHERE.
-
-5. 24V power supply
-
-6. Filament Guide Tube
-
-8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, and z-offset calibration card.
-
-9. Robo USB drive
-
-10. 300g Robo light blue filament
-
-11. Spatula
+3. Robo stickers to place EVERYWHERE.
+4. 24V power supply
+5. Filament Guide Tube
+6. Toolbox with the hotend cover, 2 allen wrenches, lubricant, and z-offset calibration card.
+7. Robo USB drive
+8. 300g Robo light blue filament
+9. Spatula
 
 .. image:: images/whats-inside-the-box-r2.JPG
    :alt: Whats Inside the Box
