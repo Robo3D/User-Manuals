@@ -23,7 +23,7 @@ Besides your new Robo C2, you will find the following in the box:
 5. 19V power supply
 6. Filament Guide Tube
 7. 2 filament spool arms
-8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, screwdriver, and stylus.
+8. Toolbox with the hotend cover, 2 allen wrenches, lubricant, and stylus.
 9. Robo USB drive
 10. 300g Robo light blue filament
 11. Spatula
@@ -69,7 +69,7 @@ Now we are ready to take off the additional shipping material and zip ties. Ther
    :alt: Clip Removal
    :align: center
 
-Next, remove the zipties securing the rods to their plastic brackets
+Next, remove the zip ties securing the rods to their plastic brackets
 
 .. image:: images/Cutting-zip-tie.jpg
    :alt: Ziptie Removal
@@ -112,7 +112,7 @@ Connecting to Wi-Fi
 
 We highly recommend connecting Robo C2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
 
-.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
+.. note:: You can also use an Ethernet cable (LAN) to connect Robo C2 directly to your Wi-Fi network.
 
 To begin connecting to your Wi-Fi network, Select UTILITIES on home screen.
 

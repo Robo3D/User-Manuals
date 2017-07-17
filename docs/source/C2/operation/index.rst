@@ -32,7 +32,7 @@ Setting the Z offset
 
 Here we will calibrate Robo C2 by setting the Z-Offset and making sure your first layer is applied correctly.  We will be covering three ways of zeroing in on your Offset.  The first is the Z-Offset Wizard found in Utilities> Wizards; the second is the Fine Tune Wizard - also under Utilities> Wizards; the final is manually adjusting your Offset in the EEPROM manager.
 
-What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by adjusting the bed springs, not seating your print bed correctly, or even a shifting hotend.
+What is "Z-Offset"?  Simply, its the distance between your nozzle and your print bed when the print bed is at home (bottom of printer), which is technically known as a Home Offset.  This offset can change by not seating your print bed correctly or a shifting hotend.
 
 Z-Offset Wizard
 ----------------
@@ -281,8 +281,8 @@ Downloading the Robo App
 From your iOS Device
    1. Open the App Store app
    2. On the bottom dock, tap on search
-   3. Enter “Robo App”
-   4. Tap on the Robo App
+   3. Enter “Robo 3D”
+   4. Tap on the Robo 3D app
    5. Tap download on the right of the icon, and rate us 5 stars if you like it!
 
 -----------
@@ -292,7 +292,7 @@ Connecting via a local wifi network
    1. Make sure your smart device is connected to the same wifi network as your Robo C2
    2. In the ‘dashboard’ screen of the Robo App, tap ‘+Add a Printer’ in the middle of the screen
    3. Select ‘Scan for Printer Name/IP’
-   4. A pop up will appear with all of the printers on the same network as your smart device, go ahead and select which printer you would like to add (your printer has a unique name, example - Curious Tesla, or Brilliant Einstein). (You may look on the back of your printer and find out which name your printer has been givin).
+   4. A pop up will appear with all of the printers on the same network as your smart device, go ahead and select which printer you would like to add (your printer has a unique name, example - Curious Tesla, or Brilliant Einstein). (You may look on the back of your printer and find out which name your printer has been given).
    5. Now you will need to scan the QR code on your screen to fully connect the 3d printer to your smart device.
 
 		+ On the screen of your machine, select  ‘Utilities’
