@@ -12,11 +12,9 @@ Enter the Robolution
 
 Greetings, Maker! 
 
-Thank you for your purchase and welcome to the Robo family! We really love 3D printing and our aim is to get this amazing technology into the hands of as many people as possible to see what awesome creations spring from your imagination.
+Thank you for your purchase and welcome to the Robo family! You've found the online manual for all Robo products, from hardware to software.  In here you will find just above everything not covered in the Quick Start Guide you've recieved with your machine. The Getting Started 
 
-Here you’ll find all of the information you need for a seamless 3D printing experience with Robo C2 and Robo R2. This next-generation 3D printer includes a wish-list set of innovative features required in a modern, connected smart device to make 3D printing fun, easy and accessible to everyone.
-
-To get the most from your Robo C2 and Robo R2, please refer to this full documentation.
+In our Maintenance and Troubleshooting sections we've provide useful tips on keeping your printer in top shape, and quickly resolving common issues.  If you have any suggestions on material that should be covered or have suggestions in general, we welcome you to open an issue in Github here: https://github.com/Robo3D/support.robo3d.com/issues
 
 Happy Printing,
 
