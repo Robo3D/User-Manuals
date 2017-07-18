@@ -72,6 +72,10 @@ Material Not Extruding
 
 * Wires should be plugged in and seated correctly on the top electronics board at the top of the extruder. Remove the extruder cover then check the wires.
 
+.. image:: Images/extruder-cover-off-r2.gif
+   :alt: Extruder Cover Off
+   :align: center
+
 .. image:: Images/Extruderelectronicstop.png
    :alt: Extruder Electronics
    :align: center
@@ -79,6 +83,11 @@ Material Not Extruding
 2. **Drive Gear is not cleaned**
  * Turn Off the Printer
  * Take off the extruder cover
+
+.. image:: Images/extruder-cover-off-r2.gif
+   :alt: Extruder Cover Off
+   :align: center
+
  * Use a toothbrush to clean this drive gear of debris shown in the picture
  * Turn the shaft, and continue scrubbing until it is cleaned of debris
 
@@ -95,12 +104,17 @@ Material Not Extruding
 4. **Drive Gear is not tightened down**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
+
+.. image:: Images/extruder-cover-off-r2.gif
+   :alt: Extruder Cover Off
+   :align: center
+
  * Next, unscrew the extruder tensioner cover with a screwdriver.
  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
  * Once that is off, go ahead and use the smaller allen wrench to screw the drive gear set screw tight. Make sure it is seated all the way up to the spacer.
 
 .. image:: Images/Drive-gear-tightening.png
-   :alt: Extruder Cover Off
+   :alt: Drive gear tightening
    :align: center
 
 * Now reverse these steps to put it all back together
@@ -138,12 +152,17 @@ Hotend Clogged
 2. **Material stuck below the Drive Gear**
  * If your motor shaft is turning, but the drive gear is not, it means you need to tighten down your drive gear.
  * To do this, turn off your machine and remove the extruder cover.
+
+.. image:: Images/extruder-cover-off-r2.gif
+   :alt: Extruder Cover Off
+   :align: center
+
  * Next, unscrew the extruder tensioner cover with a screwdriver.
  * Take the allen wrench that came in your tool kit, and unscrew the bolt connecting the extruder tensioner to the extruder.
  * Once that is off, go ahead and use the smaller allen wrench to unscrew the drive gear set screw loose.
 
 .. image:: Images/Drive-gear-tightening.png
-   :alt: Extruder Cover Off
+   :alt: Drive gear tightening
    :align: center
 
 * From here, you can use the tweezers that came in your tool box to grab onto the filament that is stuck. Be sure to heat up the hotend before trying to pull out the filament.
