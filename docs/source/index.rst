@@ -10,7 +10,7 @@
 Enter the Robolution
 =================================================
 
-Greetings, Maker! 
+Greetings, Maker!
 
 Thank you for your purchase and welcome to the Robo family! You've found the online manual for all Robo products, from hardware to software.  In here you will find just above everything not covered in the Quick Start Guide you've recieved with your machine. The printer pages are broken up into 4 sections: Getting Started, Operation, Maintenance and Troubleshooting.
 
@@ -49,6 +49,7 @@ Use the following steps to log into your Robo account:
 .. toctree::
    :maxdepth: 2
 
+   R1Plus/index.rst
    C2/index.rst
    R2/index.rst
    cura-for-robo-desktop/index.rst
