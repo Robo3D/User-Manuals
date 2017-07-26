@@ -7,7 +7,7 @@
    :alt: Quick Start Guide cover
    :align: center
 
-Enter the Robolution
+Robo User Manual
 =================================================
 
 Greetings, Maker! 
