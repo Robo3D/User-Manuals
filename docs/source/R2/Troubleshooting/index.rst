@@ -31,25 +31,25 @@ If you are experiencing problems with the plastic not adhering to your print bed
 
 To start, select 'Utilities' from the home screen, then select 'Fine tune offset'. Select the material currently loaded in the printer. Then the wizard will ask you which corner you'd like to start from. This simply sets where the printer will start printing out the test lines. You can start from whichever corner you prefer.
 
-.. image:: images/fine-tune-1.gif
+.. image:: Images/fine-tune-1.gif
     :alt: Fine tune 1
     :align: center
 
 Once the printer homes and positions itself to begin testing, you will see a visual reference on the screen to help you know what to look for in order to find an ideal Z-Offset value.
 
-.. image:: images/fine-tune-2.gif
+.. image:: Images/fine-tune-2.gif
     :alt: Fine tune 2
     :align: center
 
 You will come to the "Adjust Offset" screen, where you can set the adjustment increment, move the bed up or down, and test the offset. We recommend testing the offset first so you can get a visual reference to fine tune the current offset. Move the bed up and down with the provided buttons on screen, and test with the 'test offset' button to see if it looks satisfactory.
 
-.. image:: images/fine-tune-3.gif
+.. image:: Images/fine-tune-3.gif
     :alt: Fine tune 3
     :align: center
 
 When you've found a satisfactory Z-Offset value, press the forward arrow in the top right corner and select 'Save' to finish the wizard.
 
-.. image:: images/fine-tune-4.gif
+.. image:: Images/fine-tune-4.gif
     :alt: Fine tune 4
     :align: center
 
