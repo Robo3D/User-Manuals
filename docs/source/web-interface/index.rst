@@ -160,7 +160,7 @@ Lani
 
  **How to view the Lani plugin**
 
-In order to view the Lani plugin, you must first disable the Robo Theme plugin. To do this, see section "How to enable and Disable Plugins" below. Next, you must enable the Lani plugin from the plugins list. 
+In order to view the Lani plugin, you must first disable the Robo Theme plugin. To do this, see section "How to enable and Disable Plugins" below. Next, you must enable the Lani plugin from the plugins list. Now, when you restart Octoprint, you will be able to view Lani and all of its contents. 
 
 Mainboard Connection Plugin
 
