@@ -49,7 +49,6 @@ Use the following steps to log into your Robo account:
 .. toctree::
    :maxdepth: 2
 
-   R1Plus/index.rst
    C2/index.rst
    R2/index.rst
    cura-for-robo-desktop/index.rst
