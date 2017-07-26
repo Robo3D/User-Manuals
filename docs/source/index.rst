@@ -10,7 +10,7 @@
 Robo User Manual
 =================================================
 
-Greetings, Maker! 
+Greetings, Maker!
 
 Thank you for your purchase and welcome to the Robo family! You've found the online manual for all Robo products, from hardware to software.  In here you will find just above everything not covered in the Quick Start Guide you've recieved with your machine. The printer pages are broken up into 4 sections: Getting Started, Operation, Maintenance and Troubleshooting.
 

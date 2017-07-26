@@ -19,8 +19,40 @@ If you are experiencing problems with the plastic not adhering to your print bed
 
 1. **Update**
   * Make sure to update your printer to the latest version of RoboOS. This will ensure that you have the latest version of the firmware that is flashed to your controller board, and have the most up-to-date and tested version of build plate leveling.
+
 2. **Re-run the z-offset wizard**
   * Re-running the z-offset wizard will make sure that your bed is properly leveled. To do this, on the menu screen go to Utilities> Wizards>Z-offset Wizard.
+
+  **Use the fine tune offset wizard**
+
+  * If you are experiencing the nozzle dragging (too low) or your prints are not sticking (too high), you can fine-tune your Z-Offset.  It's a little more work, but you will tune your offset by actually printing on the bed to get the perfect height. Your Robo R2 will print a series of vertical lines, one at a time.  Between each pass you can increase or decrease the Z-Offset value as needed. To use the fine-tune offset wizard, follow these steps below:
+
+  * Note: It is very important to make sure that the print bed is level by adjusting the thumb screws below the print bed before starting this wizard.
+
+To start, select 'Utilities' from the home screen, then select 'Fine tune offset'. Select the material currently loaded in the printer. Then the wizard will ask you which corner you'd like to start from. This simply sets where the printer will start printing out the test lines. You can start from whichever corner you prefer.
+
+.. image:: Images/fine-tune-1.gif
+    :alt: Fine tune 1
+    :align: center
+
+Once the printer homes and positions itself to begin testing, you will see a visual reference on the screen to help you know what to look for in order to find an ideal Z-Offset value.
+
+.. image:: Images/fine-tune-2.gif
+    :alt: Fine tune 2
+    :align: center
+
+You will come to the "Adjust Offset" screen, where you can set the adjustment increment, move the bed up or down, and test the offset. We recommend testing the offset first so you can get a visual reference to fine tune the current offset. Move the bed up and down with the provided buttons on screen, and test with the 'test offset' button to see if it looks satisfactory.
+
+.. image:: Images/fine-tune-3.gif
+    :alt: Fine tune 3
+    :align: center
+
+When you've found a satisfactory Z-Offset value, press the forward arrow in the top right corner and select 'Save' to finish the wizard.
+
+.. image:: Images/fine-tune-4.gif
+    :alt: Fine tune 4
+    :align: center
+
 3. **Replace the build plate adhesion**
   * After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Replace this with the black tape that came with your printer or order more from our store at www.robo3d.com. Unpeel the used build tape from the build plate, and replace with a new, fresh piece. Remember to re-calibrate your offset by selecting the z-offset wizard from the utilities menu.
 
