@@ -82,13 +82,13 @@ Note: It is very important to make sure that the print bed is level by adjusting
    :alt: Fine tune 1
    :align: center
 
- 2. Once the printer homes and positions itself to begin testing, you will see a visual reference on the screen to help you know what to look for in order to find an ideal Z-Offset value.
+2. Once the printer homes and positions itself to begin testing, you will see a visual reference on the screen to help you know what to look for in order to find an ideal Z-Offset value.
 
 .. image:: images/fine-tune-2.gif
    :alt: Fine tune 2
    :align: center
 
- 3.  You will come to the "Adjust Offset" screen, where you can set the adjustment increment, move the bed up or down, and test the offset. We recommend testing the offset first so you can get a visual reference to fine tune the current offset. Move the bed up and down with the provided buttons on screen, and test with the 'test offset' button to see if it looks satisfactory.
+  3.  You will come to the "Adjust Offset" screen, where you can set the adjustment increment, move the bed up or down, and test the offset. We recommend testing the offset first so you can get a visual reference to fine tune the current offset. Move the bed up and down with the provided buttons on screen, and test with the 'test offset' button to see if it looks satisfactory.
 
 .. image:: images/fine-tune-3.gif
    :alt: Fine tune 3
