@@ -372,7 +372,7 @@ If your hotend cover is falling off when printing, or is teetering side to side 
 Filament Runout Sensor Error
 ---------------
 
-If you see an error while printing that
+If you see an error while printing that lets you know you are out of filament, but you are not, check the next couple of steps:
 
 1. **Make sure you are not bypassing the filament block**
 
