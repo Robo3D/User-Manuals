@@ -28,7 +28,7 @@ Besides your new Robo R1+ Plus, you will find the following in the box:
 9. Spatula
 10. User Manual
 
-.. image:: images/r1-inclusions.jpg
+.. image:: images/r1-inclusionsm.jpg
    :alt: Inclusions
    :align: center
 
