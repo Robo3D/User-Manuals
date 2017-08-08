@@ -121,7 +121,7 @@ Loading filament
 
 Now, take the spool holder that came with your printer and put it on by simply sliding it onto one of the arms of the top plastic.
 
-.. image:: images/spoolholder.gif********
+.. image:: images/spoolholder.gif
    :alt: Unhinge Spool Holder
    :align: center
 
