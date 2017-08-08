@@ -17,18 +17,20 @@ What’s in the box
 
 Besides your new Robo R1+ Plus, you will find the following in the box:
 
-1. Quick Start Guide
+1. Setup Instructions
 2. Autodesk Fusion 360 design software free 1-year voucher
 3. Power Cable
 4. USB Cable
 5. Spool Holder
-6. Toolbox with the screw driver, allen wrenches, tweezers, glue stick, and rubber feet.
-7. Robo USB drive
+6. Toolbox with lubricant, screw driver, allen wrenches, tweezers, a glue stick, and rubber feet.
+7. SD Card
 8. 300g Robo light blue PLA filament
 9. Spatula
-10. Full manual
+10. User Manual
 
-***image of whats in the box
+.. image:: images/r1-inclusions.jpg
+   :alt: Inclusions
+   :align: center
 
 ---------------
 Register your Robo R1+ Plus
