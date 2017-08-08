@@ -18,17 +18,16 @@ What’s in the box
 Besides your new Robo R1+ Plus, you will find the following in the box:
 
 1. Setup Instructions
-2. Autodesk Fusion 360 design software free 1-year voucher
-3. Power Cable
-4. USB Cable
-5. Spool Holder
-6. Toolbox with lubricant, screw driver, allen wrenches, tweezers, a glue stick, and rubber feet.
-7. SD Card
-8. 300g Robo light blue PLA filament
-9. Spatula
-10. User Manual
+2. Power Cable
+3. USB Cable
+4. Spool Holder
+5. Toolbox with lubricant, screw driver, allen wrenches, tweezers, a glue stick, and rubber feet.
+6. SD Card
+7. 300g Robo light blue PLA filament
+8. Spatula
+9. User Manual
 
-.. image:: images/r1-inclusionsm.jpg
+.. image:: images/r1-inclusions.jpg
    :alt: Inclusions
    :align: center
 
@@ -93,9 +92,9 @@ From here you’ll want to connect the power cord to the designated area on the 
 Installing the required software
 ---------------
 
-The Robo R1+ Plus comes with a USB stick (or SD Card). On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
+The Robo R1+ Plus comes with an SD Card. On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
 
-1. Plus USB stick (or SD Card) into your computer.
+1. Plus SD Card into your computer.
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
