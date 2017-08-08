@@ -21,7 +21,7 @@ Besides your new Robo R2, you will find the following in the box:
 3. Robo stickers to place EVERYWHERE.
 4. 24V power supply
 5. Filament Guide Tube
-6. Toolbox with the hotend cover, 2 allen wrenches, lubricant, and z-offset calibration card.
+6. Toolbox with the hotend cover, 2 allen wrenches, lubricant, tweezers and z-offset calibration card.
 7. Robo USB drive
 8. 300g Robo light blue filament
 9. Spatula
@@ -108,7 +108,7 @@ Now go ahead and turn on the printer.
 
 It is necessary connecting Robo R2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
 
-.. note:: You can also use the provided Ethernet cable (LAN) to connect Robo R2 directly to your Wi-Fi network.
+.. note:: You can also use an Ethernet cable (LAN) to connect Robo R2 directly to your Wi-Fi network.
 
 Wi-Fi Configuration
 ---------------
