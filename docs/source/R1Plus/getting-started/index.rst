@@ -17,18 +17,19 @@ What’s in the box
 
 Besides your new Robo R1+ Plus, you will find the following in the box:
 
-1. Quick Start Guide
-2. Autodesk Fusion 360 design software free 1-year voucher
-3. Power Cable
-4. USB Cable
-5. Spool Holder
-6. Toolbox with the screw driver, allen wrenches, tweezers, glue stick, and rubber feet.
-7. Robo USB drive
-8. 300g Robo light blue PLA filament
-9. Spatula
-10. Full manual
+1. Setup Instructions
+2. Power Cable
+3. USB Cable
+4. Spool Holder
+5. Toolbox with lubricant, screw driver, allen wrenches, tweezers, a glue stick, and rubber feet.
+6. SD Card
+7. 300g Robo light blue PLA filament
+8. Spatula
+9. User Manual
 
-***image of whats in the box
+.. image:: images/r1-inclusions.jpg
+   :alt: Inclusions
+   :align: center
 
 ---------------
 Register your Robo R1+ Plus
@@ -91,9 +92,9 @@ From here you’ll want to connect the power cord to the designated area on the 
 Installing the required software
 ---------------
 
-The Robo R1+ Plus comes with a USB stick (or SD Card). On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
+The Robo R1+ Plus comes with an SD Card. On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
 
-1. Plus USB stick (or SD Card) into your computer.
+1. Plus SD Card into your computer.
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
@@ -120,13 +121,13 @@ Loading filament
 
 Now, take the spool holder that came with your printer and put it on by simply sliding it onto one of the arms of the top plastic.
 
-.. image:: images/spool-on-R1+ Plus.gif********
+.. image:: images/spoolholder.gif
    :alt: Unhinge Spool Holder
    :align: center
 
 To begin loading filament, click on the 'pre-heat' button within MatterControl to begin heating up your nozzle.
 
-While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create and opening and feed it all the way down.
+While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create an opening and feed it all the way down.
 
 .. image:: images/insert-filament-R1+ Plus.gif*********
    :alt: Unhinge Spool Holder

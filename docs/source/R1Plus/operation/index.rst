@@ -20,7 +20,7 @@ The “CONTROLS” tab is where you can physically control your printer through 
 Adjusting Temperatures
 -----------
 
-To adjust your temperature for either the extruder or heated bed, simple type your desired temps in the “target” field. You can also use the 'preheat' button to heat up these things while you set your slice settings.
+To adjust your temperature for either the extruder or heated bed, simply type your desired temps in the “target” field. You can also use the 'preheat' button to heat up these things while you set your slice settings.
 
 To set up your preheat buttons click the button next to either “Extruder Temperature Override” or “Bed Temperature Override”. You will see a screen like this appear, and can now enter in the desired preheat temp settings.
 
@@ -70,7 +70,7 @@ If you need to make any last minute changes to a particular slice setting you ca
 Check the build plate
 -----------
 
-One last thing to double check before your start your pint is your build plate. Make sure that your part is oriented the way you like. To check this, click the preview window at the top of your screen.
+One last thing to double check before your start your print is your build plate. Make sure that your part is oriented efficiently. To check this, click the preview window at the top of your screen.
 
 If you made any changes to the orientation of your part, make sure to save them before starting your print.
 
