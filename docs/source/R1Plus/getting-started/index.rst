@@ -127,7 +127,7 @@ Now, take the spool holder that came with your printer and put it on by simply s
 
 To begin loading filament, click on the 'pre-heat' button within MatterControl to begin heating up your nozzle.
 
-While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create and opening and feed it all the way down.
+While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create an opening and feed it all the way down.
 
 .. image:: images/insert-filament-R1+ Plus.gif*********
    :alt: Unhinge Spool Holder
