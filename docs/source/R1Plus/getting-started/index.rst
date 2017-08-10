@@ -115,6 +115,10 @@ Here we will add your printer to the software which will enable you to control y
 9. Reconnect your printer after this and press “Connect”.
 10. Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
 
+.. image:: images/hotend-cover-on-R1+ Plus.gif**************
+   :alt: Image connecting USB to R1, Open Matter Control, Connecting steps
+   :align: center
+
 ---------------
 Loading filament
 ---------------
@@ -130,13 +134,13 @@ To begin loading filament, click on the 'pre-heat' button within MatterControl t
 While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create an opening and feed it all the way down.
 
 .. image:: images/insert-filament-R1+ Plus.gif*********
-   :alt: Unhinge Spool Holder
+   :alt: Insert filament, Click Preheat
    :align: center
 
 You may spin the filament drive gear by hand to push the filament down, into the nozzle, and out the other end. Once you see this, your filament is successfully loaded.
 
 .. image:: images/fil-load-3-R1+ Plus.gif**********
-   :alt: Filament In Extruder
+   :alt: Spin Gear and picture of it extruding out
    :align: center
 
 ---------------
