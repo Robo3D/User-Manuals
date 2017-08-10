@@ -78,8 +78,8 @@ Now let’s move forward with your initial set-up of Robo R1+ Plus.
 
 Inside the toolbox, there are small rubber feet; these attach to the corners of your printer to make sure it doesn't slide around your desk when printing. Place one on each corner.
 
-.. image:: images/hotend-cover-on-R1+ Plus.gif**************
-   :alt: Hotend Cover On
+.. image:: images/feet.gif
+   :alt: Rubber Feet
    :align: center
 
 From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch from 110-220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code.
@@ -94,7 +94,7 @@ Installing the required software
 
 The Robo R1+ Plus comes with an SD Card. On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
 
-1. Plus SD Card into your computer.
+1. Plug SD Card into your computer.
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
@@ -147,7 +147,7 @@ You may spin the filament drive gear by hand to push the filament down, into the
 The first print
 ---------------
 
-To create your first test print select 'Library' within MatterControl on the left window. There are preloaded files in here to choose from. Now, select a file to print from the list. Select 'Add to Queue' and then click on the 'Queue' tab.
+To create your first test print select 'Library' within MatterControl. Matter Control comes with a few preloaded files within the Local Folder. Choose one of the preloaded files or one of your own creations! Once you choose a file, select 'Add to Queue' and then click on the 'Queue' tab.
 
 .. image:: images/test-print-screen-R1+ Plus.gif
    :alt: Select Files on Home Screen

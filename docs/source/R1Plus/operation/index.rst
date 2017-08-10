@@ -52,12 +52,8 @@ Speed and Extrusion Control
 
 If you need to adjust the speed at which your extruder is printing, under Tuning Adjustment us the  "Speed Multiplier" slider at the bottom of the screen. If you want to adjust the rate at which your printer is extruding filament use the "Extrusion Multiplying". Drag it left to slow it down and right to increase the speed or flow rate. (This will only work while printing)
 
------------
-Robo R1+ Plus 3D Print Workflow
------------
 
-In this section we will be walking through the 3d printing workflow for your Robo R1+ Plus.
-
+-----------
 Uploading file to MatterControl
 -----------
 
@@ -67,7 +63,7 @@ Uploading file to MatterControl
 4. When it shows up in the queue, select the file that you uploaded by clicking on it.
 5. When it is selected it will show up in the preview panel.
 
-
+-----------
 Setting your Z-Offset
 -----------
 
@@ -78,6 +74,7 @@ To adjust your z offset you only need to press one of the macro buttons within M
 * Lower z offsets are 0.8 and 0.9.
 * Higher z offsets are 1, 1.1 and 1.2.
 
+-----------
 Pre Heat
 -----------
 
@@ -90,15 +87,13 @@ Set Slice Settings
 
 After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.
 
-You can also add presets  you will see a “Save” button appear above the material preset. Make sure to click SAVE before continuing.*******
+**You can also add presets  you will see a “Save” button appear above the material preset. Make sure to click SAVE before continuing.*******
 
-
+-----------
 Load Filament
 -----------
 
-To begin loading filament, click on the 'pre-heat' button within MatterControl to begin heating up your nozzle.
-
-While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create and opening and feed it all the way down.
+While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer. Once your extruder is heated, insert the filament into the extruder. You may need to pull back the filament thumb latch in order to create an opening to feed the filament into the feeder gear.
 
 .. image:: images/insert-filament-R1+ Plus.gif*********
    :alt: Unhinge Spool Holder
@@ -110,7 +105,7 @@ You may spin the filament drive gear by hand to push the filament down, into the
    :alt: Filament In Extruder
    :align: center
 
-
+-----------
 Check the build plate
 -----------
 
@@ -118,7 +113,8 @@ Make sure that your part is oriented efficiently. To check this, click the previ
 
 If you made any changes to the orientation of your part, make sure to save them before starting your print.
 
-Prepare the build plate
+-----------
+Print Bed Adhesives
 -----------
 
 In order for the plastic to stick to the glass of the build plate, you must use an adhesive. You can use a couple of different techniques for prepping your build plate. The three that we most commonly use here at Robo are:
@@ -137,7 +133,7 @@ Run
 Now just click the start button! You will notice that your part slices in the software right before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
 
 
-
+-----------
 Removing the print
 ---------------
 

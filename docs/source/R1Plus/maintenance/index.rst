@@ -14,9 +14,10 @@ Maintenance
 Remember, a well-maintained Robo R1+ Plus is a happy one!
 
 -----
-Be sure to check for the following before every print:
+Things to check before every print
 -----
 
+Be sure to check for the following before every print:
    - Make sure the print bed is free of any/all objects
    - Make sure nothing is blocking the extruder head from moving freely around the build area.
    - Make sure no objects are above or below the print head that could prevent it from freely moving up and down or side to side.
