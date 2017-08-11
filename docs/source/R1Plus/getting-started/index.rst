@@ -147,19 +147,20 @@ Be sure to unroll at least 11”— or 30 centimeters — of filament and cut th
 
 Now thread the filament through the filament latch at the top of the printer
 
+.. image:: images/filthread.gif
+   :alt: Thread
+   :align: center
+
 .. image:: images/filtop.gif
    :alt: Thread
    :align: center
 
+Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
+
+
  .. image:: images/filgrab.gif
     :alt: Thread2
     :align: center
-
-Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
-
-.. image:: images/filcut.gif
-   :alt: Grab
-   :align: center
 
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
 
