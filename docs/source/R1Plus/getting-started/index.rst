@@ -85,7 +85,7 @@ Inside the toolbox, there are small rubber feet; these attach to the corners of 
 From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch from 110-220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code.
 
 .. image:: images/VSwitch.gif
-   :alt: Rubber Feet
+   :alt: Volts
    :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet. Now go ahead and turn on the printer.
@@ -147,13 +147,15 @@ Be sure to unroll at least 11”— or 30 centimeters — of filament and cut th
 
 Now thread the filament through the filament latch at the top of the printer
 
+.. image:: images/filtop.gif
+   :alt: Thread
+   :align: center
+
 .. image:: images/filthread.gif
    :alt: Thread
    :align: center
 
-.. image:: images/filtop.gif
-   :alt: Thread
-   :align: center
+
 
 Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
 
