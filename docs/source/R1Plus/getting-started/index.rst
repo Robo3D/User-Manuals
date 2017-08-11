@@ -84,7 +84,7 @@ Inside the toolbox, there are small rubber feet; these attach to the corners of 
 
 From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch from 110-220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code.
 
-.. image:: images/VSwitch.gif
+.. image:: images/vswitch.gif
    :alt: Volts
    :align: center
 
