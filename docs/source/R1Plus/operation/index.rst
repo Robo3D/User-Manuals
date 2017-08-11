@@ -78,11 +78,11 @@ To adjust your z offset you only need to press one of the macro buttons within M
 Pre Heat
 -----------
 
-Now is a great time to preheat your extruder and heated bed because they take a couple of minutes to get up to the desired temperature. Do this in your Controls panel by clicking on the preheat buttons. Click the button that corresponds to the type of plastic you will be printing with.
+Now is a great time to preheat your extruder and heated bed because it can take a couple of minutes to heat up to the desired temperature. This can be done inside Controls by clicking on the PREHEAT button. Make sure you select the type of filament in the above dropdown menu to make sure you preheat to the temperature that's best for that filament type.
 
 
 
-Set Slice Settings
+Slice Settings
 -----------
 
 After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.

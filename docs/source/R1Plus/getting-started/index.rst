@@ -78,13 +78,15 @@ Now let’s move forward with your initial set-up of Robo R1+ Plus.
 
 Inside the toolbox, there are small rubber feet; these attach to the corners of your printer to make sure it doesn't slide around your desk when printing. Place one on each corner.
 
-.. image:: images/feet.gif
+.. image:: images/rfeet.gif
    :alt: Rubber Feet
    :align: center
 
 From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch from 110-220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code.
 
-image of voltage switch************
+.. image:: images/VSwitch.gif
+   :alt: Rubber Feet
+   :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet. Now go ahead and turn on the printer.
 
@@ -131,27 +133,41 @@ Now, take the spool holder that came with your printer and put it on by simply s
 
 To begin loading filament, click on the 'pre-heat' button within MatterControl to begin heating up your nozzle.
 
-While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer and into the extruder. You may need to pull back the filament thumb latch in order to create an opening and feed it all the way down.
+While that is heating up, hang your filament spool on the spool holder.
 
-.. image:: images/insert-filament-R1+ Plus.gif*********
-   :alt: Insert filament, Click Preheat
+.. image:: images/filplace.gif
+   :alt: Place spool on holder
    :align: center
 
-You may spin the filament drive gear by hand to push the filament down, into the nozzle, and out the other end. Once you see this, your filament is successfully loaded.
+Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors.
 
-.. image:: images/fil-load-3-R1+ Plus.gif**********
-   :alt: Spin Gear and picture of it extruding out
+.. image:: images/filcut.gif
+   :alt: Cut Filament
    :align: center
 
----------------
-The first print
----------------
+Now thread the filament through the filament latch at the top of the printer
 
-To create your first test print select 'Library' within MatterControl. Matter Control comes with a few preloaded files within the Local Folder. Choose one of the preloaded files or one of your own creations! Once you choose a file, select 'Add to Queue' and then click on the 'Queue' tab.
-
-.. image:: images/test-print-screen-R1+ Plus.gif
-   :alt: Select Files on Home Screen
+.. image:: images/filtop.gif
+   :alt: Thread
    :align: center
+
+ .. image:: images/filgrab.gif
+    :alt: Thread2
+    :align: center
+
+Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
+
+.. image:: images/filcut.gif
+   :alt: Grab
+   :align: center
+
+Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
+
+.. image:: images/filgear.gif
+   :alt: Turn
+   :align: center
+
+ Now you're ready to start printing!
 
 Finally, select the file you just added to your queue and click 'Print'.
 
