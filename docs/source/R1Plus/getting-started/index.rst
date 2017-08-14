@@ -76,13 +76,13 @@ Initial set-up
 
 Now let’s move forward with your initial set-up of Robo R1+ Plus.
 
-Inside the toolbox, there are small rubber feet; these attach to the corners of your printer to make sure it doesn't slide around your desk when printing. Place one on each corner.
+Inside the toolbox, there are four small rubber feet; these attach to the corners of your printer to make sure it doesn't slide around your desk when printing. Place one on each corner.
 
 .. image:: images/rfeet.gif
    :alt: Rubber Feet
    :align: center
 
-From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch from 110-220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code.
+From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch that has two settings: 110 or 220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code. You can use the end of one of the included allen wrenches to slide the switch.
 
 .. image:: images/vswitch.gif
    :alt: Volts
@@ -100,38 +100,78 @@ The Robo R1+ Plus comes with an SD Card. On this is the software required to run
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
+.. note:: You can also navigate to our  .. _Website: https://robo3d.com/software/ to download MatterControl.
+
 ---------------
 Connecting Robo R1+ Plus to MatterControl
 ---------------
 
 Here we will add your printer to the software which will enable you to control your printer.
 
-1. Open up MatterControl that you installed from the previous section.
-2. Connect your printer to the computer USB port via the USB cord that came with your printer.
-3. After MatterControl opens, click the 'Add Printer' button at the top of the screen.
-4. A new window will pop up and you will be able to set up a 3D printer. From here you can assign your Robo R1+ Plus a nickname. This helps you keep track of multiple units.
-5. Select “R1+ Plus” from the model list.
-6. To save this printer, click the “Save & Continue” button.
-7. Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen.
-8. Once the driver is finished installing a “3D Printer Setup” window will appear. Follow the instructions on this screen to disconnect the printer and press “Continue”.
-9. Reconnect your printer after this and press “Connect”.
-10. Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
+Open up MatterControl that you installed from the previous section. Connect your printer to the computer USB port via the USB cord that came with your printer.
 
-.. image:: images/hotend-cover-on-R1+ Plus.gif**************
-   :alt: Image connecting USB to R1, Open Matter Control, Connecting steps
+.. image:: images/USB.gif
+   :alt: Connecting USB
    :align: center
 
+After MatterControl opens, click the 'Add Printer' button at the top of the screen.
+
+.. image:: images/add.png
+   :alt: Add Printer
+   :align: center
+
+
+A new window will pop up and you will be able to set up a 3D printer. From here you can assign your Robo R1+ Plus a nickname. This helps you keep track of multiple units. Select “R1+ Plus” from the model list and then click Save & Continue.
+
+.. image:: images/name.png
+   :alt: Name
+   :align: center
+
+Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a “3D Printer Setup” window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected), by unplugging the USB connection then press continue. Then connect reconnect your printer when it prompts you(turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
+
+.. image:: images/connect.png
+   :alt: connect
+   :align: center
+
+Now you have successfully connected your R1+!
 ---------------
 Loading filament
 ---------------
 
-Now, take the spool holder that came with your printer and put it on by simply sliding it onto one of the arms of the top plastic.
+
+Before you begin a print you need to load filament. Follow these steps to properly load your printer with filament.
+
+Take the spool holder that came with your printer and put it on by simply sliding it onto one of the arms of the top plastic.
 
 .. image:: images/spoolholder1.gif
    :alt: Unhinge Spool Holder
    :align: center
 
-To begin loading filament, click on the 'pre-heat' button within MatterControl to begin heating up your nozzle.
+
+To begin loading filament you need to preheat your nozzle through MatterControl. On the Main Dashboard, click Settings & Control
+
+.. image:: images/settings.png
+   :alt: Settings
+   :align: center
+
+You can either click the PREHEAT button to preheat the print to a default temperature of 210C. Or create your own presets by clicking the pencil next to Extruder Temperature.
+
+.. image:: images/preset.png
+   :alt: preset
+   :align: center
+
+If you choose to create your own preset, a new Window will popup after clicking the pencil. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature press Save.
+
+.. image:: images/presets1.png
+   :alt: preset
+   :align: center
+
+After you click PREHEAT or one of your own presets, you should notice the target temperature to change to your desired temperature.
+.. note:: You can preheat and create presets for the bed as well but it's not necessary to load filament.
+
+.. image:: images/preheats1.png
+   :alt: preheat
+   :align: center
 
 While that is heating up, hang your filament spool on the spool holder.
 
@@ -156,7 +196,6 @@ Now thread the filament through the filament latch at the top of the printer
    :align: center
 
 
-
 Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
 
 
@@ -167,14 +206,34 @@ Insert filament through the filament gear, you may need to pull back the filamen
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
 
 .. image:: images/filgear.gif
-   :alt: Turn
-   :align: center
+  :alt: Turn
+  :align: center
 
  Now you're ready to start printing!
 
-Finally, select the file you just added to your queue and click 'Print'.
+ ---------------
+The first print.
+ ---------------
 
-Note that you can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
+Now to start your first print. You can either load your own file, or choose one of the preloaded prints inside the local library. To print one of the preloaded files, navigate to the library tab and then select the Local Library.
+
+.. image:: images/prints1.png
+  :alt: library
+  :align: center
+
+Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the Material you loaded the printer and desired print quality are correct. For more advanced prints and geometries, you may need to edit the slice settings to ensure a perfect print.
+
+.. image:: images/slice.png
+  :alt: slice
+  :align: center
+
+Once you select a file and finalize your settings press PRINT and your print will begin preheating. Your R1 will then begin printing as soon as the printer is completely preheated!
+
+.. image:: images/print2.png
+  :alt: print
+  :align: center
+
+..note:: You can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
 
 ---------------
 Removing the first print
