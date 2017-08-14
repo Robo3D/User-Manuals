@@ -102,7 +102,9 @@ The Robo R1+ Plus comes with an SD Card. On this is the software required to run
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
-.. note:: You can also directly download Matter Control from our .. _website: https://robo3d.com/software
+.. note:: You can also directly download Matter Control from our website_.
+
+.. _website: https://robo3d.com/software
 
 ---------------
 Connecting Robo R1+ Plus to MatterControl
