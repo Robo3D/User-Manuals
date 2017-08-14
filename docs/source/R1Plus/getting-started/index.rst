@@ -138,6 +138,7 @@ Now a new set of windows will open and prompt to “Install Communication Driver
    :align: center
 
 Now you have successfully connected your R1+!
+
 ---------------
 Loading filament
 ---------------
@@ -170,9 +171,9 @@ If you choose to create your own preset, a new Window will popup after clicking 
    :alt: preset
    :align: center
 
-After you click PREHEAT or one of your own presets, you should notice the target temperature to change to your desired temperature.
+After you click PREHEAT or one of your own presets, you should see the target temperature change to your desired temperature.
 
-.. note:: You can preheat and create presets for the bed as well but it's not necessary to load filament
+.. note:: You can preheat and create presets for the bed as well but it's not necessary for loading filament
 .. image:: images/preheats1.PNG
    :alt: preheat
    :align: center
@@ -208,17 +209,16 @@ Insert filament through the filament gear, you may need to pull back the filamen
     :align: center
 
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
-
 .. image:: images/gear.gif
   :alt: Turn
   :align: center
-
  Now you're ready to start printing!
 
 
- ---------------
-The first print.
- ---------------
+
+---------------
+The First Print.
+---------------
 
 Now to start your first print. You can either load your own file, or choose one of the preloaded prints inside the local library. To print one of the preloaded files, navigate to the library tab and then select the Local Library.
 
@@ -234,7 +234,7 @@ Before you start a print, make sure to double check your slicing settings. To do
   :alt: slice
   :align: center
 
-Once you select a file and finalize your settings press PRINT and your print will begin preheating. Your R1 will then begin printing as soon as the printer is completely preheated!
+Once you select a file and finalize your settings press PRINT and your printer will begin preheating. Your R1 will then begin printing as soon as the printer is completely preheated!
 
 .. image:: images/print2.png
   :alt: print

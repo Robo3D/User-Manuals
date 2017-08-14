@@ -17,30 +17,35 @@ Controls
 
 The “CONTROLS” tab is where you can physically control your printer through the software. Here you can pre heat your extruder and heated bed, and even adjust your print speed while printing.
 
-.. image:: images/r1-blank.jpg*******
+.. image:: images/controls.PNG
    :alt: Image of Control Tab
    :align: center
 
 Adjusting Temperatures
 -----------
 
-To adjust your temperature for either the extruder or heated bed, simply type your desired temps in the "Target” field. The two "PREHEAT" buttons will heat the extruder to 210 and the bed to 50 respectively, by default.
+You can either click the PREHEAT button to preheat the print to a default temperature of 210C. Or create your own presets by clicking the pencil next to Extruder Temperature.
 
-.. image:: images/r1-blank.jpg*******
-   :alt: Image with pencil highlighted and the popup screen
+.. image:: images/preset.png
+   :alt: preset
    :align: center
 
+If you choose to create your own preset, a new Window will popup after clicking the pencil. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature press Save.
 
-You can set up to three of your own PREHEAT presets by clicking on the pencil icon next to "Extruder Temperature". This will trigger a popup where you can label each preset and enter your desired temperature. The same can be done for the Bed Temperature.
-
-
-.. image:: images/r1-blank.jpg*******
-   :alt: Image highlighting label and temperature
+.. image:: images/presets1.png
+   :alt: preset
    :align: center
+
+After you click PREHEAT or one of your own presets, you should see the target temperature change to your desired temperature.
+
+.. note:: You can also preheat and create presets for the bed as well.
+.. image:: images/preheats1.PNG
+   :alt: preheat
+   :align: center
+
 
 .. note:: An Extruder Preheat should be set between 230-250 for ABS filament or 190-210 for PLA filament. A Bed Preheat should be set between 80-100 for ABS and 50-70 for PLA filament
 
-Once you have set up your preheat buttons, save them. They will show up next to the PREHEAT button.
 
 Movement Controls
 -----------
@@ -54,14 +59,20 @@ If you need to adjust the speed at which your extruder is printing, under Tuning
 
 
 -----------
-Uploading file to MatterControl
+Loading files on MatterControl
 -----------
 
-1. Open up MatterControl and connect to your printer.
-2. Within the 'Queue', select the 'Add' button on the bottom left corner.
-3. Add your file to the queue.
-4. When it shows up in the queue, select the file that you uploaded by clicking on it.
-5. When it is selected it will show up in the preview panel.
+Open up MatterControl and connect to your printer. Within the 'Queue', select the 'Add' button on the bottom left corner.
+
+.. image:: images/queue.png
+   :alt: Queue ADD
+   :align: center
+
+Add your file to the queue. When it shows up in the queue, select the file that you uploaded by clicking on it. When it is selected it will show up in the preview panel.
+
+.. image:: images/printselect.png
+   :alt: Preload Printer
+   :align: center
 
 -----------
 Setting your Z-Offset
@@ -69,17 +80,14 @@ Setting your Z-Offset
 
 If the offset on your printer is somehow not calibrated correctly, it may be too low or too high. Z-offset measures the distance between “On” and “Off” in your Z endstops for auto leveling. There is sometimes a tolerance to this because of the way that the endstop parts are manufactured. R1+ Plus 3D printers come standard with a Z offset of 0.9
 
-To adjust your z offset you only need to press one of the macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your z offset to a different value.
+To adjust your z offset, under the Controls tab, scroll down and press one of the macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your z offset to a different value.
+
+.. image:: images/zoffset.png
+   :alt: zoffset
+   :align: center
 
 * Lower z offsets are 0.8 and 0.9.
 * Higher z offsets are 1, 1.1 and 1.2.
-
------------
-Pre Heat
------------
-
-Now is a great time to preheat your extruder and heated bed because it can take a couple of minutes to heat up to the desired temperature. This can be done inside Controls by clicking on the PREHEAT button. Make sure you select the type of filament in the above dropdown menu to make sure you preheat to the temperature that's best for that filament type.
-
 
 
 Slice Settings
@@ -87,23 +95,47 @@ Slice Settings
 
 After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.
 
-**You can also add presets  you will see a “Save” button appear above the material preset. Make sure to click SAVE before continuing.*******
 
 -----------
 Load Filament
 -----------
 
-While that is heating up, hang your filament spool on the spool holder. Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors. Thread it through the top of the filament passing hole at the top of your printer. Once your extruder is heated, insert the filament into the extruder. You may need to pull back the filament thumb latch in order to create an opening to feed the filament into the feeder gear.
+Begin by sliding the spool holder onto your printer.
 
-.. image:: images/insert-filament-R1+ Plus.gif*********
-   :alt: Unhinge Spool Holder
+.. image:: images/filplace.gif
+   :alt: Place spool on holder
    :align: center
 
-You may spin the filament drive gear by hand to push the filament down, into the nozzle, and out the other end. Once you see this, your filament is successfully loaded.
+Be sure to unroll at least 11”— or 30 centimeters — of filament and cut the tip with a pair of scissors.
 
-.. image:: images/fil-load-3-R1+ Plus.gif**********
-   :alt: Filament In Extruder
+.. image:: images/filcut.gif
+   :alt: Cut Filament
    :align: center
+
+Now thread the filament through the filament latch at the top of the printer
+
+.. image:: images/filtop.gif
+   :alt: Thread
+   :align: center
+
+.. image:: images/filthread.gif
+   :alt: Thread
+   :align: center
+
+Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
+
+ .. image:: images/filgrab.gif
+    :alt: Thread2
+    :align: center
+
+Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
+
+.. image:: images/gear.gif
+  :alt: Turn
+  :align: center
+
+ Now you're ready to start printing!
+
 
 -----------
 Check the build plate
