@@ -82,13 +82,15 @@ Inside the toolbox, there are four small rubber feet; these attach to the corner
    :alt: Rubber Feet
    :align: center
 
-From here, we will want to make sure our voltage is set correctly. On the back of the printer, there is a voltage switch that has two settings: 110 or 220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code. You can use the end of one of the included allen wrenches to slide the switch.
+From here, we will want to make sure your voltage is set correctly. On the back of the printer, there is a voltage switch that has two settings: 110V or 220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code. You can use the end of one of the included allen wrenches to slide the switch.
 
 .. image:: images/vswitch.gif
    :alt: Volts
    :align: center
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet. Now go ahead and turn on the printer.
+
+
 
 ---------------
 Installing the required software
@@ -100,7 +102,7 @@ The Robo R1+ Plus comes with an SD Card. On this is the software required to run
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
-.. note:: You can also navigate to our  .. _Website: https://robo3d.com/software/ to download MatterControl.
+.. note:: You can also directly download Matter Control from our .. _website: https://robo3d.com/software
 
 ---------------
 Connecting Robo R1+ Plus to MatterControl
@@ -127,9 +129,9 @@ A new window will pop up and you will be able to set up a 3D printer. From here 
    :alt: Name
    :align: center
 
-Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a “3D Printer Setup” window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected), by unplugging the USB connection then press continue. Then connect reconnect your printer when it prompts you(turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
+Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected), by unplugging the USB connection then press continue. Then reconnect your printer when it prompts you(turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
 
-.. image:: images/connect.png
+.. image:: images/connect.PNG
    :alt: connect
    :align: center
 
@@ -150,7 +152,7 @@ Take the spool holder that came with your printer and put it on by simply slidin
 
 To begin loading filament you need to preheat your nozzle through MatterControl. On the Main Dashboard, click Settings & Control
 
-.. image:: images/settings.png
+.. image:: images/settings.PNG
    :alt: Settings
    :align: center
 
@@ -167,9 +169,9 @@ If you choose to create your own preset, a new Window will popup after clicking 
    :align: center
 
 After you click PREHEAT or one of your own presets, you should notice the target temperature to change to your desired temperature.
-.. note:: You can preheat and create presets for the bed as well but it's not necessary to load filament.
 
-.. image:: images/preheats1.png
+.. note:: You can preheat and create presets for the bed as well but it's not necessary to load filament
+.. image:: images/preheats1.PNG
    :alt: preheat
    :align: center
 
@@ -205,11 +207,12 @@ Insert filament through the filament gear, you may need to pull back the filamen
 
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
 
-.. image:: images/filgear.gif
+.. image:: images/gear.gif
   :alt: Turn
   :align: center
 
  Now you're ready to start printing!
+
 
  ---------------
 The first print.
@@ -221,7 +224,9 @@ Now to start your first print. You can either load your own file, or choose one 
   :alt: library
   :align: center
 
-Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the Material you loaded the printer and desired print quality are correct. For more advanced prints and geometries, you may need to edit the slice settings to ensure a perfect print.
+Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded the printer and the designated "Material" are the same. You can also should select your desired print Quality.
+
+.. note:: For more advanced prints and geometries, you may need to edit the slice settings to ensure a perfect print.
 
 .. image:: images/slice.png
   :alt: slice
@@ -233,7 +238,7 @@ Once you select a file and finalize your settings press PRINT and your print wil
   :alt: print
   :align: center
 
-..note:: You can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
+.. note:: You can select PAUSE to pause your print, or you can select CANCEL to cancel your print.
 
 ---------------
 Removing the first print
