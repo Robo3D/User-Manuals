@@ -214,7 +214,7 @@ Once inserted, turn the filament gear until you see filament coming out of the e
    :alt: gear turn
    :align: center
 
-Now you're ready to start printing.
+Now you're ready to start printing!
 --------------
 
 
@@ -231,7 +231,7 @@ Now to start your first print. You can either load your own file, or choose one 
   :alt: library
   :align: center
 
-Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded the printer and the designated "Material" are the same. You can also should select your desired print Quality.
+Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded the printer with and the designated "Material" are the same. You can also should select your desired print Quality.
 
 .. note:: For more advanced prints and geometries, you may need to edit the slice settings to ensure a perfect print.
 

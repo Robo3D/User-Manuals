@@ -131,13 +131,12 @@ Insert filament through the filament gear, you may need to pull back the filamen
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
 
 .. image:: images/gear.gif
-  :alt: gear turn
-  :align: center
-
- Now you're ready to start printing
- ---------------
+    :alt: gear turn
+    :align: center
 
 
+    Now you're ready to start printing!
+    --------------
 
 
 
