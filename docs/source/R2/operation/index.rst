@@ -178,8 +178,8 @@ Screen
    :alt: Printing Screen
    :align: center
 
-Robo App
-   * If you have the Robo App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+Robo 3D App
+   * If you have the Robo 3D app, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
 
 .. image:: images/iosstatus.jpeg
    :alt: iOS Screen
