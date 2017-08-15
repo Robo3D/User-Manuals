@@ -18,14 +18,13 @@
   <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
   {% endblock %}
 
-  {# FAVICON #}
-<<<<<<< Updated upstream
+  {% FAVICON %}
     <link rel="shortcut icon" href="{{ pathto('_static/images/favicon.ico', 1) }}"/>
-=======
+
   {% if favicon %}
     <link rel="shortcut icon" href="{{ pathto('_static/images' + favicon, 1) }}"/>
   {% endif %}
->>>>>>> Stashed changes
+
 
   {# CSS #}
 
