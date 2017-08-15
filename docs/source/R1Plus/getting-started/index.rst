@@ -204,18 +204,18 @@ Now thread the filament through the filament latch at the top of the printer
 Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
 
 
- .. image:: images/filgrab.gif
-    :alt: Thread2
-    :align: center
+.. image:: images/filgrab.gif
+   :alt: Thread2
+   :align: center
 
 Once inserted, turn the filament gear until you see filament coming out of the extruder nozzle.
 
 .. image:: images/gear.gif
-  :alt: gear turn
-  :align: center
+   :alt: gear turn
+   :align: center
 
- Now you're ready to start printing.
- --------------
+Now you're ready to start printing.
+--------------
 
 
 
