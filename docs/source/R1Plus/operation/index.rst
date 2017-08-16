@@ -153,15 +153,25 @@ If you made any changes to the orientation of your part, make sure to save them 
 Print Bed Adhesives
 -----------
 
-In order for the plastic to stick to the glass of the build plate, you must use an adhesive. You can use a couple of different techniques for prepping your build plate. The three that we most commonly use here at Robo are:
+In order for the plastic to stick to the glass of the build plate, you must use an adhesive. You can use a couple of different techniques for prepping your build plate. Two of the most commons methods we use here at Robo are to use a Glue stick or Hair Spray.
 
-1. Vinyl Sheeting
-2. Glue Stick (supplied with your tool kit)
-3. Hairspray (AquaNet works very well)
+Before applying either adhesive, move the heated bed all the way out.
 
-Move the heated bed all the way out to the furthest forward it can go and raise the x axis out of the way (using the motor controls in your Control Panel).
+Glue Stick (supplied with your tool kit).
 
-Apply your adhesive and make sure that there are no bumps on the build plate.
+Open the Glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
+
+.. image:: images/gluestick.PNG
+   :alt: glue stick
+   :align: center
+
+Hairspray (AquaNet works very well)
+
+When using hairspray you can either raise the extruder(Using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
+
+.. image:: images/hairspray.PNG
+   :alt: hairspray
+   :align: center
 
 Run
 -----------

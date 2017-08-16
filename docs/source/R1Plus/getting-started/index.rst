@@ -98,7 +98,7 @@ Installing the required software
 
 The Robo R1+ Plus comes with an SD Card. On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
 
-1. Plug SD Card into your computer.
+1.Plug SD Card into your computer.
 2. Click on the Windows or Mac folder depending on which operating system you have.
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
@@ -230,6 +230,31 @@ Now to start your first print. You can either load your own file, or choose one 
 .. image:: images/prints1.png
   :alt: library
   :align: center
+
+If you don't want to keep your computer connected to your printer for the duration of the print, you can also start a print straight from the SD Card!
+
+After loading files onto the SD Card from your computer, insert it into the printer.
+
+.. image:: images/insertcard.gif
+   :alt: Inserting SD Card
+   :align: center
+
+First click QUEUE at the bottom right of the dashboard.
+
+.. image:: images/sdprint1.PNG
+   :alt: Printing off SD CARD
+   :align: center
+
+Then select Load Files under SD CARD
+
+.. image:: images/sdprint2.PNG
+   :alt: Printing off SD Card
+   :align: center
+
+.. image:: images/sdprint3.PNG
+    :alt: Printing off SD Card
+    :align: center
+
 
 Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded the printer with and the designated "Material" are the same. You can also should select your desired print Quality.
 
