@@ -95,6 +95,10 @@ Slice Settings
 
 After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.
 
+.. image:: images/slice.png
+   :alt: slice
+   :align: center
+
 
 -----------
 Load Filament
@@ -161,7 +165,7 @@ Glue Stick (supplied with your tool kit).
 
 Open the Glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
 
-.. image:: images/gluestick.PNG
+.. image:: images/gluestick.gif
    :alt: glue stick
    :align: center
 
@@ -169,7 +173,7 @@ Hairspray (AquaNet works very well)
 
 When using hairspray you can either raise the extruder(Using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
 
-.. image:: images/hairspray.PNG
+.. image:: images/hairspray.gif
    :alt: hairspray
    :align: center
 
