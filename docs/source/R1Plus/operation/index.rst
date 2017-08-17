@@ -74,6 +74,32 @@ Add your file to the queue. When it shows up in the queue, select the file that 
    :alt: Preload Printer
    :align: center
 
+If you don't want to keep your computer connected to your printer for the duration of the print, you can also start a print straight from the SD Card!
+
+After loading files onto the SD Card from your computer, insert it into the printer.
+
+.. image:: images/insertcard.gif
+    :alt: Inserting SD Card
+    :align: center
+
+First click QUEUE at the bottom right of the dashboard.
+
+.. image:: images/sdprint1.PNG
+    :alt: Printing off SD CARD
+    :align: center
+
+   Then select Load Files under SD CARD
+
+.. image:: images/sdprint2.PNG
+    :alt: Printing off SD Card
+    :align: center
+
+.. image:: images/sdprint3.PNG
+      :alt: Printing off SD Card
+      :align: center
+
+Now your file is loaded and ready to for printing!
+
 -----------
 Setting your Z-Offset
 -----------
@@ -184,7 +210,9 @@ When using hairspray you can either raise the extruder(Using the motor controls 
 Start Printing
 ---------------
 
-Now just click the start button! You will notice that your part slices in the software right before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
+Now just click the Print button! You will notice that your part slices in the software right before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
+
+.. note:: If you selected a Print from your Desktop or Laptop you'll need to keep your Printer connected for the entirety of the print. If you Loaded it from the SD Card in the Printer, your computer does not need to stay connected for the print to finish.
 
 
 ---------------
