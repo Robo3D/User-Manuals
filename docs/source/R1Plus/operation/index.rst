@@ -164,7 +164,6 @@ Once inserted, turn the filament gear until you see filament coming out of the e
    :alt: gear turn
    :align: center
 
-
     Now you're ready to start printing!
     --------------
 
