@@ -36,7 +36,7 @@ Steps to take to clean your feeder gear
 1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely.
 2. Once it is off, go ahead and use a toothbrush to brush the feed gear to remove debris.
 3. Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned.
-4. Place the filament thumb latch back up and replace the tension screws back into your extruder assembly and plug in Robo R2.
+4. Place the filament thumb latch back up and replace the tension screws back into your extruder assembly and plug in Robo R1.
 
 -----
 Lubricating the axis
@@ -58,3 +58,8 @@ Cleaning the print bed surface
 -----
 
 The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive so your prints will stick to its surface.
+
+---------------
+Z Axis Alignment
+---------------
+Visually Check that the Two Z-Axis Rods are relatively even. An easy way to do this is to home the printer, then raise the Z Axis. From there you can use the end of the Heated Bed as a reference.

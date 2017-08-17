@@ -278,6 +278,6 @@ Removing the first print
 
 When the test print is complete and cooled down, use the provided spatula to carefully remove the print at its borders. Then, slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
 
-.. image:: images/removing-print-R1+ Plus.gif*********
+.. image:: images/printremove.gif
    :alt: Removing Print
    :align: center

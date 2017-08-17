@@ -149,9 +149,12 @@ Once inserted, turn the filament gear until you see filament coming out of the e
 Check the build plate
 -----------
 
-Make sure that your part is oriented efficiently. To check this, click the preview window at the top of your screen.
+Make sure that your part is oriented efficiently. To check this, click view next to your desired print to see a preview of your print. If you made any changes to the orientation of your part click Edit on the Preview Screen. From here you can Move, Rotate, Scale and more to ensure your print is comes out perfectly. Before you start your print be sure to hit Save once you're finished making changes.
 
-If you made any changes to the orientation of your part, make sure to save them before starting your print.
+.. image:: images/checkbuild.png
+    :alt: Build Plate
+    :align: center
+
 
 -----------
 Print Bed Adhesives
@@ -161,7 +164,7 @@ In order for the plastic to stick to the glass of the build plate, you must use 
 
 Before applying either adhesive, move the heated bed all the way out.
 
-Glue Stick (supplied with your tool kit).
+1. Glue Stick (supplied with your tool kit):
 
 Open the Glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
 
@@ -169,7 +172,7 @@ Open the Glue stick and apply perpendicularly to the printing surface of the bui
    :alt: glue stick
    :align: center
 
-Hairspray (AquaNet works very well)
+2. Hairspray (AquaNet works very well):
 
 When using hairspray you can either raise the extruder(Using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
 
@@ -177,18 +180,19 @@ When using hairspray you can either raise the extruder(Using the motor controls 
    :alt: hairspray
    :align: center
 
-Run
------------
+---------------
+Start Printing
+---------------
 
 Now just click the start button! You will notice that your part slices in the software right before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
 
 
------------
+---------------
 Removing the print
 ---------------
 
 When the print is complete and cooled down, use the provided spatula to carefully remove the print at its borders. Then, slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
 
-.. image:: images/removing-print-R1+ Plus.gif*********
+.. image:: images/printremove.gif
    :alt: Removing Print
    :align: center
