@@ -106,7 +106,7 @@ After multiple uses, it is normal for filament to get stuck in the teeth of the 
 
 Stteps to clean your feeder gear
 
-1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely. Have a firm hold on the screw as you unscrew the tensions screws as they are spring loaded.
+1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely. Have a firm hold on the screw while you unscrew them as they are spring loaded.
 
 .. image:: images/hob1.gif
    :alt: remove screws
