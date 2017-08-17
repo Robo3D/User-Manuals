@@ -42,22 +42,25 @@ Steps to take to clean your feeder gear
 Lubricating the axis
 -----
 
-There are two types of linear rods in Robo R1+ Plus, and they must be lubricated differently to ensure the best prints are made.
+Make sure you periodically lubricate all the rods including the two Z-Axis lead screws. This will ensure that your printer can move seamlessly. To do so, just apply a tiny amount of the included lubricant on each of the rods. And slide the X and Y Axes across their entire range of motion to lubricate the rods.
 
-White Lithium Grease
+.. image:: images/lube.gif
+   :alt: lube
+   :align: center
+
+
+
 -----
-
-The z-axis lead screws need white lithium grease for lubrication. Dap a small amount onto the rods, and let the printer move up and down from the next print to lubricate itself.
-
-3-in-1 Oil
------
-
-The x and y brackets have a bearing inside of them, and need to be lubricated once every 2-4 months. Wipe down the build up that these bearing produce on the rods over time with a cleaning agent. The bearings can be greased with a few drops of 3-in-1 oil, or sewing machine oil to lubricate sufficiently.
-
 Cleaning the print bed surface
 -----
 
 The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive so your prints will stick to its surface.
+
+
+.. image:: images/clean.gif
+   :alt: clean
+   :align: center
+
 
 ---------------
 Z Axis Alignment
