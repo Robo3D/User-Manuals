@@ -48,8 +48,6 @@ Make sure you periodically lubricate all the rods including the two Z-Axis lead 
    :alt: lube
    :align: center
 
-
-
 -----
 Cleaning the print bed surface
 -----
