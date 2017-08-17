@@ -31,22 +31,27 @@ And to ensure the best 3D printing experience now and in the future, use the fol
 Cleaning the Hob Bolt (Filament Feeder Gear)
 -----
 
-Steps to take to clean your feeder gear
+Steps to clean your feeder gear
 
 1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely. Have a firm hold on the screw as you unscrew the tensions screws as they are spring loaded.
-
-2. Once it is off, you can either use a razor blade, or a wire brush to remove filament stuck in the gears' teeth.
-
-3. Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned.
-4. Place the filament thumb latch back up and replace the tension screws back into your extruder assembly and plug in Robo R1.
 
 .. image:: images/hob1.gif
    :alt: remove screws
    :align: center
 
-.. image:: images/hob2.gif
+2. Once it is off, you can either use a razor blade, or a wire brush to remove filament stuck in the gears' teeth.
+
+.. image:: images/blade.gif
    :alt: clean
    :align: center
+
+Or a wire brush.
+
+.. image:: images/brush.gif
+   :alt: clean
+   :align: center
+
+Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned. Once done, place the filament thumb latch back up and replace the tension screws back into your extruder assembly.
 
 .. image:: images/hobconnect.gif
    :alt: Connect
