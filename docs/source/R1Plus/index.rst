@@ -43,4 +43,4 @@ The Robo R1+ Plus gives you the freedom to make whatever you can imagine right f
    getting-started/index.rst
    operation/index.rst
    maintenance/index.rst
-   Troubleshooting/index.rst
+   troubleshooting/index.rst
