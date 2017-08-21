@@ -42,31 +42,17 @@ Before you start, please register your Robo R1+ Plus for any servicing or warran
 Unboxing Robo R1+ Plus
 ---------------
 
-Now that you've received your Robo R1+ Plus, it's time to unbox it and get familiar with your printer and accessories.
+1)Now that you've received your Robo R1+ Plus, it's time to unbox it and get familiar with your printer and accessories.
 
-The printer's accessories are stored in the top foam piece of the printer. Remove these pieces from the top foam.
+2)The printer's accessories are stored in the top foam piece of the printer. Remove these pieces from the top foam.
 
-.. image:: images/door-ziptie-cut.gif**********
-   :alt: Door Zip Tie
-   :align: center
+3)Your R1+ Plus is housed in 4 styrofoam pieces, one on top, one on bottom, and two from the sides. Simply lift the top foam piece off and set to the side. Now lift the printer out with two hands and set on your desktop.
 
-Your R1+ Plus is housed in 4 styrofoam pieces, one on top, one on bottom, and two from the sides. Simply lift the top foam piece off and set to the side. Now lift the printer out with two hands and set on your desktop.
+4)Now we are ready to take out the inner packing material. There are 4 pieces of foam that we need to take out. Two on the sides of the printer, and two just below the glass build plate. Go ahead and slide those out.
 
-.. image:: images/unclipping-box-R1+ Plus.gif*********
-   :alt: Taking it out
-   :align: center
+5)Finally, extend the ribbon cable from the back of the print bed so that it is no longer folded into the printer.
 
-Now we are ready to take out the inner packing material. There are 4 pieces of foam that we need to take out. Two on the sides of the printer, and two just below the glass build plate. Go ahead and slide those out.
 
-.. image:: images/gantry-clips-off-R1+ Plus.gif*************
-   :alt: Clip Removal
-   :align: center
-
-Finally, extend the ribbon cable from the back of the print bed so that it is no longer folded into the printer.
-
-.. image:: images/blue-tape-out-R1+ Plus.gif*********
-   :alt: Tape Out
-   :align: center
 
 .. tip:: Save your printer box and foam inserts for transportation. Also, you might need the original packaging to exercise your warranty or ship your printer in the future.
 
