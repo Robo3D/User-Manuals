@@ -15,7 +15,7 @@ Operation
 Controls
 -----------
 
-The “CONTROLS” tab is where you can physically control your printer through the software. Here you can pre heat your extruder and heated bed, and even adjust your print speed while printing.
+The CONTROLS tab is where you can physically control your printer through the software. Here you can preheat your extruder and heated bed, and even adjust your print speed while printing.
 
 .. image:: images/controls.PNG
    :alt: Image of Control Tab
@@ -24,7 +24,7 @@ The “CONTROLS” tab is where you can physically control your printer through 
 Adjusting Temperatures
 -----------
 
-You can either click the PREHEAT button to preheat the print to a default temperature of 210C. Or create your own presets by clicking the pencil next to Extruder Temperature.
+You can either click the PREHEAT button to preheat the print to a default temperature of 210C, or create your own presets by clicking the pencil next to Extruder Temperature.
 
 .. image:: images/preset.png
    :alt: preset
@@ -44,18 +44,18 @@ After you click PREHEAT or one of your own presets, you should see the target te
    :align: center
 
 
-.. note:: An Extruder Preheat should be set between 230-250 for ABS filament or 190-210 for PLA filament. A Bed Preheat should be set between 80-100 for ABS and 50-70 for PLA filament
+.. note:: An extruder preheat should be set between 230-250C for ABS filament or 190-210C for PLA filament. A bed preheat should be set between 80-100C for ABS and 50-70C for PLA filament.
 
 
 Movement Controls
 -----------
 
-You can use the movement controls on this panel (while your printer is idle) to move the X, Y and Z axis. The extrude/retract motor movement keys help in loading and unloading filament as well. You can unlock the motors after a print job in order to move them around by hand if need be. Also, if you need to home any or all of your axes you can do it here.
+While your printer is idle, you can use the movement controls on this panel to move the X, Y and Z axes. The extrude/retract motor movement keys help in loading and unloading filament as well. You can unlock the motors after a print job in order to move them around by hand if need be. Also, if you need to home any or all of your axes you can do it here.
 
 Speed and Extrusion Control
 -----------
 
-If you need to adjust the speed at which your extruder is printing, under Tuning Adjustment us the  "Speed Multiplier" slider at the bottom of the screen. If you want to adjust the rate at which your printer is extruding filament use the "Extrusion Multiplying". Drag it left to slow it down and right to increase the speed or flow rate. (This will only work while printing)
+If you need to adjust the speed at which your extruder is printing, under Tuning Adjustment use the  "Speed Multiplier" slider at the bottom of the screen. If you want to adjust the rate at which your printer is extruding filament use "Extrusion Multiplying." Slide it left to slow it down and right to increase the speed or flow rate. (This will only work while printing.)
 
 
 -----------
@@ -98,28 +98,28 @@ First click QUEUE at the bottom right of the dashboard.
       :alt: Printing off SD Card
       :align: center
 
-Now your file is loaded and ready to for printing!
+Now your file is loaded and ready for printing!
 
 -----------
 Setting your Z-Offset
 -----------
 
-If the offset on your printer is somehow not calibrated correctly, it may be too low or too high. Z-offset measures the distance between “On” and “Off” in your Z endstops for auto leveling. There is sometimes a tolerance to this because of the way that the endstop parts are manufactured. R1+ Plus 3D printers come standard with a Z offset of 0.9
+If the offset on your printer is somehow not calibrated correctly, it may be too low or too high. Z-Offset measures the distance between “On” and “Off” in your Z endstops for auto leveling. There is sometimes a tolerance to this because of the way that the endstop parts are manufactured. R1+ Plus 3D printers come standard with a Z-Offset of 0.9
 
-To adjust your z offset, under the Controls tab, scroll down and press one of the macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your z offset to a different value.
+To adjust your z offset, under the Controls tab, scroll down and press one of the Macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your Z-Offset to a different value.
 
 .. image:: images/zoffset.png
    :alt: zoffset
    :align: center
 
-* Lower z offsets are 0.8 and 0.9.
-* Higher z offsets are 1, 1.1 and 1.2.
+* Lower Z-Offsets are 0.8 and 0.9.
+* Higher Z-Offsets are 1, 1.1 and 1.2.
 
 
 Slice Settings
 -----------
 
-After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.
+After preheating your extruder and heated bed, double check that your slice settings are correct. Select your Quality and Material presets from the dropdown menus in the 'Settings' tab on the left hand window. In the frame below, you can switch between Basic, Standard, and Advanced slicing settings that will allow you to make a range of fine adjustments to how your print will be sliced.
 
 .. image:: images/slice.png
    :alt: slice
@@ -127,7 +127,7 @@ After preheating your extruder and heated bed, double check that your slice sett
 
 
 -----------
-Load Filament
+Load filament
 -----------
 
 Begin by sliding the spool holder onto your printer.
@@ -164,7 +164,7 @@ Once inserted, turn the filament gear until you see filament coming out of the e
    :alt: gear turn
    :align: center
 
-Now you're ready to start printing!
+
 --------------
 
 
@@ -174,7 +174,7 @@ Now you're ready to start printing!
 Check the build plate
 -----------
 
-Make sure that your part is oriented efficiently. To check this, click view next to your desired print to see a preview of your print. If you made any changes to the orientation of your part click Edit on the Preview Screen. From here you can Move, Rotate, Scale and more to ensure your print is comes out perfectly. Before you start your print be sure to hit Save once you're finished making changes.
+Make sure that your part is oriented efficiently. To check this, click view next to your desired print to see a preview of your print. If you want to make any changes to the orientation of your part click Edit on the Preview Screen. From here you can Move, Rotate, Scale and more to ensure your print is comes out perfectly. Before you start your print be sure to hit Save once you're finished making changes.
 
 .. image:: images/checkbuild.png
     :alt: Build Plate
@@ -182,16 +182,16 @@ Make sure that your part is oriented efficiently. To check this, click view next
 
 
 -----------
-Print Bed Adhesives
+Print bed adhesives
 -----------
 
 In order for the plastic to stick to the glass of the build plate, you must use an adhesive. You can use a couple of different techniques for prepping your build plate. Two of the most commons methods we use here at Robo are to use a Glue stick or Hair Spray.
 
 Before applying either adhesive, move the heated bed all the way out.
 
-1. Glue Stick (supplied with your tool kit):
+1. Glue stick (supplied with your tool kit):
 
-Open the Glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
+Open the glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
 
 .. image:: images/gluestick.gif
    :alt: glue stick
@@ -199,7 +199,7 @@ Open the Glue stick and apply perpendicularly to the printing surface of the bui
 
 2. Hairspray (AquaNet works very well):
 
-When using hairspray you can either raise the extruder(Using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
+When using hairspray you can either raise the extruder (using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
 
 .. image:: images/hairspray.gif
    :alt: hairspray

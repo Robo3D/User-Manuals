@@ -42,15 +42,15 @@ Before you start, please register your Robo R1+ Plus for any servicing or warran
 Unboxing Robo R1+ Plus
 ---------------
 
-1)Now that you've received your Robo R1+ Plus, it's time to unbox it and get familiar with your printer and accessories.
+Now that you've received your Robo R1+ Plus, it's time to unbox it and get familiar with your printer and accessories.
 
-2)The printer's accessories are stored in the top foam piece of the printer. Remove these pieces from the top foam.
+1. The printer's accessories are stored in the top foam piece of the printer. Remove these pieces from the top foam.
 
-3)Your R1+ Plus is housed in 4 styrofoam pieces, one on top, one on bottom, and two from the sides. Simply lift the top foam piece off and set to the side. Now lift the printer out with two hands and set on your desktop.
+2. Your R1+ Plus is housed in 4 styrofoam pieces, one on top, one on bottom, and two from the sides. Simply lift the top foam piece off and set to the side. Now lift the printer out with two hands and set on your desktop.
 
-4)Now we are ready to take out the inner packing material. There are 4 pieces of foam that we need to take out. Two on the sides of the printer, and two just below the glass build plate. Go ahead and slide those out.
+3. Now we are ready to take out the inner packing material. There are 4 pieces of foam that we need to take out. Two on the sides of the printer, and two just below the glass build plate. Go ahead and slide those out.
 
-5)Finally, extend the ribbon cable from the back of the print bed so that it is no longer folded into the printer.
+4. Finally, extend the ribbon cable from the back of the print bed so that it is no longer folded into the printer.
 
 
 
@@ -62,13 +62,13 @@ Initial set-up
 
 Now let’s move forward with your initial set-up of Robo R1+ Plus.
 
-Inside the toolbox, there are four small rubber feet; these attach to the corners of your printer to make sure it doesn't slide around your desk when printing. Place one on each corner.
+Inside the toolbox, there are four small rubber feet. These attach to each bottom corner of your printer to make sure it doesn't slide around or scratch your desk when printing.
 
 .. image:: images/rfeet.gif
    :alt: Rubber Feet
    :align: center
 
-From here, we will want to make sure your voltage is set correctly. On the back of the printer, there is a voltage switch that has two settings: 110V or 220V depending on which country you are using the R1+ Plus. Make sure it is compatible with your country code. You can use the end of one of the included allen wrenches to slide the switch.
+Next, make sure your voltage is set correctly. On the back of the printer, there is a voltage switch that has two settings: 110V or 220V. Make sure it is set to the appropriate voltage for your country. You can use the end of one of the included allen wrenches to slide the switch.
 
 .. image:: images/vswitch.gif
    :alt: Volts
@@ -82,10 +82,12 @@ From here you’ll want to connect the power cord to the designated area on the 
 Installing the required software
 ---------------
 
-The Robo R1+ Plus comes with an SD Card. On this is the software required to run the Robo R1+ Plus. Take these steps to install and connect your printer.
+The Robo R1+ Plus comes with an SD Card, which contains the software required to run the Robo R1+ Plus. Take these steps to install the software and connect your printer.
 
-1.Plug SD Card into your computer.
+1. Plug SD Card into your computer.
+
 2. Click on the Windows or Mac folder depending on which operating system you have.
+
 3. Choose MatterControl setup to begin installing MatterControl Software on your computer.
 
 .. note:: You can also directly download Matter Control from our website_.
@@ -111,13 +113,13 @@ After MatterControl opens, click the 'Add Printer' button at the top of the scre
    :align: center
 
 
-A new window will pop up and you will be able to set up a 3D printer. From here you can assign your Robo R1+ Plus a nickname. This helps you keep track of multiple units. Select “R1+ Plus” from the model list and then click Save & Continue.
+A new window will pop up and you will be able to set up a 3D printer. From here you can assign your Robo R1+ Plus a nickname. This can help you keep track of multiple units. Select “R1+ Plus” from the model list and then click Save & Continue.
 
 .. image:: images/name.png
    :alt: Name
    :align: center
 
-Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected), by unplugging the USB connection then press continue. Then reconnect your printer when it prompts you(turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here click “Done”.
+Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected) by unplugging the USB connection, then click Continue. Then reconnect your printer when it prompts you (turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here, click “Done”.
 
 .. image:: images/connect.PNG
    :alt: connect
@@ -132,7 +134,7 @@ Loading filament
 
 Before you begin a print you need to load filament. Follow these steps to properly load your printer with filament.
 
-Take the spool holder that came with your printer and put it on by simply sliding it onto one of the arms of the top plastic.
+Take the spool holder that came with your printer and put it on by simply sliding it onto one of the sides of the plastic top cover.
 
 .. image:: images/spoolholder1.gif
    :alt: Unhinge Spool Holder
@@ -145,13 +147,13 @@ To begin loading filament you need to preheat your nozzle through MatterControl.
    :alt: Settings
    :align: center
 
-You can either click the PREHEAT button to preheat the print to a default temperature of 210C. Or create your own presets by clicking the pencil next to Extruder Temperature.
+You can either click the PREHEAT button to preheat the print to a default temperature of 210C, or create your own presets by clicking the pencil next to Extruder Temperature.
 
 .. image:: images/preset.png
    :alt: preset
    :align: center
 
-If you choose to create your own preset, a new Window will popup after clicking the pencil. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature press Save.
+If you choose to create your own preset, a new Window will popup after clicking the pencil. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature, click Save.
 
 .. image:: images/presets1.png
    :alt: preset
@@ -201,14 +203,14 @@ Once inserted, turn the filament gear until you see filament coming out of the e
    :align: center
 
 Now you're ready to start printing!
---------------
+
 
 
 
 
 
 ---------------
-The First Print.
+The first print
 ---------------
 
 Now to start your first print. You can either load your own file, or choose one of the preloaded prints inside the local library. To print one of the preloaded files, navigate to the library tab and then select the Local Library.
@@ -242,7 +244,7 @@ Then select Load Files under SD CARD
     :align: center
 
 
-Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded the printer with and the designated "Material" are the same. You can also should select your desired print Quality.
+Before you start a print, make sure to double check your slicing settings. To do that, under Settings & Control, select Settings. For most of the preloaded prints, default settings will suffice and all you need to do is make sure the material you loaded into the printer and the set material are the same. You can also select your desired print quality.
 
 .. note:: For more advanced prints and geometries, you may need to edit the slice settings to ensure a perfect print.
 
@@ -250,7 +252,7 @@ Before you start a print, make sure to double check your slicing settings. To do
   :alt: slice
   :align: center
 
-Once you select a file and finalize your settings press PRINT and your printer will begin preheating. Your R1 will then begin printing as soon as the printer is completely preheated!
+Once you select a file and finalize your settings, click PRINT and your printer will begin preheating. Your R1+ will begin printing as soon as the printer is completely preheated.
 
 .. image:: images/print2.png
   :alt: print
