@@ -83,4 +83,4 @@ The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopr
 ---------------
 Z Axis Alignment
 ---------------
-Visually Check that the Two Z-Axis Rods are relatively even. An easy way to do this is to home the printer, then raise the Z Axis. From there you can use the end of the Heated Bed as a reference.
+Visually Check that the Two Z Axis Rods are relatively even. An easy way to do this is to home the printer, then raise the Z Axis. From there you can use the end of the Heated Bed as a reference.

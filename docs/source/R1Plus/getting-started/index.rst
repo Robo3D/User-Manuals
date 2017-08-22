@@ -119,7 +119,7 @@ A new window will pop up and you will be able to set up a 3D printer. From here 
    :alt: Name
    :align: center
 
-Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected) by unplugging the USB connection, then click Continue. Then reconnect your printer when it prompts you (turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here, click “Done”.
+Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing, a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected) by unplugging the USB connection, then click Continue. Then reconnect your printer when it prompts you (turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here, click “Done”.
 
 .. image:: images/connect.PNG
    :alt: connect
