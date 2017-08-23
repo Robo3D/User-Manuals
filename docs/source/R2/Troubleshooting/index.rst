@@ -383,9 +383,7 @@ This will walk you through the steps to update your firmware from the touchscree
 
 ---------------
 Checking your Pogo Pins
----------------.. image:: Images/firmware-is-updating.png
-   :alt: Firmware is Updating
-   :align: center
+---------------
 
 
 If you notice that your bed seems to be heating up too slowly or your print bed is not being recognized check your pogo pins.
