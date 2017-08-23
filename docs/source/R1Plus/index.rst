@@ -27,15 +27,15 @@ Coby Kabili and Braydon Moreno, Robo Co-founders
 
 **Make more with Robo R1+ Plus**
 
-The Robo R1+ Plus gives you the freedom to make whatever you can imagine right from your mobile device using the Robo app.
+The Robo R1+ Plus gives you the freedom to make whatever you can imagine.
 
    * Best in-class performance and value
    * Large 10 x 9 x 8 inch print size
-   * All metal hot end prints any material
+   * All metal hot end prints most materials
    * Automatic leveling and calibration
    * SD Card functionality
    * 24/7 customer support
-   * Prints 20+ materials types that don’t require a heat bed
+   * Prints 20+ materials
 
 .. toctree::
    :maxdepth: 2
