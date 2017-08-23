@@ -382,6 +382,37 @@ This will walk you through the steps to update your firmware from the touchscree
 8. Your Robo R2 should now have the latest firmware updated.
 
 ---------------
+Checking your Pogo Pins
+---------------.. image:: Images/firmware-is-updating.png
+   :alt: Firmware is Updating
+   :align: center
+
+
+If you notice that your bed seems to be heating up too slowly or your print bed is not being recognized check your pogo pins.
+
+To do so, start by removing the heated bed.
+
+.. image:: Images/remove-bed.gif
+   :alt: Remove Bed.
+   :align: center
+
+Then check the 6 golden colored pins. Press down on each one, they should all be rebound when pressed down and have a spring like feel.
+
+.. image:: Images/check.gif
+   :alt: Check Pins
+   :align: center
+
+If one of the pins is not rebounding back to its original position, you may need to replace your pogo pin pcb.
+
+.. image:: Images/retract.jpg
+   :alt: Retract pins
+   :align: center
+
+
+
+
+
+---------------
 Print Bed Pogo Pin Connection Replacing
 ---------------
 
