@@ -20,7 +20,7 @@ If you are experiencing problems with the plastic not adhering to your print bed
 Clean the build plate
 ---------------
 
-After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Resurface this by grabbing some isopropyl alcohol and giving it a good wipe down. Afterwards re-applying the provided glue stick or other adhesion type.
+After some time, the build plate adhesion can become unsticky and plastic will no longer be able to stick to it. Resurface this by grabbing some isopropyl alcohol and giving it a good wipe down. Afterwards re-applying the provided glue stick or other adhesion type. .
 
 Using a raft
 ---------------
@@ -40,7 +40,7 @@ Set your first layer height to 0.3mm. This will allow more plastic to flow out o
 Printing with ABS plastic
 ---------------
 
-ABS plastic is much more temperamental because of it's cooling properties than other types of plastic. This is where you will see the most warping issues. Do not use the print cooling fan for this material. You can set this to be turned off in an ABS preset.
+ABS plastic is much more temperamental as far as cooling goes than other types of plastic. This is where you will see the most warping issues. Try not to use the print cooling fan for this material. You can set this to be turned off in an ABS preset.
 
 
 
@@ -63,15 +63,15 @@ How to Unclog the Extruder
 
 The first thing that you should try is to preheat the extruder to 250, and trying to drive filament through with the gear.
 
-If that does not work, let the extruder cool down then use the included screwdriver to loosen the Extruder plate (the extruder plate is the aluminum piece in the extruder assembly that holds the top of the hotend in place). Be sure not to unscrew it the entire way! Just unscrew it enough that you can swing the extruder plate out, maybe 2 or 3 rotations.
+If that does not work, let the extruder cool down then use the included screwdriver to loosen the Extruder plate. Be sure not to unscrew it the entire way! Just unscrew it enough that you can swing the extruder plate out.
 
-Once loose, slide it out and let the extruder hang. From here you can preheat your extruder while hanging. After its heated, you can touch the middle part of the extruder, refer to the following instructions (Don't worry this part of the extruder is not hot!) Then use pliers to pull out the stuck filament.
+Once loose, slide it out and let the extruder hang. From here you can preheat your extruder while hanging. After its heated, you can touch the middle part of the extruder, refer to the following instructions(Don't worry this part of the extruder is not hot!) Then use pliers to pull out the stuck filament.
 
 .. image:: images/remove.gif
    :alt: Remove
    :align: center
 
- After Clearing the nozzle, turn it OFF through MatterControl and let it cool down. Then simply replace the extruder into its slot and make sure side with the wires coming out of the end of the nozzle are parallel to the side of the extruder assembly. Then slide the extruder plate to grip the extruder and tighten the plate down with the screwdriver from the underneath side.
+After Clearing the nozzle, turn it OFF through MatterControl and let it cool down. Then simply replace the extruder into its slot and make sure side with the wires coming out is parallel to the side of the extruder assembly. Then slide the extruder plate to grip the extruder and tighten the plate down.
 
 .. image:: images/reconnect.gif
    :alt: Remove
