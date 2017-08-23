@@ -14,9 +14,10 @@ Maintenance
 Remember, a well-maintained Robo R1+ Plus is a happy one!
 
 -----
-Be sure to check for the following before every print:
+Things to check before every print
 -----
 
+Be sure to check for the following before every print:
    - Make sure the print bed is free of any/all objects
    - Make sure nothing is blocking the extruder head from moving freely around the build area.
    - Make sure no objects are above or below the print head that could prevent it from freely moving up and down or side to side.
@@ -27,33 +28,59 @@ Be sure to check for the following before every print:
 And to ensure the best 3D printing experience now and in the future, use the following Robo R1+ Plus maintenance tips regularly (every 6-12 months, depending on use):
 
 -----
-Cleaning the feeder gear
+Cleaning the Hob Bolt (Filament Feeder Gear)
 -----
 
-Steps to take to clean your feeder gear
+Steps to clean your feeder gear
 
-1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely.
-2. Once it is off, go ahead and use a toothbrush to brush the feed gear to remove debris.
-3. Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned.
-4. Place the filament thumb latch back up and replace the tension screws back into your extruder assembly and plug in Robo R2.
+1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely. Have a firm hold on the screw while you unscrew them because they are spring loaded.
+
+.. image:: images/hob1.gif
+   :alt: remove screws
+   :align: center
+
+2. Once it is off, you can either use a razor blade, or a wire brush to remove filament stuck in the gears' teeth.
+
+.. image:: images/blade.gif
+   :alt: clean
+   :align: center
+
+Or a wire brush.
+
+.. image:: images/brush.gif
+   :alt: clean
+   :align: center
+
+Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned. Once done, place the filament thumb latch back up and replace the tension screws back into your extruder assembly.
+
+.. image:: images/hobconnect.gif
+   :alt: Connect
+   :align: center
+
 
 -----
 Lubricating the axis
 -----
 
-There are two types of linear rods in Robo R1+ Plus, and they must be lubricated differently to ensure the best prints are made.
+Make sure you periodically lubricate all the rods including the two Z-Axis lead screws. This will ensure that your printer can move seamlessly. To do so, apply a small amount of the included lubricant on each of the rods. And slide the X and Y Axes across their entire range of motion to lubricate the rods.
 
-White Lithium Grease
+.. image:: images/lube.gif
+   :alt: lube
+   :align: center
+
 -----
-
-The z-axis lead screws need white lithium grease for lubrication. Dap a small amount onto the rods, and let the printer move up and down from the next print to lubricate itself.
-
-3-in-1 Oil
------
-
-The x and y brackets have a bearing inside of them, and need to be lubricated once every 2-4 months. Wipe down the build up that these bearing produce on the rods over time with a cleaning agent. The bearings can be greased with a few drops of 3-in-1 oil, or sewing machine oil to lubricate sufficiently.
-
 Cleaning the print bed surface
 -----
 
-The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive so your prints will stick to its surface.
+The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive. This will ensure your prints will stick to its surface.
+
+
+.. image:: images/clean.gif
+   :alt: clean
+   :align: center
+
+
+---------------
+Z Axis Alignment
+---------------
+Visually Check that the Two Z Axis Rods are relatively even. An easy way to do this is to home the printer, then raise the Z Axis. From there you can use the end of the Heated Bed as a reference.

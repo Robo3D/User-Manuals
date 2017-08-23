@@ -42,8 +42,14 @@ Printing with ABS plastic
 
 ABS plastic is much more temperamental as far as cooling goes than other types of plastic. This is where you will see the most warping issues. Try not to use the print cooling fan for this material. You can set this to be turned off in an ABS preset.
 
+
+
+
 ---------------
 Nozzle Clogging
+---------------
+
+How to Prevent it
 ---------------
 
 From time to time, your hot end may become clogged or jammed. This can happen for a number of reasons.
@@ -51,6 +57,25 @@ From time to time, your hot end may become clogged or jammed. This can happen fo
 1. Not using the correct temperature settings. If the temp on the extruder is not high enough for the type of plastic you are using, the plastic will have problems passing through the hot end, which will cause a clog.
 
 2. Attempting to use PLA in an extruder that still has ABS in it. When you switch from a high temp plastic like ABS to something that extrudes at a lower temperature, it is very important to clear the nozzle of any remaining plastic to prevent clogging. Before your next print, manually heat the hot end to ABS temps and push a little bit of PLA through it. Once all of the ABS is cleared you can take the temp back down to the suggested PLA temp and should have no problem extruding.
+
+How to Unclog the Extruder
+---------------
+
+The first thing that you should try is to preheat the extruder to 250, and trying to drive filament through with the gear.
+
+If that does not work, let the extruder cool down then use the included screwdriver to loosen the Extruder plate. Be sure not to unscrew it the entire way! Just unscrew it enough that you can swing the extruder plate out.
+
+Once loose, slide it out and let the extruder hang. From here you can preheat your extruder while hanging. After its heated, you can touch the middle part of the extruder, refer to the following instructions(Don't worry this part of the extruder is not hot!) Then use pliers to pull out the stuck filament.
+
+.. image:: images/remove.gif
+   :alt: Remove
+   :align: center
+
+After Clearing the nozzle, turn it OFF through MatterControl and let it cool down. Then simply replace the extruder into its slot and make sure side with the wires coming out is parallel to the side of the extruder assembly. Then slide the extruder plate to grip the extruder and tighten the plate down.
+
+.. image:: images/reconnect.gif
+   :alt: Remove
+   :align: center
 
 ---------------
 Extrusion - Filament Grinding
@@ -61,6 +86,11 @@ Extrusion doesn’t just depend on heat. There are a few other factors that can 
 Tangled Filament
 ---------------
 
+.. image:: images/filamenttangle.png******
+   :alt: untangle filament
+   :align: center
+
+
 If the filament on your spool for some reason becomes tangled or knotted up, it will eventually create tension and the extruder will not have enough power to pull it through.
 
 Filament Latch too Loose
@@ -68,10 +98,38 @@ Filament Latch too Loose
 
 If there is not enough pressure on the hobbed bolt teeth from the filament latch.
 
-Clogged Hot End Tip
----------------
 
-This happens when there is something stuck in the bottom of the hot end, preventing the filament from being pushed any further.
+Dirty Hob Bolt (Filament Feeder Gear)
+-----
+
+After multiple uses, it is normal for filament to get stuck in the teeth of the feeder gear. This can make it unable to grip onto the filament.
+
+Stteps to clean your feeder gear
+
+1. First, turn off your machine. Then, unscrew the tension screws on the filament thumb latch so it can lay down freely. Have a firm hold on the screw while you unscrew them as they are spring loaded.
+
+.. image:: images/hob1.gif
+   :alt: remove screws
+   :align: center
+
+2. Once it is off, you can either use a razor blade, or a wire brush to remove filament stuck in the gears' teeth.
+
+.. image:: images/blade.gif
+   :alt: clean
+   :align: center
+
+Or a wire brush.
+
+.. image:: images/brush.gif
+   :alt: clean
+   :align: center
+
+Rotate the feeder gear by turning the large gear by hand and repeat steps until the entire feeder gear is cleaned. Once done, place the filament thumb latch back up and replace the tension screws back into your extruder assembly.
+
+.. image:: images/hobconnect.gif
+   :alt: Connect
+   :align: center
+
 
 ---------------
 Stringing Prints

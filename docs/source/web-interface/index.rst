@@ -160,7 +160,7 @@ Lani
 
  **How to view the Lani plugin**
 
-In order to view the Lani plugin, you must first disable the Robo Theme plugin. To do this, see section "How to enable and Disable Plugins" below. Next, you must enable the Lani plugin from the plugins list. Now, when you restart Octoprint, you will be able to view Lani and all of its contents. 
+In order to view the Lani plugin, you must first disable the Robo Theme plugin. To do this, see section "How to enable and Disable Plugins" below. Next, you must enable the Lani plugin from the plugins list. Now, when you restart Octoprint, you will be able to view Lani and all of its contents.
 
 Mainboard Connection Plugin
 
@@ -247,4 +247,26 @@ From the web dashboard, you are able to monitor your print, as well as start, pa
 
 .. image:: images/monitor.PNG
    :alt: Monitor Printer
+   :align: center
+
+Download OctoPrint Logs for Support
+-----------------
+The OctoPrint Logs will enable our support team to better diagnose your problem and help get your Robo up and printing ASAP!
+
+Once on the Robo Dashboard, navigate to Settings at the Top right of the Screen.
+
+.. image:: images/log-settings.png
+   :alt: Navigate to Settings
+   :align: center
+
+Here scroll down the Side Bar and Locate the Logs tab.
+
+.. image:: images/log-log.png
+   :alt: Find Log
+   :align: center
+
+Lastly, make sure the files are sorted by most recent. To do that Click "Modification Date (Descending)" and double check the files are arranged by date starting with the most recent. Then download the top three files, 'octoprint.log', 'plugin_printhistory_console.log', and 'octoprint_stats.db'.
+
+.. image:: images/log-files.png
+   :alt: Find Correct Files
    :align: center
