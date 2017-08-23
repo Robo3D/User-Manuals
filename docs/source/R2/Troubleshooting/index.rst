@@ -177,7 +177,7 @@ Hotend Clogged
    :alt: Fan Electronics
    :align: center
 
-.. image:: Images/Extruderelectronicstop.png
+.. image:: Images/uptowncables.png
    :alt: Extruder Electronics
    :align: center
 
