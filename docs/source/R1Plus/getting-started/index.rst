@@ -98,15 +98,15 @@ The Robo R1+ Plus comes with an SD Card, which contains the software required to
 Connecting Robo R1+ Plus to MatterControl
 ---------------
 
-Here we will add your printer to the software which will enable you to control your printer.
+Here we will add Robo R1+ Plus to the MatterControl software which will enable you to control your printer.
 
-Open up MatterControl that you installed from the previous section. Connect your printer to the computer USB port via the USB cord that came with your printer.
+Open up MatterControl that you installed from the previous section. Connect your printer to the computer USB port via the USB cord that was provided with your printer.
 
 .. image:: images/USB.gif
    :alt: Connecting USB
    :align: center
 
-After MatterControl opens, click the 'Add Printer' button at the top of the screen.
+Once MatterControl is open, click the 'Add Printer' button towards the top of the screen.
 
 .. image:: images/add.png
    :alt: Add Printer
@@ -119,13 +119,13 @@ A new window will pop up and you will be able to set up a 3D printer. From here 
    :alt: Name
    :align: center
 
-Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing, a new window will appear. Follow the instructions on this screen. First disconnect your computer (if currently connected) by unplugging the USB connection, then click Continue. Then reconnect your printer when it prompts you (turn it on if it is off). Once the printer connects, you will see a “Connection Succeeded!” message. From here, click “Done”.
+Now a new set of windows will open and prompt to “Install Communication Driver”. Do this by clicking “Install Driver” in the bottom left corner of this screen. Once the driver is finished installing, a new window will appear. Follow the instructions on this screen. First disconnect your computer from Robo R1+ Plus (if currently connected) by unplugging the USB connection on either the computer or printer side, then click Continue. Next, reconnect your printer when it prompts you (make sure your R1+ Plus is turned on). Once the printer connects, you will see a “Connection Succeeded!” message. From here, click “Done”.
 
 .. image:: images/connect.PNG
    :alt: connect
    :align: center
 
-Now you have successfully connected your R1+!
+You have successfully connected your R1+ Plus!
 
 ---------------
 Loading filament
@@ -153,7 +153,7 @@ You can either click the PREHEAT button to preheat the print to a default temper
    :alt: preset
    :align: center
 
-If you choose to create your own preset, a new Window will popup after clicking the pencil. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature, click Save.
+If you choose to create your own preset, a new Window will popup after clicking the pencil icon. In this window you can set up to 3 custom presets. Once you name the preset and designate a temperature, click Save.
 
 .. image:: images/presets1.png
    :alt: preset
@@ -178,7 +178,7 @@ Be sure to unroll at least 11”— or 30 centimeters — of filament and cut th
    :alt: Cut Filament
    :align: center
 
-Now thread the filament through the filament latch at the top of the printer
+Now thread the filament through the filament guide at the top of the printer.
 
 .. image:: images/filtop.gif
    :alt: Thread
@@ -189,7 +189,7 @@ Now thread the filament through the filament latch at the top of the printer
    :align: center
 
 
-Insert filament through the filament gear, you may need to pull back the filament capture to thread the filament into the extruder.
+Insert filament down through the filament gear, you may need to pull back the filament latch to thread the filament into the extruder.
 
 
 .. image:: images/filgrab.gif
@@ -213,7 +213,7 @@ Now you're ready to start printing!
 The first print
 ---------------
 
-Now to start your first print. You can either load your own file, or choose one of the preloaded prints inside the local library. To print one of the preloaded files, navigate to the library tab and then select the Local Library.
+To start your first print. You can either load your own file, or choose one of the preloaded prints inside the local library. To print one of the preloaded files, navigate to the library tab and then select the Local Library.
 
 .. image:: images/prints1.png
   :alt: library
@@ -252,7 +252,7 @@ Before you start a print, make sure to double check your slicing settings. To do
   :alt: slice
   :align: center
 
-Once you select a file and finalize your settings, click PRINT and your printer will begin preheating. Your R1+ will begin printing as soon as the printer is completely preheated.
+Once you select a file and finalize your settings, click PRINT towards the top left of the window and your printer will begin preheating. Your R1+ Plus will begin printing as soon as the printer is completely preheated.
 
 .. image:: images/print2.png
   :alt: print

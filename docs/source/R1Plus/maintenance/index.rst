@@ -62,7 +62,7 @@ Rotate the feeder gear by turning the large gear by hand and repeat steps until 
 Lubricating the axis
 -----
 
-Make sure you periodically lubricate all the rods including the two Z-Axis lead screws. This will ensure that your printer can move seamlessly. To do so, just apply a tiny amount of the included lubricant on each of the rods. And slide the X and Y Axes across their entire range of motion to lubricate the rods.
+Make sure you periodically lubricate all the rods including the two Z-Axis lead screws. This will ensure that your printer can move seamlessly. To do so, apply a small amount of the included lubricant on each of the rods. And slide the X and Y Axes across their entire range of motion to lubricate the rods.
 
 .. image:: images/lube.gif
    :alt: lube
@@ -72,7 +72,7 @@ Make sure you periodically lubricate all the rods including the two Z-Axis lead 
 Cleaning the print bed surface
 -----
 
-The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive so your prints will stick to its surface.
+The Robo R1+ Plus print bed surface is glass. Make sure to clean it with a isopropyl alcohol and a damp cloth to ensure your print bed is clean for the new layer of adhesive. This will ensure your prints will stick to its surface.
 
 
 .. image:: images/clean.gif

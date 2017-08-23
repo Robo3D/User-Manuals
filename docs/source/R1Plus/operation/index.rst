@@ -50,19 +50,19 @@ After you click PREHEAT or one of your own presets, you should see the target te
 Movement Controls
 -----------
 
-While your printer is idle, you can use the movement controls on this panel to move the X, Y and Z axes. The extrude/retract motor movement keys help in loading and unloading filament as well. You can unlock the motors after a print job in order to move them around by hand if need be. Also, if you need to home any or all of your axes you can do it here.
+While your printer is idle, you can use the movement controls on this panel to move the X, Y and Z axes. The extrude/retract motor movement keys help in loading and unloading filament as well. You can unlock the motors after a print job in order to move them around by hand if need be. Also, if you need to home any or all of your axes you can do it here as well.
 
 Speed and Extrusion Control
 -----------
 
-If you need to adjust the speed at which your extruder is printing, under Tuning Adjustment use the  "Speed Multiplier" slider at the bottom of the screen. If you want to adjust the rate at which your printer is extruding filament use "Extrusion Multiplying." Slide it left to slow it down and right to increase the speed or flow rate. (This will only work while printing.)
+If you need to adjust the speed at which your extruder is printing, under Tuning Adjustment, use the "Speed Multiplier" slider at the bottom of the screen. If you want to adjust the rate at which your printer is extruding filament use "Extrusion Multiplying." Slide it left to slow it down and right to increase the speed or flow rate. (This will only work while printing.)
 
 
 -----------
 Loading files on MatterControl
 -----------
 
-Open up MatterControl and connect to your printer. Within the 'Queue', select the 'Add' button on the bottom left corner.
+Open up MatterControl and connect to your printer. Within the 'Queue', select the 'Add' button just above or on the bottom left corner.
 
 .. image:: images/queue.png
    :alt: Queue ADD
@@ -88,7 +88,7 @@ First click QUEUE at the bottom right of the dashboard.
     :alt: Printing off SD CARD
     :align: center
 
-   Then select Load Files under SD CARD
+Then select Load Files under SD CARD
 
 .. image:: images/sdprint2.PNG
     :alt: Printing off SD Card
@@ -104,9 +104,9 @@ Now your file is loaded and ready for printing!
 Setting your Z-Offset
 -----------
 
-If the offset on your printer is somehow not calibrated correctly, it may be too low or too high. Z-Offset measures the distance between “On” and “Off” in your Z endstops for auto leveling. There is sometimes a tolerance to this because of the way that the endstop parts are manufactured. R1+ Plus 3D printers come standard with a Z-Offset of 0.9
+If the offset on your printer is not calibrated correctly, it may be too low or too high. Z-Offset measures the distance between “On” and “Off” in your Z endstops for auto leveling, which is also the distance between the nozzle tip and the print bed. There is sometimes a tolerance to this because of the way that the endstop parts are manufactured. R1+ Plus 3D printers come standard with a Z-Offset of 0.9 mm.
 
-To adjust your Z-Offset, under the Controls tab, scroll down and press one of the Macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your Z-Offset to a different value.
+To adjust your Z-Offset, under the Controls tab, scroll down and click one of the Macro buttons within MatterControl. Pressing the Macro button will save the offset to that value and you will not need to press it again unless you want to change your Z-Offset to a different value.
 
 .. image:: images/zoffset.png
    :alt: zoffset
@@ -127,10 +127,10 @@ After preheating your extruder and heated bed, double check that your slice sett
 
 
 -----------
-Load filament
+Loading filament
 -----------
 
-Begin by sliding the spool holder onto your printer.
+Begin by sliding the spool holder onto your printer. Make sure your hotend nozzle is preheated to the temperature of your material.
 
 .. image:: images/filplace.gif
    :alt: Place spool on holder
@@ -174,7 +174,7 @@ Once inserted, turn the filament gear until you see filament coming out of the e
 Check the build plate
 -----------
 
-Make sure that your part is oriented efficiently. To check this, click view next to your desired print to see a preview of your print. If you want to make any changes to the orientation of your part, click Edit on the Preview Screen. From here you can Move, Rotate, Scale and more to ensure your print is comes out perfectly. Before you start your print be sure to hit Save once you're finished making changes.
+Make sure that your part is oriented efficiently. To check this, click view next to your desired print to see a preview of your print. If you want to make any changes to the orientation of your part, click Edit on the Preview Screen to the right. From here you can Move, Rotate, Scale and more to ensure your print is oriented properly. Before you start your print, be sure to hit Save once you're finished making changes.
 
 .. image:: images/checkbuild.png
     :alt: Build Plate
@@ -182,16 +182,16 @@ Make sure that your part is oriented efficiently. To check this, click view next
 
 
 -----------
-Print bed adhesives
+Print bed adhesion
 -----------
 
 In order for the plastic to stick to the glass of the build plate, you must use an adhesive. You can use a couple of different techniques for prepping your build plate. Two of the most commons methods we use here at Robo are to use a glue stick or hair spray.
 
-Before applying either adhesive, move the heated bed all the way out.
+Before applying either adhesive, move the heated bed all the way out towards the front of the printer.
 
 1. Glue stick (supplied with your tool kit):
 
-Open the glue stick and apply perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
+Open the glue stick and apply a single layer perpendicularly to the printing surface of the build plate. Make sure no bumps are left on the build plate.
 
 .. image:: images/gluestick.gif
    :alt: glue stick
@@ -199,7 +199,7 @@ Open the glue stick and apply perpendicularly to the printing surface of the bui
 
 2. Hair spray (AquaNet works very well):
 
-When using hairspray you can either raise the extruder (using the motor controls on MatterControl), or cover the extruder and rods with your arm as you spray. Try not spray any of the rods within the machine.
+When using hairspray you can either raise the extruder (using the motor controls on MatterControl), or cover the extruder and rods with a piece of paper or a shield as you spray to ensure no hairspray is applied to the linear rods. Ensure not spray any of the rods within the machine.
 
 .. image:: images/hairspray.gif
    :alt: hairspray
@@ -209,7 +209,7 @@ When using hairspray you can either raise the extruder (using the motor controls
 Start Printing
 ---------------
 
-Now just click the Print button! You will notice that your part slices in the software right before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
+Now just click the Print button! You will notice that your part slices in the software before the print starts and the printer runs an auto leveling measurement sequence. From here let the printer do the rest of the work and watch your part grow!
 
 .. note:: If you selected a Print from your Desktop or Laptop you'll need to keep your Printer connected for the entirety of the print. If you Loaded it from the SD Card in the Printer, your computer does not need to stay connected for the print to finish.
 
