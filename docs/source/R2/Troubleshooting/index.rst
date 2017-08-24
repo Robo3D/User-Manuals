@@ -400,7 +400,7 @@ Then check the 6 golden colored pins. Press down on each one, they should all be
    :alt: Check Pins
    :align: center
 
-If one of the pins is not rebounding back to its original position, you may need to replace your pogo pin pcb.
+If any of the pins are not rebounding back to its original position, you may need to replace your pogo pin pcb.
 
 .. image:: Images/retract.jpg
    :alt: Retract pins
