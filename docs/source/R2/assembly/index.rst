@@ -186,10 +186,9 @@ LCD Screen Replacement
    :alt: lcd screws
    :align: center
 
-
 .. note:: You may find the LCD removal/installation process easier without the HDMI cable in the way. You may remove the cable for better accessibility. Please ensure to reconnect the cable properly by placing your finger underneath the HDMI adapter while pushing the cable back onto the adapter so that it does not unplug from the LCD screen.
 
-.. image:: images/hdmi2.jpg
+.. image:: images/hdmi2.gif
    :alt: HDMI Reconnection
    :align: center
 
