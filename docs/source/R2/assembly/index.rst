@@ -159,3 +159,29 @@ Front Panel Removal
    :align: center
 
 **Reverse process to re-install R2 front panel.**
+
+LCD Screen Replacement
+-----------
+
+**Step 1:** Please refer to Robo 3D R2 Gantry Removal Guide and Robo 3D R2 Front Panel Removal Guide to remove both assemblies from your R2 printer to gain better accessibility to LCD screen. Please ensure that your R2 is powered off, and all pertinent cables/connectors have been disconnected.
+
+**Step 2:** With gantry and front panel removed, **identify** the 11 screws you’ll need to unfasten in order to access the 4 screws retaining the LCD screen to the bezel.
+
+
+**Step 3:** Identify the 5 outermost screws which fasten the bezel assembly to the front panel. Unfasten these 5 screws, making sure to remember where each screw goes.
+
+.. image:: images/five-screws.jpg
+   :alt: first 5
+   :align: center
+
+**Step 4:** Identify the 6 innermost screws which fasten the internal shroud to the bezel assembly. Unfasten these 6 screws (you do not need to remove the screws from their holes; backing them out is sufficient).
+
+.. image:: images/six-screws.jpg
+   :alt: next 6
+   :align: center
+   
+**Step 5:** With one hand, bend the internal shroud up just enough to reveal the 2 uppermost screws that fasten the LCD screen to the bezel. Unfasten these 2 screws, release the internal shroud, then unfasten the lower 2 screws to remove the LCD screen.
+
+.. image:: images/lcd-screws.jpg
+   :alt: lcd screws
+   :align: center
