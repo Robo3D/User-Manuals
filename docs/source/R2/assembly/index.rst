@@ -167,6 +167,9 @@ LCD Screen Replacement
 
 **Step 2:** With gantry and front panel removed, **identify** the 11 screws you’ll need to unfasten in order to access the 4 screws retaining the LCD screen to the bezel.
 
+.. image:: images/shroud-screws.jpg
+   :alt: 11 screws
+   :align: center
 
 **Step 3:** Identify the 5 outermost screws which fasten the bezel assembly to the front panel. Unfasten these 5 screws, making sure to remember where each screw goes.
 
@@ -186,7 +189,7 @@ LCD Screen Replacement
    :alt: lcd screws
    :align: center
 
-.. note:: You may find the LCD removal/installation process easier without the HDMI cable in the way. You may remove the cable for better accessibility. Please ensure to reconnect the cable properly by placing your finger underneath the HDMI adapter while pushing the cable back onto the adapter so that it does not unplug from the LCD screen.
+**Step 6:** You may find the LCD removal/installation process easier without the HDMI cable in the way. You may remove the cable for better accessibility. Please ensure to reconnect the cable properly by placing your finger underneath the HDMI adapter while pushing the cable back onto the adapter so that it does not unplug from the LCD screen.
 
 .. image:: images/hdmi2.gif
    :alt: HDMI Reconnection
