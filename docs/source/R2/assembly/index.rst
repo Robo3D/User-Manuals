@@ -183,7 +183,7 @@ LCD Screen Replacement
    :alt: next 6
    :align: center
 
-**Step 5:** With one hand, bend the internal shroud up just enough to reveal the 2 uppermost screws that fasten the LCD screen to the bezel. Unfasten these 2 screws, release the internal shroud, then unfasten the lower 2 screws to remove the LCD screen.
+**Step 5:** With one hand, bend the internal shroud up just enough to reveal the 2 uppermost screws that fasten the LCD screen to the bezel. Unfasten these 2 screws, release the internal shroud, then unfasten the lower 2 screws to remove the LCD screen. When reinstalling LCD screen, be sure not to screw the screen too tightly, otherwise it might affect the touch screen. 
 
 .. image:: images/lcd-screws.gif
    :alt: lcd screws
