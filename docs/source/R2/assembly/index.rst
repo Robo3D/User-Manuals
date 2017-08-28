@@ -7,11 +7,13 @@
 Assembly
 =================================================
 
-.. image:: images/r2-assembly.pdf
+.. image:: images/r2-assembly.jpg
    :alt: Assembly Header
    :align: center
 
-Here you will find assembly instructions incase you need to service your Robo.
+Get to know your Robo!
+
+Here you will find assembly instructions incase you need to service your printer.
 
 Gantry Removal
 -----
