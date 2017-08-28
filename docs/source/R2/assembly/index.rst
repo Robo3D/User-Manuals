@@ -34,7 +34,7 @@ Gantry Removal
    :alt: Remove Extruder Cover
    :align: center
 
-**Step 4:** Unlatch the extruder ribbon plug from its connector by pulling the latches outward. Unplug the two smaller connectors and hang ribbon cable off the back of the printer, out of the way.
+**Step 4:** Unlatch the extruder ribbon plug from its connector by pulling the latches outward. Unplug the two smaller connectors(pairs of black wires) and hang ribbon cable off the back of the printer, out of the way.
 
 .. image:: images/unplug.gif
    :alt: Unplug Extruder Cable
@@ -54,6 +54,10 @@ Gantry Removal
    :alt: Gantry Screws
    :align: center
 
+.. image:: images/8-screws.gif
+   :alt: Gantry Screws Locations
+   :align: center
+
 **Step 7:** Pull gantry assembly straight upward by grabbing the top cap from the inside on left and right sides.
 
 .. image:: images/top-cap.gif
@@ -61,7 +65,7 @@ Gantry Removal
    :align: center
 
 **Reverse process in order to reassemble printer.**
-   
+
 **Step 8:** Carefully slide gantry back onto the top of the printer, being mindful that each tab slides into its respective slot.
 
 **Step 9:** Re-fasten the two screws into the motor mounts near X and Y motors.
@@ -73,3 +77,83 @@ Gantry Removal
 **Step 12:** Re-insert the X and Y motor plugs into their respective motor connectors.
 
 **Step 13:** Power up your R2 and toggle the “home” function to ensure that each axis is working as expected.
+
+Front Panel Removal
+---------
+**Step 1:** Please refer to the R2 Gantry Removal Guide. Follow all instructions to remove gantry before proceeding.
+
+**Step 2:** Remove hatch cover and hatch from the inside of the printer (magnetic door stop can be removed for easier hatch removal). Move the bed manually to its uppermost position for better accessibility by twisting the lead screw clockwise (as seen below).
+
+.. image:: images/hatch.jpg
+   :alt: Hatch Removal
+   :align: center
+
+**Step 3:** Unplug USB cable from the top left USB port on the Raspberry Pi. Pull cable out of cable management clips along the bottom chassis.
+
+.. image:: images/usb.gif
+   :alt: usb
+   :align: center
+
+**Step 4:** Unplug HDMI cable from the Raspberry Pi.
+
+.. image:: images/hdmi.gif
+   :alt: hdmi
+   :align: center
+
+**Step 5:** Unplug LCD ribbon cable from the back of the LCD.
+
+.. image:: images/lcd.gif
+   :alt: lcd
+   :align: center
+
+**Step 6:** Unplug LED connector(blue and white cable) from the Fan2 position of the mainboard. Pull cable out of cable management clips along the bottom chassis.
+
+.. image:: images/led.gif
+   :alt: led
+   :align: center
+
+**Step 7:** Remove the camera ribbon cable from its connector. Pull upwards on the two black tabs to release the ribbon cable.
+
+.. image:: images/camera.gif
+   :alt: led
+   :align: center
+
+**Step 8:** Remove 7 screws that retain front panel to side panels and chassis. There are 2 top screws, 2 middle screws, and 3 bottom screws. Start with bottom, then middle, then top screws.
+
+**Step 8.1:** 3 Bottom Screws
+
+.. image:: images/three.png
+   :alt: three screws
+   :align: center
+
+**Step 8.2:** 2 Middle Screws
+
+.. image:: images/mid-1.jpg
+   :alt: mid 1
+   :align: center
+
+.. image:: images/mid-2.jpg
+   :alt: mid 2
+   :align: center
+
+**Step 8.3:** 2 Top Screws
+
+.. image:: images/top-1.jpg
+   :alt: top 1
+   :align: center
+
+.. image:: images/top-2.jpg
+   :alt: top 2
+   :align: center
+
+.. image:: images/seven.PNG
+   :alt: cad
+   :align: center
+
+**Step 9:** Carefully pull front panel away from printer, being mindful of any wires that may snag in the chassis.
+
+.. image:: images/pull.gif
+   :alt: pull
+   :align: center
+
+**Reverse process to re-install R2 front panel.**
