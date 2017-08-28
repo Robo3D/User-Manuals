@@ -179,9 +179,18 @@ LCD Screen Replacement
 .. image:: images/six-screws.jpg
    :alt: next 6
    :align: center
-   
+
 **Step 5:** With one hand, bend the internal shroud up just enough to reveal the 2 uppermost screws that fasten the LCD screen to the bezel. Unfasten these 2 screws, release the internal shroud, then unfasten the lower 2 screws to remove the LCD screen.
 
-.. image:: images/lcd-screws.jpg
+.. image:: images/lcd-screws.gif
    :alt: lcd screws
    :align: center
+
+
+.. note:: You may find the LCD removal/installation process easier without the HDMI cable in the way. You may remove the cable for better accessibility. Please ensure to reconnect the cable properly by placing your finger underneath the HDMI adapter while pushing the cable back onto the adapter so that it does not unplug from the LCD screen.
+
+.. image:: images/hdmi2.jpg
+   :alt: HDMI Reconnection
+   :align: center
+
+**Reverse this process to re-install LCD screen.**
