@@ -46,3 +46,4 @@ The Robo R2 high-performance smart 3D printer with Wi-Fi gives you the freedom t
    operation/index.rst
    maintenance/index.rst
    Troubleshooting/index.rst
+   assembly/index.rst
