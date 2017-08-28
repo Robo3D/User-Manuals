@@ -54,7 +54,7 @@ Gantry Removal
    :alt: Gantry Screws
    :align: center
 
-.. image:: images/8-screws.gif
+.. image:: images/8-screws.jpg
    :alt: Gantry Screws Locations
    :align: center
 
