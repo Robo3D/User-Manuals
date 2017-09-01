@@ -49,6 +49,9 @@ ABS plastic is much more temperamental as far as cooling goes than other types o
 Nozzle Clogging
 ---------------
 
+
+
+
 How to Prevent it
 ---------------
 
@@ -76,6 +79,30 @@ After Clearing the nozzle, turn it OFF through MatterControl and let it cool dow
 .. image:: images/reconnect.gif
    :alt: Remove
    :align: center
+
+How to Replace the R1+ Nozzle Tip
+-------------------
+
+Taking off the nozzle tip on a hotend is fairly simple.
+
+1. Take out the hotend
+2. Heat it to 240C
+3. Loosen Nozzle tip
+4. Replace
+
+1. Loosen the quick release screw
+
+.. image:: images/Unscrew.jpg
+   :alt: Remove
+   :align: center
+
+2. Heat up the hotend over 200C using the preheat controls
+3. Loosen the Nozzle tip using channel locks to hold the heating block and a 7mm wrench to loosen the nozzle tip.
+
+.. image:: images/Lefty_loosie.jpg
+   :alt: Remove
+   :align: center
+4. You're done!  Now just run these steps in reverse to put the nozzle tip back in after cleaning or replacing
 
 ---------------
 Extrusion - Filament Grinding
