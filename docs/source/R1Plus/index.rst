@@ -44,3 +44,4 @@ The Robo R1+ Plus gives you the freedom to make whatever you can imagine.
    operation/index.rst
    maintenance/index.rst
    troubleshooting/index.rst
+   firmware/index.rst
