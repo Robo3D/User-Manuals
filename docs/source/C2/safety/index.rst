@@ -4,14 +4,9 @@
    contain the root `toctree` directive.
 
 =================================================
-Safety and Information
+General Safety Information
 =================================================
 
----------------
-Print Not Sticking to Bed
----------------
-
-**General Safety Information**
 
 This User Guide contains important safety directions that should be followed during installation and operation
 of Robo 3D printers. It also includes warnings against negligence and misuse that could cause damages or injuries.
@@ -99,4 +94,7 @@ received, including interference that may cause undesired operation.
 
 This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used
 in accordance with this instruction manual, may cause harmful interference to radio communications.
-Operation of this equipment in a residential area is likely to cause harmful interference.
+Operation of this equipment in a residential area is likely to cause harmful interference - the user will be
+required to correct the interference at their own expense.
+
+The EMC test report for the Robo C2 or the Robo R2 is available on request at engineering@robo3d.com.
