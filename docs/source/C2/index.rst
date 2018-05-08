@@ -8,7 +8,6 @@
    :alt: C2 Header
    :align: center
 
-
 ======
 Robo C2
 ======
@@ -24,11 +23,11 @@ Robo C2
    maintenance/index.rst
    Troubleshooting/index.rst
 
-Robo™ C2 User Manual  
-by Robo 3D, Inc.  
-Copyright © 2017 Robo 3D, Inc.  
-Permission is granted to copy, distribute and/or modify this document
-under the terms of the Creative Commons Attribution 4.0 International
-Public License (CC BY-SA 4.0).  
-Published by Robo 3D, Inc., 5070 Santa Fe Street Suite C, San Diego, California,
-92109 USA.  
+| Robo™ C2 User Manual
+| by Robo 3D, Inc.
+| Copyright © 2017 Robo 3D, Inc.
+| Permission is granted to copy, distribute and/or modify this document
+| under the terms of the Creative Commons Attribution 4.0 International
+| Public License (CC BY-SA 4.0).
+| Published by Robo 3D, Inc., 5070 Santa Fe Street Suite C, San Diego, California,
+| 92109 USA.
