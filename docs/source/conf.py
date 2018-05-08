@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'R2 User Manual'
+project = u'Robo User Manuals'
 copyright = u'2016, Robo'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -196,7 +196,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'SphinxRTDthemedemo.tex', u'R2 User Manual',
+  ('index', 'SphinxRTDthemedemo.tex', u'Robo User Manuals',
    u'Robo', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'sphinxrtdthemedemo', u'R2 User Manual',
+    ('index', 'sphinxrtdthemedemo', u'Robo User Manuals',
      [u'Robo 3D, Inc.'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'SphinxRTDthemedemo', u'R2 User Manual',
-   u'Robo 3D, Inc.', 'SphinxRTDthemedemo', 'Documentation for the Robo R2 and software.',
+  ('index', 'SphinxRTDthemedemo', u'Robo User Manuals',
+   u'Robo 3D, Inc.', 'SphinxRTDthemedemo', 'Documentation for Robo printers and software.',
    'Miscellaneous'),
 ]
 
