@@ -6,7 +6,7 @@
 =================================================
 Cura for Robo Desktop
 =================================================
-To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo C2 can read, and uses it to produce an object.
+To get your 3d prints out looking great, Cura for Robo Desktop Software is the recommended software. This software takes your 3d models, and turns them into a language that the Robo R2 can read, and uses it to produce an object.
 
 For the Quick Start Guide on using Cura for Robo, click here: Cura_for_Robo_QSG_.
 
@@ -471,9 +471,9 @@ Left: Touching buildplate - Right: Everywhere
 Connecting a Printer via Wifi
 -----------
 
- There is a way to connect Robo C2 directly to Cura for Robo enabling you to print right from within the software. Take these steps to connect your printer;
+ There is a way to connect Robo R2 directly to Cura for Robo enabling you to print right from within the software. Take these steps to connect your printer;
 
-1. Click on the Robo C2 icon in the top right of the interface.
+1. Click on the Robo R2 icon in the top right of the interface.
 
 .. image:: images/1.PNG
    :alt: Printer Tab

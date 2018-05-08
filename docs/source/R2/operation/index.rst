@@ -186,26 +186,26 @@ Robo 3D App
    :align: center
 
 Web app
- * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
- * To see the IP address of your printer, select 'Utilities' from the home screen
+   * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
+   * To see the IP address of your printer, select 'Utilities' from the home screen
 
 .. image:: images/select-utilities-r2.png
    :alt: Select Utilities
    :align: center
 
-* Next select 'Network'
+  * Next select 'Network'
 
 .. image:: images/Selectnetwork.png
    :alt: Select Network
    :align: center
 
-* Then select 'Network Status' and note the IP address of your Robo C2
+  * Then select 'Network Status' and note the IP address of your Robo C2
 
 .. image:: images/Selectnetworkstatus.png
    :alt: Select Network Status
    :align: center
 
-* Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo R2
+  * Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo R2
 
 -----------
 Using print bed adhesion
