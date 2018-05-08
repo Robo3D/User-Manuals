@@ -4,10 +4,8 @@
    contain the root `toctree` directive.
 
 =================================================
-Safety and Information
+General Safety Information
 =================================================
-
-**General Safety Information**
 
 This User Guide contains important safety directions that should be followed during installation and operation
 of Robo 3D printers. It also includes warnings against negligence and misuse that could cause damages or injuries.
