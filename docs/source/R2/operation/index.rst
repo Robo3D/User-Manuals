@@ -171,21 +171,21 @@ Print Status
 
 There are three ways to check on the status of your print while your Robo R2 is at work printing away
 
-Screen
+LCD Screen
    * While your Robo R2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, a progress indicator, along with the nozzle temperature and any error messages you may have encountered.
 
 .. image:: images/printing-r2.png
    :alt: Printing Screen
    :align: center
 
-Robo 3D App
-   * If you have the Robo 3D app, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
+Robo Mobile App
+   * If you have the Robo Mobile App, you can check on the status of your print by selecting the printer under the 'Dashboard' tab This will indicate the name of the file printing, what percentage done your print is, along with the nozzle temperature
 
 .. image:: images/iosstatus.jpeg
    :alt: iOS Screen
    :align: center
 
-Web app
+Web Dashboard
    * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
    * To see the IP address of your printer, select 'Utilities' from the home screen
 
@@ -256,7 +256,7 @@ The password for your printer's hotspot (AP mode) is the same as your printer's 
 Downloading the Robo App
 -----------
 
-From your mobile evice
+From your mobile device
    1. Open the appropriate App Store app (Google Play or App Store)
    2. Tap on search
    3. Enter “Robo 3D”
