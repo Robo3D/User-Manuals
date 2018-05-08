@@ -11,4 +11,3 @@
    cura-for-robo-desktop/index.rst
    web-interface/index.rst
    ios-app/index.rst
-   safety-compliance/index.rst
