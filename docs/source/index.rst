@@ -7,8 +7,7 @@
    :alt: Quick Start Guide cover
    :align: center
 
-Robo User Manual
-=================================================
+**Robo User Manual**
 
 Greetings, Maker!
 
@@ -19,18 +18,6 @@ In our Maintenance and Troubleshooting sections we've provide useful tips on kee
 Happy Printing,
 
 Coby Kabili and Braydon Moreno, Robo Co-founders
-
-
-**Make smarter with the Robo app**
-
-Simply download the free Robo app to experience the next level in 3D printing and get more out of everything you make.
-
-   * Connect and print right from your mobile device
-   * Monitor the progress of every print
-   * Manage multiple prints and printers at once
-   * Manual control panel lets you handle every detail with precision
-   * Connect to cloud libraries and access thousands of 3D models
-   * Make in-app purchases (filaments, accessories, print kits and more)
 
 
 **Logging into your Robo account**
