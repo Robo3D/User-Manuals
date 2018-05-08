@@ -88,7 +88,7 @@ while operating the printer or while removing the finished print.
 
 **Electromagnetic Compatibility (EMC)**
 
-Each Robo printer complies with Part 15 of the FCC rules. Operation is subject to the following two conditions:
+The Robo R2 and Robo C2 comply with Part 15 of the FCC rules. Operation is subject to the following two conditions:
 (1) this device may not cause harmful interference, and (2) this device must accept any interference
 received, including interference that may cause undesired operation.
 
