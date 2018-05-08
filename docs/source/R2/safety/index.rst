@@ -22,8 +22,7 @@ functioning.
 
 Do not leave the machine unattended during the print job - check it periodically for proper functioning in
 order to avoid potential accidents or failures. Turn off the printer once the print job is finished.
-Monitor your printer for wear and tear regularly. Contact our Support Center at: http://help.robo3d.
-com/ for assistance while replacing worn or broken parts.
+Monitor your printer for wear and tear regularly. Contact our Support Center at: http://help.robo3d.com/ for assistance while replacing worn or broken parts.
 
 Keep the printer away from heat sources, fire, flammable materials, humidity as well as water and other
 liquids. Place the machine away from any equipment emitting radiation. To prevent any inadvertent use,
