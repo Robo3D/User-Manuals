@@ -172,7 +172,7 @@ Print Status
 There are three ways to check on the status of your print while your Robo R2 is at work printing away
 
 Screen
-   * While your Robo C2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, a progress indicator, along with the nozzle temperature and any error messages you may have encountered.
+   * While your Robo R2 is printing, you can simply check the status by selecting 'Printer' on the home screen. This will indicate the name of the file printing, what percentage done your print is, a progress indicator, along with the nozzle temperature and any error messages you may have encountered.
 
 .. image:: images/printing-r2.png
    :alt: Printing Screen
@@ -189,9 +189,11 @@ Web app
    * If you have a web browser on your computer or mobile device, you can check on the status of your print by navigating to its IP address in the navigation bar of the browser
    * To see the IP address of your printer, select 'Utilities' from the home screen
 
+
 .. image:: images/select-utilities-r2.png
    :alt: Select Utilities
    :align: center
+
 
   * Next select 'Network'
 
@@ -205,21 +207,22 @@ Web app
    :alt: Select Network Status
    :align: center
 
-  * Copy that number into your browser navigation bar, and it will bring you to a web app to see all things with your Robo R2
+  * Copy that number into your browser navigation bar, and it will bring you to the web dashboard for your printer.  From here you can slice files, manage plugins, and whole lot more!
 
 -----------
 Using print bed adhesion
 -----------
 
-The Robo R2 has a print bed adhesion PEI plate already installed with your printer. These will usually last about 4-6 months depending on use.
-   - In order to make sure you get good adhesion of your print, make sure to wipe the print bed adhesion with a damp cloth before every print.
-   - If your prints have a hard time sticking to the bed, you can use a method to roughen the surface by using a 2000 grit sand paper and lightly sanding the top surface then cleaning off with a damp cloth.
+The Robo R2 now ships with the Heated Bed v2, which comes with a sheet of BuildTak preinstalled. BuildTak generally does not require adhesives to maintain a good bond with your filament.
+
+   - To ensure you get good adhesion with your print, wipe the print bed surface with a damp cloth before every print.
+   - If your prints have a hard time sticking to the bed, clean the print bed surface with isopropyl alcohol and a paper towel to remove any oils that may have built up.
 
 ------------
 Removing the print
 ------------
 
-When the print is complete and cooled down, carefully remove the print bed with both hands and set on a flat surface. Use the provided spatula to carefully remove the print at its borders. Then, slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
+When the print is complete and cooled down, carefully remove the print bed with both hands and set it on a flat surface. Use the provided spatula to carefully remove the print at its borders. Then, slowly work your way underneath the print until it’s loose. Don’t force the print loose by pulling it up directly up from the print bed, since this may cause your print to break.
 
 .. image:: images/removing-print-r2.gif
    :alt: Removing Print
@@ -253,15 +256,15 @@ The password for your printer's hotspot (AP mode) is the same as your printer's 
 Downloading the Robo App
 -----------
 
-From your iOS Device
-   1. Open the App Store app
-   2. On the bottom dock, tap on search
-   3. Enter “Robo App”
+From your mobile evice
+   1. Open the appropriate App Store app (Google Play or App Store)
+   2. Tap on search
+   3. Enter “Robo 3D”
    4. Tap on the Robo App
-   5. Tap download on the right of the icon, and rate us 5 stars if you like it!
+   5. Tap download, and don't forget to leave a rating!
 
 -----------
-Connecting your iOS device to your Robo R2
+Connecting your mobile device to your Robo R2
 -----------
 
 Connecting via a local wifi network
@@ -308,7 +311,7 @@ Web Dashboard
 
 3. Finally, refresh your web browser for the camera image to show up in your dashboard.
 
-Robo iOS App (beta only)
+Robo Mobile App
 -----------
 
 1. Navigate to your printer that you wish to see the camera.
