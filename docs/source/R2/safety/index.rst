@@ -4,9 +4,10 @@
    contain the root `toctree` directive.
 
 =================================================
-General Safety Information
+Safety and Information
 =================================================
 
+**General Safety Information**
 
 This User Guide contains important safety directions that should be followed during installation and operation
 of Robo 3D printers. It also includes warnings against negligence and misuse that could cause damages or injuries.
@@ -21,8 +22,7 @@ functioning.
 
 Do not leave the machine unattended during the print job - check it periodically for proper functioning in
 order to avoid potential accidents or failures. Turn off the printer once the print job is finished.
-Monitor your printer for wear and tear regularly. Contact our Support Center at: http://help.robo3d.
-com/ for assistance while replacing worn or broken parts.
+Monitor your printer for wear and tear regularly. Contact our Support Center at: http://help.robo3d.com/ for assistance while replacing worn or broken parts.
 
 Keep the printer away from heat sources, fire, flammable materials, humidity as well as water and other
 liquids. Place the machine away from any equipment emitting radiation. To prevent any inadvertent use,
@@ -43,7 +43,7 @@ well as in separate regulations should be taken into account.
 
 **Electrical Safety**
 
-The Robo C2 3D printer has been tested for compliance with Low Voltage Directive. In order to ensure
+The Robo R2 3D printer has been tested for compliance with Low Voltage Directive. In order to ensure
 the highest safety standards, including protection against short circuit, overload, overvoltage and
 printer overheating, do not attempt to modify the printer and do not use electronic replacement parts
 other than those recommended by the Manufacturer.
@@ -88,7 +88,7 @@ while operating the printer or while removing the finished print.
 
 **Electromagnetic Compatibility (EMC)**
 
-The Robo R2 and Robo C2 comply with Part 15 of the FCC rules. Operation is subject to the following two conditions:
+Each Robo printer complies with Part 15 of the FCC rules. Operation is subject to the following two conditions:
 (1) this device may not cause harmful interference, and (2) this device must accept any interference
 received, including interference that may cause undesired operation.
 
