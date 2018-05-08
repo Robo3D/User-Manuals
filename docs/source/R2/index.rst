@@ -3,16 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-.. image:: images/r2-blank.jpg
-   :alt: R2 Header
-   :align: center
-
 ======
 Robo R2
 ======
-
-**Installation and User Manual**
 
 .. toctree::
    :maxdepth: 2
