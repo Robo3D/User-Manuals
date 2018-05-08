@@ -21,30 +21,6 @@ Happy Printing,
 Coby Kabili and Braydon Moreno, Robo Co-founders
 
 
-Make smarter with the Robo app
-=================================================
-
-Simply download the free Robo app to experience the next level in 3D printing and get more out of everything you make.
-
-   * Connect and print right from your mobile device
-   * Monitor the progress of every print
-   * Manage multiple prints and printers at once
-   * Manual control panel lets you handle every detail with precision
-   * Connect to cloud libraries and access thousands of 3D models
-   * Make in-app purchases (filaments, accessories, print kits and more)
-
-
-Logging into your Robo account
-=================================================
-
-To enjoy the best possible Robo app experience, be sure to log into your Robo account. Logging into your account lets you do things like browse models from your cloud storage, and even post status updates via social media to show off all the cool stuff you’re making with Robo C2.
-
-Use the following steps to log into your Robo account:
-
-1. Open the Robo app open and select “Menu” in the upper left corner
-2. Select “Log In” on the right hand side of the screen
-3. Follow the prompt to successfully login to your account
-
 
 .. toctree::
    :maxdepth: 2
@@ -53,4 +29,3 @@ Use the following steps to log into your Robo account:
    cura-for-robo-desktop/index.rst
    web-interface/index.rst
    ios-app/index.rst
-   safety-compliance/index.rst
