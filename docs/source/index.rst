@@ -21,17 +21,6 @@ Coby Kabili and Braydon Moreno, Robo Co-founders
 
 
 
-**Logging into your Robo account**
-
-To enjoy the best possible Robo app experience, be sure to log into your Robo account. Logging into your account lets you do things like browse models from your cloud storage, and even post status updates via social media to show off all the cool stuff you’re making with Robo C2.
-
-Use the following steps to log into your Robo account:
-
-1. Open the Robo app open and select “Menu” in the upper left corner
-2. Select “Log In” on the right hand side of the screen
-3. Follow the prompt to successfully login to your account
-
-
 .. toctree::
    :maxdepth: 2
 
