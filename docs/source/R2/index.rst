@@ -12,8 +12,7 @@
 Robo R2
 ======
 
-Installation and User Manual
-============================
+**Installation and User Manual**
 
 Robo™ R2 User Manual  
 by Robo 3D, Inc.  
