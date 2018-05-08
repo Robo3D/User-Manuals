@@ -94,9 +94,7 @@ Finally, using the handholds on the bottom of your R2, lift the printer out of t
 Initial set-up
 ---------------
 
-Now let’s move forward with your initial set-up of Robo R2.
-
-Inside the inclusions box, there is a small toolbox; here you will find the hotend cover. Go ahead and take that out and place it over the hotend. It is held in with magnets so it just pops right in.
+Inside the inclusions box, there is a small toolbox; here you will find the hotend cover. Remove it and place it over the hotend. It is held in with magnets, so it just pops right in.
 
 .. image:: images/hotend-cover-on-r2.gif
    :alt: Hotend Cover On
@@ -104,7 +102,7 @@ Inside the inclusions box, there is a small toolbox; here you will find the hote
 
 From here you’ll want to connect the power cord to the designated area on the back of the printer and then plug it into an AC outlet.
 
-Now go ahead and turn on the printer.
+Turn on the printer.
 
 It is necessary connecting Robo R2 to your Wi-Fi network. Doing so provides you with necessary updates that allows for a more enjoyable 3D printing experience.
 
@@ -122,20 +120,20 @@ To begin connecting to your Wi-Fi network, Select UTILITIES on home screen. Sele
 Updating
 ---------------
 
-Now, you will need to update Robo R2.
+When unboxing your printer, there may be an update available for your R2.
 
-Select UTILITIES. Then select UPDATE.
+To apply the update, select UTILITIES from the LCD screen. Then select UPDATE.
 
 .. image:: images/update-software-r2.gif
    :alt: Update Screen
    :align: center
 
-Update to the latest version and wait about a minute to get everything up-to-date. If your Robo R2 is already up to date, the button will be greyed out and say 'up to date'.
+Updating to the latest version can potentially take up to 1.5 hours, depending on your internet speed. If your Robo R2 is already up to date, the button will be greyed out and say 'up to date'.
 
 Calibration and setting Z offset
 ---------------
 
-Next you’ll want to calibrate Robo R2 by selecting UTILITIES on the touch screen. Then select WIZARDS from the list. From here you’ll select Z OFFSET WIZARD. Now, the printer will wait to calibrate its home position.
+Before printing, you should calibrate your R2 by selecting UTILITIES on the touch screen. Select WIZARDS from the list. From here you’ll select Z OFFSET WIZARD. The printer will wait to calibrate its home position.
 
 .. image:: images/z-offset-wizard-r2.gif
    :alt: Bed to zero
@@ -151,7 +149,7 @@ Follow the directions on the screen by using the calibration card or a standard 
    :alt: Bed Calibration
    :align: center
 
-If your bed is too high and the calibration card does not have enough room to slide between the nozzle and the bed, press the down arrow until the calibration card can pass freely but with a slight resistance between the nozzle and the bed.
+If your bed is too high, the calibration card will not have enough room to slide between the nozzle and the bed.  Press the down arrow until the calibration card can pass freely, but with a slight resistance between the nozzle and the bed.
 
 .. image:: images/bed-offset-too-high-r2.gif
    :alt: Offset too high
@@ -162,7 +160,7 @@ You can also fine-tune your offset by going to Utilities> Wizards> Fine Tune Off
 Loading filament
 ---------------
 
-Now, unhinge the spool holder by simply pushing on the top of the higher lever from the rear of the printer. Next, insert the filament feed tube into the filament sensor block.
+Unhinge the spool holder by simply pushing on the top of the higher lever from the rear of the printer. Next, insert the filament feed tube into the filament sensor block.
 
 .. image:: images/spool-on-r2.gif
    :alt: Unhinge Spool Holder
@@ -174,7 +172,7 @@ To begin loading filament, hang your filament spool on the top spool holder. Be 
    :alt: Unhinge Spool Holder
    :align: center
 
-Now select UTILITIES on the touch screen. Then select WIZARDS from the list. Finally, select FILAMENT LOADING WIZARD. The on-screen prompts should guide you to loading your filament.
+Select UTILITIES on the touch screen, then select WIZARDS from the list. Finally, select FILAMENT LOADING WIZARD. The on-screen prompts should guide you to loading your filament.
 
 .. image:: images/fil-loading-screen-r2.gif
    :alt: Unhinge Spool Holder
@@ -186,7 +184,7 @@ Continue feeding the filament through the filament feed tube until it reaches th
    :alt: Filament In Extruder
    :align: center
 
-The filament drive gear should push the filament down, into the nozzle, and out the other end. Once you see this, press NEXT on the screen, then press DONE.
+The filament drive gear should push the filament down into the hotend, and out of the nozzle. Once you see this, press NEXT on the screen, then press DONE.
 
 .. image:: images/fil-load-3-r2.gif
    :alt: Filament In Extruder
@@ -195,7 +193,7 @@ The filament drive gear should push the filament down, into the nozzle, and out 
 The test print
 ---------------
 
-To create your first test print Select FILES on the home screen. Then select a file to print from the list. Now, select START to print—and be sure to wait several seconds while Robo R2 prepares to print the file.
+To create your first test print select FILES on the home screen, then select a file to print from the list. Select START to print—and be sure to wait several seconds while Robo R2 prepares to print the file.
 
 .. image:: images/test-print-screen-r2.gif
    :alt: Select Files on Home Screen
@@ -215,8 +213,7 @@ When the test print is complete and cooled down, carefully remove the print bed 
 Using Hotspot Mode
 ---------------
 
-Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from Robo R2 in order to connect to it wirelessly from your smart device. To access Hotspot Mode, do the following:
-
+Your printer is capable of starting If no Wi-Fi signals are available for connection, you can use Hotspot Mode to emit a Wi-Fi signal from your R2 in order to connect to it wirelessly. To start Hotspot Mode, do the following:
 
    1. Select “Utilities” on the home screen of the Robo C2 touch screen
    2. Select “Network” from the list
