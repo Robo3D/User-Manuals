@@ -21,8 +21,7 @@ Happy Printing,
 Coby Kabili and Braydon Moreno, Robo Co-founders
 
 
-Make smarter with the Robo app
-=================================================
+**Make smarter with the Robo app**
 
 Simply download the free Robo app to experience the next level in 3D printing and get more out of everything you make.
 
@@ -34,8 +33,7 @@ Simply download the free Robo app to experience the next level in 3D printing an
    * Make in-app purchases (filaments, accessories, print kits and more)
 
 
-Logging into your Robo account
-=================================================
+**Logging into your Robo account**
 
 To enjoy the best possible Robo app experience, be sure to log into your Robo account. Logging into your account lets you do things like browse models from your cloud storage, and even post status updates via social media to show off all the cool stuff you’re making with Robo C2.
 
