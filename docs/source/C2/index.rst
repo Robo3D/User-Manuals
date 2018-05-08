@@ -15,6 +15,7 @@ Robo C2 Installation and User Manual
 
 .. toctree::
    :maxdepth: 2
+   
    safety/index.rst
    getting-started/index.rst
    operation/index.rst
